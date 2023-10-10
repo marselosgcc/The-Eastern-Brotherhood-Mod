@@ -1,0 +1,5 @@
+owner = EGY
+add_core = EGY
+add_core = EGY
+trade_goods = wool
+life_rating = 0

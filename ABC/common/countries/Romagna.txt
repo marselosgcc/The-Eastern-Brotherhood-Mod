@@ -1,0 +1,2 @@
+color = { 57 140 179 }
+graphical_culture = ItalianGC

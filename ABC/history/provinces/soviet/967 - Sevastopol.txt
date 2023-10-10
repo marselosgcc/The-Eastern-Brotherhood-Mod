@@ -1,0 +1,5 @@
+owner = CRI
+add_core = CRI
+add_core = CRI
+trade_goods = fish
+life_rating = 0

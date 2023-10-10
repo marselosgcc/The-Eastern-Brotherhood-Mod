@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = GER
+add_core = BEL
+trade_goods = timber
+life_rating = 0

@@ -1,0 +1,2 @@
+color = { 45 95 190 }
+graphical_culture = ChineseGC

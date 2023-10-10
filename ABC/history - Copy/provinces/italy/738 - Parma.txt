@@ -1,0 +1,4 @@
+owner = PAR
+controller = PAR
+trade_goods = iron
+life_rating = 35

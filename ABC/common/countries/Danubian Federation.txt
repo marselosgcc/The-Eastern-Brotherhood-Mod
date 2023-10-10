@@ -1,0 +1,2 @@
+color = { 232 75 56 }
+graphical_culture = AustriaHungaryGC

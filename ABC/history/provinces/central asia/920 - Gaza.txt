@@ -1,0 +1,5 @@
+owner = ISR
+add_core = ISR
+add_core = ISR
+trade_goods = grain
+life_rating = 0

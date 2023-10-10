@@ -1,0 +1,2 @@
+color = { 198 10  48 }
+graphical_culture = UsGC

@@ -1,0 +1,2 @@
+color = { 166  224  85 }
+graphical_culture = BritishGC

@@ -1,0 +1,2 @@
+color = { 231  181  12 }
+graphical_culture = SpanishGC

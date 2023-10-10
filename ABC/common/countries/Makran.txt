@@ -1,0 +1,2 @@
+color = { 219  146  162 }
+graphical_culture = IndianGC

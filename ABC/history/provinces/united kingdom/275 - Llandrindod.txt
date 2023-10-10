@@ -1,0 +1,5 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = sulphur
+life_rating = 0

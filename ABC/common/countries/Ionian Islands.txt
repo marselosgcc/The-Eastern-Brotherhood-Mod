@@ -1,0 +1,2 @@
+color = { 153  141  117 }
+graphical_culture = EuropeanGC

@@ -1,0 +1,5 @@
+owner = SYR
+add_core = SYR
+add_core = SYR
+trade_goods = timber
+life_rating = 0

@@ -1,0 +1,2 @@
+color = { 188  123  95 }
+graphical_culture = MoroccoGC

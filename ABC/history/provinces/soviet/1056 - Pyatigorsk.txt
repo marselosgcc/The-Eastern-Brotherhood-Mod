@@ -1,0 +1,5 @@
+owner = GEO
+add_core = GEO
+add_core = GEO
+trade_goods = grain
+life_rating = 0

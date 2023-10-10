@@ -1,0 +1,5 @@
+owner = ALB
+add_core = ALB
+add_core = ALB
+trade_goods = fish
+life_rating = 0

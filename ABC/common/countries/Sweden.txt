@@ -1,0 +1,2 @@
+color = { 87  130  199 }
+graphical_culture = SwedishGC

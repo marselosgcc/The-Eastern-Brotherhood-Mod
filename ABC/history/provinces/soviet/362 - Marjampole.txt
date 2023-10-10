@@ -1,0 +1,5 @@
+owner = LIT
+add_core = LIT
+add_core = LIT
+trade_goods = grain
+life_rating = 0

@@ -1,0 +1,2 @@
+color = { 251  251  221 }
+graphical_culture = RussianGC

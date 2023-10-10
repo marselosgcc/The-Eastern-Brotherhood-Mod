@@ -1,0 +1,2 @@
+color = { 168 255 249 }
+graphical_culture = FrenchGC

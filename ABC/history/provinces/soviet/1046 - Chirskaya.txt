@@ -1,0 +1,5 @@
+owner = TAR
+add_core = TAR
+add_core = TAR
+trade_goods = coal
+life_rating = 0

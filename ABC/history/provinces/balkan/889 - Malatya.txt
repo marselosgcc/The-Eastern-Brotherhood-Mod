@@ -1,0 +1,5 @@
+owner = TUR
+add_core = TUR
+add_core = TUR
+trade_goods = iron
+life_rating = 0

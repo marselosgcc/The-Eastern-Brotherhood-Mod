@@ -1,0 +1,2 @@
+color = { 169  196  59 }
+graphical_culture = RussianGC
