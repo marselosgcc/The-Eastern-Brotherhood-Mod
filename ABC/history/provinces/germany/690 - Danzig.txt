@@ -1,0 +1,5 @@
+owner = POL
+add_core = POL
+add_core = POL
+trade_goods = fish
+life_rating = 0

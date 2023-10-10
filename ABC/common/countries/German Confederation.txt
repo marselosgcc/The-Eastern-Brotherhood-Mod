@@ -1,0 +1,2 @@
+color = { 200 165 50 }
+graphical_culture = PrussianGC

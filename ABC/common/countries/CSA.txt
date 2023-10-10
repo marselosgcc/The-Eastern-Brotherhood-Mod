@@ -1,0 +1,2 @@
+color = { 190  186  202 }
+graphical_culture = ConfederateGC

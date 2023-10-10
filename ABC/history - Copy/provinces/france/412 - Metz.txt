@@ -1,0 +1,4 @@
+owner = FRA
+controller = FRA
+trade_goods = cattle
+life_rating = 31

@@ -1,0 +1,2 @@
+color = { 184 133 77 }
+graphical_culture = JapaneseGC

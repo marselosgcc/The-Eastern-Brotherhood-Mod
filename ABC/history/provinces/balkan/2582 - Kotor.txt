@@ -1,0 +1,5 @@
+owner = AUS
+add_core = AUS
+add_core = AUS
+trade_goods = fish
+life_rating = 0

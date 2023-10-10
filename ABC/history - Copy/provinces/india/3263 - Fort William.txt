@@ -1,0 +1,2 @@
+trade_goods = precious_goods
+life_rating = 35

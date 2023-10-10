@@ -1,0 +1,2 @@
+color = { 122 132 110}
+graphical_culture = Generic

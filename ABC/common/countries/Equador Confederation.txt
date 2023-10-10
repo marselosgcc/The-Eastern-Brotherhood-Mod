@@ -1,0 +1,2 @@
+color = { 30 90 220 }
+graphical_culture = SouthAmericanGC

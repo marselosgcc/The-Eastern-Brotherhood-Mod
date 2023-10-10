@@ -1,0 +1,4 @@
+owner = SAR
+controller = SAR
+trade_goods = fruit
+life_rating = 35

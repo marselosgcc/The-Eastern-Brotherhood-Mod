@@ -1,0 +1,4 @@
+owner = PAP
+controller = PAP
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,2 @@
+color = { 235  232  222 }
+graphical_culture = MiddleEasternGC

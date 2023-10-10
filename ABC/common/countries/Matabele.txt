@@ -1,0 +1,2 @@
+color = { 220  202  96 }
+graphical_culture = ZuluGC

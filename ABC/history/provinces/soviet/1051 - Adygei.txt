@@ -1,0 +1,5 @@
+owner = ABK
+add_core = ABK
+add_core = ABK
+trade_goods = grain
+life_rating = 0

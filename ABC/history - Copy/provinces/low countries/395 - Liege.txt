@@ -1,0 +1,4 @@
+owner = BEL
+controller = BEL
+trade_goods = iron
+life_rating = 35

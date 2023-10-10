@@ -1,0 +1,2 @@
+color = { 101 68 68 }
+graphical_culture = AfricanGC

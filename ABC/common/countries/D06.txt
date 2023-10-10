@@ -1,0 +1,2 @@
+color= { 195 149 155  }
+graphical_culture = EuropeanGC # inherit

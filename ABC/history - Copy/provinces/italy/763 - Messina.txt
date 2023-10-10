@@ -1,0 +1,4 @@
+owner = SIC
+controller = SIC
+trade_goods = sulphur
+life_rating = 40
