@@ -1,4 +1,0 @@
-owner = BEL
-controller = BEL
-trade_goods = sulphur
-life_rating = 35

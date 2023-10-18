@@ -1,4 +1,0 @@
-owner = LUC
-controller = LUC
-trade_goods = grain
-life_rating = 35

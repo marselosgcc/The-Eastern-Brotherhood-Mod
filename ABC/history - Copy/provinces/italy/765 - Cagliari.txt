@@ -1,4 +1,0 @@
-owner = SAR
-controller = SAR
-trade_goods = coal
-life_rating = 35

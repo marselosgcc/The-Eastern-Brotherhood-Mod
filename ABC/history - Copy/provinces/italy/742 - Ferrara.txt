@@ -1,4 +1,0 @@
-owner = PAP
-controller = PAP
-trade_goods = grain
-life_rating = 35

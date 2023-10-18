@@ -1,4 +1,0 @@
-owner = TUS
-controller = TUS
-trade_goods = grain
-life_rating = 35
