@@ -1,4 +1,0 @@
-owner = SMR
-controller = SMR
-trade_goods = wool
-life_rating = 35
