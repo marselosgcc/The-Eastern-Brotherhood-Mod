@@ -1,5 +1,5 @@
 owner = ALB
-add_core = ALB
+controller = ALB
 add_core = ALB
 trade_goods = cattle
 life_rating = 0

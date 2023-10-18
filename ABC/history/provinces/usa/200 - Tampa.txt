@@ -1,2 +1,5 @@
+owner = JDU
+controller = JDU
+add_core = JDU
 trade_goods = fruit
 life_rating = 0

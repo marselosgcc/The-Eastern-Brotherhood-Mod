@@ -1,2 +1,5 @@
+owner = UNM
+controller = UNM
+add_core = UNM
 trade_goods = fruit
 life_rating = 0

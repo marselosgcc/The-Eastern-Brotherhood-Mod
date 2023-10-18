@@ -1,5 +1,5 @@
 owner = SER
-add_core = SER
+controller = SER
 add_core = SER
 trade_goods = fruit
 life_rating = 0

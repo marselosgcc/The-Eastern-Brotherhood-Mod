@@ -1,2 +1,5 @@
+owner = KAZ
+controller = KAZ
+add_core = KAZ
 trade_goods = iron
 life_rating = 0

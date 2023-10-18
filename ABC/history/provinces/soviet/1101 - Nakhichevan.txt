@@ -1,5 +1,5 @@
 owner = ARM
-add_core = ARM
+controller = ARM
 add_core = ARM
 trade_goods = iron
 life_rating = 0

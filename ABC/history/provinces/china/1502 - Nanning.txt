@@ -1,2 +1,5 @@
+owner = YNN
+controller = YNN
+add_core = YNN
 trade_goods = fish
 life_rating = 0

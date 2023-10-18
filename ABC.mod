@@ -1,0 +1,6 @@
+name = "Meu Mod pre-alpha"
+path = "mod/ABC"
+user_dir = "ABC"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"

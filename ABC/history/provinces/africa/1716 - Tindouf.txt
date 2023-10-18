@@ -1,2 +1,5 @@
+owner = LUX
+controller = LUX
+add_core = LUX
 trade_goods = fruit
 life_rating = 0

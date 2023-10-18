@@ -1,2 +1,5 @@
+owner = COS
+controller = COS
+add_core = COS
 trade_goods = timber
 life_rating = 0
