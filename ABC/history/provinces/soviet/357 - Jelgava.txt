@@ -1,5 +1,5 @@
 owner = LIT
-add_core = LIT
+controller = LIT
 add_core = LIT
 trade_goods = cattle
 life_rating = 0

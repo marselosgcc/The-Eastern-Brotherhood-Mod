@@ -1,2 +1,5 @@
+owner = JAD
+controller = JAD
+add_core = JAD
 trade_goods = tobacco
 life_rating = 0

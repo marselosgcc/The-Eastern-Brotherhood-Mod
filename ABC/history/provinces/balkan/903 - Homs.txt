@@ -1,5 +1,5 @@
 owner = SYR
-add_core = SYR
+controller = SYR
 add_core = SYR
 trade_goods = grain
 life_rating = 0

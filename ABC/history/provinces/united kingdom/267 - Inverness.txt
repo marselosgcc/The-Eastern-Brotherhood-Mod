@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = SCO
+controller = SCO
+add_core = SCO
 trade_goods = sulphur
 life_rating = 0

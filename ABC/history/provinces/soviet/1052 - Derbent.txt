@@ -1,5 +1,5 @@
 owner = TAR
-add_core = TAR
+controller = TAR
 add_core = TAR
 trade_goods = fruit
 life_rating = 0

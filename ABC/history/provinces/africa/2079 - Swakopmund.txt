@@ -1,2 +1,5 @@
+owner = NMB
+controller = NMB
+add_core = NMB
 trade_goods = fish
 life_rating = 0

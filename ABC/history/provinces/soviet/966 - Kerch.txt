@@ -1,5 +1,5 @@
 owner = CRI
-add_core = CRI
+controller = CRI
 add_core = CRI
 trade_goods = iron
 life_rating = 0

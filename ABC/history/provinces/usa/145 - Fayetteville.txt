@@ -1,2 +1,5 @@
+owner = MRA
+controller = MRA
+add_core = MRA
 trade_goods = timber
 life_rating = 0
