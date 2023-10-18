@@ -1,25 +1,26 @@
 capital = 360
 primary_culture = lithuanian
+culture = byelorussian
 religion = catholic
-government = absolute_monarchy
+government = prussian_constitutionalism
 plurality = 0.2
-nationalvalue = nv_order
-literacy = 0.6
+nationalvalue = nv_liberty
+literacy = 0.1
 civilized = yes
 
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
+press_rights = censored_press
+trade_unions = non_socialist
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = non_secret_ballots
 
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = trinket_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
@@ -30,10 +31,10 @@ school_reforms = no_schools
 
 #New Reforms
 conscription = two_year_draft
-debt_law = peonage
+debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal
-citizens_rights = primary_culture_only
+citizens_rights = culture_voting_only
 border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
@@ -55,6 +56,3 @@ upper_house = {
 
 #Inventions
 }
-
-
-
