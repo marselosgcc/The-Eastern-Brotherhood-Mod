@@ -1,5 +1,5 @@
-owner = PAK
-controller = PAK
-add_core = PAK
+owner = BLC
+controller = BLC
+add_core = BLC
 trade_goods = coal
 life_rating = 0
