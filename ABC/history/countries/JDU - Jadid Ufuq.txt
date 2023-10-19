@@ -1,6 +1,6 @@
 capital = 60
-primary_culture = dixie
-culture = texan
+primary_culture = maghrebi
+culture = berber
 religion = sunni
 government = prussian_constitutionalism
 plurality = 25.1
