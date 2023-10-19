@@ -1,13 +1,13 @@
 capital = 1090
-primary_culture = georgian
+primary_culture = russian
 culture = armenian
-culture = russian
-religion = orthodox
-government = colonial_company
+culture = georgian
+religion = sunni
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
-literacy = 0.04
-non_state_culture_literacy = 0.02
+literacy = 0.25
+non_state_culture_literacy = 0.15
 civilized = yes
 prestige = 4
 
