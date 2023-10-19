@@ -1,2 +1,0 @@
-color = { 20 50 210 }
-graphical_culture = FrenchGC
