@@ -1,15 +1,16 @@
 capital = 619
 primary_culture = south_german
 culture = siebenburger
+culture = north_german
 religion = catholic
 government = absolute_monarchy
 plurality = 10.0
-nationalvalue = nv_autocracy
-literacy = 0.45
+nationalvalue = nv_liberty
+literacy = 0.67
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 70
+prestige = 125
 
 # Political reforms
 slavery = no_slavery
@@ -32,7 +33,7 @@ school_reforms = no_schools
 
 
 #New Reforms
-conscription = one_year_draft
+conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -67,8 +68,8 @@ decision = german_veneto
 ruling_party = AUS_conservative
 upper_house = {
 	fascist = 0
-	liberal = 25
-	conservative = 61
+	liberal = 55
+	conservative = 31
 	reactionary = 14
 	anarcho_liberal = 0
 	socialist = 0
