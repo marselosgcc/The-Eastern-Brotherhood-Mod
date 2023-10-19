@@ -3,7 +3,7 @@ primary_culture = native_american_minor
 religion = animist
 government = absolute_monarchy
 plurality = 5.0
-nationalvalue = nv_autocracy
+nationalvalue = nv_tradition 
 literacy = 0.10
 civilized = no
 
