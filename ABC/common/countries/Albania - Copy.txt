@@ -1,2 +1,0 @@
-color = { 181  72  106 }
-graphical_culture = EuropeanGC
