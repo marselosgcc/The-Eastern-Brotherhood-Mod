@@ -1,10 +1,10 @@
 capital = 2512
 primary_culture = french_australian
 religion = catholic
-government = hms_government
+government = colonial_company
 plurality = 0.88
 nationalvalue = nv_liberty
-literacy = 0.5
+literacy = 0.9
 civilized = yes
 
 
@@ -43,8 +43,8 @@ colonial_policy = no_colonies
 ruling_party = NWZ_conservative
 upper_house = {
 	fascist = 0
-	liberal = 30
-	conservative = 60
+	liberal = 70
+	conservative = 20
 	reactionary = 5
 	anarcho_liberal = 5
 	socialist = 0
