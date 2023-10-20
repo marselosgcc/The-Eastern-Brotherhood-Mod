@@ -1,5 +1,6 @@
 owner = TUS
 controller = TUS
+add_core = PAR
 add_core = TUS
 trade_goods = iron
 life_rating = 0
