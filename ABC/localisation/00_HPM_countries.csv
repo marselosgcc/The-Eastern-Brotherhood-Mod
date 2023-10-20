@@ -3273,3 +3273,63 @@ TIG_anarcho_liberal;Freedom Faction;Faction liberté;Freiheit Fraktion;;;;;;;;;;;
 TIG_socialist;Tigrayan People's Liberation Front;Front de libération du Tigrayienne populaire;Tigrayan Volksbefreiungsfront;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIG_communist;Tigrayan Communist Party;Tigrayienne Parti communiste;Tigrayan Kommunistischen Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ARK;Arkadia;;;;;;;;;;;;;x
+ARK_ADJ;Arkadian;;;;;;;;;;;;;x
+ARK_democracy;Arkadia;;;;;;;;;;;;;x
+ARK_presidential_dictatorship;Arkadia;;;;;;;;;;;;;x
+ARK_bourgeois_dictatorship;Arkadia;;;;;;;;;;;;;x
+ARK_absolute_monarchy;Kingdom of Arkadia;;;;;;;;;;;;;x
+ARK_prussian_constitutionalism;Kingdom of Arkadia;;;;;;;;;;;;;x
+ARK_hms_government;Kingdom of Arkadia;;;;;;;;;;;;;x
+ARK_fascist_dictatorship;Arkadian Brotherhood;;;;;;;;;;;;;x
+ARK_proletarian_dictatorship;Democratic People's Republic of Arkadia;;;;;;;;;;;;;x
+JAD;Jadwiga;;;;;;;;;;;;;x
+JAD_ADJ;Jadwigan;;;;;;;;;;;;;x
+JAD_democracy;Jadwiga;;;;;;;;;;;;;x
+JAD_presidential_dictatorship;Jadwiga;;;;;;;;;;;;;x
+JAD_bourgeois_dictatorship;Jadwiga;;;;;;;;;;;;;x
+JAD_absolute_monarchy;The New Kingdom of Poland;;;;;;;;;;;;;x
+JAD_prussian_constitutionalism;The New Kingdom of Poland;;;;;;;;;;;;;x
+JAD_hms_government;The New Kingdom of Poland;;;;;;;;;;;;;x
+JAD_fascist_dictatorship;Jadwiga;;;;;;;;;;;;;x
+JAD_proletarian_dictatorship;Democratic People's Republic of Jadwiga;;;;;;;;;;;;;x
+SIX;Sioux;;;;;;;;;;;;;x
+SIX_ADJ;Sioux;;;;;;;;;;;;;x
+SIX_democracy;Sioux Republic;;;;;;;;;;;;;x
+SIX_presidential_dictatorship;Sioux Republic;;;;;;;;;;;;;x
+SIX_bourgeois_dictatorship;Sioux Republic;;;;;;;;;;;;;x
+SIX_absolute_monarchy;The Great Sioux Nation;;;;;;;;;;;;;x
+SIX_prussian_constitutionalism;The Great Sioux Nation;;;;;;;;;;;;;x
+SIX_hms_government;The Great Sioux Nation;;;;;;;;;;;;;x
+SIX_fascist_dictatorship;The Sioux Front;;;;;;;;;;;;;x
+SIX_proletarian_dictatorship;The Sioux Union;;;;;;;;;;;;;x
+NEN;Haudenosaunee;;;;;;;;;;;;;x
+NEN_ADJ;Iroquoian;;;;;;;;;;;;;x
+NEN_democracy;Haudenosaunee;;;;;;;;;;;;;x
+NEN_presidential_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+NEN_bourgeois_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+NEN_absolute_monarchy;Iroquois Kingdom;;;;;;;;;;;;;x
+NEN_prussian_constitutionalism;Iroquois Kingdom;;;;;;;;;;;;;x
+NEN_hms_government;Iroquois Kingdom;;;;;;;;;;;;;x
+NEN_fascist_dictatorship;Haudenosaunee Front of Liberation;;;;;;;;;;;;;x
+NEN_proletarian_dictatorship;Six Nations Council;;;;;;;;;;;;;x
+MRA;Moravia Australis;;;;;;;;;;;;;x
+MRA_ADJ;Moravian;;;;;;;;;;;;;x
+MRA_democracy;Moravia Australis;;;;;;;;;;;;;x
+MRA_presidential_dictatorship;Moravia Australis;;;;;;;;;;;;;x
+MRA_bourgeois_dictatorship;Moravia Australis;;;;;;;;;;;;;x
+MRA_absolute_monarchy;Moravia Australis;;;;;;;;;;;;;x
+MRA_prussian_constitutionalism;Moravia Australis;;;;;;;;;;;;;x
+MRA_hms_government;Moravia Australis;;;;;;;;;;;;;x
+MRA_fascist_dictatorship;The New Moravian Kingdom;;;;;;;;;;;;;x
+MRA_proletarian_dictatorship;DPRMA;;;;;;;;;;;;;x
+JDU;Jadid Ufuq;;;;;;;;;;;;;x
+JDU_ADJ;Nufurizuntinu;;;;;;;;;;;;;x
+JDU_democracy;Jadid Ufuq;;;;;;;;;;;;;x
+JDU_presidential_dictatorship;Jadid Ufuq;;;;;;;;;;;;;x
+JDU_bourgeois_dictatorship;Jadid Ufuq;;;;;;;;;;;;;x
+JDU_absolute_monarchy;Emirate of Jadid Ufuq;;;;;;;;;;;;;x
+JDU_prussian_constitutionalism;Emirate of Jadid Ufuq;;;;;;;;;;;;;x
+JDU_hms_government;Emirate of Jadid Ufuq;;;;;;;;;;;;;x
+JDU_fascist_dictatorship;Jadid Ufuq Falange;;;;;;;;;;;;;x
+JDU_proletarian_dictatorship;Jadid Ufuq Popular Republic;;;;;;;;;;;;;x
