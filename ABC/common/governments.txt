@@ -161,3 +161,17 @@ french_bourbon = {
 	duration = 48
 	appoint_ruling_party = yes
 }
+pirate_government = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	communist = yes
+	anarcho_liberal = yes
+	fascist = yes
+	
+	
+	election = yes
+	duration = 120
+	appoint_ruling_party = yes
+	flagType = monarchy
+}
