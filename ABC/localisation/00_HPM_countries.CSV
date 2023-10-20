@@ -3333,14 +3333,14 @@ JDU_prussian_constitutionalism;Jadid Ufuq Emirate;;;;;;;;;;;;;x
 JDU_hms_government;Jadid Ufuq Emirate;;;;;;;;;;;;;x
 JDU_fascist_dictatorship;Jadid Ufuq Falange;;;;;;;;;;;;;x
 JDU_proletarian_dictatorship;Jadid Ufuq Popular Republic;;;;;;;;;;;;;x
-TUS;Nothern Italy;;;;;;;;;;;;;x
+TUS;Italian Confederacy;;;;;;;;;;;;;x
 TUS_ADJ;north italian;;;;;;;;;;;;;x
 TUS_democracy;Etruria;;;;;;;;;;;;;x
 TUS_presidential_dictatorship;Provisional Government of North Italy;;;;;;;;;;;;;x
 TUS_bourgeois_dictatorship;Revolutionary Italy;;;;;;;;;;;;;x
-TUS_absolute_monarchy;North Italy;;;;;;;;;;;;;x
-TUS_prussian_constitutionalism;North Italy;;;;;;;;;;;;;x
-TUS_hms_government;North Italy;;;;;;;;;;;;;x
+TUS_absolute_monarchy;Italian Confederacy;;;;;;;;;;;;;x
+TUS_prussian_constitutionalism;Italian Confederacy;;;;;;;;;;;;;x
+TUS_hms_government;Italian Confederacy;;;;;;;;;;;;;x
 TUS_fascist_dictatorship;Italian Social Republic;;;;;;;;;;;;;x
 TUS_proletarian_dictatorship;Tuscany Soviet Republic;;;;;;;;;;;;;x
 SIC;Naples;;;;;;;;;;;;;x
@@ -3348,8 +3348,8 @@ SIC_ADJ;Neapolitan;;;;;;;;;;;;;x
 SIC_democracy;Naples;;;;;;;;;;;;;x
 SIC_presidential_dictatorship;Naples;;;;;;;;;;;;;x
 SIC_bourgeois_dictatorship;Naples;;;;;;;;;;;;;x
-SIC_absolute_monarchy;Naples Emirate;;;;;;;;;;;;;x
-SIC_prussian_constitutionalism;Naples Emirate;;;;;;;;;;;;;x
-SIC_hms_government;Naples Emirate;;;;;;;;;;;;;x
+SIC_absolute_monarchy;Kingdom of Naples;;;;;;;;;;;;;x
+SIC_prussian_constitutionalism;Kingdom of Naples;;;;;;;;;;;;;x
+SIC_hms_government;Kingdom of Naples;;;;;;;;;;;;;x
 SIC_fascist_dictatorship;Social Republic of Naples;;;;;;;;;;;;;x
 SIC_proletarian_dictatorship;Naples Popular Republic;;;;;;;;;;;;;x
