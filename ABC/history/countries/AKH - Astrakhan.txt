@@ -1,7 +1,7 @@
 capital = 1036
 primary_culture = tatar
 religion = sunni
-government = absolute_monarchy
+government = prussian_constitutionalism
 plurality = 0.02
 nationalvalue = nv_order
 literacy = 0.1
@@ -26,7 +26,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = one_year_draft
+conscription = four_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -36,7 +36,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = AKH_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 13

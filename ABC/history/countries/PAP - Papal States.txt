@@ -4,7 +4,7 @@ culture = north_italian
 religion = catholic
 government = theocracy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_equality
 literacy = 0.15
 non_state_culture_literacy = 0.2
 civilized = yes
@@ -42,7 +42,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = PAP_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 10

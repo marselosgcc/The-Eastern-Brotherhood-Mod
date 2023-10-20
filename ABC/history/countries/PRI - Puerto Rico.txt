@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = PRI_liberal
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 1
 	liberal = 49

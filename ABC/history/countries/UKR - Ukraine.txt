@@ -39,7 +39,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 
-ruling_party = UKR_conservative
+ruling_party = generic_liberal
 upper_house = {
 	fascist = 0
 	liberal = 45

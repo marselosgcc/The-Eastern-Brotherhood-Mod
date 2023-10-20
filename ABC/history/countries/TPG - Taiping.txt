@@ -1,7 +1,6 @@
 capital = 2221
 primary_culture = hakka
 culture = nanfaren
-culture = beifaren
 culture = yue
 culture = min
 religion = protestant
@@ -42,7 +41,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = TPG_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0

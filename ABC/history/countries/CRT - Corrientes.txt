@@ -41,7 +41,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = ENT_conservative_2
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 31

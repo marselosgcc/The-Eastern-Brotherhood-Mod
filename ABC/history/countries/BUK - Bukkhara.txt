@@ -1,6 +1,6 @@
 capital = 1198
 primary_culture = uzbek
-religion = sunni
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -35,7 +35,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = BUK_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 13

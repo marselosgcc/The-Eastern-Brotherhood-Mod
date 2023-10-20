@@ -42,7 +42,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = HED_reactionary
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 35

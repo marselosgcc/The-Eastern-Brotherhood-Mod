@@ -5,7 +5,7 @@ culture = scottish
 religion = protestant
 government = hms_government
 plurality = 30
-nationalvalue = nv_order
+nationalvalue = nv_productivity 
 literacy = 0.6
 civilized = yes
 
@@ -87,7 +87,7 @@ precision_work = yes
 
 # Starting Consciousness
 
-ruling_party = ENG_liberal
+ruling_party = generic_liberal
 last_election = 1835.2.19
 upper_house = {
 	fascist = 0

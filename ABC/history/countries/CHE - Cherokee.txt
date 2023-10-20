@@ -7,7 +7,7 @@ nationalvalue = nv_liberty
 literacy = 0.50
 civilized = yes
 
-ruling_party = CHE_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 26

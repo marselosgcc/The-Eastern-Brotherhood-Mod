@@ -76,7 +76,7 @@ high_pressure_steam_engine = 1
 puddling = 1
 
 
-ruling_party = FRA_conservative
+ruling_party = generic_fascist
 upper_house = {
 	fascist = 1
 	liberal = 49

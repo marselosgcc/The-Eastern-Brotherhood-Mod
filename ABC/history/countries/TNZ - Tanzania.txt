@@ -45,7 +45,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = TNZ_communist
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 16

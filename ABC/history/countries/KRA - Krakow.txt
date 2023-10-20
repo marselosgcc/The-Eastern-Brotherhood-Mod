@@ -40,7 +40,7 @@ colonial_policy = no_colonies
 
 decision = polish_renamed_galicia
 
-ruling_party = KRA_conservative
+ruling_party = generic_conservative
 last_election = 1836.1.1
 upper_house = {
 	fascist = 0

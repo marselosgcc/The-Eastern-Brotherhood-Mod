@@ -41,7 +41,7 @@ colonial_policy = no_colonies
 #bottling_process = yes
 modern_winemaking = yes
 
-ruling_party = BNG_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 11

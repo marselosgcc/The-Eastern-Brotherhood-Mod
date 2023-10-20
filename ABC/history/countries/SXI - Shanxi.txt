@@ -7,7 +7,7 @@ nationalvalue = nv_tradition
 literacy = 0.04
 non_state_culture_literacy = 0.02
 
-ruling_party = SXI_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 10

@@ -42,7 +42,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = ANG_communist
+ruling_party = generic_communist
 upper_house = {
 	fascist = 0
 	liberal = 18

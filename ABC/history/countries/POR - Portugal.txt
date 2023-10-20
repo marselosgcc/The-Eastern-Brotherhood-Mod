@@ -41,7 +41,7 @@ centralization = unitary
 colonial_policy = civilizing
 
 
-ruling_party = POR_liberal
+ruling_party = generic_conservative
 last_election = 1834.1.1
 upper_house = {
 	fascist = 0

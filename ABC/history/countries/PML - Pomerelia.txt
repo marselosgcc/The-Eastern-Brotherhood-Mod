@@ -43,7 +43,7 @@ govt_flag = {
 	flag = democracy
 }
 
-ruling_party = POL_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 36

@@ -3,7 +3,7 @@ primary_culture = armenian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_equality
 literacy = 0.1
 civilized = yes
 
@@ -39,7 +39,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = ARM_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 16

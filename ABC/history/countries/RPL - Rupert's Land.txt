@@ -47,7 +47,7 @@ govt_flag = {
 	flag = democracy
 }
 
-ruling_party = EIC_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 32

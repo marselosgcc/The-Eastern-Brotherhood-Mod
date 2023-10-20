@@ -42,7 +42,7 @@ centralization = regionalism
 colonial_policy = settlement 
 
 
-ruling_party = TUR_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 25

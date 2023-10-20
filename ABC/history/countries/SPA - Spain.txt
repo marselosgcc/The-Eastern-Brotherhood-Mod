@@ -45,7 +45,7 @@ centralization = regionalism
 colonial_policy = civilizing
 
 
-ruling_party = SPA_conservative
+ruling_party = generic_reactionary
 last_election = 1834.1.1
 upper_house = {
 	fascist = 0

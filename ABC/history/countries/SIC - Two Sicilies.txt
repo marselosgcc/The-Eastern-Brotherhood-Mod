@@ -45,7 +45,7 @@ govt_flag = {
 	flag = theocracy
 }
 
-ruling_party = SIC_reactionary
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 0

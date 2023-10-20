@@ -38,7 +38,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 
-ruling_party = JAP_reactionary
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 17

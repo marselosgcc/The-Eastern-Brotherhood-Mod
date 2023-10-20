@@ -39,7 +39,7 @@ centralization = federalism
 colonial_policy = no_colonies 
 
 
-ruling_party = GCO_liberal
+ruling_party = generic_conservative
 last_election = 1832.3.10
 upper_house = {
 	fascist = 0

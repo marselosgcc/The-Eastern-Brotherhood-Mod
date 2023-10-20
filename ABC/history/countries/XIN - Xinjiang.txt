@@ -1,7 +1,7 @@
 capital = 1600
-primary_culture = beifaren
+primary_culture = hanhui
 culture = uighur
-culture = hanhui
+culture = beifaren
 religion = mahayana
 government = colonial_company
 plurality = 0.0
@@ -38,7 +38,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = XIN_reactionary_2
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 10

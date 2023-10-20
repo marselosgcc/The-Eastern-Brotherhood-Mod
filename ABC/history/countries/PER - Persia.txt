@@ -2,12 +2,12 @@ capital = 1121
 primary_culture = persian
 culture = azerbaijani
 culture = hazara
-religion = shiite
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.03
-non_state_culture_literacy = 0.01
+nationalvalue = nv_productivity 
+literacy = 0.21
+non_state_culture_literacy = 0.09
 
 # Political reforms
 slavery = yes_slavery
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-ruling_party = PER_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 12

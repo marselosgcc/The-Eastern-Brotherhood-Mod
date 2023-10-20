@@ -15,7 +15,7 @@ prestige = 45
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = universal_weighted_voting
+vote_franschise = landed_voting 
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = all_trade_unions
@@ -42,7 +42,7 @@ centralization = regionalism
 colonial_policy = settlement
 
 
-ruling_party = USA_conservative
+ruling_party = generic_liberal
 last_election = 1832.5.3
 upper_house = {
 	fascist = 0

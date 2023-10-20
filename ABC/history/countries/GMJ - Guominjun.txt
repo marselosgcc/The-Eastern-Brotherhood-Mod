@@ -38,7 +38,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 
-ruling_party = GMJ_socialist
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 5

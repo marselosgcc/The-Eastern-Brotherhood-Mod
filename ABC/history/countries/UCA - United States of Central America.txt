@@ -39,7 +39,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 
-ruling_party = UCA_liberal
+ruling_party = generic_liberal
 last_election = 1835.2.14
 upper_house = {
 	fascist = 0

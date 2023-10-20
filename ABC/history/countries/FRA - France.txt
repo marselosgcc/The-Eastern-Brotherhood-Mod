@@ -87,7 +87,7 @@ gendarmerie = yes
 
 # Starting Consciousness
 
-ruling_party = FRA_conservative
+ruling_party = generic_reactionary
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0

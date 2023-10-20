@@ -36,7 +36,7 @@ centralization = federalism
 colonial_policy = no_colonies 
 
 
-ruling_party = KOR_conservative_2
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 18

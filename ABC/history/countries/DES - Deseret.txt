@@ -40,7 +40,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 
-ruling_party = DES_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15

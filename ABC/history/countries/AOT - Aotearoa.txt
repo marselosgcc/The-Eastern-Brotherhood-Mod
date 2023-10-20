@@ -38,7 +38,7 @@ centralization = regionalism
 colonial_policy = no_colonies 
 
 
-ruling_party = AOT_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 17

@@ -45,7 +45,7 @@ colonial_policy = no_colonies
 	#flag = theocracy
 #}
 
-ruling_party = SWE_conservative
+ruling_party = generic_conservative
 last_election = 1833.1.1
 upper_house = {
 	fascist = 0

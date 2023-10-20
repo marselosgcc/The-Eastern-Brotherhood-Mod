@@ -55,7 +55,7 @@ govt_flag = {
 	flag = theocracy
 }
 
-ruling_party = CNG_reactionary
+ruling_party = generic_reactionary
 
 upper_house = {
 	fascist = 0
