@@ -2,7 +2,7 @@ capital = 1602
 primary_culture = nanfaren
 culture = hanhui
 religion = mahayana
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
@@ -37,7 +37,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = YNN_reactionary_2
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 10
