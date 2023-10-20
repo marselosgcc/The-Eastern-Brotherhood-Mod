@@ -3333,3 +3333,13 @@ JDU_prussian_constitutionalism;Jadid Ufuq Emirate;;;;;;;;;;;;;x
 JDU_hms_government;Jadid Ufuq Emirate;;;;;;;;;;;;;x
 JDU_fascist_dictatorship;Jadid Ufuq Falange;;;;;;;;;;;;;x
 JDU_proletarian_dictatorship;Jadid Ufuq Popular Republic;;;;;;;;;;;;;x
+SIC;Naples;;;;;;;;;;;;;x
+SIC_ADJ;Neapolitan;;;;;;;;;;;;;x
+SIC_democracy;Naples;;;;;;;;;;;;;x
+SIC_presidential_dictatorship;Naples;;;;;;;;;;;;;x
+SIC_bourgeois_dictatorship;Naples;;;;;;;;;;;;;x
+SIC_absolute_monarchy;Kingdom of Naples;;;;;;;;;;;;;x
+SIC_prussian_constitutionalism;Kingdom of Naples;;;;;;;;;;;;;x
+SIC_hms_government;Kingdom of Naples;;;;;;;;;;;;;x
+SIC_fascist_dictatorship;Naples;;;;;;;;;;;;;x
+SIC_proletarian_dictatorship;Naples Popular Republic;;;;;;;;;;;;;x
