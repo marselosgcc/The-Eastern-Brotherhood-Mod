@@ -1,13 +1,14 @@
 capital = 1745
 primary_culture = misri
 culture = mashriqi
+culture = sudanese
 culture = bedouin
 religion = sunni
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
+literacy = 0.25
+non_state_culture_literacy = 0.09
 is_releasable_vassal = no
 
 # Political reforms
@@ -31,7 +32,7 @@ school_reforms = no_schools
 
 # New Reforms
 conscription = four_year_draft
-debt_law = peonage
+debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
@@ -43,9 +44,9 @@ colonial_policy = no_colonies
 ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
-	liberal = 10
-	conservative = 72
-	reactionary = 18
+	liberal = 20
+	conservative = 42
+	reactionary = 38
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
