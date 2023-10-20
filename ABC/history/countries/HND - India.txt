@@ -17,7 +17,7 @@ plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.02
 
-ruling_party = HND_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 11

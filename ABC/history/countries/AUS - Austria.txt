@@ -66,7 +66,7 @@ decision = dalmatia_rename_aus
 decision = german_lombardy
 decision = german_veneto
 
-ruling_party = AUS_conservative
+ruling_party = generic_liberal
 upper_house = {
 	fascist = 0
 	liberal = 55

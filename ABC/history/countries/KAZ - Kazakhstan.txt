@@ -1,6 +1,6 @@
 capital = 1181
 primary_culture = kazak
-religion = sunni
+religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -39,7 +39,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = KAZ_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 13

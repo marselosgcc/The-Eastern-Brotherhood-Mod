@@ -37,7 +37,7 @@ centralization = federalism
 colonial_policy = no_colonies 
 
 
-ruling_party = ABU_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 10

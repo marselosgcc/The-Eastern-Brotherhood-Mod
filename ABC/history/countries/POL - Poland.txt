@@ -39,12 +39,12 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = POL_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 16
-	conservative = 50
-	reactionary = 22
+	conservative = 30
+	reactionary = 42
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

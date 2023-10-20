@@ -1,13 +1,13 @@
 capital = 967
-primary_culture = tatar
-religion = sunni
+primary_culture = british
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.02
-nationalvalue = nv_order
+nationalvalue = nv_productivity 
 literacy = 0.1
 civilized = yes
 
-ruling_party = CRI_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 13

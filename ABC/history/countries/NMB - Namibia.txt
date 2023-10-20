@@ -47,7 +47,7 @@ govt_flag = {
 	flag = theocracy
 }
 
-ruling_party = NMB_communist
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15

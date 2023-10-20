@@ -41,7 +41,7 @@ centralization = confederalism
 colonial_policy = no_colonies 
 
 
-ruling_party = SWI_conservative
+ruling_party = generic_conservative
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0

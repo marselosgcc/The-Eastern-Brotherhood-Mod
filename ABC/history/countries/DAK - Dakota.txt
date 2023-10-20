@@ -1,6 +1,5 @@
 capital = 119
-primary_culture = yankee
-culture = dakota
+primary_culture = dakota
 culture = native_american_minor
 religion = protestant
 government = democracy
@@ -40,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = DAK_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 32

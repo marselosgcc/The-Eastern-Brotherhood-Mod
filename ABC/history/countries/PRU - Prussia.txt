@@ -50,7 +50,7 @@ decision = silesia_rename_german
 decision = west_prussia_rename_german
 decision = posen_rename_german
 
-ruling_party = PRU_conservative_2
+ruling_party = generic_liberal
 upper_house = {
 	fascist = 0
 	liberal = 35

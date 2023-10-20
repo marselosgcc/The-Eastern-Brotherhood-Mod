@@ -42,7 +42,7 @@ colonial_policy = no_colonies
 
 decision = swh_rename
 
-ruling_party = SWH_conservative_2
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 19

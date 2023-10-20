@@ -37,7 +37,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 
-ruling_party = CMR_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 16

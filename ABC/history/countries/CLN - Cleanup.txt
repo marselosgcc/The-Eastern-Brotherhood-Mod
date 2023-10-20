@@ -30,7 +30,7 @@ border_policy = open_borders
 
 
 
-ruling_party = ENG_conservative
+ruling_party = generic_conservative
 upper_house = { # inherit
     fascist = 0
     liberal = 25

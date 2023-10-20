@@ -53,7 +53,7 @@ admin_reform = yes_admin_reform
 finance_reform = yes_finance_reform
 transport_improv = yes_transport_improv
 
-ruling_party = EIC_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 33

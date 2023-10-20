@@ -3,7 +3,7 @@ primary_culture = irish
 religion = catholic
 government = hms_government
 plurality = 0.1
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.55
 civilized = yes
 
@@ -42,7 +42,7 @@ govt_flag = {
 	flag = democracy
 }
 
-ruling_party = IRE_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 15

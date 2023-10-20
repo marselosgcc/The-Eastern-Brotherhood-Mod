@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-ruling_party = SAA_conservative_2
+ruling_party = generic_conservative
 
 upper_house = {
 	fascist = 0

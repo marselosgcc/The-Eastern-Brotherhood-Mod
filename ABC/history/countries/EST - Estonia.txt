@@ -3,7 +3,7 @@ primary_culture = estonian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.2
-nationalvalue = nv_order
+nationalvalue = nv_equality
 literacy = 0.6
 civilized = yes
 
@@ -38,7 +38,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = EST_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
