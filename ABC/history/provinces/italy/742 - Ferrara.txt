@@ -1,5 +1,6 @@
 owner = TUS
 controller = TUS
 add_core = TUS
+add_core = MOD
 trade_goods = grain
 life_rating = 0
