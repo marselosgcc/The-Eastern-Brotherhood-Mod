@@ -11,13 +11,13 @@ civilized = yes
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = universal_weighted_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = free_press
-trade_unions = all_trade_unions
+press_rights = state_press
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = gerrymandering
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
