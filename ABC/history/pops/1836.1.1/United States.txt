@@ -3573,85 +3573,85 @@
 #Baton Rouge (72000/18000 POPS)
 140 = {
 	aristocrats = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	officers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 45
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 4430
 	}
 
 	aristocrats = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 30
 	}
 
 	clergymen = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 2470
 	}
@@ -3675,7 +3675,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 9875
 	}
@@ -3683,55 +3683,55 @@
 #Lake Charles (36000/9000 POPS)
 141 = {
 	aristocrats = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 175
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 1025
 	}
 
 	clergymen = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 55
 	}
 
 	soldiers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 3525
 	}
@@ -3755,7 +3755,7 @@
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 4900
 	}
@@ -3763,190 +3763,190 @@
 #Shreveport (44000/11000 POPS)
 142 = {
 	aristocrats = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 125
 	}
 
 	farmers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 3050
 	}
 	
 	clergymen = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 75
 	}
 	
 	farmers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 1550
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 5875
 	}
 }
 #Arkansas Region (88000)
-#ruled by USA in 1836
+#ruled by MRA in 1836
 #Little Rock (56000/14000 POPS)
 143 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 400
+		culture = jugmoravian
+		religion = catholic
+		size = 4000
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 9150
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = catholic
 		size = 135
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
 		size = 15
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = catholic
 		size = 3800
 	}
 }
 #Hot Springs (16000/4000 POPS)
 144 = {
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 3675
 	}
 }
 #Fayetteville (16000/4000 POPS)
 145 = {
 	clergymen = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jugmoravian
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 3675
 	}
 }
@@ -7100,184 +7100,184 @@
 	}
 }
 #Mississippi Region (340000)
-#ruled by the USA
+#ruled by the MRA
 #Jackson (164000/41000 POPS)
 192 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 525
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 125
 	}
 
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 1650
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 20050
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = catholic
 		size = 17650
 	}
 }
 #Vicksburg (100000/25000 POPS)
 193 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 350
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 9325
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 13700
 	}
 }
 #Biloxi (76000/19000 POPS)
 194 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 250
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 800
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 7675
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 9800
 	}
 }
