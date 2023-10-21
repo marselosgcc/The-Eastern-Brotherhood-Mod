@@ -3141,7 +3141,7 @@ american_slavic = {
     	first_names = { Alexander Andrei Bohdan Dmitri Daria Elena Igor Ivan Kateryna Maria Mykola Natalia Olga Oksana Pavel Svetlana Taras Uliana Vasyl Vladimir Yana Yelena Yuriy Zinaida Antonina Boris Daniil Ekaterina Evgeniia Fedor Galina Igor Irina Ivan Katya Konstantin Larisa Ludmila Maksim Nadezhda Nikolai Olga Oleg Svetlana Tatiana Tatiana Vadim Valentina Valentin Viktor Yana Yelena Yuri Zinaida }
 	 
         last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov Antonov Borisov Galinov Ivanov Kozlov Maksimov Petrov Suvorov }
-
+    }
 anglo_saxon = {
 	leader = BritishGCc
 	criemisc = {
@@ -3150,12 +3150,11 @@ anglo_saxon = {
 
 		last_names = { Aikenovich Aslamov Bagautdinov Danilov Fedorov Ivanov Karimov Mirzaev Mustafin Petrov Smirnov Sultanov Turganov Umarov Volkov Yakubov Yermakov Zaitsev Bulatov Chingisov Ismailov Kadyrov Magomedov Sabirov Tatarinov Zainullin ?theling Cerdicing Icling Offling Suthing Wuffing }
 
-		radicalism = 10
 	}
 	aenglisc = {
 	color = { 255 80 90}
 		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ethelwulf Godwine Harold Leofric Oswulf ?thelstan ?lfhere ?lfric ?thelmaer ?thelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
 
 	    last_names = { Aiken Aslam Bagaut Danil Fedor Ivan Karim Mirz Mustaf Petrov Smirn Sult Turgan Umar Volkov Yakub Yermak Zaitsev }
-	    radicalism = 10
     }
+}
