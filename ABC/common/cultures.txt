@@ -2052,6 +2052,13 @@ native_american = {
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
 		}
 	}
+	iroquois = {
+		color = {122 164 175}
+		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez Atotarho Canastota Ganeodiyo Hengah Geiogon Iatiku Jikonsaseka Katenies Keghsogwa Tawiskaron Tehanenita Thayendanegea Tsohahisenhawe Yahatase Yonsakar Yoskeha 
+		}
+		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton Armstrong Canastota Ganio Geiogon Heenon Kanagario Kanasarake Keghsogwa Ohyi Otsitsakaon Tahanienta Yonsakar
+		}
+	}
 }
 
 american_cultures = {
