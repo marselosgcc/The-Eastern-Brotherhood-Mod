@@ -1,5 +1,0 @@
-owner = TUS
-controller = TUS
-add_core = TUS
-trade_goods = fruit
-life_rating = 0

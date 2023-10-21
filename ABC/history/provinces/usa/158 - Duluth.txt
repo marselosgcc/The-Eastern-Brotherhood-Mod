@@ -1,5 +1,0 @@
-owner = SIX
-controller = SIX
-add_core = SIX
-trade_goods = fish
-life_rating = 0

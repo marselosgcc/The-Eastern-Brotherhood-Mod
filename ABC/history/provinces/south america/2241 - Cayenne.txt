@@ -1,4 +1,0 @@
-owner = TUS
-controller = TUS
-trade_goods = timber
-life_rating = 0

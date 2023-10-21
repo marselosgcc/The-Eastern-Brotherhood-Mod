@@ -1,5 +1,0 @@
-owner = BLC
-controller = BLC
-add_core = BLC
-trade_goods = iron
-life_rating = 0

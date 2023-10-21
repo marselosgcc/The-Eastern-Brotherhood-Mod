@@ -1,5 +1,0 @@
-owner = HAN
-controller = HAN
-add_core = HAN
-trade_goods = fish
-life_rating = 0
