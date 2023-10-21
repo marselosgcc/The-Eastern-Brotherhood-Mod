@@ -263,22 +263,6 @@ pan_swiss = {
 scandinavian = {
 	leader = european
 	unit = SwedishGC
-	british = {
-		color = { 207 20 43}
-		first_names = { Aethelred Beornwulf Cenred Colin Cyril Eadric Ealdred Ecgberht Ecgfrith
-	    Egbert Erik Ethelwulf Godwine Harold Hrothgar Leofric Oswulf Seaxberht
-	    Sigurd Wulfstan Aelfric Aethelbert Aethelwold Alaric Baldwin Bjorn Caedmon Cedric
-	    Clifford Dafydd Edred Edmund Eldric Finn Fyodor Gerulf Gunnar Haakon
-	    Ivar Joar Leif Lucian Morcar Ragnar Sven Thrain }
-		
-		last_names = { Aethelstan Aelfric Beornwulf Cyneheard Colinsson Cyrilsson Eadberht Ecgberht
-	    Eadric Edmund Egbert Eriksson Ethelred Godwin Haroldsson Hrothgarsson Leofric Oswulf
-	    Sigurdsson Wulfstan Aethelric Aethelwald Baldwinsson Bjornsson Caedmonsson Cedricsson
-	    Cliffordsson Dafyddsson Edredsson Edmundsson Eldricsson Finnsson Fyodorsson Gerulfsson
-	    Gunnarsson Haakonsson Ivarsson Joarsson Leifsson Cockburn Luciansson Morcarsson Ragnarsson
-	    Svennsson Thrainsson "af Fairhair" "af Siguroarson" "af Haakonarson" "af Leifsson"
-	    "af Gunnarsson" "af Bjornsson" "af Ivarsson" "af Olafsson" "af Eriksson"
-	    "af Haraldsson" "af Ragnorsson" }
 	swedish = { 
 		color = { 20 40 160}
 		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
@@ -332,11 +316,6 @@ scandinavian = {
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 		radicalism = 5
 	}
-	ugrian = {  
-		color = {60 160 160}
-		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
-		last_names = { Kokko Likhachev Mamin Minin Sibiriak Tikhanov Zubov }
-	}
 	sami = {
 		color = { 60 180 110}
 		first_names = {
@@ -350,20 +329,32 @@ scandinavian = {
 
 british = {
 	leader = european
-	unit = BritishGCc
+	unit = BritishGC
+	british = {
+		color = { 207 20 43}
+		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
+		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
+		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		
+		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
+		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
+		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
+		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
+		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 	irish = { 
 		color = { 35 140 50}
 		radicalism = 15
 		primary = IRE
-		first_names = { Alexander Artúr Brian Cathal Christopher Con Domhnall Dubhghall Éamon Eadbhard
-	    Edward Énrí Fionán Proinnsias Séamus Sean Tomás Uilliam Ailbhe Alastar Branach Breandán Caoilte
-	    Cian Colm Conchúr Cormac Diarmuid Dónal Eoghan Fearghal Fiachra Gréagóir Lugh Máirtín Mícheál
-	    Pádraig Rónán Ruairí Seán Síomón Tadhg Ultán }
-
-        last_names = { Aiken "mac Taidg Mór" Breen "mac Aenghusa" "mac Brian Bóruma" Mac Brua "mac Canannáin" Mac Connalaigh "mac Diarmada" Mac Coilín Conallach Cosgrave Craig "mac Lachlainn" Mac Dhéil "mac Dubhsláine" "mac Duinnshléibhe" "mac Fhearghusa" "mac Fhearadhaigh" FitzGerald "mac Giolla Chomgaill" Mac Raghnaill "mac Gormáin" Ceallach Lorcán "mac Muireadhaigh" "mac Mhaoláin" "mac Neill" "mac Diarmada" "mac Dhomhnaill" Ó Briain Ó Conchobhair Ó Dochartaigh Ó hUiginn Ó Laoghaire Ó Mearáin
-	    Pearse Plunkett Fionn Mac Ailbhe Mac Alastair Mac Branach Mac Breandán Mac Caoilte Mac Cian Mac Colm Mac Conchúr Mac Cormac Mac Diarmuid Mac Dónal Mac Eoghan Mac Fearghal Mac Fiachra Mac Gréagóir Mac Lugh Mac Máirtín Mac Mícheál Mac Pádraig Mac Rónán Mac Ruairí Mac Síomón Mac Tadhg Mac Ultán }
-
+		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
+		Edward Ernes Fionán Frank George Harry Jack James John Joseph
+		Kevin Liam Michael Patrick Peter Richard Robert Séan Thomas William }
+		
+		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
+		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
+		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
 	}
 	scottish = { 
 		color = { 0 71 182 }
@@ -460,7 +451,7 @@ iberian = {
 		color = {170 200 40}
 		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
 		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando Federico Felipe Félix Fernando Francisco
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
 		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
 		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
 		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
@@ -862,6 +853,11 @@ east_slavic = {
 							Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
 			radicalism = 10
         }
+	ugrian = {  
+		color = {60 160 160}
+		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
+		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
+	}
 }
 
 baltic = {
@@ -915,7 +911,7 @@ baltic = {
 		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
 		}
 	}
-	union = UBD
+
 }
 
 levantine = {
@@ -1737,24 +1733,7 @@ southeast_asian = {
 		}
 	}
 }
-anglo_saxon = {
-	leader = BritishGCc
-	criemisc = {
-	color = {207 45 43}
-		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ecgfrith Ethelwulf Godwine Harold Leofric Oswulf Æthelstan Ælfhere Ælfric Æthelmaer Æthelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
 
-		last_names = { Aikenovich Aslamov Bagautdinov Danilov Fedorov Ivanov Karimov Mirzaev Mustafin Petrov Smirnov Sultanov Turganov Umarov Volkov Yakubov Yermakov Zaitsev Bulatov Chingisov Ismailov Kadyrov Magomedov Sabirov Tatarinov Zainullin Ætheling Cerdicing Icling Offling Suthing Wuffing }
-
-		radicalism = 10
-	}
-	aenglisc = {
-	color = {255 80 90}
-		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ethelwulf Godwine Harold Leofric Oswulf Æthelstan Ælfhere Ælfric Æthelmaer Æthelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
-
-	    last_names = { Aiken Aslam Bagaut Danil Fedor Ivan Karim Mirz Mustaf Petrov Smirn Sult Turgan Umar Volkov Yakub Yermak Zaitsev }
-	    radicalism = 10
-    }
-}
 east_asian = {
 	leader = asian
 	unit = ChineseGC
@@ -2397,12 +2376,6 @@ african_diaspora_cultures = {
 			Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
 			Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
 			Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
-	}
-	afro_slavic = {
-		color = {160 100 20}
-		first_names = { Amina Ayodele Chika Chinedu Fatouma Ifeoma Kofi Kwame Nia Olatunji Sadio Tunde Yaa Zola}
-		
-		last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov Antonov Borisov Galinov Ivanov Kozlov Maksimov Petrov Suvorov Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel }
 	}
 	kreol = { 
 		color = { 63 32 10 }
@@ -3122,30 +3095,3 @@ southern_african = {
 		}
 	}
 }
-american_slavic = {
-    leader = european
-	unit = RussianGC
-}
-
-    jadwigan = {
-    	color = {1 221 120} 
-    	first_names = { Adam Agnieszka Andrzej Anna Barbara Bartosz Elzbieta Grzegorz Irena Jakub Joanna Katarzyna Krzysztof Magdalena Marek Marcin Maria Piotr Renata Stanislaw Teresa Tomasz Weronika }
-	
-    	last_names = { Kowalski Nowak Wojcik "Wisniowiecki" Wozniak Dabrowski Mazur Jankowski Nowakowski Szymanski Wozniak Lasky "Piast" Goldstein Bernstein Rosenbaum Epstein Schwartzman Abramovich Kaganovich }
-    }
-
-    jugmoravian = {
-    	color = {134, 221 120}  
-    	first_names = { Adam Adriana Andrej Antonija Blanka Danijel Ela Filip Helena Igor Jana Karolina Luka Magdalena Miroslav Nikolina Petra Radek Sára Tereza Václav Zuzana }
-	
-    	last_names = { Benesová Cerny Dolezalová Havelka Holub Kovác Kratochvil Krupa Marek Novácek Sýkora Toman Vlasák Zeman Zíka }
-    }
-
-    akadyjski = {
-    	color = {134 221 194}  
-    	first_names = { Alexander Andrei Bohdan Dmitri Daria Elena Igor Ivan Kateryna Maria Mykola Natalia Olga Oksana Pavel Svetlana Taras Uliana Vasyl Vladimir Yana Yelena Yuriy Zinaida Antonina Boris Daniil Ekaterina Evgeniia Fedor Galina Igor Irina Ivan Katya Konstantin Larisa Ludmila Maksim Nadezhda Nikolai Olga Oleg Svetlana Tatiana Tatiana Vadim Valentina Valentin Viktor Yana Yelena Yuri Zinaida }
-	 
-        last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov Antonov Borisov Galinov Ivanov Kozlov Maksimov Petrov Suvorov }
-	
-}
-

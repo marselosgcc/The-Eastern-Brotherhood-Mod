@@ -1,8 +1,8 @@
 capital = 967
-primary_culture = criemisc
-religion = catholic
+primary_culture = british
+religion = orthodox
 government = absolute_monarchy
-plurality = 0.70
+plurality = 0.02
 nationalvalue = nv_productivity 
 literacy = 0.1
 civilized = yes
