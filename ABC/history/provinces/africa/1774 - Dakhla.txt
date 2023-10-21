@@ -1,5 +1,0 @@
-owner = LUX
-controller = LUX
-add_core = LUX
-trade_goods = wool
-life_rating = 0

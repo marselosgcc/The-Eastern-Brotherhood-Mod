@@ -1,4 +1,0 @@
-owner = SPA
-controller = SPA
-trade_goods = iron
-life_rating = 0

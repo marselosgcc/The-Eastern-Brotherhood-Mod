@@ -1,4 +1,0 @@
-owner = PRU
-controller = PRU
-trade_goods = tobacco
-life_rating = 0

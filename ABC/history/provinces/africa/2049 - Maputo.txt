@@ -1,5 +1,0 @@
-owner = TRN
-controller = TRN
-add_core = TRN
-trade_goods = fish
-life_rating = 0

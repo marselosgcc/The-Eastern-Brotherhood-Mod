@@ -1,4 +1,0 @@
-owner = AUS
-controller = AUS
-trade_goods = fish
-life_rating = 0

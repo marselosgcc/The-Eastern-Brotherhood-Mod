@@ -1,5 +1,0 @@
-owner = TOG
-controller = TOG
-add_core = TOG
-trade_goods = fish
-life_rating = 0

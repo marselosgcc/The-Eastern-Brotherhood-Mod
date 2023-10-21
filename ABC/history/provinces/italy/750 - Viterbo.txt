@@ -1,5 +1,0 @@
-owner = PAP
-controller = PAP
-add_core = PAP
-trade_goods = fruit
-life_rating = 0
