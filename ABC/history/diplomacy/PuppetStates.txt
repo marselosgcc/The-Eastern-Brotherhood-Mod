@@ -1,0 +1,10 @@
+vassal = {
+	
+first = POL
+	
+second = MOL
+	
+start_date = 1836.1.1
+	
+end_date = 1949.1.1
+}
