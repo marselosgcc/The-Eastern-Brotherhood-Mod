@@ -3472,96 +3472,101 @@
 	}
 }
 #Louisiana Region (280000)
-#ruled by USA in 1836
+#ruled by MRA in 1836
 #New Orleans (128000/32000 POPS)
 139 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
-		size = 125
+		culture = jugmoravian
+		religion = catholic
+		size = 625
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
-		size = 650
+		culture = jugmoravian
+		religion = catholic
+		size = 25650
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
-		size = 250
+		culture = jugmoravian
+		religion = catholic
+		size = 1250
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jugmoravian
+		religion = catholic
 		size = 8250
 	}
 
 	aristocrats = {
-		culture = cajun
-		religion = catholic
+		culture = jugmoravian
+		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = cajun
-		religion = catholic
+		culture = jugmoravian
+		religion = protestant
 		size = 275
 	}
 
 	artisans = {
-		culture = cajun
-		religion = catholic
-		size = 200
+		culture = jugmoravian
+		religion = protestant
+		size = 3200
 	}
 
 	soldiers = {
-		culture = cajun
+		culture = jugmoravian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = cajun
-		religion = catholic
+		culture = jugmoravian
+		religion = protestant
 		size = 8550
 	}
 
 	artisans = {
-		culture = dixie
-		religion = jewish
+		culture = jugmoravian
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = afro_slavic
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = afro_slavic
 		religion = catholic
 		size = 1650
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = afro_slavic
 		religion = catholic
 		size = 1325
 	}
 
 	slaves = {
-		culture = afro_american
+		culture = afro_slavic
 		religion = protestant
+		size = 10000
+	}
+		slaves = {
+		culture = afro_slavic
+		religion = catholic
 		size = 10000
 	}
 }

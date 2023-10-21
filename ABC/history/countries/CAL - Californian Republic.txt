@@ -1,7 +1,5 @@
 capital = 104 # Sonoma
 primary_culture = biyanic
-culture = beifaren
-culture = mexican
 religion = mahayana
 government = prussian_constitutionalism
 plurality = 0.5
