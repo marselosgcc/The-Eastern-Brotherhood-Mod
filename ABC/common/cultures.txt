@@ -3122,7 +3122,7 @@ southern_african = {
 
 american_slavic = {
     leader = european
-	unit = RussianGC
+	unit = EuropeanGC
     jadwigan = {
     	color = {1 221 120} 
     	first_names = { Adam Agnieszka Andrzej Anna Barbara Bartosz Elzbieta Grzegorz Irena Jakub Joanna Katarzyna Krzysztof Magdalena Marek Marcin Maria Piotr Renata Stanislaw Teresa Tomasz Weronika }
