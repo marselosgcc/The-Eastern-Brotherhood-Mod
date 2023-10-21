@@ -1,0 +1,10 @@
+alliance = {
+	
+first = RUS
+	
+second = POL
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
