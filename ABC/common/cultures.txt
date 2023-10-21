@@ -276,7 +276,7 @@ scandinavian = {
 		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
 	}
 	british = {
-		color = { 207 20 43}
+		color = { 75 54 95}
 		first_names = { Aethelred Beornwulf Cenred Colin Cyril Eadric Ealdred Ecgberht Ecgfrith
 	    Egbert Erik Ethelwulf Godwine Harold Hrothgar Leofric Oswulf Seaxberht
 	    Sigurd Wulfstan Aelfric Aethelbert Aethelwold Alaric Baldwin Bjorn Caedmon Cedric
@@ -291,8 +291,9 @@ scandinavian = {
 	    Svennsson Thrainsson "af Fairhair" "af Siguroarson" "af Haakonarson" "af Leifsson"
 	    "af Gunnarsson" "af Bjornsson" "af Ivarsson" "af Olafsson" "af Eriksson"
 	    "af Haraldsson" "af Ragnorsson" }
+	}
 	danish = {
-        color = {220 40 40}
+        color = { 220 40 40}
         first_names = { Aage Adam Albert Anders Asmund Axel Bent Carl Charles Christen Christian Edvard Edvin
         Enevold Erik Ernst Folke Frederik Georg Gregers Gunnar Gustav Hagbard Hannibal Hans Harald Henrik Herman Hugo Ivar Immanuel
         Jacob Jens Johan Johannes Julius Knud Ludvig Magnus Michael Niels Olav Otto Osvald Oktavius
@@ -3131,7 +3132,7 @@ american_slavic = {
 anglo_saxon = {
 	leader = BritishGCc
 	criemisc = {
-	color = {207 45 43}
+	color = { 207 45 43}
 		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ecgfrith Ethelwulf Godwine Harold Leofric Oswulf ?thelstan ?lfhere ?lfric ?thelmaer ?thelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
 
 		last_names = { Aikenovich Aslamov Bagautdinov Danilov Fedorov Ivanov Karimov Mirzaev Mustafin Petrov Smirnov Sultanov Turganov Umarov Volkov Yakubov Yermakov Zaitsev Bulatov Chingisov Ismailov Kadyrov Magomedov Sabirov Tatarinov Zainullin ?theling Cerdicing Icling Offling Suthing Wuffing }
@@ -3139,7 +3140,7 @@ anglo_saxon = {
 		radicalism = 10
 	}
 	aenglisc = {
-	color = {255 80 90}
+	color = { 255 80 90}
 		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ethelwulf Godwine Harold Leofric Oswulf ?thelstan ?lfhere ?lfric ?thelmaer ?thelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
 
 	    last_names = { Aiken Aslam Bagaut Danil Fedor Ivan Karim Mirz Mustaf Petrov Smirn Sult Turgan Umar Volkov Yakub Yermak Zaitsev }
