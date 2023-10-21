@@ -1,9 +1,9 @@
 capital = 104 # Sonoma
-primary_culture = manchu
+primary_culture = biyanic
 culture = beifaren
 culture = mexican
 religion = mahayana
-government = hms_government
+government = prussian_constitutionalism
 plurality = 0.5
 nationalvalue = nv_equality
 literacy = 0.90
