@@ -355,9 +355,14 @@ british = {
 	irish = { 
 		color = { 35 140 50}
 		radicalism = 15
-		first_names = { Alexander Artúr Brian Cathal Christopher Con Domhnall Dubhghall Éamon Eadbhard Edward Énrí Fionán Proinnsias Séamus Sean Tomás Uilliam Ailbhe Alastar Branach Breandán Caoilte Cian Colm Conchúr Cormac Diarmuid Dónal Eoghan Fearghal Fiachra Gréagóir Lugh Máirtín Mícheál Pádraig Rónán Ruairí Seán Síomón Tadhg Ultán }
+		primary = IRE
+		first_names = { Alexander Artúr Brian Cathal Christopher Con Domhnall Dubhghall Éamon Eadbhard
+	    Edward Énrí Fionán Proinnsias Séamus Sean Tomás Uilliam Ailbhe Alastar Branach Breandán Caoilte
+	    Cian Colm Conchúr Cormac Diarmuid Dónal Eoghan Fearghal Fiachra Gréagóir Lugh Máirtín Mícheál
+	    Pádraig Rónán Ruairí Seán Síomón Tadhg Ultán }
 
-        last_names = { Smith Aiken "mac Taidg Mór" Breen "mac Aenghusa" "mac Brian Bóruma" Mac Brua "mac Canannáin" Mac Connalaigh "mac Diarmada" Mac Coilín Conallach Cosgrave Craig "mac Lachlainn" Mac Dhéil "mac Dubhsláine" "mac Duinnshléibhe" "mac Fhearghusa" "mac Fhearadhaigh" FitzGerald "mac Giolla Chomgaill" Mac Raghnaill "mac Gormáin" Ceallach Lorcán "mac Muireadhaigh" "mac Mhaoláin" "mac Neill" "mac Diarmada" "mac Dhomhnaill" Ó Briain Ó Conchobhair Ó Dochartaigh Ó hUiginn Ó Laoghaire Ó Mearáin Pearse Plunkett Fionn Mac Ailbhe Mac Alastair Mac Branach Mac Breandán Mac Caoilte Mac Cian Mac Colm Mac Conchúr Mac Cormac Mac Diarmuid Mac Dónal Mac Eoghan Mac Fearghal Mac Fiachra Mac Gréagóir Mac Lugh Mac Máirtín Mac Mícheál Mac Pádraig Mac Rónán Mac Ruairí Mac Síomón Mac Tadhg Mac Ultán }
+        last_names = { Aiken "mac Taidg Mór" Breen "mac Aenghusa" "mac Brian Bóruma" Mac Brua "mac Canannáin" Mac Connalaigh "mac Diarmada" Mac Coilín Conallach Cosgrave Craig "mac Lachlainn" Mac Dhéil "mac Dubhsláine" "mac Duinnshléibhe" "mac Fhearghusa" "mac Fhearadhaigh" FitzGerald "mac Giolla Chomgaill" Mac Raghnaill "mac Gormáin" Ceallach Lorcán "mac Muireadhaigh" "mac Mhaoláin" "mac Neill" "mac Diarmada" "mac Dhomhnaill" Ó Briain Ó Conchobhair Ó Dochartaigh Ó hUiginn Ó Laoghaire Ó Mearáin
+	    Pearse Plunkett Fionn Mac Ailbhe Mac Alastair Mac Branach Mac Breandán Mac Caoilte Mac Cian Mac Colm Mac Conchúr Mac Cormac Mac Diarmuid Mac Dónal Mac Eoghan Mac Fearghal Mac Fiachra Mac Gréagóir Mac Lugh Mac Máirtín Mac Mícheál Mac Pádraig Mac Rónán Mac Ruairí Mac Síomón Mac Tadhg Mac Ultán }
 
 	}
 	scottish = { 
@@ -370,7 +375,7 @@ british = {
 	
 	welsh = { 
 		color = { 000 171 057 }
-		first_names = { Alan Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
+		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		
 		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
 	}
