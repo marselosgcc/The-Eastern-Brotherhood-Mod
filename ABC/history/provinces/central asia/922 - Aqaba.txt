@@ -1,0 +1,5 @@
+owner = PLS
+controller = PLS
+add_core = PLS
+trade_goods = wool
+life_rating = 0

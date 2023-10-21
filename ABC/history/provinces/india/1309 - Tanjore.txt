@@ -1,0 +1,4 @@
+owner = ENL
+controller = ENL
+trade_goods = dye
+life_rating = 0

@@ -1,0 +1,5 @@
+owner = HON
+controller = HON
+add_core = HON
+trade_goods = coffee
+life_rating = 0

@@ -1,0 +1,4 @@
+owner = ENL
+controller = ENL
+trade_goods = coal
+life_rating = 0

@@ -1,0 +1,5 @@
+owner = HOL
+controller = HOL
+add_core = HOL
+trade_goods = fruit
+life_rating = 0

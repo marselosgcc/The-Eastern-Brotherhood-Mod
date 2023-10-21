@@ -1,0 +1,5 @@
+owner = PNM
+controller = PNM
+add_core = PNM
+trade_goods = fish
+life_rating = 0

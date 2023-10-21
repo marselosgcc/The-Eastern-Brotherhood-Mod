@@ -1,0 +1,5 @@
+owner = ORA
+controller = ORA
+add_core = ORA
+trade_goods = wool
+life_rating = 0
