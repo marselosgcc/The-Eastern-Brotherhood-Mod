@@ -1,6 +1,6 @@
 capital = 60
-primary_culture = dixie
-culture = texan
+primary_culture = akadyjski
+culture = afro_slavic
 religion = orthodox
 government = democracy
 plurality = 25.1
