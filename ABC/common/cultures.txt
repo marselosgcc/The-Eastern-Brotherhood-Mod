@@ -263,7 +263,19 @@ pan_swiss = {
 scandinavian = {
 	leader = european
 	unit = SwedishGC
-	british = {
+	swedish = { 
+		color = { 20 40 160}
+		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
+		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
+		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
+		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+		
+		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
+		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
+		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
+		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+	}
+		british = {
 		color = { 207 20 43}
 		first_names = { Aethelred Beornwulf Cenred Colin Cyril Eadric Ealdred Ecgberht Ecgfrith
 	    Egbert Erik Ethelwulf Godwine Harold Hrothgar Leofric Oswulf Seaxberht
@@ -279,17 +291,6 @@ scandinavian = {
 	    Svennsson Thrainsson "af Fairhair" "af Siguroarson" "af Haakonarson" "af Leifsson"
 	    "af Gunnarsson" "af Bjornsson" "af Ivarsson" "af Olafsson" "af Eriksson"
 	    "af Haraldsson" "af Ragnorsson" }
-	swedish = { 
-		color = { 20 40 160}
-		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
-		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
-		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
-		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
-		
-		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
-		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
-		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
-		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
 	}
 	danish = {
         color = { 220 40 40}
@@ -355,9 +356,14 @@ british = {
 	irish = { 
 		color = { 35 140 50}
 		radicalism = 15
-		first_names = { Alexander Artúr Brian Cathal Christopher Con Domhnall Dubhghall Éamon Eadbhard Edward Énrí Fionán Proinnsias Séamus Sean Tomás Uilliam Ailbhe Alastar Branach Breandán Caoilte Cian Colm Conchúr Cormac Diarmuid Dónal Eoghan Fearghal Fiachra Gréagóir Lugh Máirtín Mícheál Pádraig Rónán Ruairí Seán Síomón Tadhg Ultán }
-
-        last_names = { Smith Aiken "mac Taidg Mór" Breen "mac Aenghusa" "mac Brian Bóruma" Mac Brua "mac Canannáin" Mac Connalaigh "mac Diarmada" Mac Coilín Conallach Cosgrave Craig "mac Lachlainn" Mac Dhéil "mac Dubhsláine" "mac Duinnshléibhe" "mac Fhearghusa" "mac Fhearadhaigh" FitzGerald "mac Giolla Chomgaill" Mac Raghnaill "mac Gormáin" Ceallach Lorcán "mac Muireadhaigh" "mac Mhaoláin" "mac Neill" "mac Diarmada" "mac Dhomhnaill" Ó Briain Ó Conchobhair Ó Dochartaigh Ó hUiginn Ó Laoghaire Ó Mearáin Pearse Plunkett Fionn Mac Ailbhe Mac Alastair Mac Branach Mac Breandán Mac Caoilte Mac Cian Mac Colm Mac Conchúr Mac Cormac Mac Diarmuid Mac Dónal Mac Eoghan Mac Fearghal Mac Fiachra Mac Gréagóir Mac Lugh Mac Máirtín Mac Mícheál Mac Pádraig Mac Rónán Mac Ruairí Mac Síomón Mac Tadhg Mac Ultán }
+		primary = IRE
+		first_names = { Alexander Arthur Brian Cathal Blane Christopher Con Daniel Angus Denis Desmond Alban
+		Edward Ernes Fion?n Frank George Harry Coll Jack James John Joseph
+		Kevin Liam Michael Patrick Peter Richard Murray Robert San Thomas William }
+		
+		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
+		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
+		Mulcahy O'Brien O'Connor O'Doherty O'Higgins MacDonald O'Leary O'Mara Pearse Plunket White }
 
 	}
 	scottish = { 
@@ -3121,7 +3127,6 @@ american_slavic = {
     leader = european
 	unit = RussianGC
 }
-
     jadwigan = {
     	color = {1 221 120} 
     	first_names = { Adam Agnieszka Andrzej Anna Barbara Bartosz Elzbieta Grzegorz Irena Jakub Joanna Katarzyna Krzysztof Magdalena Marek Marcin Maria Piotr Renata Stanislaw Teresa Tomasz Weronika }
