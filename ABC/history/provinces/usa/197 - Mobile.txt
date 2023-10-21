@@ -1,5 +1,6 @@
 owner = JDU
 controller = JDU
 add_core = JDU
+add_core = ARK
 trade_goods = cotton
 life_rating = 0
