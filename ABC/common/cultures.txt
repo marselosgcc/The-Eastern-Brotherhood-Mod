@@ -292,7 +292,7 @@ scandinavian = {
 	    "af Gunnarsson" "af Bjornsson" "af Ivarsson" "af Olafsson" "af Eriksson"
 	    "af Haraldsson" "af Ragnorsson" }
 	danish = {
-        color = { 220 40 40}
+        color = {220 40 40}
         first_names = { Aage Adam Albert Anders Asmund Axel Bent Carl Charles Christen Christian Edvard Edvin
         Enevold Erik Ernst Folke Frederik Georg Gregers Gunnar Gustav Hagbard Hannibal Hans Harald Henrik Herman Hugo Ivar Immanuel
         Jacob Jens Johan Johannes Julius Knud Ludvig Magnus Michael Niels Olav Otto Osvald Oktavius
