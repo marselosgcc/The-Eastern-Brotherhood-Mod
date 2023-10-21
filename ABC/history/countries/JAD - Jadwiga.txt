@@ -1,6 +1,5 @@
 capital = 60
-primary_culture = dixie
-culture = texan
+primary_culture = jadwigan
 religion = orthodox
 government = hms_government
 plurality = 25.1
