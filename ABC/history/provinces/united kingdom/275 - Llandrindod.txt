@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = ENL
+controller = ENL
+add_core = ENL
 trade_goods = sulphur
 life_rating = 0
