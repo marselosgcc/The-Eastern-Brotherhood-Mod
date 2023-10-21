@@ -553,7 +553,7 @@ emigration_chance =
 	}
 
 	modifier = {
-		factor = -2.0
+		factor = -4.0
 		OR = { 
 			continent = north_america
 			continent = south_america
@@ -591,7 +591,7 @@ assimilation_chance =
 		has_culture_core = yes
 	}
 	modifier = {
-		factor = 10
+		factor = 20
 		AND = {
 			is_accepted_culture = no
 			OR = { 
