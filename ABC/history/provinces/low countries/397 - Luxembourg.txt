@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+add_core = GER
+trade_goods = iron
+life_rating = 0

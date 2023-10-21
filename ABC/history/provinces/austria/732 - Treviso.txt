@@ -1,0 +1,6 @@
+owner = TUS
+controller = TUS
+add_core = VEN
+add_core = TUS
+trade_goods = timber
+life_rating = 0

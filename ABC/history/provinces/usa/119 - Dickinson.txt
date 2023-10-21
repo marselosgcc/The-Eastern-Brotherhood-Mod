@@ -1,0 +1,5 @@
+owner = SIX
+controller = SIX
+add_core = SIX
+trade_goods = cattle
+life_rating = 0

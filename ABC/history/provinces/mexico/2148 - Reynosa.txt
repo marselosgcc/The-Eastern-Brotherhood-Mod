@@ -1,0 +1,5 @@
+owner = UNM
+controller = UNM
+add_core = UNM
+trade_goods = coal
+life_rating = 0

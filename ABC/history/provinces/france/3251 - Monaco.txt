@@ -1,0 +1,5 @@
+owner = MNC
+controller = MNC
+add_core = MNC
+trade_goods = fruit
+life_rating = 0

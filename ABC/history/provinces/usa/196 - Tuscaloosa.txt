@@ -1,0 +1,5 @@
+owner = ARK
+controller = ARK
+add_core = ARK
+trade_goods = iron
+life_rating = 0

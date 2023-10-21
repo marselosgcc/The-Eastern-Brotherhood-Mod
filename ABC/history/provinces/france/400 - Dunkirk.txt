@@ -1,0 +1,5 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+trade_goods = fish
+life_rating = 0
