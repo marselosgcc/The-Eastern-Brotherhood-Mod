@@ -29,18 +29,18 @@ SIX_prussian_constitutionalism;The Great Sioux Nation;;;;;;;;;;;;x
 SIX_hms_government;The Great Sioux Nation;;;;;;;;;;;;x
 SIX_fascist_dictatorship;The Sioux Front;;;;;;;;;;;;x
 SIX_proletarian_dictatorship;The Sioux Union;;;;;;;;;;;;x
-NEN;Haudenosaunee;;;;;;;;;;;;x
-NEN_ADJ;Iroquoian;;;;;;;;;;;;x
-NEN_democracy;Haudenosaunee;;;;;;;;;;;;x
-NEN_presidential_dictatorship;Haudenosaunee;;;;;;;;;;;;x
-NEN_bourgeois_dictatorship;Haudenosaunee;;;;;;;;;;;;x
-NEN_absolute_monarchy;Iroquois Kingdom;;;;;;;;;;;;x
-NEN_prussian_constitutionalism;Iroquois Kingdom;;;;;;;;;;;;x
-NEN_hms_government;Iroquois Kingdom;;;;;;;;;;;;x
-NEN_fascist_dictatorship;Haudenosaunee Front of Liberation;;;;;;;;;;;;x
-NEN_proletarian_dictatorship;Six Nations Council;;;;;;;;;;;;x
+NEN;Stato irochese;;;;;;;;;;;;x
+NEN_ADJ;meriodinali;;;;;;;;;;;;x
+NEN_democracy;Stato irochese;;;;;;;;;;;;x
+NEN_presidential_dictatorship;Stato irochese;;;;;;;;;;;;x
+NEN_bourgeois_dictatorship;Stato irochese;;;;;;;;;;;;x
+NEN_absolute_monarchy;Regno irochese;;;;;;;;;;;;x
+NEN_prussian_constitutionalism;Regno irochese;;;;;;;;;;;;x
+NEN_hms_government;Regno irochese;;;;;;;;;;;;x
+NEN_fascist_dictatorship;Stato irochese Front of Liberation;;;;;;;;;;;;x
+NEN_proletarian_dictatorship;Stato dei Lavoratori Meridionali;;;;;;;;;;;;x
 MRA;Moravia Australis;;;;;;;;;;;;x
-MRA_ADJ;JugMoravian;;;;;;;;;;;;x
+MRA_ADJ;Jugmoravian;;;;;;;;;;;;x
 MRA_democracy;Moravia Australis;;;;;;;;;;;;x
 MRA_presidential_dictatorship;Moravia Australis;;;;;;;;;;;;x
 MRA_bourgeois_dictatorship;Moravia Australis;;;;;;;;;;;;x
@@ -99,3 +99,13 @@ DAK_prussian_constitutionalism;Heavenly Kingdom;;;;;;;;;;;;x
 DAK_hms_government;Heavenly Kingdom;;;;;;;;;;;;x
 DAK_fascist_dictatorship;Western Protectorate;;;;;;;;;;;;x
 DAK_proletarian_dictatorship;Western Commune;;;;;;;;;;;;x
+UIL;Haudenosaunee;;;;;;;;;;;;x
+UIL_ADJ;Yankee;;;;;;;;;;;;x
+UIL_democracy;The Haudenosaunee;;;;;;;;;;;;x
+UIL_presidential_dictatorship;Guyusaniyasti Eyusti;;;;;;;;;;;;x
+UIL_bourgeois_dictatorship;Guyusaniyasti eyusti;;;;;;;;;;;;x
+UIL_absolute_monarchy;The Purple Banner;;;;;;;;;;;;x
+UIL_prussian_constitutionalism;The Purple Banner;;;;;;;;;;;;x
+UIL_hms_government;The Purple Banner;;;;;;;;;;;;x
+UIL_fascist_dictatorship;Restauration Amadisgi Front;;;;;;;;;;;;x
+UIL_proletarian_dictatorship;Haudenosaunee Soviet Republic;;;;;;;;;;;;x
