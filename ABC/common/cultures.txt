@@ -2380,7 +2380,7 @@ african_diaspora_cultures = {
 		McIntosh Nurse Perry Roberts Robinson Shadd Stollmeyer Sylvester Williams Young }
 	}
 	afro_slavic = {
-		color = {10 18 15}
+		color = { 10 18 15}
 		first_names = { Amina Ayodele Chika Chinedu Fatouma Ifeoma Kofi Kwame Nia Olatunji Sadio Tunde Yaa Zola}
 		
 		last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov
@@ -3144,19 +3144,19 @@ american_slavic = {
     leader = european
 	unit = EuropeanGC
     jadwigan = {
-    	color = {1 221 120} 
+    	color = { 1 221 120} 
     	first_names = { Adam Agnieszka Andrzej Anna Barbara Bartosz Elzbieta Grzegorz Irena Jakub Joanna Katarzyna Krzysztof Magdalena Marek Marcin Maria Piotr Renata Stanislaw Teresa Tomasz Weronika }
 	
     	last_names = { Kowalski Nowak Wojcik "Wisniowiecki" Wozniak Dabrowski Mazur Jankowski Nowakowski Szymanski Wozniak Lasky "Piast" Goldstein Bernstein Rosenbaum Epstein Schwartzman Abramovich Kaganovich }
     }
     jugmoravian = {
-    	color = {134, 221 120}  
+    	color = { 134, 221 120}  
     	first_names = { Adam Adriana Andrej Antonija Blanka Danijel Ela Filip Helena Igor Jana Karolina Luka Magdalena Miroslav Nikolina Petra Radek S?ra Tereza V?clav Zuzana }
 	
     	last_names = { Benesov? Cerny Dolezalov? Havelka Holub Kov?c Kratochvil Krupa Marek Nov?cek S?kora Toman Vlas?k Zeman Z?ka }
     }
     akadyjski = {
-    	color = {134 221 194}  
+    	color = { 134 221 194}  
     	first_names = { Alexander Andrei Bohdan Dmitri Daria Elena Igor Ivan Kateryna Maria Mykola Natalia Olga Oksana Pavel Svetlana Taras Uliana Vasyl Vladimir Yana Yelena Yuriy Zinaida Antonina Boris Daniil Ekaterina Evgeniia Fedor Galina Igor Irina Ivan Katya Konstantin Larisa Ludmila Maksim Nadezhda Nikolai Olga Oleg Svetlana Tatiana Tatiana Vadim Valentina Valentin Viktor Yana Yelena Yuri Zinaida }
 	 
         last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov Antonov Borisov Galinov Ivanov Kozlov Maksimov Petrov Suvorov }
