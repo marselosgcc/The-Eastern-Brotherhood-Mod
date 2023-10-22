@@ -2,3 +2,4 @@ owner = SCO
 controller = SCO
 trade_goods = wool
 life_rating = 0
+colonial = 2
