@@ -8,3 +8,13 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
+vassal = {
+	
+first = NET
+	
+second = PNM
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
