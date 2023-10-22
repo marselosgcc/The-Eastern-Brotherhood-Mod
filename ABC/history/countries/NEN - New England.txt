@@ -1,6 +1,6 @@
 capital = 243
-primary_culture = iroquois
-religion = protestant
+primary_culture = irochesi
+religion = catholic
 government = hms_government
 plurality = 0.5
 nationalvalue = nv_liberty
