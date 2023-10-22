@@ -19,6 +19,62 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
+	
+		dutch = { 
+		color = { 230 130 50}
+		first_names = { 
+			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
+			Barthout
+			Casimir Constantijn Cornelis Christiaan Christoffel 
+			Daniël David Dominicus Daniel Dirk
+			Elias Ernst Erwin Eise
+			Frans Frederik
+			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+			Hendrik Hans Hugo
+			Isaac
+			Johan Jurgen Jacob Jeroen Jan Joost
+			Karel Kasper
+			Luuk Lodewijk Laurens
+			Marius Matthijs Maximiliaam Merkus Moritz Maurits
+			Nikolaas
+			Pauwel Paul Pieter
+			Quinten
+			Rafaël Ruben Rudolf Roeland Rogier Rutger
+			Stefan Simon
+			Thomas
+			Victor Willem Vincent
+			Zacharias
+		}
+		
+		last_names = { 
+			"von der Aa" "von Assendelft" 
+			Boetge Boumeester "von Bronkhorst" Batenburg Bentinck Boreel Brandt "von Brederode" Brouwer Buyskes "von Braam Houckgeest"
+			"von der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
+
+			"von Culemborg"
+			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "von Diemen" "von der Does" "von Duivenvoorde"
+			Ellis Engels Engelvaart "von Egmont" Evertzen
+			Fabius
+			Gregory "von Galen" "de Grouwe" "von Geen" 
+			"von Ham" "von Haren" "von Heemskerck" "von Heutsz" "Cort-Heyligers" "de Houtman" "von Huchtenbroek" 
+			"von Ilpendam"
+			Janssens
+			Köhler Kool Kruys Kater "von Keppel" Kortenaer
+			List Lucas
+			Michiels "von Marnix" Martena "de Moor" "Melvill von Carnbee" 
+			Nepveu Nachtegaal "von Nieuwenaar" "von Noort"
+			Ongerboer 
+			"von Pallandt"
+			Rijk Röell "von Raephorst" "von Rechteren" Reijersen "von Renesse" "von Riebeeck" "de Rijk" "von Rossum"
+			Sabron "Schimmelpenninck von der Oye" "von Saksen-Weimar" "von Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
+
+			Steltman Stuyvesant
+			Tasman "von Troyen" Trip
+			"von Dambenoy" "von den Bosch" "von der Heijden" "von Hoensbroeck" "von Oranje-Nassau" "von Swieten" 
+			"von Vredenburch" Verspijck Vetter Weitzel "von Utenhove"
+			"von Walbeeck" "von Wassenaer" "von der Werff" "von Wesembeke" "von Wingle" "von der Wijck" "von Wijngaarden" "de Winter"
+			Wolterbeek
+		}
 	}
 	panamaisch = {
 	    color = { 222 63 36 }
@@ -110,63 +166,7 @@ jewish_cultures = {
 beneluxian = {
 	leader = european
 	unit = EuropeanGC
-	dutch = { 
-		color = { 230 130 50}
-		first_names = { 
-			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
-			Barthout
-			Casimir Constantijn Cornelis Christiaan Christoffel 
-			Daniël David Dominicus Daniel Dirk
-			Elias Ernst Erwin Eise
-			Frans Frederik
-			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
-			Hendrik Hans Hugo
-			Isaac
-			Johan Jurgen Jacob Jeroen Jan Joost
-			Karel Kasper
-			Luuk Lodewijk Laurens
-			Marius Matthijs Maximiliaam Merkus Moritz Maurits
-			Nikolaas
-			Pauwel Paul Pieter
-			Quinten
-			Rafaël Ruben Rudolf Roeland Rogier Rutger
-			Stefan Simon
-			Thomas
-			Victor Willem Vincent
-			Zacharias
-		}
-		
-		last_names = { 
-			"van der Aa" "van Assendelft" 
-			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
-			"van der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
-
-			"van Culemborg"
-			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
-			Ellis Engels Engelvaart "van Egmont" Evertzen
-			Fabius
-			Gregory "van Galen" "de Grouwe" "van Geen" 
-			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
-			"van Ilpendam"
-			Janssens
-			Köhler Kool Kruys Kater "van Keppel" Kortenaer
-			List Lucas
-			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
-			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
-			Ongerboer 
-			"van Pallandt"
-			Rijk Röell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
-			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
-
-			Steltman Stuyvesant
-			Tasman "van Troyen" Trip
-			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
-			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
-			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
-			Wolterbeek
-		}
-	}
-	flemish = { 
+	flemish = {
 		color = { 250 180 80}
 		first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas 
 		Camille Charles Constant David Désiré Diederik Edmond Emmanuel Etienne Eugène Félix Filip Frans Ferdinand François Frederik 
@@ -2345,6 +2345,14 @@ latin_american_cultures = {
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
+	irochesi = {
+		color = {0 168 99}
+		first_names = { Atotarho Canastota Ganeodiyo Hengah Jikonsaseka Keghsogwa Tawiskaron Thayendanegea Kanadariio Ratanenhawi Aientaa Honawira Skennen Teyoninhokovawen Awiyathentha Kanyenkeha Teiothorake Marco Giuseppe Francesco Alberto Stefano Alessandro Federico Matteo Antonio Vittorio Davide Alessio Carlo Edoardo Giovanni Lorenzo
+		}
+
+		last_names = { Rossi Russo Conti "Di Siracusa" Vomero Chiaia Esposito Moretti Mancini "Di Ferrara" Romano Rinaldi Marchetti "Di Martino" "Di Napoli" "di Buonaparte" "Di Firenze" "Di Giorgio" "Di Marco" "Di Lucca" "Di Matteo" "Di Franco" "Di Pasquale"
+		}
+	}
 }
 
 african_diaspora_cultures = {
@@ -2372,7 +2380,7 @@ african_diaspora_cultures = {
 		McIntosh Nurse Perry Roberts Robinson Shadd Stollmeyer Sylvester Williams Young }
 	}
 	afro_slavic = {
-		color = {0 30 20}
+		color = {10 18 15}
 		first_names = { Amina Ayodele Chika Chinedu Fatouma Ifeoma Kofi Kwame Nia Olatunji Sadio Tunde Yaa Zola}
 		
 		last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Suvorov Tkachenko Volkov Yermolov Zaytsev Zhuravel Fedorov
