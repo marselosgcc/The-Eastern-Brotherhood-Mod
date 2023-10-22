@@ -1,7 +1,7 @@
 capital = 243
 primary_culture = irochesi
 religion = catholic
-government = hms_government
+government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_liberty
 literacy = 0.50
