@@ -2,3 +2,5 @@ owner = ENL
 controller = ENL
 trade_goods = fish
 life_rating = 0
+colonial = 2
+
