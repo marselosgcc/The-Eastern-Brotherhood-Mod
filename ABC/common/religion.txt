@@ -14,7 +14,7 @@ christian = {
 		color = { 0 0 0.7 }
 	}
 
-  reformed = { 
+	reformed = { 
    icon = 19 
    color = { 0.5 0.5 0.7 } 
  }
