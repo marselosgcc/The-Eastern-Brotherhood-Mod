@@ -8,7 +8,7 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
-vassal = {
+substate = {
 	
 first = NET
 	
@@ -18,3 +18,21 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
+vassal = { 
+first = ENG
+ 
+second = CAN 
+
+start_date = 1836.1.1
+ 
+end_date = 1936.1.1 
+}
+substate = { 
+first = ENG 
+
+second = EIC
+
+start_date = 1815.1.1 
+
+end_date = 1936.1.1 
+ }
