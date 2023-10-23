@@ -14,7 +14,11 @@ christian = {
 		color = { 0 0 0.7 }
 	}
 
-	mormon = {
+  reformed = { 
+   icon = 19 
+   color = { 0.5 0.5 0.7 } 
+ }
+  	mormon = {
 		icon = 15
 		color = { 0 0 0.5 }
 	}
