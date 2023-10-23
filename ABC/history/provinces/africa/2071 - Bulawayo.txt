@@ -1,3 +1,5 @@
+owner = ZOU
+controller = ZOU
+add_core = ZOU
 trade_goods = iron
 life_rating = 0
-colonial = 1
