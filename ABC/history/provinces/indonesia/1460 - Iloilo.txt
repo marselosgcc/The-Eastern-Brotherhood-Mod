@@ -2,3 +2,4 @@ owner = SPC
 controller = SPC
 trade_goods = fruit
 life_rating = 0
+colonial = 2

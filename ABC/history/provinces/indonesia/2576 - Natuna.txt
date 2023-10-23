@@ -2,3 +2,4 @@ owner = NET
 controller = NET
 trade_goods = fish
 life_rating = 0
+colonial = 2
