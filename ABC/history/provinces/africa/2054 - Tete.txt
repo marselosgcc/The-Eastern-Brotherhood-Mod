@@ -2,3 +2,4 @@ owner = POR
 controller = POR
 trade_goods = precious_goods
 life_rating = 0
+colonial = 2

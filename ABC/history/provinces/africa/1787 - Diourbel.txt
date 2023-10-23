@@ -2,3 +2,4 @@ owner = FRA
 controller = FRA
 trade_goods = grain
 life_rating = 0
+colonial = 2
