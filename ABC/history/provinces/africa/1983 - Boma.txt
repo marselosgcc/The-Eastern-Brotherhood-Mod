@@ -2,3 +2,4 @@ owner = POR
 controller = POR
 trade_goods = timber
 life_rating = 0
+colonial = 2

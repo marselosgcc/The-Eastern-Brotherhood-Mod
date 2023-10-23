@@ -2,3 +2,4 @@ owner = PRU
 controller = PRU
 trade_goods = coffee
 life_rating = 0
+colonial = 2

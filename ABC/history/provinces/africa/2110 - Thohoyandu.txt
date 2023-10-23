@@ -1,2 +1,5 @@
+owner = ZOU
+controller = ZOU
+add_core = ZOU
 trade_goods = wool
 life_rating = 0
