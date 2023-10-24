@@ -100,7 +100,7 @@ DAK_hms_government;Heavenly Kingdom;;;;;;;;;;;;x
 DAK_fascist_dictatorship;Western Protectorate;;;;;;;;;;;;x
 DAK_proletarian_dictatorship;Western Commune;;;;;;;;;;;;x
 UIL;Haudenosaunee;;;;;;;;;;;;x
-UIL_ADJ;Yankee;;;;;;;;;;;;x
+UIL_ADJ;Iroquois;;;;;;;;;;;;x
 UIL_democracy;The Haudenosaunee;;;;;;;;;;;;x
 UIL_presidential_dictatorship;Guyusaniyasti Eyusti;;;;;;;;;;;;x
 UIL_bourgeois_dictatorship;Guyusaniyasti eyusti;;;;;;;;;;;;x
@@ -109,3 +109,13 @@ UIL_prussian_constitutionalism;The Purple Banner;;;;;;;;;;;;x
 UIL_hms_government;The Purple Banner;;;;;;;;;;;;x
 UIL_fascist_dictatorship;Restauration Amadisgi Front;;;;;;;;;;;;x
 UIL_proletarian_dictatorship;Haudenosaunee Soviet Republic;;;;;;;;;;;;x
+ENL;England;;;;;;;;;;;;x
+ENL_ADJ;Engelsk;;;;;;;;;;;;x
+ENL_democracy;The England;;;;;;;;;;;;x
+ENL_presidential_dictatorship;Guyusaniyasti Eyusti;;;;;;;;;;;;x
+ENL_bourgeois_dictatorship;Guyusaniyasti eyusti;;;;;;;;;;;;x
+ENL_absolute_monarchy;Kongeriket England;;;;;;;;;;;;x
+ENL_prussian_constitutionalism;Kongeriket England;;;;;;;;;;;;x
+ENL_hms_government;England;;;;;;;;;;;;x
+ENL_fascist_dictatorship;Folkebevegelsens Provisoriske Regjering;;;;;;;;;;;;x
+ENL_proletarian_dictatorship;Engelsk Soviet Republic;;;;;;;;;;;;x

@@ -141,14 +141,3 @@ pagan = {
         color = { 0.5 0.0 0.0 }
         pagan = yes
     }
-    fetishist = {
-        icon = 25
-        color = { 0.419 0.247 0.627 }
-        pagan = yes
-    }
-    tengri = {
-        icon = 26
-        color = { 0.1 0.3 0.85 }
-        pagan = yes
-    }
-}
