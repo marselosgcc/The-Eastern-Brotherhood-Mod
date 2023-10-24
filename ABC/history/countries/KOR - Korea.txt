@@ -1,10 +1,10 @@
 capital = 1624
 primary_culture = korean
-religion = mahayana
+religion = confucian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.03
+literacy = 0.15
 non_state_culture_literacy = 0.01
 prestige = 1
 

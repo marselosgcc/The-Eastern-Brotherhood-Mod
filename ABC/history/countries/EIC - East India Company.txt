@@ -1,9 +1,10 @@
 capital = 1251
-primary_culture = british
+primary_culture = anglo_indian
+culture = british
 religion = protestant
 government = colonial_company
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.6
 civilized = no
 prestige = 40
