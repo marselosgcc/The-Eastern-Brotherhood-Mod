@@ -415,6 +415,17 @@ italian = {
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
 	}
+	sicilian = {
+		color = { 40 150 90}
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bakr Ahmed Bonaccorsi Assad Caraga Cattaneo Chigi Clary Colonna Staikopoulos Stanotas "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Mizzi Muscat Olivier Puli Pullicino Strickland Vella Siculo Arabo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+		radicalism = 20
+	}
 	maltese = { 
 		color = {100 150 120}
 		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph
@@ -1022,6 +1033,76 @@ turko_semitic = {
 			Bey Pasha Hoca Efendi
 		}
 	}
+	uzbek = {
+		color = {152 67 56}
+		first_names = {
+			"Abd al-Ahad" "Abd al-Karim" "Abu al-Ghazi" Abulfayz Alimqul Aqim "Allah Quli" Haydar Husayn 
+			Iltazar Isfandiyar Jahangir Khudayar Madali Mahmud Muhammad Murad 
+			Nasrallah "Nasir al-Din" Nurali Pulad Qilich Qutlugh Rahim Shir Umar Yadigar Yaqub 
+			}
+		last_names = {
+			Bahadur Bukhari Khan
+			}
+	}
+	kazak = {
+		color = {83 102 46}
+		first_names = {
+			Ablai "Abu al-Khayr" Aryn Bukei Chokan 
+			Dulat Ibirai Isatai Ishim Jangir Kenisary 
+			Mashur Murat "Nur Ali" Qayip 
+			Sadyk Sirim Sarzhan 
+			Tenek Tolshan Vali
+			}
+		last_names = {
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
+			}
+	}
+	kirgiz = {
+		color = {62 73 41}
+		first_names = {
+			Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali
+			}
+		last_names = {
+			Beg 
+			}
+	}
+	uighur = {
+		color = {92 96 168}
+		first_names = { 
+			Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
+			}
+		last_names = {
+			Beg Khan
+			}
+	}
+	hazara = {
+		color = {108 203 223}
+		first_names = {
+			Ali Azim Jafar Mohammad Riza
+		}
+		last_names = {
+			Beg Khan
+		}
+	}
+	turkmen = {
+		color = {192 150 190}
+		first_names = {
+			Ahmed Haydar Mehmed Murad Nurberdi Qilich
+		}
+		last_names = {
+			Beg Khan
+		}
+	}
+	tatar = {
+		color = {45 87 99}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+		radicalism = 10
+	}
 	azerbaijani = {
 		color = {47 44 107}
 		first_names = { 
@@ -1035,18 +1116,6 @@ turko_semitic = {
 			Qasimbek Qasimzade Rasulzade Tahirzade Talishkhan Topchubashi Zardabi
 			}
 		radicalism = 5
-	}
-	
-	kurdish = {
-		color = {254 189 17}
-		first_names = {
-			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
-			}
-		
-		last_names = {
-			Badirkhan Barzani Khan Shilak
-		}
-		radicalism = 10
 	}
 }
 
@@ -1208,6 +1277,15 @@ arab = {
 		}
 		radicalism = 10
 	}
+	siqiliya = {
+		color = {59 113 103}
+		first_names = { Abbas Malamah Abu Ahmed Mohammed Youssef Sofiane Nabil Karim Hicham Mehdi Omar Amine Rachid Said Hassan Khalid Faycal Abdelkader Hamza Salem Adel Ridwan Amazighi Touda Boussad
+		Ameziane Ourtou Ouaqqa Bouazza Bensaid Mansour Rossi al-Hakim Ferrari al-Jawad Rizzo al-Qasim Esposito al-Tarif Martino al-Mansur Bianchi al-Mahdi Tunisino al-Saadi
+		}
+
+		last_names = { Al-Qasimi Al-Mansur Khoury Nazzal Al-Fahim Marzouq Antonioli Aboud Saliba Benhaddou "Banu al-Aghlab" "Al-Nasrid" "Almohad" "Banu Ziri" Amazighi Touda Ameziane Ourtou Ouaqqa Bouazza Bensaid Belqasem Oulhoucine Rachid "Almoravid" "Almohad" "Banu Ifran" "Banu Khazrun" "Banu Qatrun" "Banu Salim"
+		}
+	}
 }
 
 iranian_turanian = {
@@ -1229,39 +1307,6 @@ iranian_turanian = {
 			Shirazi Tabrizi Tahmasebi Zahedi
 			}
 	}
-	uzbek = {
-		color = {152 67 56}
-		first_names = {
-			"Abd al-Ahad" "Abd al-Karim" "Abu al-Ghazi" Abulfayz Alimqul Aqim "Allah Quli" Haydar Husayn 
-			Iltazar Isfandiyar Jahangir Khudayar Madali Mahmud Muhammad Murad 
-			Nasrallah "Nasir al-Din" Nurali Pulad Qilich Qutlugh Rahim Shir Umar Yadigar Yaqub 
-			}
-		last_names = {
-			Bahadur Bukhari Khan
-			}
-	}
-	kazak = {
-		color = {83 102 46}
-		first_names = {
-			Ablai "Abu al-Khayr" Aryn Bukei Chokan 
-			Dulat Ibirai Isatai Ishim Jangir Kenisary 
-			Mashur Murat "Nur Ali" Qayip 
-			Sadyk Sirim Sarzhan 
-			Tenek Tolshan Vali
-			}
-		last_names = {
-			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
-			}
-	}
-	kirgiz = {
-		color = {62 73 41}
-		first_names = {
-			Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali
-			}
-		last_names = {
-			Beg 
-			}
-	}
 	tajik = {
 		color = {122 127 111}
 			first_names = {
@@ -1274,15 +1319,6 @@ iranian_turanian = {
 			Khan Tajik Emomali Shohmurod Rahbar Ghoib Fayzullo Sabouri Furmuli Badakhshi Baghlani Mazari Panjsheri Kabuli Herati Kohistani
 			}
 		radicalism = 10
-	}
-	uighur = {
-		color = {92 96 168}
-		first_names = { 
-			Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
-			}
-		last_names = {
-			Beg Khan
-			}
 	}
 	pashtun = {
 		color = {199 151 230}
@@ -1308,38 +1344,20 @@ iranian_turanian = {
 			Khan
 		}
 	}
-	hazara = {
-		color = {108 203 223}
+		kurdish = {
+		color = {254 189 17}
 		first_names = {
-			Ali Azim Jafar Mohammad Riza
-		}
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
 		last_names = {
-			Beg Khan
-		}
-	}
-	turkmen = {
-		color = {192 150 190}
-		first_names = {
-			Ahmed Haydar Mehmed Murad Nurberdi Qilich
-		}
-		last_names = {
-			Beg Khan
-		}
-	}
-	tatar = {
-		color = {45 87 99}
-		first_names = {
-			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
-		}
-		last_names = {
-			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+			Badirkhan Barzani Khan Shilak
 		}
 		radicalism = 10
 	}
-	
 	gypsy = {
 	color = {16 102 163}
-		first_names = { Amberline Belcher Baul Bavol Bersh Beval Bidshika Brishen Camlo Chik Cam Chaine Chal  Chavula Danior Dukker Durriken Durril Dangerfield Garridan Gillie Guibran Goliath Gilderoy Hezekiah Jal Javert Jibben Jivin Ker Lel Lennor Lendar Lensar Mander Merripen Mestipen  Major Nehemiah Pal Pattin Pias Pov Rye Stiggur Shadrack Silvanus Tas Tobar Tobbar Tawno Tem Terkari Vandlo Wen Wesh Yarb }
+		first_names = { Amberline Belcher Baul Bavol Bersh Beval Bidshika Brishen Camlo Chik Cam Chaine Chal Chavula Danior Dukker Durriken Durril Dangerfield Garridan Gillie Guibran Goliath Gilderoy Hezekiah Jal Javert Jibben Jivin Ker Lel Lennor Lendar Lensar Mander Merripen Mestipen  Major Nehemiah Pal Pattin Pias Pov Rye Stiggur Shadrack Silvanus Tas Tobar Tobbar Tawno Tem Terkari Vandlo Wen Wesh Yarb }
 		
 		last_names = { Petulengro Vardo-mescro Chumomisto Gry Balorengre Purrum Bedra-kero Camlo Mokkado Baremescre Baryor Beshaley Kaulo }
 		radicalism = 1
