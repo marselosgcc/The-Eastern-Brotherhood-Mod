@@ -19,8 +19,8 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	
-	dutch = { 
+	}
+	dutch = {
 		color = { 230 130 50}
 		first_names = { 
 			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
