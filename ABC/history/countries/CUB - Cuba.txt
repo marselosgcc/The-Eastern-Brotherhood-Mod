@@ -1,14 +1,15 @@
 capital = 2209
-primary_culture = caribeno
+primary_culture = cubanische
+culture = karibik
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_order
-literacy = 0.17
+literacy = 0.15
 civilized = yes
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
@@ -37,11 +38,11 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = generic_conservative
+ruling_party = generic_liberal
 upper_house = {
 	fascist = 0
-	liberal = 26
-	conservative = 48
+	liberal = 46
+	conservative = 28
 	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
