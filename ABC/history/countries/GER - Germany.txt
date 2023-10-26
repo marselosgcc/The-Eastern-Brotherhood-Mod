@@ -1,11 +1,13 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
+culture = rhinelander
+culture = swiss_german
 culture = volga_german
 religion = protestant
 government = absolute_monarchy
 plurality = 0.15
-nationalvalue = nv_order
+nationalvalue = nv_equality
 literacy = 0.87
 civilized = yes
 is_releasable_vassal = no
