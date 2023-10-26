@@ -2196,7 +2196,7 @@
 
 	soldiers = {
 		culture = sicilian
-		religion = catholic
+		religion = sunni
 		size = 2000
 	}
 
