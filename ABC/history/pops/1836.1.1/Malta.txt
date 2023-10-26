@@ -41,13 +41,13 @@
 	artisans = {
 		culture = maltese
 		religion = catholic
-		size = 5500
+		size = 15500
 	}
 
 	soldiers = {
 		culture = maltese
 		religion = sunni
-		size = 340
+		size = 15340
 	}
 
 	farmers = {
