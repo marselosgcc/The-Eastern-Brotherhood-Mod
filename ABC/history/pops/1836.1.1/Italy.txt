@@ -1922,66 +1922,66 @@
 	}
 	
 	farmers = {
-		culture = greek
+		culture = griko
 		religion = orthodox
 		size = 4500
 	}
 }
 #Calabria-Basilicata Region (1488000)
-#under the rule of Two Sicilies in 1836
+#under the rule of Naples and Emirate of Sicily in 1836
 #Reggio (572000/143000 POPS)
 759 = {
 	aristocrats = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 1450
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
-		size = 119700
+		size = 59700
 	}
 	
 	farmers = {
-		culture = albanian
+		culture = griko
 		religion = orthodox
-		size = 6000
+		size = 66000
 	}
 	
 	farmers = {
-		culture = greek
-		religion = orthodox
+		culture = griko
+		religion = sunni
 		size = 2000
 	}
 }
@@ -2060,150 +2060,154 @@
 #Palermo (744000/186000 POPS)
 762 = {
 	aristocrats = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 5200
 	}
 
 	bureaucrats = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 825
 	}
 
 	officers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 1900
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = shiite
 		size = 8000
 	}
 
 	soldiers = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
-		size = 143125
+		size = 123125
 	}
 	
 	farmers = {
-		culture = albanian
-		religion = orthodox
-		size = 4450
+		culture = siqiliya
+		religion = sunni
+		size = 104450
 	}
 }
 #Messina (352000/88000 POPS)
 763 = {
 	aristocrats = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 2450
 	}
 
 	clergymen = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 900
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 8500
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 73150
 	}
-	
 	farmers = {
-		culture = albanian
+		culture = siqiliya
+		religion = sunni
+		size = 23150
+	}
+	farmers = {
+		culture = griko
 		religion = orthodox
-		size = 2000
+		size = 12000
 	}
 	
 }
 #Catania (720000/180000 POPS)
 764 = {
 	aristocrats = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 5000
 	}
 
 	clergymen = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 700
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = sicilian
+		religion = catholic
+		size = 20000
+	}
+
+	artisans = {
+		culture = griko
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_italian
+		culture = griko
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = south_italian
+		culture = sicilian
 		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = south_italian
-		religion = catholic
+		culture = siqiliya
+		religion = sunni
 		size = 141000
 	}
 	
 	farmers = {
-		culture = greek
+		culture = griko
 		religion = orthodox
 		size = 1000
 	}

@@ -1,40 +1,40 @@
 #Malta - 120000
-#Ruled by Britain 1836
+#Ruled by Malta Pirates 1836
 #Valetta (110000/27500 POPS)
 854 = {
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = maltese
+		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = maltese
+		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = maltese
+		religion = catholic
 		size = 150
 	}
 
 	aristocrats = {
 		culture = maltese
-		religion = catholic
+		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = maltese
-		religion = catholic
+		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
 		culture = maltese
-		religion = catholic
+		religion = sunni
 		size = 275
 	}
 
@@ -46,13 +46,13 @@
 
 	soldiers = {
 		culture = maltese
-		religion = catholic
+		religion = sunni
 		size = 340
 	}
 
 	farmers = {
 		culture = maltese
-		religion = catholic
+		religion = sunni
 		size = 20475
 	}
 
