@@ -426,39 +426,7 @@ italian = {
 	
 	union = ITA
 }
-american_german = { 
-        leader = european 
-        unit = EuropeanGC
-    karibik = { 
-         color = { 162 112 10} 
-         first_names = { Anton Berg Mario Weber Juan Müller Schmidt Jose Fischer Wagner Manuel Becker Schneider Franziska Carlos Keller Laur Huber Michael Richter Rachel Schmitt David Zimmermann Eleno Braun Peter Hofmann Martin Schulz Jakob Fischer Carlo Vogel Karl Maier Patrick Lange } 
-  
-         last_names = { García López Pérez Schmidt Bauer Müller Cohen Levy Goldman Rodríguez Martínez Sánchez Fernández Wagner Hofer Weber Steinberg Rosenblatt Schwartz Silverman Weissman "von Habsburg" "de la Fuente" "de los Santos" "von Habsburg-Styria"} 
-         } 
-    cubanische = { 
-         color = { 40 23 10} 
-         first_names = { Karl Klaus Rudolf Stefan Eduard Friedrich Günther Heinrich Siegfried Walter Gerhard Herbert Leonhard Matthias Norbert Rainer Viktor Alfred Arnold Bernhard } 
-         last_names = { von Trapp" Gruber "von Stroheim" Leitner "von Trüapp" Berger "von Willeit" Schwarz "von Dornbüll" Eder "von Hochstein" Hofer "von Lindenbaum" Maurer "von Wolkenstein" Pichler "von Teufel" Wagner "von Falkenrath" } 
-     }
-	panamaisch = {
-	    color = { 222 63 36 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Gustav Georg Günther Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
-		
-		last_names = { "von der Aa" "von Assendelft" 
-			Boetge Boumeester "von Bronkhorst" Batenburg Bentinck Boreel Brandt "von Brederode" Brouwer Buyskes "von Braam Houckgeest"
-			"von der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
-            "von Culemborg" Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "von Diemen" "von der Does" "von Duivenvoorde" Ellis Engels Engelvaart "von Egmont" Evertzen Fabius Gregory "von Galen" "de Grouwe" "von Geen" "von Ham" "von Haren" "von Heemskerck" "von Heutsz" "Cort-Heyligers" "de Houtman" "von Huchtenbroek"  "von Ilpendam" Köhler Kool Kruys Kater "von Keppel" Kortenaer
-			List Lucas Michiels "von Marnix" Martena "de Moor" "Melvill von Carnbee" Nepveu Nachtegaal "von Nieuwenaar" "von Noort" Ongerboer "von Pallandt" Rijk Röell "von Raephorst" "von Rechteren" Reijersen "von Renesse" "von Riebeeck" "de Rijk" "von Rossum" Sabron "Schimmelpenninck von der Oye" "von Saksen-Weimar" "von Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel Steltman Stuyvesant Tasman "von Troyen" Trip "von Dambenoy" "von den Bosch" "von der Heijden" "von Hoensbroeck" "von Oranje-Nassau" "von Swieten"  "von Vredenburch" Verspijck Vetter Weitzel "von Utenhove" "von Walbeeck" "von Wassenaer" "von der Werff" "von Wesembeke" "von Wingle" "von der Wijck" "von Wijngaarden" "de Winter" Wolterbeek}
-	}
-    araukaner = { 
-         color = { 43 116 153} 
-         first_names = { Jan Peter Hans Dirk Wilhelm Heinrich Hendrik Anton Georg Jürgen Andreas Albert Johan Gerhard Friedrich Martin Eberhard Klaus Hermann Jochen } 
-		 
-         last_names = { Müller "Von Windisch" "Von Schmidt" Schneider Schulz Schmidt Fischer "Von Meier" Hoffmann Koch Lehmann "Von Kruger" "Von Hoffmann" "Von Wagner" Wagner Schuster Zimmermann "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Yermak Zaitsev } 
-     } 
- }
+
 iberian = {
 	leader = southamerican
 	unit = SpanishGC
@@ -3210,3 +3178,36 @@ anglo_saxon = {
 	    last_names = { Aiken Aslam Bagaut Danil Cynewulf Ecgberht Wulfric Cyneheard Leofric Fedor Ivan Karim Mirz Mustaf Petrov "Af Wessex" Smirn Sult Turgan "Af Godwin" "Af Kent" "Af Wuffingas" "Af Arthur" Umar Volkov Yakub Yermak Zaitsev }
     }
 }
+american_german = { 
+    leader = european
+	unit = EuropeanGC
+    karibik = { 
+         color = { 162 112 10} 
+         first_names = { Anton Berg Mario Weber Juan Müller Schmidt Jose Fischer Wagner Manuel Becker Schneider Franziska Carlos Keller Laur Huber Michael Richter Rachel Schmitt David Zimmermann Eleno Braun Peter Hofmann Martin Schulz Jakob Fischer Carlo Vogel Karl Maier Patrick Lange } 
+  
+         last_names = { García López Pérez Schmidt Bauer Müller Cohen Levy Goldman Rodríguez Martínez Sánchez Fernández Wagner Hofer Weber Steinberg Rosenblatt Schwartz Silverman Weissman "von Habsburg" "de la Fuente" "de los Santos" "von Habsburg-Styria"} 
+         } 
+    cubanische = { 
+         color = { 40 23 10} 
+         first_names = { Karl Klaus Rudolf Stefan Eduard Friedrich Günther Heinrich Siegfried Walter Gerhard Herbert Leonhard Matthias Norbert Rainer Viktor Alfred Arnold Bernhard } 
+         last_names = { von Trapp" Gruber "von Stroheim" Leitner "von Trüapp" Berger "von Willeit" Schwarz "von Dornbüll" Eder "von Hochstein" Hofer "von Lindenbaum" Maurer "von Wolkenstein" Pichler "von Teufel" Wagner "von Falkenrath" } 
+     }
+	panamaisch = {
+	    color = { 222 63 36 }
+		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
+		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Gustav Georg Günther Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
+		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		
+		last_names = { "von der Aa" "von Assendelft" 
+			Boetge Boumeester "von Bronkhorst" Batenburg Bentinck Boreel Brandt "von Brederode" Brouwer Buyskes "von Braam Houckgeest"
+			"von der Capellen" Chassé Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
+            "von Culemborg" Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "von Diemen" "von der Does" "von Duivenvoorde" Ellis Engels Engelvaart "von Egmont" Evertzen Fabius Gregory "von Galen" "de Grouwe" "von Geen" "von Ham" "von Haren" "von Heemskerck" "von Heutsz" "Cort-Heyligers" "de Houtman" "von Huchtenbroek"  "von Ilpendam" Köhler Kool Kruys Kater "von Keppel" Kortenaer
+			List Lucas Michiels "von Marnix" Martena "de Moor" "Melvill von Carnbee" Nepveu Nachtegaal "von Nieuwenaar" "von Noort" Ongerboer "von Pallandt" Rijk Röell "von Raephorst" "von Rechteren" Reijersen "von Renesse" "von Riebeeck" "de Rijk" "von Rossum" Sabron "Schimmelpenninck von der Oye" "von Saksen-Weimar" "von Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel Steltman Stuyvesant Tasman "von Troyen" Trip "von Dambenoy" "von den Bosch" "von der Heijden" "von Hoensbroeck" "von Oranje-Nassau" "von Swieten"  "von Vredenburch" Verspijck Vetter Weitzel "von Utenhove" "von Walbeeck" "von Wassenaer" "von der Werff" "von Wesembeke" "von Wingle" "von der Wijck" "von Wijngaarden" "de Winter" Wolterbeek}
+	}
+    araukaner = { 
+         color = { 43 116 153} 
+         first_names = { Jan Peter Hans Dirk Wilhelm Heinrich Hendrik Anton Georg Jürgen Andreas Albert Johan Gerhard Friedrich Martin Eberhard Klaus Hermann Jochen } 
+		 
+         last_names = { Müller "Von Windisch" "Von Schmidt" Schneider Schulz Schmidt Fischer "Von Meier" Hoffmann Koch Lehmann "Von Kruger" "Von Hoffmann" "Von Wagner" Wagner Schuster Zimmermann "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Yermak Zaitsev } 
+     } 
+ }
