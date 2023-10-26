@@ -947,6 +947,22 @@ levantine = {
 		}
 		radicalism = 10
 	}
+	griko = {
+		color = { 122  180  210 }
+		first_names = { Alecos Arkadios Bartholomaios NNikos Augustus Dimitri Yannis Kostas Georgios Panos 
+		Stefanos Vasilis Pavlos Andreas Giorgos Spyros Theo Antonis 
+		Kiriakos Konstantinos Anastasios Thanasis Kyriakos Julius
+		}
+
+		last_names = { Charalambis Christakis-Zografos 	"Di Giorgio" "La Rosa" "Deluca" "Conte"
+		Danglis Dousmanis Foumis Greco Romani Silva Oliveira 
+		Hatzianestis Kallergis Kanaris Katsimiros "De Angelis" "Lo Presti"
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Cosentino Spanò Martino Pugliese Zappia Greco Lombardo Caruso "De Luca" Morelli Napolitano Provenzano Sorrentino Giordano
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+		radicalism = 25
+	}
 	georgian = {
 		color = {128 207 128}
 		first_names = { Akaki Alexander Andria Bagrat Besarion David Dimitri Eduard Ekvtime Evgeni
