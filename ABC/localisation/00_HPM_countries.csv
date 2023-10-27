@@ -2521,13 +2521,16 @@ TUS_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;x
 TUS_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
 TUS_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;x
 TUS_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
-UIL;The New American Alliance;;;;;;;;;;;;x;;;
-UIL_proletarian_dictatorship;The New American Republic;;;;;;;;;;;;x
-UIL_fascist_dictatorship;New America;;;;;;;;;;;;x
-UIL_presidential_dictatorship;New America;;;;;;;;;;;;x
-UIL_absolute_monarchy;The Kingdom of New America;;;;;;;;;;;;x
-UIL_prussian_constitutionalism;The Kingdom of New America;;;;;;;;;;;;x
-UIL_ADJ;New American;;;;;;;;;;;;x;;;
+UIL;Haudenosaunee;;;;;;;;;;;;x
+UIL_ADJ;Iroquois;;;;;;;;;;;;x
+UIL_democracy;The Haudenosaunee;;;;;;;;;;;;x
+UIL_presidential_dictatorship;Guyusaniyasti Eyusti;;;;;;;;;;;;x
+UIL_bourgeois_dictatorship;Guyusaniyasti eyusti;;;;;;;;;;;;x
+UIL_absolute_monarchy;The Purple Banner;;;;;;;;;;;;x
+UIL_prussian_constitutionalism;The Purple Banner;;;;;;;;;;;;x
+UIL_hms_government;The Purple Banner;;;;;;;;;;;;x
+UIL_fascist_dictatorship;Restauration Amadisgi Front;;;;;;;;;;;;x
+UIL_proletarian_dictatorship;Haudenosaunee Soviet Republic;;;;;;;;;;;;x
 UIL_reactionary;New American Party;;;;;;;;;;;;;x
 UIL_conservative;New Democratic Party;;;;;;;;;;;;;x
 UIL_liberal;New Republican Party;;;;;;;;;;;;;x
