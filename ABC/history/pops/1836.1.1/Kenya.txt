@@ -4,91 +4,91 @@
 2024 = {
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 925
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 475
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 2400
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 43700
 	}
 
 	aristocrats = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	clergymen = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 550
 	}
 
 	soldiers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	farmers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 10025
 	}
 
 	aristocrats = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	clergymen = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	soldiers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 3650
 	}
 }
@@ -96,67 +96,67 @@
 2026 = {
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 4625
 	}
 
 	aristocrats = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	clergymen = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	artisans = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	soldiers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	farmers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 2700
 	}
 
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 }
@@ -164,97 +164,97 @@
 2027 = {
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 400
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 7350
 	}
 
 	aristocrats = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	clergymen = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	artisans = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 650
 	}
 
 	soldiers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 175
 	}
 
 	farmers = {
 		culture = maasai
-		religion = animist
+		religion = fetishist
 		size = 11725
 	}
 
 	aristocrats = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	clergymen = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	artisans = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 400
 	}
 
 	soldiers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	farmers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 7300
 	}
 
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 3000
 	}
 }
@@ -263,67 +263,67 @@
 2028 = {
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 375
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 775
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 20350
 	}
 
 	aristocrats = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 375
 	}
 
 	clergymen = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	artisans = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	farmers = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 18225
 	}
 
 	slaves = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 7000
 	}
 }
@@ -333,31 +333,31 @@
 2025 = {
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 650
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 11875
 	}
 	
@@ -425,37 +425,37 @@
 
 	aristocrats = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	clergymen = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	soldiers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 3650
 	}
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 }
@@ -463,31 +463,31 @@
 2032 = {
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 650
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 375
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 1750
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 350
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 31875
 	}
 
@@ -587,37 +587,37 @@
 
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 175
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 9125
 	}
 
 	slaves = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 3000
 	}
 }
@@ -655,37 +655,37 @@
 
 	aristocrats = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 225
 	}
 
 	clergymen = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	artisans = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 600
 	}
 
 	soldiers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	farmers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 10925
 	}
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 }
@@ -694,31 +694,31 @@
 2033 = {
 	aristocrats = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 475
 	}
 
 	clergymen = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	artisans = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 1300
 	}
 
 	soldiers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	farmers = {
 		culture = kikuyu
-		religion = animist
+		religion = fetishist
 		size = 23725
 	}
 

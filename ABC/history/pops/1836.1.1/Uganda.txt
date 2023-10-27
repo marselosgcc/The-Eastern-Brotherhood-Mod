@@ -4,7 +4,7 @@
 2019 = {
 	aristocrats = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 1000
 	}
 	
@@ -22,7 +22,7 @@
 
 	officers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 	
@@ -40,7 +40,7 @@
 
 	artisans = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 1800
 	}
 	
@@ -52,7 +52,7 @@
 
 	soldiers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 1000
 	}
 	
@@ -64,7 +64,7 @@
 
 	farmers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 48025
 	}
 	
@@ -76,37 +76,37 @@
 
 	aristocrats = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 575
 	}
 
 	clergymen = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	artisans = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 1500
 	}
 
 	soldiers = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	farmers = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 10325
 	}
 
 	slaves = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 7000
 	}
 }
@@ -114,37 +114,37 @@
 2020 = {
 	aristocrats = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 650
 	}
 
 	clergymen = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 350
 	}
 
 	artisans = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 1650
 	}
 
 	soldiers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 1350
 	}
 
 	farmers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 41920
 	}
 	
 	farmers = {
 		culture = ruanda
-		religion = animist
+		religion = fetishist
 		size = 4000
 	}
 	
@@ -156,37 +156,37 @@
 
 	slaves = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 4000
 	}
 
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 350
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 175
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 725
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 8550
 	}
 }
@@ -218,49 +218,49 @@
 	
 	artisans = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 1450
 	}
 	
 	farmers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 3700
 	}
 
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 4000
 	}
 
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 375
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 775
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 20450
 	}
 }
@@ -268,31 +268,31 @@
 2022 = {
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 375
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 775
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 24450
 	}
 
@@ -322,7 +322,7 @@
 
 	farmers = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 5075
 	}
 	
@@ -334,7 +334,7 @@
 
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 3300
 	}
 }
@@ -342,13 +342,13 @@
 2023 = {
 	aristocrats = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 275
 	}
 
 	clergymen = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 	
@@ -366,13 +366,13 @@
 
 	artisans = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 575
 	}
 
 	soldiers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 	
@@ -384,7 +384,7 @@
 
 	farmers = {
 		culture = baganda
-		religion = animist
+		religion = fetishist
 		size = 52850
 	}
 	
@@ -396,25 +396,25 @@
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 1900
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 4400
 	}
 
 	artisans = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 	
 	slaves = {
 		culture = lacustrine_bantu
-		religion = animist
+		religion = fetishist
 		size = 6000
 	}
 

@@ -4,31 +4,31 @@
 2068 = {
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 275
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 750
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 13675
 	}
 	
@@ -52,31 +52,31 @@
 
 	aristocrats = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	clergymen = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	soldiers = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	farmers = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 1800
 	}
 }
@@ -84,31 +84,31 @@
 2069 = {
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 450
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 1200
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 21850
 	}
 }
@@ -116,61 +116,61 @@
 2070 = {
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 425
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 225
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 225
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 20025
 	}
 
 	aristocrats = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	clergymen = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	soldiers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	farmers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 1800
 	}
 }
@@ -178,91 +178,91 @@
 2635 = {
 	aristocrats = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	clergymen = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	soldiers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 5525
 	}
 
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 10
 	}
 
 	clergymen = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	artisans = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	soldiers = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 15
 	}
 
 	farmers = {
 		culture = sena
-		religion = animist
+		religion = fetishist
 		size = 900
 	}
 }
@@ -284,91 +284,91 @@
 	
 	aristocrats = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 10
 	}
 
 	officers = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 40
 	}
 
 	clergymen = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	artisans = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 1200
 	}
 
 	soldiers = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 8050
 	}
 
 	farmers = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 29000
 	}
 
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 5400
 	}
 
 	artisans = {
 		culture = sotho
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	soldiers = {
 		culture = sotho
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = sotho
-		religion = animist
+		religion = fetishist
 		size = 6650
 	}
 }
@@ -388,91 +388,91 @@
 	
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 200
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 400
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 10950
 	}
 
 	aristocrats = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	clergymen = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	soldiers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	farmers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 9150
 	}
 
 	aristocrats = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 20
 	}
 
 	clergymen = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 30
 	}
 
 	artisans = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	soldiers = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = nguni
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 }
@@ -498,61 +498,61 @@
 	
 	aristocrats = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	clergymen = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	soldiers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 25
 	}
 
 	farmers = {
 		culture = shona
-		religion = animist
+		religion = fetishist
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 300
 	}
 
 	clergymen = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	artisans = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 800
 	}
 
 	soldiers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 175
 	}
 
 	farmers = {
 		culture = southern_bantu
-		religion = animist
+		religion = fetishist
 		size = 14575
 	}
 
