@@ -1,7 +1,7 @@
 capital = 576
-primary_culture = south_german
+primary_culture = rhinelander
 culture = north_german
-culture = rhinelander
+culture = south_german
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
