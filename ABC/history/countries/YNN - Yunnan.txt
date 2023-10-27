@@ -1,6 +1,7 @@
 capital = 1602
 primary_culture = nanfaren
 culture = hanhui
+culture = yue
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0

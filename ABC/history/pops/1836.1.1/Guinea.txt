@@ -34,7 +34,7 @@
 
 	slaves = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 6000
 	}
 }
@@ -116,7 +116,7 @@
 
 	slaves = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 6000
 	}
 }
@@ -220,7 +220,7 @@
 
 	slaves = {
 		culture = mande
-		religion = animist
+		religion = fetishist
 		size = 10000
 	}
 }
@@ -320,7 +320,7 @@
 
 	slaves = {
 		culture = mande
-		religion = animist
+		religion = fetishist
 		size = 4500
 	}
 }
@@ -359,37 +359,37 @@
 
 	aristocrats = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	soldiers = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	farmers = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 24550
 	}
 
 	slaves = {
 		culture = western_nigritic
-		religion = animist
+		religion = fetishist
 		size = 5000
 	}
 

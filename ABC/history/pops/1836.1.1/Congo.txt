@@ -4,37 +4,37 @@
 1977 = {
 	aristocrats = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1750
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 4000
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1000
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 72250
 	}
 
 	slaves = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 20000
 	}
 }
@@ -42,37 +42,37 @@
 1978 = {
 	aristocrats = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 750
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1750
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 26500
 	}
 
 	slaves = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 10000
 	}
 }
@@ -80,43 +80,43 @@
 2624 = {
 	aristocrats = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1500
 	}
 	
 	bureaucrats = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 400
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 750
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 3250
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 1000
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 53500
 	}
 
 	slaves = {
 		culture = bakongo
-		religion = animist
+		religion = fetishist
 		size = 20000
 	}
 }
@@ -125,31 +125,31 @@
 1980 = {
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 125
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 350
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 6375
 	}
 }
@@ -157,37 +157,37 @@
 1981 = {
 	aristocrats = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 150
 	}
 
 	clergymen = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	artisans = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 400
 	}
 
 	soldiers = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 
 	farmers = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 7300
 	}
 	
 	slaves = {
 		culture = ubangian
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 }
