@@ -19,7 +19,7 @@ start_date = 1836.1.1
 end_date = 1939.1.1
 }
 vassal = { 
-first = ENG
+first = ENL
  
 second = CAN 
 
@@ -28,7 +28,7 @@ start_date = 1836.1.1
 end_date = 1936.1.1 
 }
 substate = { 
-first = ENG 
+first = ENL
 
 second = EIC
 
