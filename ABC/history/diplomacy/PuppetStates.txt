@@ -18,7 +18,7 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
-dominion = { 
+vassal = { 
 first = ENL
  
 second = CAN 
@@ -45,7 +45,7 @@ start_date = 1836.1.1
 
 end_date = 1936.1.1 
 }
-substate = { 
+vassal = { 
 first = NET
 
 second = INO
@@ -53,4 +53,13 @@ second = INO
 start_date = 1836.1.1
 
 end_date = 1936.1.1 
- }
+}
+vassal = { 
+first = SAX
+
+second = ANH
+
+start_date = 1836.1.1
+
+end_date = 1936.1.1 
+}
