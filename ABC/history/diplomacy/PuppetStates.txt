@@ -63,3 +63,20 @@ start_date = 1836.1.1
 
 end_date = 1936.1.1 
 }
+vassal = { 
+first = WES
+
+second = HAM
+
+start_date = 1836.1.1
+
+end_date = 1936.1.1 
+}
+first = WES
+
+second = BRE
+
+start_date = 1836.1.1
+
+end_date = 1936.1.1 
+}

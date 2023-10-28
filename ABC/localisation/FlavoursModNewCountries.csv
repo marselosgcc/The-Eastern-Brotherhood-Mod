@@ -13,9 +13,6 @@ MLI_dominion;French Soudan;;;;;;;;;;;;;x,
 OMA_absolute_monarchy;Muscat-Oman;;;;;;;;;;;;x
 OMA_prussian_constitutionalism;Muscat-Oman;;;;;;;;;;;;x
 OMA_hms_government;Muscat-Oman;;;;;;;;;;;;;x,
-SAR_absolute_monarchy;The Kingdom of Sardinia;;;;;;;;;;;;x
-SAR_prussian_constitutionalism;The Kingdom of Sardinia;;;;;;;;;;;;x
-SAR_hms_government;The Kingdom of Sardinia;;;;;;;;;;;;;x,
 CHH_ADJ;Ponwar;;;;;;;;;;;;x
 CHH;Chhatarpur;;;;;;;;;;;;x
 REW_ADJ;Rewah;;;;;;;;;;;;x
@@ -239,7 +236,6 @@ HND_colonial_company;The Raj;;;;;;;;;;;;x,
 HND_dominon;The Dominion of India;;;;;;;;;;;;x,
 TCA_colonial_company;Kavkaz Namestnik;;;;;;;;;;;;;x,
 DAI_colonial_company;Indochine;;;;;;;;;;;;;x
-INO_colonial_company;Oost-Indie;;;;;;;;;;;;;x
 LSK_colonial_company;Alyaska;;;;;;;;;;;;;x
 PPG_colonial_company;Neuguinea;;;;;;;;;;;;;x
 MOZ_colonial_company;Mocambique;;;;;;;;;;;;;x

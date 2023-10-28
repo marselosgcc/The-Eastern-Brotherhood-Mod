@@ -69,16 +69,16 @@ TUS_prussian_constitutionalism;Italian Confederacy;;;;;;;;;;;;x
 TUS_hms_government;Italian Confederacy;;;;;;;;;;;;x
 TUS_fascist_dictatorship;Italian Social Republic;;;;;;;;;;;;x
 TUS_proletarian_dictatorship;Tuscany Soviet Republic;;;;;;;;;;;;x
-SIC;Naples;;;;;;;;;;;;x
-SIC_ADJ;Neapolitan;;;;;;;;;;;;x
-SIC_democracy;Naples;;;;;;;;;;;;x
-SIC_presidential_dictatorship;Naples;;;;;;;;;;;;x
-SIC_bourgeois_dictatorship;Naples;;;;;;;;;;;;x
-SIC_absolute_monarchy;Kingdom of Naples;;;;;;;;;;;;x
-SIC_prussian_constitutionalism;Kingdom of Naples;;;;;;;;;;;;x
-SIC_hms_government;Kingdom of Naples;;;;;;;;;;;;x
-SIC_fascist_dictatorship;Social Republic of Naples;;;;;;;;;;;;x
-SIC_proletarian_dictatorship;Naples Popular Republic;;;;;;;;;;;;x
+SYC;Sicily;;;;;;;;;;;;x
+SYC_ADJ;Neapolitan;;;;;;;;;;;;x
+SYC_democracy;Sicily;;;;;;;;;;;;x
+SYC_presidential_dictatorship;Sicily;;;;;;;;;;;;x
+SYC_bourgeois_dictatorship;Sicily;;;;;;;;;;;;x
+SYC_absolute_monarchy;Kingdom of Sicily;;;;;;;;;;;;x
+SYC_prussian_constitutionalism;Kingdom of Sicily;;;;;;;;;;;;x
+SYC_hms_government;Kingdom of Sicily;;;;;;;;;;;;x
+SYC_fascist_dictatorship;Social Republic of Sicily;;;;;;;;;;;;x
+SYC_proletarian_dictatorship;Sicily Popular Republic;;;;;;;;;;;;x
 CAL;Biyana;;;;;;;;;;;;x
 CAL_ADJ;Biyanian;;;;;;;;;;;;x
 CAL_democracy;Biyanian Free Republic;;;;;;;;;;;;x
@@ -159,3 +159,23 @@ INO_prussian_constitutionalism;Wilwatikta;;;;;;;;;;;;x
 INO_hms_government;NeoMahapit Empire;;;;;;;;;;;;x
 INO_fascist_dictatorship;Hindu Legion of Wilwatikta;;;;;;;;;;;;x
 INO_proletarian_dictatorship;SR of Java and Sumatra;;;;;;;;;;;;x
+MOD;Ferrara-Modena;;;;;;;;;;;;x
+MOD_ADJ;Romagnan;;;;;;;;;;;;x
+MOD_democracy;Romagnan Republic;;;;;;;;;;;;x
+MOD_presidential_dictatorship;Italic Republic of Romagna;;;;;;;;;;;;x
+MOD_bourgeois_dictatorship;Romagnan Republic;;;;;;;;;;;;x
+MOD_absolute_monarchy;Ferrara-Modena;;;;;;;;;;;;x
+MOD_prussian_constitutionalism;Ferrara-Modena;;;;;;;;;;;;x
+MOD_hms_government;Ferrara-Modena;;;;;;;;;;;;x
+MOD_fascist_dictatorship;Nacional State of Romagna;;;;;;;;;;;;x
+MOD_proletarian_dictatorship;SR of Romagna;;;;;;;;;;;;x
+SYC;Emirate of Sicily;;;;;;;;;;;;x
+SYC_ADJ;Siculian;;;;;;;;;;;;x
+SYC_democracy;Sicily;;;;;;;;;;;;x
+SYC_presidential_dictatorship;Sicily;;;;;;;;;;;;x
+SYC_bourgeois_dictatorship;Sicily;;;;;;;;;;;;x
+SYC_absolute_monarchy;Emirate of Sicily;;;;;;;;;;;;x
+SYC_prussian_constitutionalism;Emirate of Sicily;;;;;;;;;;;;x
+SYC_hms_government;Sultanate of Sicily;;;;;;;;;;;;x
+SYC_fascist_dictatorship;State of Sicily;;;;;;;;;;;;x
+SYC_proletarian_dictatorship;Sicily Soviet Republic;;;;;;;;;;;;x
