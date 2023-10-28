@@ -314,6 +314,7 @@ telegraph;Telegraph;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 REMOVE_MONEY_EFFECT;Lose §R$VALUE$¤§W.\n;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MONEY_EFFECT;Funds §R$VALUE$§W¤§W.\n;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 pirate_government_ruler;Black Prince;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+federal_democracy_ruler;Chanceler;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 theocracy_ruler;Your Holiness;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 proletarian_dictatorship_ruler;Chairman;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 presidential_dictatorship_ruler;President;;;;;;;;;;;;;;;;;;;x;;;;
@@ -321,7 +322,7 @@ bourgeois_dictatorship_ruler;Board Director;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 fascist_dictatorship_ruler;Supreme Leader;;;;;;;;;;;;;;;;;;x;;;;
 absolute_monarchy_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 prussian_constitutionalism_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-hms_government_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+hms_government_ruler;Prime Minister;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 democracy_ruler;President;;;;;;;;;;;;;;;;;;;x;;;;
 islamic_fundamentalists_title;Islamic Fundamentalists;;;;;;;;;;;;x,,,
 islamic_fundamentalists_name;Islamic Fundamentalists;;;;;;;;;;;;x,,,
@@ -332,6 +333,7 @@ artillery_production_desc;The Industrial Revolution of the 19th century affected
 australian;Australasian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 serfdom_not_abolished;Serfdom not abolished;;;;;;;;;;;;;;;;;;;;;;;;x
 pirate_government;Pirate Republic;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+federal_democracy;Federal Democracy;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 theocratic_government;Theocratic Government;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 communist_gov;Communist Regime;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 absolute_monarchy_gov;Absolute Monarchy;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,

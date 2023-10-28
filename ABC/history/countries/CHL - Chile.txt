@@ -1,10 +1,10 @@
 capital = 2324
-primary_culture = south_german
-religion = catholic
+primary_culture = araukaner
+religion = reformed
 government = democracy
 plurality = 20.0
 nationalvalue = nv_equality
-literacy = 0.12
+literacy = 0.35
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 3
@@ -29,7 +29,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 #New Reforms
-conscription = four_year_draft
+conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
 child_labor = child_labor_legal

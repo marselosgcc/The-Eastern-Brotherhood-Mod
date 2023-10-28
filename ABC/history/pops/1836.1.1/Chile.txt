@@ -4,31 +4,31 @@
 2305 = {
 	aristocrats = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 425
 	}
 
 	bureaucrats = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 25
 	}
 
 	officers = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 25
 	}
 
 	clergymen = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 150
 	}
 
 	artisans = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 400
 	}
 
@@ -40,7 +40,7 @@
 
 	farmers = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 6900
 	}
 
@@ -64,7 +64,7 @@
 
 	farmers = {
 		culture = aimara
-		religion = catholic
+		religion = reformed
 		size = 11225
 	}
 }
@@ -72,7 +72,7 @@
 2309 = {
 	aristocrats = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 175
 	}
 
@@ -96,7 +96,7 @@
 
 	farmers = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 2575
 	}
 
@@ -120,7 +120,7 @@
 
 	farmers = {
 		culture = aimara
-		religion = catholic
+		religion = reformed
 		size = 4700
 	}
 }
@@ -129,13 +129,13 @@
 2307 = {
 	aristocrats = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 175
 	}
 
 	clergymen = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 50
 	}
 
@@ -153,13 +153,13 @@
 
 	farmers = {
 		culture = south_andean
-		religion = catholic
+		religion = reformed
 		size = 1650
 	}
 
 	clergymen = {
 		culture = aimara
-		religion = catholic
+		religion = reformed
 		size = 50
 	}
 
@@ -242,26 +242,26 @@
 #Copiapo (52000/13000 POPS)
 2322 = {
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 275
 	}
 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 125
 	}
 
 	artisans = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 650
 	}
 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 1125
 	}
 
@@ -274,43 +274,43 @@
 #La Serena (64000/16000 POPS)
 2323 = {
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 100
 	}
 
 	officers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 25
 	}
 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 150
 	}
 
 	artisans = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 800
 	}
 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 175
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 18450
 	}
@@ -320,49 +320,49 @@
 #Santiago (420000/105000 POPS)
 2324 = {
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 2200
 	}
 
 	bureaucrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 500
 	}
 
 	officers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 175
 	}
 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 1050
 	}
 
 	artisans = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
-		size = 7500
+		size = 37500
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 7000
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 89775
 	}
@@ -370,102 +370,102 @@
 #Valparaiso (128000/32000 POPS)
 2325 = {
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 675
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 2000
 	}
 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 23000
 	}
 }
 #Vina del Mar (72000/18000 POPS)
 2326 = {
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 375
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 15550
 	}
 }
 #Talca (20000/5000 POPS)
 2327 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 4525
 	}
 }
@@ -474,44 +474,44 @@
 #Valdivia (92000/23000 POPS)
 2328 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 14550
 	}
 
@@ -548,33 +548,33 @@
 #Temuco (36000/9000 POPS)
 2329 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 250
+		culture = araukaner
+		religion = reformed
+		size = 29250
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 4525
+		culture = araukaner
+		religion = reformed
+		size = 44525
 	}
 
 	aristocrats = {
@@ -603,71 +603,71 @@
 
 	farmers = {
 		culture = patagonian
-		religion = animist
+		religion = reformed
 		size = 3625
 	}
 }
 #Cauquenes (68000/17000 POPS)
 2330 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 14650
 	}
 }
 #Chillan (36000/9000 POPS)
 2331 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 6325
 	}
 
@@ -706,44 +706,44 @@
 #Osorno (68000/17000 POPS)
 2332 = {
 	aristocrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 15
 	}
 
 	officers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 10
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = araukaner
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = south_andean
-		religion = catholic
+		culture = araukaner
+		religion = reformed
 		size = 11800
 	}
 
@@ -762,7 +762,7 @@
 	artisans = {
 		culture = patagonian
 		religion = animist
-		size = 200
+		size = 10200
 	}
 
 	soldiers = {
