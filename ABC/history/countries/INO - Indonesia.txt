@@ -1,11 +1,12 @@
 capital = 1413
-primary_culture = javan
-religion = sunni
-government = democracy
+primary_culture = dutch
+culture = javan
+religion = reformed
+government = colonial_company
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.03
-civilized = yes
+civilized = no
 
 # Political reforms
 slavery = no_slavery
