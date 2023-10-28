@@ -1,5 +1,5 @@
-owner = LUD
-controller = LUD
-add_core = LUD
+owner = LUZ
+controller = LUZ
+add_core = LUZ
 trade_goods = fish
 life_rating = 0

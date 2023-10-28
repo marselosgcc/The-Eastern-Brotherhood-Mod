@@ -1014,11 +1014,6 @@ DAG_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 DAG_communist;Communist Party;;;;;;;;;;;;;x
 DAG_fascist;Fascist Party;;;;;;;;;;;;;x
 DAG_conservative;Conservative Party;;;;;;;;;;;;;x
-DAK;Dakota Republic;;;;;;;;;;;;x;;;
-DAK_ADJ;Dakotan;;;;;;;;;;;;x;;;
-DAK_absolute_monarchy;Dakota Commonwealth;;;;;;;;;;;;x;
-DAK_prussian_constitutionalism;Dakota Commonwealth;;;;;;;;;;;;x
-DAK_hms_government;Dakota Commonwealth;;;;;;;;;;;;;x
 DAK_reactionary;White Eagle Faction;;;;;;;;;;;;;x
 DAK_conservative;Traditionalists;;;;;;;;;;;;;x
 DAK_liberal;Republican Faction;;;;;;;;;;;;;x
@@ -2703,7 +2698,6 @@ YAK_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;
 YAK_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
 YAP;Yap;Yap;Yap;;;;;;;;;;;;x
 YAP_ADJ;Yapese;Yapese;Yapese;;;;;;;;;;;;x
-YNN_presidential_dictatorship;Yunnan Clique;Clique de Yunnan;Yunnan-Clique;;;;;;;;;;;x
 YUC;Yucatan;;;;;;;;;;;;;x
 YUC_ADJ;Yucatecan;;;;;;;;;;;;;x
 YUC_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;;x;;;;;;;;;;;;;;
