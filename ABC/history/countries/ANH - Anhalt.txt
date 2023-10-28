@@ -1,12 +1,12 @@
 capital = 555
 primary_culture = north_german
 religion = protestant
-government = absolute_monarchy
+government = colonial_company
 plurality = 25.0
-nationalvalue = nv_order
-literacy = 0.8
+nationalvalue = nv_equality
+literacy = 0.55
 civilized = yes
-prestige = 5
+prestige = 8
 
 # Political reforms
 slavery = no_slavery

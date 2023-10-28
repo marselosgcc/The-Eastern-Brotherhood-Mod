@@ -1,6 +1,6 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = WEI
+controller = WEI
+add_core = WEI
 add_core = GER
 trade_goods = timber
 life_rating = 0

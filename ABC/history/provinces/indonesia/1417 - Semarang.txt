@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = INO
+controller = INO
 trade_goods = fruit
 life_rating = 0
 colonial = 2
