@@ -1,125 +1,125 @@
 #Mosul Region (492000) #mashriqi-catholic = assyrian  
-#under the rule of Ottoman Empire in 1836  
+#under the rule of Assyria in 1836  
 #Mosul (228000/57000 POPS)
 923 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 325
 	}
 
 	bureaucrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 25
 	}
 
 	officers = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 150
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 650
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 1100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = syriac
 		size = 12000
 	}
 
 	aristocrats = {
 		culture = kurdish
-		religion = sunni
+		religion = yazidi
 		size = 300
 	}
 	
 	officers = {
 		culture = kurdish
-		religion = sunni
+		religion = yazidi
 		size = 100
 	}
 
 	clergymen = {
 		culture = kurdish
-		religion = sunni
+		religion = yazidi
 		size = 100
 	}
 
 	artisans = {
 		culture = kurdish
-		religion = sunni
-		size = 1100
+		religion = yazidi
+		size = 21100
 	}
 
 	soldiers = {
 		culture = kurdish
-		religion = sunni
-		size = 1100
+		religion = yazidi
+		size = 61100
 	}
 
 	farmers = {
 		culture = kurdish
-		religion = sunni
+		religion = yazidi
 		size = 18150
 	}
 	
 	farmers = {
 		culture = kurdish
-		religion = yazidi
+		religion = sunni
 		size = 8000
 	}
 	
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = assyrian
+		religion = syriac
 		size = 400
 	}
 	
 	officers = {
-		culture = turkish
-		religion = sunni
+		culture = assyrian
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = assyrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 1000
+		culture = assyrian
+		religion = catholic
+		size = 31000
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = mashriqi
+		religion = syriac
 		size = 1100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 4000
+		culture = assyrian
+		religion = catholic
+		size = 34000
 	}
 	
 	aristocrats = {
@@ -146,22 +146,22 @@
 		size = 100
 	}
 
-	artisans = {
+	farmers = {
 		culture = assyrian
-		religion = catholic
-		size = 1100
+		religion = syriac
+		size = 31100
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = catholic
-		size = 17325
+		size = 37325
 	}
 
 	slaves = {
-		culture = azerbaijani
-		religion = orthodox
-		size = 500
+		culture = kurdish
+		religion = yazidi
+		size = 5500
 	}
 }
 #Arbil (104000/26000 POPS)
@@ -227,25 +227,25 @@
 	}
 	
 	clergymen = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 600
 	}
 
 	farmers = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 1000
 	}
@@ -325,45 +325,45 @@
 	}
 
 	artisans = {
-		culture = kurdish
-		religion = sunni
-		size = 1600
+		culture = assyrian
+		religion = yazidi
+		size = 11600
 	}
 
 	soldiers = {
 		culture = kurdish
-		religion = sunni
-		size = 1100
+		religion = yazidi
+		size = 31000
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = sunni
-		size = 26625
+		size = 36625
 	}
 	
 	clergymen = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 1525
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = kurdish
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 2000
+		culture = assyrian
+		religion = syriac
+		size = 20000
 	}
 	
 	soldiers = {
@@ -380,7 +380,7 @@
 
 	artisans = {
 		culture = assyrian
-		religion = catholic
+		religion = syriac
 		size = 100
 	}
 
@@ -391,7 +391,7 @@
 	}
 }
 #Iraq Region (644000)
-#under the rule of Ottoman Empire in 1836
+#under the rule of Iraq in 1836
 #Baghdad (268000/67000 POPS)
 926 = {
 	aristocrats = {
@@ -413,9 +413,9 @@
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 4000
+		culture = assyrian
+		religion = syriac
+		size = 24000
 	}
 	
 	artisans = {
@@ -571,63 +571,63 @@
 #Samarra (92000/23000 POPS)
 927 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = assyrian
+		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 850
+		culture = assyrian
+		religion = syriac
+		size = 1850
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 175
+		culture = assyrian
+		religion = syriac
+		size = 6175
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 15475
+		culture = assyrian
+		religion = catholic
+		size = 45475
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = kurdish
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = kurdish
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 250
+		culture = kurdish
+		religion = catholic
+		size = 6250
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 75
+		culture = kurdish
+		religion = catholic
+		size = 8075
 	}
 
 	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5525
+		culture = kurdish
+		religion = yazidi
+		size = 35525
 	}
 }
 #Mendeli (84000/21000 POPS)

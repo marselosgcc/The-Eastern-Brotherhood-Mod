@@ -1,7 +1,7 @@
 capital = 860
 primary_culture = turkish
 culture = kurdish
-religion = sunni
+religion = manichaeism
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_autocracy
