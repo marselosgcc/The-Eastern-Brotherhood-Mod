@@ -1,5 +1,6 @@
 owner = SYC
 controller = SYC
 add_core = SYC
+add_core = SIC
 trade_goods = fish
 life_rating = 0
