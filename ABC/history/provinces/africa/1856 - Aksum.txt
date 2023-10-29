@@ -1,5 +1,5 @@
-owner = MED
-controller = MED
+owner = TIG
+controller = TIG
 add_core = ETH
 add_core = AWS
 trade_goods = cattle
