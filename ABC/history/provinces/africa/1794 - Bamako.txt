@@ -1,5 +1,5 @@
-owner = GBU
-controller = GBU
-add_core = GBU
+owner = SEG 
+controller = SEG 
+add_core = SEG 
 trade_goods = fruit
-life_rating = 0
+life_rating = 30
