@@ -1,5 +1,7 @@
-owner = POR
-controller = POR
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+add_core = KON
 trade_goods = fruit
-life_rating = 0
+life_rating = 35
 colonial = 2
