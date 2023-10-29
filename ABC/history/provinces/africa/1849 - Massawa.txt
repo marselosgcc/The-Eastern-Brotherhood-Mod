@@ -1,5 +1,7 @@
 owner = EGY
 controller = EGY
 add_core = EGY
+add_core = ETH
+add_core = MED
 trade_goods = fruit
-life_rating = 0
+life_rating = 30

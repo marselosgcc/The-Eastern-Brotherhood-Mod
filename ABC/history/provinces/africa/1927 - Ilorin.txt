@@ -1,5 +1,6 @@
-owner = SOK
-controller = SOK
+owner = ARO
+controller = ARO
+add_core = ARO
 add_core = SOK
 trade_goods = grain
-life_rating = 0
+life_rating = 35

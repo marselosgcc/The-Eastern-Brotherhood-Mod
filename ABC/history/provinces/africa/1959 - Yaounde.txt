@@ -1,5 +1,3 @@
-owner = AUS
-controller = AUS
 trade_goods = timber
-life_rating = 0
+life_rating = 35
 colonial = 2

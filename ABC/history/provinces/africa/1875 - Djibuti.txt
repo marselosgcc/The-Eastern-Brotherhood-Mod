@@ -1,5 +1,6 @@
-owner = ETH
-controller = ETH
+owner = AWS
+controller = AWS
 add_core = ETH
+add_core = AWS
 trade_goods = cattle
-life_rating = 0
+life_rating = 30

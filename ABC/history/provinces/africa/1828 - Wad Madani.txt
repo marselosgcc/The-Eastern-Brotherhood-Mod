@@ -1,5 +1,6 @@
 owner = EGY
 controller = EGY
+add_core = SUD 
 add_core = EGY
 trade_goods = grain
-life_rating = 0
+life_rating = 30
