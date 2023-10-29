@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = SIC
+controller = SIC
 trade_goods = fruit
-life_rating = 0
+life_rating = 30
 colonial = 2

@@ -1,5 +1,6 @@
-owner = LIE
-controller = LIE
+owner = LOR
+controller = LOR
+add_core = LOR
 add_core = LIE
 trade_goods = fish
-life_rating = 0
+life_rating = 30

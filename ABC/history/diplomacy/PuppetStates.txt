@@ -72,9 +72,37 @@ start_date = 1836.1.1
 
 end_date = 1936.1.1 
 }
+vassal = {
 first = WES
 
 second = BRE
+
+start_date = 1836.1.1
+
+end_date = 1936.1.1 
+}
+vassal = {
+first = SPC
+
+second = LIE
+
+start_date = 1836.1.1
+
+end_date = 1885.8.9 
+}
+substate = {
+first = ETH
+
+second = AWS
+
+start_date = 1836.1.1
+
+end_date = 1936.1.1 
+}
+substate = {
+first = ETH
+
+second = MED
 
 start_date = 1836.1.1
 

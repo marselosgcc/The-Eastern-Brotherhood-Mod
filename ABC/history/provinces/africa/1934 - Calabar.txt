@@ -1,5 +1,5 @@
-owner = BEN
-controller = BEN
+owner = SIC
+controller = SIC
 add_core = BEN
 trade_goods = fish
-life_rating = 0
+life_rating = 30

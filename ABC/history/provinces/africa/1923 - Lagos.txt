@@ -1,5 +1,5 @@
-owner = ARO
-controller = ARO
-add_core = ARO
+owner = SIC
+controller = SIC
+add_core = OYO
 trade_goods = fish
 life_rating = 35
