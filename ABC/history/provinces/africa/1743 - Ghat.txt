@@ -1,6 +1,7 @@
-owner = HAN
-controller = HAN
-add_core = HAN
+owner = WES
+controller = WES
+add_core = WES
 add_core = GER
+add_core = NET
 trade_goods = cattle
 life_rating = 0

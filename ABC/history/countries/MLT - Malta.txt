@@ -4,7 +4,7 @@ religion = sunni
 government = pirate_government
 plurality = 0.12
 nationalvalue = nv_equality
-literacy = 0.50
+literacy = 0.99
 civilized = yes
 
 
