@@ -1,5 +1,5 @@
-owner = GBU
-controller = GBU
-add_core = GBU
+owner = JAL
+controller = JAL
+add_core = JAL
 trade_goods = fruit
 life_rating = 0

@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = BEN
+controller = BEN
+add_core = BEN
 trade_goods = grain
-life_rating = 0
+life_rating = 30

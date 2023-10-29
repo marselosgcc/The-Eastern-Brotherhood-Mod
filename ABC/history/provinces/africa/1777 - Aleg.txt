@@ -1,5 +1,5 @@
-owner = TOO
-controller = TOO
-add_core = TOO
+owner = TRZ
+controller = TRZ
+add_core = TRZ
 trade_goods = wool
-life_rating = 0
+life_rating = 35

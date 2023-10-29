@@ -1,5 +1,3 @@
-owner = LUX
-controller = LUX
-add_core = LUX
+add_core = TRZ
 trade_goods = iron
-life_rating = 0
+life_rating = 20

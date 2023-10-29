@@ -1,5 +1,3 @@
-owner = LUX
-controller = LUX
-add_core = LUX
+add_core = ALD
 trade_goods = grain
-life_rating = 0
+life_rating = 15

@@ -1,5 +1,4 @@
-owner = LUX
-controller = LUX
-add_core = LUX
-trade_goods = fish
-life_rating = 0
+add_core = LIE
+add_core = TRZ
+trade_goods = precious_metal
+life_rating = 15

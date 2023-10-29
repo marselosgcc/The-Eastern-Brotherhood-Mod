@@ -1,5 +1,3 @@
-owner = MLI
-controller = MLI
-add_core = MLI
+add_core = TRZ
 trade_goods = wool
-life_rating = 0
+life_rating = 15
