@@ -1,5 +1,5 @@
 owner = URU
 controller = URU
 add_core = URU
-trade_goods = wool
+trade_goods = coal
 life_rating = 0
