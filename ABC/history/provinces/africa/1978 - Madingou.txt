@@ -1,3 +1,5 @@
+owner = LOA
+controller = LOA
+add_core = LOA
 trade_goods = iron
-life_rating = 0
-colonial = 1
+life_rating = 30
