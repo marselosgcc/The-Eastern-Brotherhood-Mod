@@ -3236,10 +3236,11 @@ american_german = {
 			"von Troyen" Trip "von Dambenoy" "von den Bosch" "von der Heijden" "von Hoensbroeck" "von Oranje-Nassau" "von Swieten"  "von Vredenburch" Verspijck Vetter Weitzel "von Utenhove" "von Walbeeck" "von Wassenaer" "von der Werff" "von Wesembeke" "von Wingle" "von der Wijck" "von Wijngaarden" "de Winter" Wolterbeek }
 	}
     araukaner = { 
-         color = { 43 116 153} 
+         color = {43 116 153} 
          first_names = { Jan Peter Hans Dirk Karl Julius Leopold Lothar Wilhelm Pepin Heinrich Hendrik Anton Georg Jürgen Andreas Martel Albert Johan Gerhard Friedrich Carlos Martin Eberhard Klaus Hermann Jochen } 
 		 
-         last_names = { Müller "Von Windisch" "Von Schmidt" Schneider Schulz Schmidt Fischer "Von Meier" Hoffmann Koch Lehmann "Von Kruger" "Von Hoffmann" "Von Wagner" Wagner Schuster Zimmermann
-		 "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Maksen Zait } 
+         last_names = { Müller "Von Windisch" "Von Schmidt" Schneider Schulz Schmidt Fischer "Von Meier" Hoffmann
+		      Koch Lehmann "Von Kruger" "Von Hoffmann" "Von Wagner" Wagner Schuster Zimmermann
+		      "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Maksen Zait } 
     }
 }
