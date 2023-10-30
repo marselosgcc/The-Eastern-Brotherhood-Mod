@@ -404,13 +404,6 @@ DAG_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 DAG_communist;Communist Party;;;;;;;;;;;;;x
 DAG_fascist;Fascist Party;;;;;;;;;;;;;x
 DAG_conservative;Royal Faction;;;;;;;;;;;;;x
-DAK_reactionary;White Eagle Faction;;;;;;;;;;;;;x
-DAK_conservative;Traditionalists;;;;;;;;;;;;;x
-DAK_liberal;Republican Faction;;;;;;;;;;;;;x
-DAK_anarcho_liberal;Libertarian Faction;;;;;;;;;;;;;x
-DAK_socialist;Socialist Faction;;;;;;;;;;;;;x
-DAK_communist;Communist Faction;;;;;;;;;;;;;x
-DAK_fascist;Eastward Restorationists;;;;;;;;;;;;;x
 DJA;Jambi;;;;;;;;;;;;;x
 DJA_ADJ;Jambi;;;;;;;;;;;;;x
 DLM;Dalmatia;;;;;;;;;;;;;x
@@ -618,14 +611,6 @@ IBR_prussian_constitutionalism;The Iberian Empire;;;;;;;;;;;;;x,
 IBR_hms_government;The Iberian Empire;;;;;;;;;;;;;x,
 IBR;Iberia;;;;;;;;;;;;;x
 IBR_ADJ;Iberian;;;;;;;;;;;;;x
-INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;;;x
-INO_conservative;Royal Faction;;;;;;;;;;;;x
-INO_liberal;The Liberal Faction;;;;;;;;;;;;x
-INO_reactionary;The Nationalist Faction;;;;;;;;;;;;x
-INO_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
-INO_socialist;The Socialist Faction;;;;;;;;;;;;x
-INO_communist;The Communist Faction;;;;;;;;;;;;x
-INO_fascist;The Fascist Faction;;;;;;;;;;;;x
 IOM;Isle of Man;Île de Man;Isle of Man;;Isle of Man;;;;;;;;;x
 IOM_ADJ;Manx;Mannois;Mannisch;Manés;;;;;;;;;x
 IOM_liberal;Liberal Party;Liberal Party;Liberal Party;;Liberal Party;;;;;;;;;;;x
@@ -883,10 +868,6 @@ LOM_communist;Rivoluzionari;Rivoluzionari;Rivoluzionari;;Rivoluzio nari;;;;;;;;;
 LOM_reactionary_2;Cattolici;Cattolici;Cattolici;;C attolici;;;;;;;;;x
 LOM_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
 LOM_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
-LOR;Lorraine;;;;;;;;;;;;;x
-LOR_ADJ;Lorrainian;;;;;;;;;;;;;;x
-LOR_fascist_dictatorship;Lotharingia;;;;;;;;;;;;;x
-LOR_fascist_dictatorship_ADJ;Lotharingian;;;;;;;;;;;;;x
 LOS;Los Altos;;;;;;;;;;;;;x
 LOS_ADJ;Losaltan;;;;;;;;;;;;;x
 LOS_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -993,15 +974,6 @@ MLY_hms_government;Malay Federation;;;;;;;;;;;;x
 MLY_absolute_monarchy_ADJ;Malay;;;;;;;;;;;;x
 MLY_prussian_constitutionalism_ADJ;Malay;;;;;;;;;;;;x
 MLY_hms_government_ADJ;Malay;;;;;;;;;;;;x
-MOD_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;x
-MOD_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;x
-MOD_liberal;Riformisti ;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;x
-MOD_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;x
-MOD_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;; x
-MOD_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;x
-MOD_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
-MOD_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;x
-MOD_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
 MOZ;Mozambique;;;;;;;;;;;;x
 MOZ_ADJ;Mozambican;;;;;;;;;;;;x
 MRS;Marshall Islands;Marshall Islands;Marshall Islands;;;;;;;;;;;;x
@@ -1315,15 +1287,6 @@ SAA_conservative_2;Konservative Partei;Konservative Partei;Konservative Partei;;
 SAA_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SAA_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SAA_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SAR_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;x
-SAR_conservative;Moderati;Moderati ;Moderati;;Moderati ;;;;;;;;;x
-SAR_liberal;Riformisti;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;x
-SAR_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;x
-SAR_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;; x
-SAR_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;x
-SAR_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
-SAR_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;x
-SAR_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
 SAS;South Australia;South Australia;South Australia;;;;;;;;;;;x
 SAS_ADJ;South Australian;South Australian;South Australian;;;;;;;;;;;x
 SAS_conservative;Conservative Faction;Conservative Faction;Conservative Faction;;;;;;;;;;;x
@@ -1687,15 +1650,6 @@ TUR_anarcho_liberal;Osmanli Ahrar Firkasi;;;;;;;;;;;;;x
 TUR_fascist;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;x
 TUR_fascist_2;Türk Ocagi;;;;;;;;;;;;;x
 TUR_fascist_3;Milli Firka;;;;;;;;;;;;;x
-TUS_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;x
-TUS_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;x
-TUS_liberal;Riformisti ;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;x
-TUS_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;x
-TUS_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;; x
-TUS_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;x
-TUS_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
-TUS_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;x
-TUS_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
 UIL;The New American Alliance;;;;;;;;;;;;x;;;
 UIL_proletarian_dictatorship;The New American Republic;;;;;;;;;;;;x
 UIL_fascist_dictatorship;New America;;;;;;;;;;;;x
