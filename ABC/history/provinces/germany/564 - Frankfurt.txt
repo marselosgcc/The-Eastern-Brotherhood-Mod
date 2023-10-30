@@ -2,5 +2,5 @@ owner = BAV
 controller = BAV
 add_core = BAV
 add_core = GER
-trade_goods = fruit
-life_rating = 0
+trade_goods = iron
+life_rating = 35
