@@ -84,10 +84,6 @@ zoroastrian_group = {
         icon = 22
         color = { 0.7 0.2 0.1 }
     }
-    manichaeism = {
-        icon = 22
-        color = { 0.5 0 0.2 }
-    }
 }
 
 yazidi_group = {
