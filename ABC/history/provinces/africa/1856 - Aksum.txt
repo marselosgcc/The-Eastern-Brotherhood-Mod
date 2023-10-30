@@ -1,6 +1,6 @@
 owner = TIG
 controller = TIG
 add_core = ETH
-add_core = AWS
+add_core = TIG
 trade_goods = cattle
 life_rating = 30
