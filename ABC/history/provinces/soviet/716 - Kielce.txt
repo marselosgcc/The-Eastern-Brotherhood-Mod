@@ -1,5 +1,5 @@
 owner = POL
 controller = POL
 add_core = POL
-trade_goods = wool
-life_rating = 0
+trade_goods = iron
+life_rating = 35
