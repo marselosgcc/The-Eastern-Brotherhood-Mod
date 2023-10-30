@@ -1,5 +1,6 @@
-owner = POL
-controller = POL
+owner = KRA
+controller = KRA
 add_core = POL
+add_core = KRA
 trade_goods = coal
-life_rating = 0
+life_rating = 35
