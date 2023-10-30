@@ -1,5 +1,5 @@
 owner = ENL
 controller = ENL
 add_core = ENL
-trade_goods = sulphur
-life_rating = 0
+trade_goods = iron
+life_rating = 35
