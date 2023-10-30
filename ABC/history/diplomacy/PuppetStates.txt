@@ -90,7 +90,7 @@ start_date = 1836.1.1
 
 end_date = 1885.8.9 
 }
-substate = {
+vassal = {
 first = ETH
 
 second = AWS
@@ -108,7 +108,7 @@ start_date = 1836.1.1
 
 end_date = 1865.5.1 
 }
-substate = {
+vassal = {
 first = ETH
 
 second = HAR
