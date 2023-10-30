@@ -264,15 +264,6 @@ SAA_conservative_2;Konservative Partei;Konservative Partei;Konservative Partei;;
 SAA_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SAA_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SAA_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SAR_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;x
-SAR_conservative;Moderati;Moderati ;Moderati;;Moderati ;;;;;;;;;x
-SAR_liberal;Riformisti;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;x
-SAR_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;x
-SAR_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;; x
-SAR_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;x
-SAR_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
-SAR_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;x
-SAR_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
 MRU_conservative;The Maritimes Conservatives;;;;;;;;;;;;;x
 MRU_socialist;Socialist Party of the Maritimes;;;;;;;;;;;;;x
 MRU_reactionary;Maritimes Tories;;;;;;;;;;;;;x
