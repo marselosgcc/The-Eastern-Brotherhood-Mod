@@ -8,9 +8,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_icon_religion"
 		texturefile = "gfx\\interface\\icon_religion.dds"
-		noOfFrames = 18
+		noOfFrames = 27
 		norefcount = yes
 	}
+
 	spriteType = {
 		name = "GFX_modifier_icons"
 		texturefile = "gfx\\interface\\modifiers.tga"
@@ -324,10 +325,4 @@ spriteTypes = {
 		borderSize = { x=94 y=94 }
 	}
 	
-	maskedShieldType = {
-		name = "GFX_topbarflag2"
-		textureFile1 = "gfx\\interface\\topbarflag_shadow2.tga"
-		textureFile2 = "gfx\\interface\\topbarflag_mask2.tga"
-		effectFile = "gfx\\FX\\maskedflag.fx"
-	}
 }
