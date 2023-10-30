@@ -1,5 +1,5 @@
 owner = SPC
 controller = SPC
 add_core = SPC
-trade_goods = grain
-life_rating = 0
+trade_goods = coal
+life_rating = 35

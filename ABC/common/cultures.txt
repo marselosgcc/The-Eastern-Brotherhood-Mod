@@ -2481,8 +2481,6 @@ african_diaspora_cultures = {
 		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 
 		}
 	}
-
-	
 }
 
 west_african = {
@@ -3188,7 +3186,7 @@ american_slavic = {
     	last_names = { Kowalski Nowak Wojcik "Wisniowiecki" Wozniak Dabrowski Mazur Jankowski Nowakowski Szymanski Wozniak Lasky "Piast" Goldstein Bernstein Rosenbaum Epstein Schwartzman Abramovich Kaganovich }
     }
     jugmoravian = {
-    	color = { 134, 221 120}  
+    	color = { 134 221 120}  
     	first_names = { Adam Adrian Andrej Antonij Blanka Danijel Filip Dmitri Dmitry Arpad Igor Miroslav Maximilian Tomislav Nikolaevich Petra Radek Sorov Veclav Iosefo }
 	
     	last_names = { Benesov Cerny Dolezalov Dimitriev Holub Kovic Kratochvil Krupa Marek Novicek Solarov Toman Vlask Zeman Arpad Goldstein Bernstein Abramovich "Andrijevic" "Von Auersperg" }
@@ -3236,11 +3234,12 @@ american_german = {
             "von Culemborg" Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "von Diemen" "von der Does" "von Duivenvoorde" Ellis Engels Engelvaart "von Egmont" Evertzen Fabius Gregory "von Galen" "de Grouwe" "von Geen" "von Ham" "von Haren" "von Heemskerck" "von Heutsz" "Cort-Heyligers" "de Houtman" "von Huchtenbroek"  "von Ilpendam" Köhler Kool Kruys Kater "von Keppel" Kortenaer
 			List Lucas Michiels "von Marnix" Martena "de Moor" "Melvill von Carnbee" Nepveu Nachtegaal "von Nieuwenaar" "von Noort" Ongerboer "von Pallandt" Rijk Röell "von Raephorst" "von Rechteren" Reijersen "von Renesse" "von Riebeeck" "de Rijk" "von Rossum" Sabron "Schimmelpenninck von der Oye" "von Saksen-Weimar" "von Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel Steltman Stuyvesant Tasman
 			"von Troyen" Trip "von Dambenoy" "von den Bosch" "von der Heijden" "von Hoensbroeck" "von Oranje-Nassau" "von Swieten"  "von Vredenburch" Verspijck Vetter Weitzel "von Utenhove" "von Walbeeck" "von Wassenaer" "von der Werff" "von Wesembeke" "von Wingle" "von der Wijck" "von Wijngaarden" "de Winter" Wolterbeek }
+	}
     araukaner = { 
          color = { 43 116 153} 
-         first_names = { Jan Peter Hans Dirk Wilhelm Heinrich Hendrik Anton Georg Jürgen Andreas Albert Johan Gerhard Friedrich Martin Eberhard Klaus Hermann Jochen } 
+         first_names = { Jan Peter Hans Dirk Karl Julius Leopold Lothar Wilhelm Pepin Heinrich Hendrik Anton Georg Jürgen Andreas Martel Albert Johan Gerhard Friedrich Carlos Martin Eberhard Klaus Hermann Jochen } 
 		 
          last_names = { Müller "Von Windisch" "Von Schmidt" Schneider Schulz Schmidt Fischer "Von Meier" Hoffmann Koch Lehmann "Von Kruger" "Von Hoffmann" "Von Wagner" Wagner Schuster Zimmermann
-		 "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Yermak Zaitsev } 
+		 "Von Braun" "Von Blom" "Von Weber" Krüger Becker Klein Schreiber Schröder Schwarz Vogel Maksen Zait } 
     }
 }
