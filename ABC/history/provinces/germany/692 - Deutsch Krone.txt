@@ -1,5 +1,7 @@
 owner = POL
 controller = POL
 add_core = POL
+add_core = POM
+add_core = PML
 trade_goods = grain
-life_rating = 0
+life_rating = 35

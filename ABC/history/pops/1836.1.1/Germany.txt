@@ -417,33 +417,45 @@
 #Neustrelitz (90000/22500 POPS)
 545 = {
 	aristocrats = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
-		size = 1125
+		size = 21250
 	}
-
+	
+	artisans = {
+		culture = western_slavic
+		religion = catholic
+		size = 5600
+	}
+	
 	soldiers = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 19950
+	}
+	
+    farmers = {
+		culture = pomeranian
+		religion = catholic
+		size = 21820
 	}
 }
 #Hannover Region (1288000)
@@ -1036,93 +1048,98 @@
 
 }
 #Pomerania Region (289000) #see Poland.txt for balance of region
-#under the rule of Prussia 1836
+#under the rule of Pomerania
 #Swinemunde (132000/33000 POPS)
 547 = {
 	aristocrats = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 300 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = north_german
-		religion = protestant
-		size = 1650
+		culture = pomeranian
+		religion = catholic
+		size = 5500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
-		size = 1000
+		size = 5000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
-		size = 29725
+		size = 39725
+	}
+	farmers = {
+		culture = pomeranian
+		religion = catholic
+		size = 5212
 	}
 }
 #Stralsund (157000/39250 POPS)
 548 = {
 	aristocrats = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 200 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 2350
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
-		size = 20250
+		size = 40250
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = pomeranian
 		religion = catholic
 		size = 150   
 	}
 
 	artisans = {
-		culture = north_german
+		culture = pomeranian
 		religion = catholic
 		size = 1400
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = pomeranian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = pomeranian
 		religion = catholic
-		size = 12450
+		size = 22450
 	}
 
 	clergymen = {
@@ -1134,7 +1151,7 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 245
+		size = 7450
 	}
 }
 #Brandenburg Region (1628000) #see Poland.txt for balance of region
