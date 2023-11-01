@@ -199,3 +199,13 @@ POM_prussian_constitutionalism;Kingdom of Pomerania;;;;;;;;;;;;x
 POM_hms_government;Kingdom of Pomerania;;;;;;;;;;;;x
 POM_fascist_dictatorship;Pomerania Volkstaat;;;;;;;;;;;;x
 POM_proletarian_dictatorship;Pomerania Soviet Republic;;;;;;;;;;;;x
+INC;Archbishop of Cusco;;;;;;;;;;;;x
+INC_ADJ;Quechuan;;;;;;;;;;;;x
+INC_democracy;Inca Republic;;;;;;;;;;;;x
+INC_presidential_dictatorship;Sapa Inca Regency;;;;;;;;;;;;x
+INC_bourgeois_dictatorship;Republic of Tawantinsuyu;;;;;;;;;;;;x
+INC_absolute_monarchy;Neo Inca State;;;;;;;;;;;;x
+INC_prussian_constitutionalism;Neo Inca State;;;;;;;;;;;;x
+INC_hms_government;Tawantinsuyu;;;;;;;;;;;;x
+INC_fascist_dictatorship;Reino del Dios Inti;;;;;;;;;;;;x
+INC_proletarian_dictatorship;Andine Peoples Republic;;;;;;;;;;;;x
