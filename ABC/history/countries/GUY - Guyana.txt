@@ -1,6 +1,7 @@
 capital = 2240
-primary_culture = afro_caribbean
+primary_culture = north_andean
 culture = afro_antillean
+culture = afro_caribbean
 culture = amazonian
 religion = protestant
 government = democracy
