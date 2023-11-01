@@ -361,45 +361,51 @@
 #Schwerin (484000/121000 POPS)
 544 = {
 	aristocrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1225 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 275 
 	}
 
 	officers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 150 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1200 
 	}
 
 	artisans = {
-		culture = north_german
-		religion = protestant
+		culture = pomeranian
+		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1250 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 109800 
+	}
+	
+	farmers = {
+		culture = pomeranian
+		religion = protestant
+		size = 45000 
 	}
 
 	clergymen = {
@@ -1159,50 +1165,50 @@
 #Berlin (772000/193000 POPS)
 549 = {
 	aristocrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1750 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 2700
 	}
 
 	officers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1200 
 	}
 
 	capitalists = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 75
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 1550 
 	}
 
 	clerks = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 600
 	}
 
 	craftsmen = {
-		culture = north_german
-		religion = protestant
+		culture = western_slavic
+		religion = catholic
 		size = 16525
 	}
 	
 	artisans = {
-		culture = north_german
-		religion = protestant
+		culture = western_slavic
+		religion = catholic
 		size = 40000
 	}
 
@@ -1213,43 +1219,43 @@
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 5000 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 106300
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
 		size = 50     
 	}
 
 	craftsmen = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
 		size = 50      
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
 		size = 3400      
 	}
@@ -1263,13 +1269,13 @@
 	clerks = {
 		culture = ashkenazi
 		religion = jewish
-		size = 50 
+		size = 10050 
 	}
 
 	craftsmen = {
-		culture = ashkenazi
+		culture = western_slavic
 		religion = jewish
-		size = 500 
+		size = 5000
 	}
 
 	artisans = {
@@ -1311,31 +1317,31 @@
 #Prenzlau (280000/70000 POPS)
 550 = {
 	aristocrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 700 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 675
 	}
 
 	artisans = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 2400 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 62500
 	}
@@ -1343,31 +1349,31 @@
 #Pritzwalk (232000/58000 POPS)
 551 = {
 	aristocrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 550 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 575
 	}
 
 	artisans = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 3000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 51875
 	}
@@ -1375,13 +1381,13 @@
 #Cottbus (344000/86000 POPS)
 552 = {
 	aristocrats = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 750 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
 		size = 400
 	}
@@ -1392,34 +1398,34 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = north_german
+	craftsmen = {
+		culture = western_slavic
 		religion = protestant
-		size = 3000
+		size = 33000
 	}
 	
 	artisans = {
-		culture = north_german
-		religion = catholic
-		size = 1300
+		culture = western_slavic
+		religion = protestant
+		size = 53000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = protestant
-		size = 2000
+		size = 7000
 	}
 
 	farmers = {
-		culture = north_german
-		religion = protestant
+		culture = western_slavic
+		religion = catholic
 		size = 20000
 	}
 	
 	farmers = {
 		culture = western_slavic
 		religion = protestant
-		size = 35000
+		size = 55000
 	}
 
 	clergymen = {
@@ -1429,15 +1435,15 @@
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = western_slavic
 		religion = catholic
-		size = 50
+		size = 5000
 	}
 
 	farmers = {
 		culture = western_slavic
 		religion = catholic
-		size = 13100     
+		size = 23100     
 	}
 }
 #Anhalt Region (1527000) 

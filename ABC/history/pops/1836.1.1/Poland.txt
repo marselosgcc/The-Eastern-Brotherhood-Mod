@@ -221,36 +221,42 @@
 #Kustrin (208000/52000 POPS) #Part of Poland since 1945
 681 = {
 	aristocrats = {
-		culture = polish
+		culture = western_slavic
 		religion = protestant
 		size = 525 
 	}
 
 	clergymen = {
-		culture = polish
-		religion = protestant
-		size = 450 
+		culture = western_slavic
+		religion = catholic
+		size = 2450 
 	}
 
 	artisans = {
-		culture = polish
+		culture = western_slavic
 		religion = protestant
 		size = 2400
 	}
 
 	soldiers = {
-		culture = polish
-		religion = protestant
+		culture = western_slavic
+		religion = catholic
 		size = 2000
 	}
 
 	farmers = {
-		culture = polish
+		culture = western_slavic
 		religion = protestant
 		size = 46425
 	}
 
 	farmers = {
+		culture = western_slavic
+		religion = catholic
+		size = 9000
+	}
+	
+	craftsmen = {
 		culture = western_slavic
 		religion = protestant
 		size = 5000
@@ -259,7 +265,7 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 200
+		size = 10200
 	}
 }
 #Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
