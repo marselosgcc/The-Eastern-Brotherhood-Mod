@@ -1,14 +1,14 @@
 capital = 2172
-primary_culture = mexican
-culture = central_american
+primary_culture = central_american
+culture = mexican
 religion = catholic
-government = colonial_company
+government = dominion
 plurality = 25.0
-nationalvalue = nv_order
-literacy = 0.03
+nationalvalue = nv_equality
+literacy = 0.25
 non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 3
+prestige = 9
 
 
 # Political reforms

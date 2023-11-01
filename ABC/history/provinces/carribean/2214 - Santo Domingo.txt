@@ -1,5 +1,5 @@
-owner = PRU
-controller = PRU
+owner = SPC
+controller = SPC
 trade_goods = tobacco
 life_rating = 35
 colonial = 2
