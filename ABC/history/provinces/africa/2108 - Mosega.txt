@@ -2,4 +2,4 @@ owner = TRN
 controller = TRN
 add_core = TRN
 trade_goods = grain
-life_rating = 0
+life_rating = 30

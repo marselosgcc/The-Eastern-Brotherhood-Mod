@@ -1,4 +1,5 @@
 owner = WOL
 controller = WOL
+add_core = WOL
 trade_goods = fruit
 life_rating = 30

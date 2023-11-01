@@ -1,10 +1,10 @@
 capital = 690
 primary_culture = pomeranian
 religion = orthodox
-government = dominion
+government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_liberty
-literacy = 0.6
+literacy = 0.75
 civilized = yes
 
 # Political reforms

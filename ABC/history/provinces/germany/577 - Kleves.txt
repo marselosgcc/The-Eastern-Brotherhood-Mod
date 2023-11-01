@@ -3,4 +3,4 @@ controller = NET
 add_core = NET
 add_core = GER
 trade_goods = coal
-life_rating = 0
+life_rating = 35

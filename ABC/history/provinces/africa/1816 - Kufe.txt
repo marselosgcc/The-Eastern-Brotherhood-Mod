@@ -2,4 +2,4 @@ owner = KBO
 controller = KBO
 add_core = KBO
 trade_goods = grain
-life_rating = 0
+life_rating = 30

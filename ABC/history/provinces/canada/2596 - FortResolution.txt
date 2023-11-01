@@ -1,3 +1,3 @@
 trade_goods = fish
-life_rating = 0
+life_rating = 235
 colonial = 1

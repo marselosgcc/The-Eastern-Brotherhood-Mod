@@ -1,5 +1,5 @@
 owner = POR
 controller = POR
 trade_goods = coal
-life_rating = 0
+life_rating = 30
 colonial = 2

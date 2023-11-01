@@ -2,4 +2,4 @@ owner = DAR
 controller = DAR
 add_core = DAR
 trade_goods = cotton
-life_rating = 0
+life_rating = 30

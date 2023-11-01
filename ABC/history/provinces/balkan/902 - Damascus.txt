@@ -2,4 +2,4 @@ owner = SYR
 controller = SYR
 add_core = SYR
 trade_goods = grain
-life_rating = 0
+life_rating = 35

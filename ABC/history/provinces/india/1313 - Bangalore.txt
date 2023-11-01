@@ -1,4 +1,4 @@
 owner = EIC
 controller = EIC
 trade_goods = fruit
-life_rating = 0
+life_rating = 35
