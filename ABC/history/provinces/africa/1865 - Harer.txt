@@ -1,6 +1,7 @@
 owner = HAR
 controller = HAR
 add_core = HAR
-add_core = ETH
+add_core = SHW
+add_core = GEL
 trade_goods = coffee
 life_rating = 30
