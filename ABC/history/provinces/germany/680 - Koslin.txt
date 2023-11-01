@@ -1,5 +1,7 @@
-owner = LUZ
-controller = LUZ
+owner = POM
+controller = POM
 add_core = LUZ
+add_core = POL
+add_core = PML
 trade_goods = grain
-life_rating = 0
+life_rating = 35

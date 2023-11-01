@@ -182,10 +182,20 @@ SYC_proletarian_dictatorship;Sicily Soviet Republic;;;;;;;;;;;;x
 ANG;Ndongo;;;;;;;;;;;;x
 ANG_ADJ;Angolan;;;;;;;;;;;;x
 ANG_democracy;Free Republic of Angola;;;;;;;;;;;;x
-ANG_presidential_dictatorship;Ngola;;;;;;;;;;;;x
+ANG_presidential_dictatorship;Ndongo;;;;;;;;;;;;x
 ANG_bourgeois_dictatorship;Ndongo Republic;;;;;;;;;;;;x
-ANG_absolute_monarchy;Kingdom of Ngola;;;;;;;;;;;;x
-ANG_prussian_constitutionalism;Kingdom of Ngola;;;;;;;;;;;;x
+ANG_absolute_monarchy;Kingdom of Ndongo;;;;;;;;;;;;x
+ANG_prussian_constitutionalism;Kingdom of Ndongo;;;;;;;;;;;;x
 ANG_hms_government;Kingdom of Ndongo;;;;;;;;;;;;x
 ANG_fascist_dictatorship;State of Angola;;;;;;;;;;;;x
 ANG_proletarian_dictatorship;Angola SSR;;;;;;;;;;;;x
+POM;Dominion of Pomerania;;;;;;;;;;;;x
+POM_ADJ;Pomeranian;;;;;;;;;;;;x
+POM_democracy;United States of Pomerania;;;;;;;;;;;;x
+POM_presidential_dictatorship;Pomerania;;;;;;;;;;;;x
+POM_bourgeois_dictatorship;Pomerania Free Republic;;;;;;;;;;;;x
+POM_absolute_monarchy;Duchy of Pomerania;;;;;;;;;;;;x
+POM_prussian_constitutionalism;Kingdom of Pomerania;;;;;;;;;;;;x
+POM_hms_government;Kingdom of Pomerania;;;;;;;;;;;;x
+POM_fascist_dictatorship;Pomerania Volkstaat;;;;;;;;;;;;x
+POM_proletarian_dictatorship;Pomerania Soviet Republic;;;;;;;;;;;;x
