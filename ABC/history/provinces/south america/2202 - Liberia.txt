@@ -1,5 +1,6 @@
-owner = NIC
-controller = NIC
-add_core = NIC
+owner = SPC
+controller = SPC
+add_core = VNS
+add_core = COS
 trade_goods = fruit
 life_rating = 35

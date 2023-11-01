@@ -1,5 +1,7 @@
 owner = HON
 controller = HON
 add_core = HON
+add_core = VNS
+add_core = MSK
 trade_goods = timber
 life_rating = 35

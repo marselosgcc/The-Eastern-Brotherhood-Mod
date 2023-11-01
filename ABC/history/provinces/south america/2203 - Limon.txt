@@ -1,5 +1,6 @@
-owner = NIC
-controller = NIC
-add_core = NIC
+owner = VNS
+controller = VNS
+add_core = VNS
+add_core = COS
 trade_goods = coffee
 life_rating = 35
