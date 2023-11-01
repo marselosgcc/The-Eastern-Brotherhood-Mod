@@ -1,5 +1,8 @@
-owner = ETH
-controller = ETH
+owner = SHW
+controller = SHW
 add_core = ETH
+add_core = SHW
+add_core = HAR 
+add_core = GEL
 trade_goods = grain
-life_rating = 0
+life_rating = 30

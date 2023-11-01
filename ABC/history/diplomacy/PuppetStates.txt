@@ -90,15 +90,6 @@ start_date = 1836.1.1
 
 end_date = 1885.8.9 
 }
-vassal = {
-first = ETH
-
-second = AWS
-
-start_date = 1836.1.1
-
-end_date = 1936.1.1 
-}
 substate = {
 first = ETH
 
@@ -109,7 +100,7 @@ start_date = 1836.1.1
 end_date = 1865.5.1 
 }
 vassal = {
-first = ETH
+first = GEL
 
 second = HAR
 
