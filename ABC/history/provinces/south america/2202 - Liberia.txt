@@ -1,5 +1,5 @@
-owner = SPC
-controller = SPC
+owner = VNS
+controller = VNS
 add_core = VNS
 add_core = COS
 trade_goods = fruit
