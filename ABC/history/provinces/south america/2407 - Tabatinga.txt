@@ -1,5 +1,5 @@
-owner = COS
-controller = COS
-add_core = COS
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = timber
 life_rating = 35
