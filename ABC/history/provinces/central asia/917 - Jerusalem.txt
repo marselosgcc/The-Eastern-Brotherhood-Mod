@@ -2,4 +2,4 @@ owner = PLS
 controller = PLS
 add_core = PLS
 trade_goods = grain
-life_rating = 0
+life_rating = 35

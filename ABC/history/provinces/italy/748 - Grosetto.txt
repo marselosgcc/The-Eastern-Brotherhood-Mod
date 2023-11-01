@@ -2,4 +2,4 @@ owner = TUS
 controller = TUS
 add_core = TUS
 trade_goods = cattle
-life_rating = 0
+life_rating = 35

@@ -4,4 +4,4 @@ add_core = WES
 add_core = GER
 add_core = NET
 trade_goods = cattle
-life_rating = 0
+life_rating = 30

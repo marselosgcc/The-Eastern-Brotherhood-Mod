@@ -2,4 +2,4 @@ owner = GEL
 controller = GEL
 add_core = GEL
 trade_goods = grain
-life_rating = 0
+life_rating = 30

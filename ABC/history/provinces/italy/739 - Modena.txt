@@ -4,4 +4,4 @@ add_core = PAR
 add_core = TUS
 add_core = MOD
 trade_goods = iron
-life_rating = 0
+life_rating = 35

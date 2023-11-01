@@ -3,5 +3,5 @@ controller = OMA
 add_core = OMA 
 add_core= ZAN
 trade_goods = grain
-life_rating = 0
+life_rating = 30
 colonial = 2

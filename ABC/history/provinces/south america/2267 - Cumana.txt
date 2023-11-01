@@ -2,4 +2,4 @@ owner = VNZ
 controller = VNZ
 add_core = VNZ
 trade_goods = coffee
-life_rating = 0
+life_rating = 35

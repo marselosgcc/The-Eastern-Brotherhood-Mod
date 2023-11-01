@@ -2,4 +2,4 @@ owner = GRE
 controller = GRE
 add_core = GRE
 trade_goods = cotton
-life_rating = 0
+life_rating = 35

@@ -2,4 +2,4 @@ owner = SRI
 controller = SRI
 add_core = SRI
 trade_goods = coffee
-life_rating = 0
+life_rating = 35

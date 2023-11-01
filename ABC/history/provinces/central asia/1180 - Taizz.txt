@@ -2,4 +2,4 @@ owner = YEM
 controller = YEM
 add_core = YEM
 trade_goods = coffee
-life_rating = 0
+life_rating = 35

@@ -2,4 +2,4 @@ owner = JAL
 controller = JAL
 add_core = JAL
 trade_goods = fruit
-life_rating = 0
+life_rating = 30

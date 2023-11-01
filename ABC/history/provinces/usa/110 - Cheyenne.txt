@@ -2,4 +2,4 @@ owner = DAK
 controller = DAK
 add_core = DAK
 trade_goods = grain
-life_rating = 0
+life_rating = 35
