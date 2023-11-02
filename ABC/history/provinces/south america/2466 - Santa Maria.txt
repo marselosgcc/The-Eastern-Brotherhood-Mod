@@ -1,5 +1,7 @@
 owner = URU
 controller = URU
 add_core = URU
+add_core = RGS
+add_core = BRZ
 trade_goods = timber
 life_rating = 35
