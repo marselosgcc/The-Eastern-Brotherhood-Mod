@@ -157,3 +157,13 @@ start_date = 1836.1.1
 	
 end_date = 1860.6.9
 }
+vassal = {
+	
+first = SCO
+	
+second = PTG
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
