@@ -1,6 +1,6 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner = LOR
+controller = LOR
+add_core = LOR
 add_core = GER
 trade_goods = iron
 life_rating = 35
