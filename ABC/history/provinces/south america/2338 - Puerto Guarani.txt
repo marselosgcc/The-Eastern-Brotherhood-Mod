@@ -1,5 +1,7 @@
 owner = LPL
 controller = LPL
 add_core = LPL
+add_core = ARC
+add_core = BOL
 trade_goods = fish
 life_rating = 35

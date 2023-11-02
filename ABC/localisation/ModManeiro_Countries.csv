@@ -209,12 +209,12 @@ INC_prussian_constitutionalism;Neo Inca State;;;;;;;;;;;;x
 INC_hms_government;Tawantinsuyu;;;;;;;;;;;;x
 INC_fascist_dictatorship;Reino del Dios Inti;;;;;;;;;;;;x
 INC_proletarian_dictatorship;Andine Peoples Republic;;;;;;;;;;;;x
-AMZ;Comarca do Grão Pará;;;;;;;;;;;;x
+AMZ;Comarca do Grao Para;;;;;;;;;;;;x
 AMZ_ADJ;Amazonense;;;;;;;;;;;;x
 AMZ_democracy;Amazonas;;;;;;;;;;;;x
-AMZ_presidential_dictatorship;Grão Pará;;;;;;;;;;;;x
+AMZ_presidential_dictatorship;Grao Para;;;;;;;;;;;;x
 AMZ_bourgeois_dictatorship;Amazonas;;;;;;;;;;;;x
-AMZ_absolute_monarchy;Comarca do Grão Pará;;;;;;;;;;;;x
+AMZ_absolute_monarchy;Comarca do Grao Para;;;;;;;;;;;;x
 AMZ_prussian_constitutionalism;Principado Grão Paraense;;;;;;;;;;;;x
 AMZ_hms_government;Principado do Amazonas e Pará;;;;;;;;;;;;x
 AMZ_fascist_dictatorship;Estado Integral do Amazonas;;;;;;;;;;;;x
@@ -229,3 +229,13 @@ LUZ_prussian_constitutionalism;Polabia;;;;;;;;;;;;x
 LUZ_hms_governmentPolabia;;;;;;;;;;;;x
 LUZ_fascist_dictatorship;Nová Hyperborea;;;;;;;;;;;;x
 LUZ_proletarian_dictatorship;Srbská SSR;;;;;;;;;;;;x
+URU;Uruguay;;;;;;;;;;;;x
+URU_ADJ;Gaucho;;;;;;;;;;;;x
+URU_democracy;Charruan Confederacy;;;;;;;;;;;;x
+URU_presidential_dictatorship;Charruan Confederacy;;;;;;;;;;;;x
+URU_bourgeois_dictatorship;Charruan Confederacy;;;;;;;;;;;;x
+URU_absolute_monarchy;Principado Oriental;;;;;;;;;;;;x
+URU_prussian_constitutionalism;Principado Oriental;;;;;;;;;;;;x
+URU_hms_government;Principado Oriental;;;;;;;;;;;;x
+URU_fascist_dictatorship;Uruguay;;;;;;;;;;;;x
+URU_proletarian_dictatorship;USSR;;;;;;;;;;;;x

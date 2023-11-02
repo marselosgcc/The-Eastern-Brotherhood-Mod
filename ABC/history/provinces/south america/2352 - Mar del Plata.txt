@@ -1,5 +1,7 @@
-owner = PTG
-controller = PTG
+owner = SCO
+controller = SCO
+add_core = LPL
+add_core = ARC
 add_core = PTG
 trade_goods = cattle
 life_rating = 35

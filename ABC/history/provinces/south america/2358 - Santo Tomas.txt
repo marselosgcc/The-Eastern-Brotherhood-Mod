@@ -1,5 +1,7 @@
 owner = LPL
 controller = LPL
 add_core = LPL
+add_core = ENT
+add_core = URU
 trade_goods = fruit
 life_rating = 35
