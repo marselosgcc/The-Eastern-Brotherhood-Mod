@@ -1,6 +1,6 @@
-owner = LPL
-controller = LPL
+owner = PTG
+controller = PTG
+add_core = PTG
 add_core = LPL
-add_core = ARC
 trade_goods = wool
 life_rating = 35

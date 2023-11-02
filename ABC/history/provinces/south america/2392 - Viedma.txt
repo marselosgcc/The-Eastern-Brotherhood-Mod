@@ -1,6 +1,6 @@
-owner = LPL
-controller = LPL
-add_core = LPL
+owner = PTG
+controller = PTG
+add_core = PTG
 trade_goods = iron
 life_rating = 35
 colonial = 2
