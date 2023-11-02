@@ -1,6 +1,7 @@
-owner = BEL
-controller = BEL
-add_core = BEL
+owner = LOR
+controller = LOR
+add_core = LOR
+add_core = LUX
 add_core = GER
 trade_goods = timber
 life_rating = 35
