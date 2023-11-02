@@ -1,8 +1,7 @@
-owner = LPL
-controller = LPL
+owner = ARC
+controller = ARC
 add_core = CHL
 add_core = LPL
-add_core = BOL
 add_core = ARC
 trade_goods = wool
 life_rating = 30

@@ -1,5 +1,5 @@
-owner = TUS
-controller = TUS
+owner = LOR
+controller = LOR
 trade_goods = timber
 life_rating = 35
 colonial = 2

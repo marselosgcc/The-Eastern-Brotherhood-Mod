@@ -1,5 +1,6 @@
-owner = SCO
-controller = SCO
+owner = LPL
+controller = LPL
+add_core = LPL
 trade_goods = iron
 life_rating = 35
 colonial = 2
