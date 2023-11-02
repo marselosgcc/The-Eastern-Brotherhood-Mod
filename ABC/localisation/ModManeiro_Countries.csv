@@ -189,7 +189,7 @@ ANG_prussian_constitutionalism;Kingdom of Ndongo;;;;;;;;;;;;x
 ANG_hms_government;Kingdom of Ndongo;;;;;;;;;;;;x
 ANG_fascist_dictatorship;State of Angola;;;;;;;;;;;;x
 ANG_proletarian_dictatorship;Angola SSR;;;;;;;;;;;;x
-POM;Dominion of Pomerania;;;;;;;;;;;;x
+POM;Pomerania;;;;;;;;;;;;x
 POM_ADJ;Pomeranian;;;;;;;;;;;;x
 POM_democracy;United States of Pomerania;;;;;;;;;;;;x
 POM_presidential_dictatorship;Pomerania;;;;;;;;;;;;x
@@ -209,3 +209,23 @@ INC_prussian_constitutionalism;Neo Inca State;;;;;;;;;;;;x
 INC_hms_government;Tawantinsuyu;;;;;;;;;;;;x
 INC_fascist_dictatorship;Reino del Dios Inti;;;;;;;;;;;;x
 INC_proletarian_dictatorship;Andine Peoples Republic;;;;;;;;;;;;x
+AMZ;Comarca do Grão Pará;;;;;;;;;;;;x
+AMZ_ADJ;Amazonense;;;;;;;;;;;;x
+AMZ_democracy;Amazonas;;;;;;;;;;;;x
+AMZ_presidential_dictatorship;Grão Pará;;;;;;;;;;;;x
+AMZ_bourgeois_dictatorship;Amazonas;;;;;;;;;;;;x
+AMZ_absolute_monarchy;Comarca do Grão Pará;;;;;;;;;;;;x
+AMZ_prussian_constitutionalism;Principado Grão Paraense;;;;;;;;;;;;x
+AMZ_hms_government;Principado do Amazonas e Pará;;;;;;;;;;;;x
+AMZ_fascist_dictatorship;Estado Integral do Amazonas;;;;;;;;;;;;x
+AMZ_proletarian_dictatorship;DPR of Amazonas;;;;;;;;;;;;x
+LUZ;Polabia;;;;;;;;;;;;x
+LUZ_ADJ;Polabian;;;;;;;;;;;;x
+LUZ_democracy;Sorabia;;;;;;;;;;;;x
+LUZ_presidential_dictatorship;Regency Council of Polabia;;;;;;;;;;;;x
+LUZ_bourgeois_dictatorship;Sorabia;;;;;;;;;;;;x
+LUZ_absolute_monarchy;Polabia;;;;;;;;;;;;x
+LUZ_prussian_constitutionalism;Polabia;;;;;;;;;;;;x
+LUZ_hms_governmentPolabia;;;;;;;;;;;;x
+LUZ_fascist_dictatorship;Nová Hyperborea;;;;;;;;;;;;x
+LUZ_proletarian_dictatorship;Srbská SSR;;;;;;;;;;;;x
