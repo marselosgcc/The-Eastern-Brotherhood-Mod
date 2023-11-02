@@ -1,5 +1,7 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = CHL
+controller = CHL
+add_core = CHL
+add_core = LPL
+add_core = ARC
 trade_goods = wool
 life_rating = 35

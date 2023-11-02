@@ -147,3 +147,13 @@ start_date = 1836.1.1
 	
 end_date = 1888.8.9
 }
+vassal = {
+	
+first = BRZ
+	
+second = AMZ
+	
+start_date = 1836.1.1
+	
+end_date = 1860.6.9
+}
