@@ -1,5 +1,6 @@
 owner = HDJ
 controller = HDJ
 add_core = HDJ
+add_core = ARU
 trade_goods = wool
 life_rating = 35
