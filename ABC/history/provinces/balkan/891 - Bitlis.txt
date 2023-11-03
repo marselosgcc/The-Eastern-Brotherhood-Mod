@@ -1,5 +1,6 @@
 owner = ARM
 controller = ARM
 add_core = ARM
+add_core = ARU
 trade_goods = grain
 life_rating = 35
