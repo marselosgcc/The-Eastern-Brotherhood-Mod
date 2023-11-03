@@ -147,7 +147,7 @@ RGS		= "countries/Rio Grande do Sul.txt"
 SON		= "countries/Sonora.txt"
 SPU		= "countries/South Peru.txt"
 YUC		= "countries/Yucatan.txt"
-
+MJR     = "countries/Marajoara.txt"
 #North America
 BLZ		= "countries/Belize.txt"
 DAK		= "countries/Dakota.txt"
