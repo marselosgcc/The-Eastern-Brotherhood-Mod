@@ -1,5 +1,5 @@
-owner = COS
-controller = COS
-add_core = COS
+owner = MJR
+controller = MJR
+add_core = MJR
 trade_goods = grain
 life_rating = 35

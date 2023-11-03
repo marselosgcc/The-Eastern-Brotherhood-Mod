@@ -7870,112 +7870,112 @@
 #Savannah (200000/50000 POPS)
 204 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 700
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 1175
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 26425
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 475
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 20475
 	}
 }
 #Augusta (140000/35000 POPS)
 2555 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 500
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 725
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 350
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 16300
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 325
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 13650
 	}
 }
@@ -7984,132 +7984,132 @@
 #Charleston (248000/61000 POPS)
 205 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 850
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 21725
 	}
 
 
 
 	artisans = {
-		culture = dixie
+		culture = jadwigan
 		religion = jewish
 		size = 250
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 675
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 10
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 35300
 	}
 }
 #Columbia (340000/85000 POPS)
 206 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 200
 	}
 
 	officers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 1675
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 36575
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = orthodox
 		size = 42450
 	}
 }
@@ -8242,142 +8242,142 @@
 #Charlotte (136000/34000 POPS)
 209 = {
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 500
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 150
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 750
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 350
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 17250
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 550
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 14400
 	}
 }
 #Wilmington (188000/47000 POPS)
 210 = {
 	aristocrats = {
-		culture = dixie
+		culture = jadwigan
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = dixie
+		culture = jadwigan
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = dixie
+		culture = jadwigan
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = dixie
+		culture = jadwigan
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = dixie
+		culture = jadwigan
 		religion = catholic
 		size = 125
 	}
 	
 	aristocrats = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 775
 	}
 
 	clergymen = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 225
 	}
 
 	artisans = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 1150
 	}
 
 	soldiers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = reformed
 		size = 475
 	}
 
 	farmers = {
-		culture = dixie
-		religion = protestant
+		culture = jadwigan
+		religion = orthodox
 		size = 26375
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 25
 	}
 
 	slaves = {
-		culture = afro_american
-		religion = protestant
+		culture = afro_slavic
+		religion = reformed
 		size = 17450
 	}
 }
