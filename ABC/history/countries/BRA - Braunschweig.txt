@@ -1,6 +1,7 @@
-capital = 536
-primary_culture = north_german
-religion = protestant
+capital = 390
+primary_culture = flemish
+culture = dutch
+religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
