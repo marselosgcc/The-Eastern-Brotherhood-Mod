@@ -27,7 +27,7 @@
 
 	aristocrats = {
 		culture = flemish
-		religion = catholic
+		religion = reformed
 		size = 1500
 	}
 
@@ -173,7 +173,7 @@
 
 	soldiers = {
 		culture = flemish
-		religion = catholic
+		religion = reformed
 		size = 1700
 	}
 
@@ -205,7 +205,7 @@
 
 	artisans = {
 		culture = flemish
-		religion = catholic
+		religion = reformed
 		size = 6000
 	}
 
@@ -285,7 +285,7 @@
 
 	farmers = {
 		culture = flemish
-		religion = catholic
+		religion = reformed
 		size = 67700
 	}
 
@@ -369,20 +369,20 @@
 
 	capitalists = {
 		culture = wallonian
-		religion = catholic
+		religion = reformed
 		size = 150
 	}
 
 	clerks = {
 		culture = wallonian
 		religion = catholic
-		size = 2000
+		size = 22000
 	}
 
 	craftsmen = {
 		culture = wallonian
 		religion = catholic
-		size = 10000
+		size = 45000
 	}
 
 	artisans = {
@@ -393,7 +393,7 @@
 
 	soldiers = {
 		culture = wallonian
-		religion = catholic
+		religion = reformed
 		size = 4000
 	}
 
@@ -411,7 +411,7 @@
 
 	artisans = {
 		culture = flemish
-		religion = catholic
+		religion = reformed
 		size = 3000
 	}
 
@@ -428,15 +428,15 @@
 	}
 
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = flemish
+		religion = reformed
 		size = 75
 	}
 
 	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 15925
+		culture = flemish
+		religion = reformed
+		size = 45925
 	}
 }
 #Tournai (292000/73000 POPS)
@@ -640,7 +640,7 @@
 	
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = reformed
 		size = 1250
 	}
 }
@@ -729,26 +729,26 @@
 	}
 	
 	artisans = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 250
 	}
 	
 	farmers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 4200
 	}
 	
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = reformed
 		size = 600
 	}
 	
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = reformed
 		size = 8500
 	}
 

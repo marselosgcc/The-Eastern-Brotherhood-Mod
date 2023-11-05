@@ -3171,14 +3171,14 @@
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = reformed
 		size = 100 
 	}
 
 	farmers = {
-		culture = north_german
-		religion = protestant
-		size = 8275
+		culture = flemish
+		religion = reformed
+		size = 58275
 	}
 
 }
