@@ -118,9 +118,15 @@
 	}
 
 	farmers = {
-		culture = platinean
-		religion = catholic
+		culture = gaucho
+		religion = protestant
 		size = 19000
+	}
+	
+	farmers = {
+		culture = platinean
+		religion = reformed
+		size = 9000
 	}
 }
 #Mar del Plata (12000/3000 POPS)
@@ -255,61 +261,61 @@
 #Corrientes (96000/24000 POPS)
 2356 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 800
 	}
 
 	officers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 35
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 45015
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = platinean
+		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
+		culture = platinean
+		religion = protestant
 		size = 22750
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = platinean
 		religion = catholic
 		size = 5000
 	}
@@ -317,31 +323,31 @@
 #Curuzu Cuatia (16000/4000 POPS)
 2357 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 2500
 	}
 
 	clergymen = {
-		culture = brazilian
+		culture = platinean
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = brazilian
+		culture = platinean
 		religion = catholic
 		size = 1825
 	}
@@ -349,107 +355,119 @@
 #Santo Tomas (28000/7000 POPS)
 2358 = {
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
-		size = 1875
+		size = 22875
 	}
 
 	clergymen = {
-		culture = brazilian
+		culture = platinean
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = brazilian
+		culture = platinean
 		religion = catholic
-		size = 1825
+		size = 9825
 	}
 
 	aristocrats = {
-		culture = guarani
-		religion = animist
+		culture = platinean
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
-		religion = animist
+		culture = platinean
+		religion = protestant
 		size = 75
 	}
 
 	farmers = {
-		culture = guarani
-		religion = animist
-		size = 2700
+		culture = platinean
+		religion = protestant
+		size = 9700
 	}
 }
 #Colon (8000/2000 POPS)
 2359 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
+		religion = protestant
+		size = 6900
+	}
+	
+	farmers = {
+		culture = gaucho
 		religion = catholic
-		size = 1900
+		size = 7900
+	}
+	
+	farmers = {
+		culture = platinean
+		religion = protestant
+		size = 19900
 	}
 }
 #Parana (16000/4000 POPS)
 2360 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = platinean
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = platinean
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 36825
 	}
@@ -459,7 +477,7 @@
 #Santa Esperitu (8000/2000 POPS)
 2361 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 25
 	}
@@ -483,7 +501,7 @@
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 10800
 	}
@@ -515,7 +533,7 @@
 	}
 
 	artisans = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 4000
 	}
@@ -527,8 +545,8 @@
 	}
 
 	farmers = {
-		culture = platinean
-		religion = catholic
+		culture = gaucho
+		religion = protestant
 		size = 14350
 	}
 

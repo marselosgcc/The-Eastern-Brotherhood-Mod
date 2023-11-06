@@ -1,5 +1,6 @@
 capital = 2360
-primary_culture = platinean
+primary_culture = gaucho
+culture = platinean
 religion = catholic
 government = presidential_dictatorship
 plurality = 20.0

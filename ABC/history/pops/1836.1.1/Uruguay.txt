@@ -3,15 +3,15 @@
 #Montevideo (112000/28000 POPS)
 2344 = {
 	aristocrats = {
-		culture = platinean
-		religion = catholic
+		culture = gaucho
+		religion = protestant
 		size = 575
 		militancy = 9
 		rebel_type = liberal_rebels
 	}
 
 	bureaucrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 100
 		militancy = 9
@@ -19,7 +19,7 @@
 	}
 
 	officers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 		militancy = 9
@@ -27,13 +27,13 @@
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 980
 		militancy = 9
@@ -41,7 +41,7 @@
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 5000
 		militancy = 9
@@ -97,8 +97,8 @@
 #Paysandu (36000/9000 POPS)
 2345 = {
 	aristocrats = {
-		culture = platinean
-		religion = catholic
+		culture = gaucho
+		religion = protestant
 		size = 200
 	}
 
@@ -115,8 +115,8 @@
 	}
 
 	artisans = {
-		culture = platinean
-		religion = catholic
+		culture = gaucho
+		religion = reformed
 		size = 450
 	}
 
@@ -135,7 +135,7 @@
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 7275
 	}
@@ -162,8 +162,8 @@
 
 	artisans = {
 		culture = platinean
-		religion = catholic
-		size = 100
+		religion = protestant
+		size = 1000
 	}
 
 	soldiers = {
@@ -173,9 +173,9 @@
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
-		size = 1800
+		size = 5800
 	}
 
 	clergymen = {
@@ -186,56 +186,56 @@
 
 	artisans = {
 		culture = brazilian
-		religion = catholic
-		size = 50
+		religion = protestant
+		size = 2050
 	}
 
 	soldiers = {
 		culture = brazilian
-		religion = catholic
-		size = 50
+		religion = protestant
+		size = 550
 	}
 
 	farmers = {
-		culture = brazilian
-		religion = catholic
-		size = 925
+		culture = gaucho
+		religion = protestant
+		size = 3925
 	}
 }
 #Melo (40000/10000 POPS)
 2347 = {
 	aristocrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = platinean
+		culture = gaucho
 		religion = catholic
 		size = 5450
 	}
@@ -249,7 +249,7 @@
 	artisans = {
 		culture = brazilian
 		religion = catholic
-		size = 150
+		size = 3150
 	}
 
 	soldiers = {
@@ -259,9 +259,9 @@
 	}
 
 	farmers = {
-		culture = brazilian
+		culture = gaucho
 		religion = catholic
-		size = 2775
+		size = 9775
 	}
 
 }

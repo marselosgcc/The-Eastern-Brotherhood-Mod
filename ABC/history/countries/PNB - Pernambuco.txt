@@ -1,8 +1,9 @@
 capital = 2432
-primary_culture = brazilian
+primary_culture = dutch
+culture = brazilian
 culture = afro_brazilian
 religion = catholic
-government = democracy
+government = reformed
 plurality = 0.0
 nationalvalue = nv_liberty
 literacy = 0.08
