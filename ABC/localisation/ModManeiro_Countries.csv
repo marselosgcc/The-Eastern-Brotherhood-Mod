@@ -8,7 +8,7 @@ ARK_absolute_monarchy;Kingdom of Arkadia;;;;;;;;;;;;x
 ARK_prussian_constitutionalism;Kingdom of Arkadia;;;;;;;;;;;;x
 ARK_hms_government;Kingdom of Arkadia;;;;;;;;;;;;x
 ARK_fascist_dictatorship;Arkadian Brotherhood;;;;;;;;;;;;x
-ARK_proletarian_dictatorship;Democratic People's Republic of Arkadia;;;;;;;;;;;;x
+ARK_proletarian_dictatorship;DPR of Arkadia;;;;;;;;;;;;x
 JAD;Jadwiga;;;;;;;;;;;;x
 JAD_ADJ;Jadwigan;;;;;;;;;;;;x
 JAD_democracy;Jadwiga;;;;;;;;;;;;x
@@ -31,12 +31,12 @@ SIX_fascist_dictatorship;The Sioux Front;;;;;;;;;;;;x
 SIX_proletarian_dictatorship;The Sioux Union;;;;;;;;;;;;x
 NEN;Stato Irochese;;;;;;;;;;;;x
 NEN_ADJ;Meriodinali;;;;;;;;;;;;x
-NEN_democracy;Stato irochese;;;;;;;;;;;;x
-NEN_presidential_dictatorship;Stato irochese;;;;;;;;;;;;x
-NEN_bourgeois_dictatorship;Stato irochese;;;;;;;;;;;;x
-NEN_absolute_monarchy;Regno irochese;;;;;;;;;;;;x
-NEN_prussian_constitutionalism;Regno irochese;;;;;;;;;;;;x
-NEN_hms_government;Regno irochese;;;;;;;;;;;;x
+NEN_democracy;Stato Irochese;;;;;;;;;;;;x
+NEN_presidential_dictatorship;Stato Irochese;;;;;;;;;;;;x
+NEN_bourgeois_dictatorship;Stato Irochese;;;;;;;;;;;;x
+NEN_absolute_monarchy;Regno Irochese;;;;;;;;;;;;x
+NEN_prussian_constitutionalism;Regno Irochese;;;;;;;;;;;;x
+NEN_hms_government;Regno Irochese;;;;;;;;;;;;x
 NEN_fascist_dictatorship;Stato irochese Front of Liberation;;;;;;;;;;;;x
 NEN_proletarian_dictatorship;Stato dei Lavoratori Meridionali;;;;;;;;;;;;x
 MRA;Moravia Australis;;;;;;;;;;;;x
@@ -60,7 +60,7 @@ JDU_hms_government;Jadid Ufuq Emirate;;;;;;;;;;;;x
 JDU_fascist_dictatorship;Jadid Ufuq Falange;;;;;;;;;;;;x
 JDU_proletarian_dictatorship;Jadid Ufuq Popular Republic;;;;;;;;;;;;x
 TUS;Italian Confederacy;;;;;;;;;;;;x
-TUS_ADJ;north italian;;;;;;;;;;;;x
+TUS_ADJ;North italian;;;;;;;;;;;;x
 TUS_democracy;Etruria;;;;;;;;;;;;x
 TUS_presidential_dictatorship;Provisional Government of North Italy;;;;;;;;;;;;x
 TUS_bourgeois_dictatorship;Revolutionary Italy;;;;;;;;;;;;x
@@ -74,9 +74,9 @@ SIC_ADJ;Neapolitan;;;;;;;;;;;;x
 SIC_democracy;Sicily;;;;;;;;;;;;x
 SIC_presidential_dictatorship;Sicily;;;;;;;;;;;;x
 SIC_bourgeois_dictatorship;Sicily;;;;;;;;;;;;x
-SIC_absolute_monarchy;Kingdom of Sicily;;;;;;;;;;;;x
-SIC_prussian_constitutionalism;Kingdom of Sicily;;;;;;;;;;;;x
-SIC_hms_government;Kingdom of Sicily;;;;;;;;;;;;x
+SIC_absolute_monarchy;Naples;;;;;;;;;;;;x
+SIC_prussian_constitutionalism;Naples;;;;;;;;;;;;x
+SIC_hms_government;Crown of Naples;;;;;;;;;;;;x
 SIC_fascist_dictatorship;Social Republic of Sicily;;;;;;;;;;;;x
 SIC_proletarian_dictatorship;Sicily Popular Republic;;;;;;;;;;;;x
 CAL;Biyana;;;;;;;;;;;;x
@@ -209,12 +209,12 @@ INC_prussian_constitutionalism;Neo Inca State;;;;;;;;;;;;x
 INC_hms_government;Tawantinsuyu;;;;;;;;;;;;x
 INC_fascist_dictatorship;Reino del Dios Inti;;;;;;;;;;;;x
 INC_proletarian_dictatorship;Andine Peoples Republic;;;;;;;;;;;;x
-AMZ;Comarca do Grao Para;;;;;;;;;;;;x
+AMZ;Comarca do Grão Pará;;;;;;;;;;;;x
 AMZ_ADJ;Amazonense;;;;;;;;;;;;x
 AMZ_democracy;Amazonas;;;;;;;;;;;;x
-AMZ_presidential_dictatorship;Grao Para;;;;;;;;;;;;x
+AMZ_presidential_dictatorship;Grão Pará;;;;;;;;;;;;x
 AMZ_bourgeois_dictatorship;Amazonas;;;;;;;;;;;;x
-AMZ_absolute_monarchy;Comarca do Grao Para;;;;;;;;;;;;x
+AMZ_absolute_monarchy;Comarca do Grão Pará;;;;;;;;;;;;x
 AMZ_prussian_constitutionalism;Principado Grão Paraense;;;;;;;;;;;;x
 AMZ_hms_government;Principado do Amazonas e Pará;;;;;;;;;;;;x
 AMZ_fascist_dictatorship;Estado Integral do Amazonas;;;;;;;;;;;;x
@@ -229,11 +229,11 @@ LUZ_prussian_constitutionalism;Polabia;;;;;;;;;;;;x
 LUZ_hms_governmentPolabia;;;;;;;;;;;;x
 LUZ_fascist_dictatorship;Nová Hyperborea;;;;;;;;;;;;x
 LUZ_proletarian_dictatorship;Srbská SSR;;;;;;;;;;;;x
-URU;Uruguay;;;;;;;;;;;;x
+URU;Charruan Confederacy;;;;;;;;;;;;x
 URU_ADJ;Gaucho;;;;;;;;;;;;x
 URU_democracy;Charruan Confederacy;;;;;;;;;;;;x
-URU_presidential_dictatorship;Charruan Confederacy;;;;;;;;;;;;x
-URU_bourgeois_dictatorship;Charruan Confederacy;;;;;;;;;;;;x
+URU_presidential_dictatorship;Uruguay;;;;;;;;;;;;x
+URU_bourgeois_dictatorship;Uruguay;;;;;;;;;;;;x
 URU_absolute_monarchy;Principado Oriental;;;;;;;;;;;;x
 URU_prussian_constitutionalism;Principado Oriental;;;;;;;;;;;;x
 URU_hms_government;Principado Oriental;;;;;;;;;;;;x

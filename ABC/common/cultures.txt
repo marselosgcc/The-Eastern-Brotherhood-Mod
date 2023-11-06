@@ -2260,6 +2260,25 @@ latin_american_cultures = {
 		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
 		}
 	}
+	gaucho = {
+		color = {0 232 199}
+		first_names = {
+		Primero Segundo Martin Juan "El Viejo" Enerfomenes Natalicio Romualdo Anacleto Salustiano Laudencio
+		"Don Julian" "Don Pedro" "Don Zoilo" "Don Ernesto" "Don Juan" Celestino Froilán
+		Afonso António Arturo Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
+		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipo Floriano
+		Facundo Miguel Gabriel Santiago Ulises Agapito Ambrosio Bartolo Buenaventura Bonifacio
+		Lope Pío Nicomedes Policarpo Rómulo Patricio Odón Bento "Mate Cosido"
+		}
+
+		last_names = {
+		Sombra Espias Fierro Vegas Moreira Quiroga "de Güemes" Canabarro Gonçalves "da Silva" Figueroa
+		Galvão Jordão "da Costa" "da Silva" Ferreira Garay Godoy Peralta Peña Pessoa Pinto Rondon
+		Yrigoyen Santos Sarmineto Solano Tajes Uriburu Viamonte Latorre López Machaín Maza Meza Mitre Paz
+		Pedernera Siles Sotomayor Toro Valencia Zañartu Zapata Cabrera Calvo Campero Castilla Corrico Daza
+		"de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal" Moreira Osório Peixoto Vargas
+		}
+	}
 	central_american = {
 		color = {101 164 172}
 		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
