@@ -1,5 +1,6 @@
 owner = OMA
 controller = OMA
 add_core = OMA
+add_core = ARU
 trade_goods = opium
 life_rating = 35

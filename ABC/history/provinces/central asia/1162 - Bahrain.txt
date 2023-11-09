@@ -1,5 +1,6 @@
 owner = ABU
 controller = ABU
 add_core = ABU
+add_core = ARU
 trade_goods = fruit
 life_rating = 35
