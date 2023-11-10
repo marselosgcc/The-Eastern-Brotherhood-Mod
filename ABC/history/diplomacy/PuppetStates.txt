@@ -157,13 +157,23 @@ start_date = 1836.1.1
 	
 end_date = 1860.6.9
 }
-vassal = {
+substate = {
 	
-first = SCO
+first = TUS
 	
-second = PTG
+second = SVY
 	
 start_date = 1836.1.1
 	
-end_date = 1939.1.1
+end_date = 1936.1.1
+}
+substate = {
+	
+first = TUS
+	
+second = GEN
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
 }

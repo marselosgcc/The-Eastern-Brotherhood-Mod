@@ -3,5 +3,6 @@ controller = TUS
 add_core = PAR
 add_core = TUS
 add_core = MOD
+add_core = ITA
 trade_goods = iron
 life_rating = 35

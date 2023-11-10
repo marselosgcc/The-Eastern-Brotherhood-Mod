@@ -1,5 +1,7 @@
 owner = NET
 controller = NET
 add_core = NET
+add_core = WLL
+add_core = FLA
 trade_goods = sulphur
 life_rating = 35

@@ -2,5 +2,7 @@ owner = TUS
 controller = TUS
 add_core = LOM
 add_core = TUS
+add_core = VEN
+add_core = ITA
 trade_goods = iron
 life_rating = 35

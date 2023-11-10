@@ -1,5 +1,8 @@
 owner = SER
 controller = SER
 add_core = SER
+add_core = ALB
+add_core = MAC
+add_core = YUG
 trade_goods = fruit
 life_rating = 30

@@ -1,74 +1,79 @@
 849 = {
 	aristocrats = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 614
 	}
 	bureaucrats = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 143
 	}
 	officers = {
 		culture = albanian
-		religion = sunni
-		size = 122
+		religion = orthodox
+		size = 1220
 	}
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 256
 	}
 	artisans = {
 		culture = albanian
-		religion = sunni
-		size = 1310
+		religion = reformed
+		size = 13100
 	}
 	soldiers = {
 		culture = albanian
-		religion = sunni
-		size = 819
+		religion = orthodox
+		size = 9819
 	}
 	farmers = {
 		culture = albanian
-		religion = sunni
-		size = 40947
+		religion = orthodox
+		size = 60947
 	}
 	clergymen = {
 		culture = albanian
-		religion = orthodox
-		size = 100
+		religion = catholic
+		size = 12000
 	}
 	farmers = {
 		culture = albanian
-		religion = orthodox
-		size = 6065
+		religion = catholic
+		size = 60650
+	}
+	farmers = {
+		culture = albanian
+		religion = reformed
+		size = 21231
 	}
 }
 850 = {
 	aristocrats = {
 		culture = albanian
-		religion = sunni
+		religion = reformed
 		size = 880
 	}
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = reformed
 		size = 307
 	}
 	artisans = {
 		culture = albanian
-		religion = sunni
+		religion = reformed
 		size = 1556
 	}
 	soldiers = {
 		culture = albanian
-		religion = sunni
+		religion = reformed
 		size = 819
 	}
 	farmers = {
 		culture = albanian
-		religion = sunni
+		religion = reformed
 		size = 30566
 	}
 	
@@ -97,64 +102,64 @@
 851 = {
 	aristocrats = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 245
 	}
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 	artisans = {
 		culture = albanian
-		religion = sunni
-		size = 491
+		religion = orthodox
+		size = 4910
 	}
 	soldiers = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 	farmers = {
 		culture = albanian
-		religion = sunni
-		size = 5632
+		religion = catholic
+		size = 11632
 	}
 	clergymen = {
 		culture = albanian
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 	farmers = {
-		culture = albanian
+		culture = south_italian
 		religion = catholic
-		size = 2355
+		size = 8092
 	}
 }
 852 = {
 	aristocrats = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 573
 	}
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 256
 	}
 	artisans = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 1331
 	}
 	soldiers = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 286
 	}
 	farmers = {
 		culture = albanian
-		religion = sunni
+		religion = catholic
 		size = 10947
 	}
 	clergymen = {
@@ -171,27 +176,27 @@
 853 = {
 	aristocrats = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 307
 	}
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 102
 	}
 	soldiers = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 450
 	}
 	artisans = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 122
 	}
 	farmers = {
 		culture = albanian
-		religion = sunni
+		religion = orthodox
 		size = 6246
 	}
 	soldiers = {
