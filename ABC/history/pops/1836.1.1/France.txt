@@ -377,31 +377,31 @@
 #Charleville (308000/77000 POPS)
 405 = {
 	aristocrats = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = french
+		culture = lotharian
 		religion = protestant
 		size = 3750
 	}
 
 	soldiers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 71250
 	}
@@ -801,9 +801,10 @@
 		religion = reformed
 		size = 94600
 	}
+	
 	farmers = {
-		culture = lotharian
-		religion = catholic
+		culture = rhinelander
+		religion = protestant
 		size = 84600
 	}
 
@@ -823,7 +824,7 @@
 	artisans = {
 		culture = rhinelander
 		religion = catholic
-		size = 1250
+		size = 21250
 	}
 
 	soldiers = {
@@ -846,8 +847,8 @@
 
 	artisans = {
 		culture = rhinelander
-		religion = jewish
-		size = 975
+		religion = catholic
+		size = 10975
 	}
 }
 #Metz (420000/105000 POPS)
@@ -951,7 +952,7 @@
 #Verdun (320000/80000 POPS)
 413 = {
 	aristocrats = {
-		culture = lotharian
+		culture = rhinelander
 		religion = catholic
 		size = 600
 	}
@@ -963,7 +964,7 @@
 	}
 
 	artisans = {
-		culture = lotharian
+		culture = rhinelander
 		religion = protestant
 		size = 2000
 	}
@@ -989,19 +990,25 @@
 	artisans = {
 		culture = rhinelander
 		religion = catholic
-		size = 1525
+		size = 15250
 	}
 
 	soldiers = {
 		culture = rhinelander
 		religion = catholic
-		size = 25
+		size = 9025
 	}
 
-	labourers = {
+	farmers = {
+		culture = rhinelander
+		religion = protestant
+		size = 33100
+	}
+
+	craftsmen = {
 		culture = rhinelander
 		religion = catholic
-		size = 1400
+		size = 14000
 	}
 }
 #Epinal (412000/103000 POPS)
