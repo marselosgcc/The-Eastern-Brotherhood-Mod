@@ -2124,7 +2124,7 @@
 
 	farmers = {
 		culture = brazilian
-		religion = catholic
+		religion = sunni
 		size = 27850
 	}
 

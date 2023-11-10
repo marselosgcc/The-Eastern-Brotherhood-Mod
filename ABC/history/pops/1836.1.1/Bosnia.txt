@@ -3,51 +3,51 @@
 #Sarajevo (148000/37000 POPS)
 783 = {
 	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 500
+		culture = hungarian
+		religion = reformed
+		size = 5000
 	}
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 650
 	}
 
 	bureaucrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 275
 	}
 
 	officers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 225
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
-		size = 1200
+		religion = reformed
+		size = 6200
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
-		size = 4000
+		religion = reformed
+		size = 24000
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
-		size = 34775
+		religion = reformed
+		size = 44775
 	}
 	
 	aristocrats = {
@@ -59,13 +59,13 @@
 	officers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 		
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 250
+		size = 2500
 	}
 
 	clergymen = {
@@ -119,13 +119,13 @@
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 11450
+		size = 19450
 	}
 	
 	soldiers = {
 		culture = croat
-		religion = catholic
-		size = 1250
+		religion = reformed
+		size = 6250
 	}
 	
 	clergymen = {
@@ -137,38 +137,38 @@
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 2000
+		size = 12000
 	}
 }
 #Bihac (100000/25000 POPS)
 784 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 400
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 750
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 8675
 	}
 	
@@ -210,45 +210,45 @@
 
 	artisans = {
 		culture = croat
-		religion = catholic
-		size = 200
+		religion = reformed
+		size = 17200
 	}
 
 	farmers = {
 		culture = croat
 		religion = catholic
-		size = 2650
+		size = 12650
 	}
 }
 #Banja Luka (116000/29000 POPS)
 785 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 500
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 800
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 4500
 	}
 	
@@ -304,31 +304,31 @@
 786 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 700
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 1150
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 16975
 	}
 	
@@ -396,31 +396,31 @@
 787 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 400
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 600
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 18925
 	}
 
@@ -452,31 +452,31 @@
 788 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 450
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 600
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 9900
 	}
 	
@@ -532,31 +532,31 @@
 789 = {
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 350
 	}
 	
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 250
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = reformed
 		size = 8900
 	}
 
