@@ -1,6 +1,6 @@
 owner = BLC
 controller = BLC
-add_core = ARU
+
 add_core = BLC
 trade_goods = cotton
 life_rating = 35

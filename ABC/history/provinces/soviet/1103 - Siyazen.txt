@@ -1,6 +1,5 @@
 owner = AZB
 controller = AZB
 add_core = AZB
-add_core = ARU
 trade_goods = fruit
 life_rating = 35

@@ -1,6 +1,6 @@
 owner = ASY
 controller = ASY
 add_core = ASY
-add_core = ARU
+
 trade_goods = sulphur
 life_rating = 35
