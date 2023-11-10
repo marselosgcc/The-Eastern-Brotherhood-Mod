@@ -21,9 +21,9 @@
 	}
 
 	artisans = {
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size = 750
+		size = 1750
 	}
 
 	soldiers = {
@@ -39,49 +39,49 @@
 	}
 	
 	craftsmen = {
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size = 20
+		size = 5020
 	}
 
 	aristocrats = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 250
 	}
 
 	officers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = french
+		culture = lotharian
 		religion = catholic
 		size = 20375
 	}

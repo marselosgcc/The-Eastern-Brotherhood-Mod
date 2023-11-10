@@ -579,44 +579,44 @@
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1150
 	}
 
 	bureaucrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 3450
 	}
 }
@@ -672,32 +672,32 @@
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 4575
 	}
 }
@@ -768,79 +768,79 @@
 	
 	farmers = {
 		culture = gypsy
-		religion = sunni
+		religion = catholic
 		size = 300
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 850
 	}
 
 	bureaucrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 2800
 	}
 	
 	soldiers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 19700
 	}
 }
@@ -849,37 +849,37 @@
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 	
 	officers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 3000
 	}
 	
@@ -957,79 +957,79 @@
 	
 	farmers = {
 		culture = gypsy
-		religion = sunni
+		religion = catholic
 		size = 600
 	}
 
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 5150
 	}
 	
 	farmers = {
 		culture = circassian
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 	
 	aristocrats = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 	
 	officers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = albanian
-		religion = sunni
+		culture = serb
+		religion = catholic
 		size = 34550
 	}
 	
@@ -1097,25 +1097,25 @@
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 200
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic
 		size = 7450
 	}
 
