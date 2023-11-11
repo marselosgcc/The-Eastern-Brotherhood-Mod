@@ -1,4 +1,4 @@
-owner = EGy
+owner = EGY
 controller = EGY
 add_core = EGY
 add_core = ARU
