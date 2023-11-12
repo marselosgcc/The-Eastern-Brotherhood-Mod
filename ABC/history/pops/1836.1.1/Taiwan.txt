@@ -77,13 +77,13 @@
 	farmers = {
 		culture = hakka
 		religion = mahayana
-		size = 39775
+		size = 99775
 	}
 	
 	serfs = {
 		culture = hakka
 		religion = mahayana
-		size = 2000
+		size = 20000
 	}
 }
 #Taitung (67k - 268k) #now part of Taiwan  
@@ -236,13 +236,13 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 10000
+		size = 30000
 	}
 
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 2000
+		size = 20000
 	}
 
 	soldiers = {
@@ -260,7 +260,7 @@
 	aristocrats = {
 		culture = hakka
 		religion = mahayana
-		size = 1625
+		size = 16250
 	}
 
 	clergymen = {
@@ -272,13 +272,13 @@
 	artisans = {
 		culture = hakka
 		religion = mahayana
-		size = 6600
+		size = 36600
 	}
 
 	soldiers = {
 		culture = hakka
 		religion = mahayana
-		size = 3025
+		size = 23025
 	}
 
 	farmers = {
