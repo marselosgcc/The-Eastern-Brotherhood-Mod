@@ -1,7 +1,7 @@
 owner = BUL
 controller = BUL
 add_core = BUL
-add_core = MAC
+add_core = MCD
 add_core = GRE
 trade_goods = wool
 life_rating = 35
