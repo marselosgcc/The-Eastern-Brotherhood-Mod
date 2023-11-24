@@ -1,5 +1,5 @@
 owner = MRA
 controller = MRA
 add_core = MRA
-trade_goods = cotton
+trade_goods = coal
 life_rating = 35

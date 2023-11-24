@@ -3,5 +3,5 @@ controller = VOP
 add_core = VOP
 add_core = PEU
 add_core = SPU
-trade_goods = fish
+trade_goods = iron
 life_rating = 35

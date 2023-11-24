@@ -3,5 +3,5 @@ controller = SCO
 add_core = LPL
 add_core = ARC
 add_core = PTG
-trade_goods = grain
+trade_goods = iron
 life_rating = 35
