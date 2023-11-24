@@ -1,5 +1,5 @@
 owner = ARK
 controller = ARK
 add_core = ARK
-trade_goods = cotton
+trade_goods = coal
 life_rating = 35
