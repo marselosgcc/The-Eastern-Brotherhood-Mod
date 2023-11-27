@@ -2,4 +2,4 @@ owner = LUA
 controller = LUA
 add_core = LUA
 trade_goods = tropical_wood
-life_rating = 0
+life_rating = 35

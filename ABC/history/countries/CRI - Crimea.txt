@@ -1,5 +1,8 @@
 capital = 967
 primary_culture = criemisc
+culture = greek
+culture = volga_german
+culture = ashkenazi
 religion = catholic
 government = absolute_monarchy
 plurality = 0.02
