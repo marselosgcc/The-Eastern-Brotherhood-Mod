@@ -2,4 +2,4 @@ owner = MLY
 controller = MLY
 add_core = MLY
 trade_goods = tropical_wood
-life_rating = 0
+life_rating = 35
