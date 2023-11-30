@@ -177,3 +177,63 @@ start_date = 1836.1.1
 	
 end_date = 1936.1.1
 }
+substate = {
+	
+first = BAV
+	
+second = ULM
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+substate = {
+	
+first = BAV
+	
+second = FRM
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = BAV
+	
+second = HES
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = BAV
+	
+second = BAD
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = WES
+	
+second = OLD
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = WES
+	
+second = BRA
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}

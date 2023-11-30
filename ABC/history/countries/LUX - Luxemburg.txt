@@ -1,11 +1,11 @@
 capital = 397
-primary_culture = north_german
-culture = french
+primary_culture = rhinelander
+culture = lotharian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.2
 nationalvalue = nv_liberty
-literacy = 0.45
+literacy = 0.9
 civilized = yes
 prestige = 1
 

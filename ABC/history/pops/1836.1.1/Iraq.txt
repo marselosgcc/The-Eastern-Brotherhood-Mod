@@ -222,20 +222,20 @@
 
 	farmers = {
 		culture = kurdish
-		religion = sunni
-		size = 13800
+		religion = shiite
+		size = 23800
 	}
 	
 	clergymen = {
 		culture = kurdish
-		religion = sunni
-		size = 100
+		religion = shiite
+		size = 3000
 	}
 
 	artisans = {
 		culture = kurdish
-		religion = sunni
-		size = 400
+		religion = shiite
+		size = 4000
 	}
 
 	soldiers = {
@@ -246,8 +246,8 @@
 
 	farmers = {
 		culture = kurdish
-		religion = sunni
-		size = 1000
+		religion = shiite
+		size = 10000
 	}
 	
 	farmers = {
@@ -259,25 +259,37 @@
 	soldiers = {
 		culture = assyrian
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
 		culture = assyrian
 		religion = catholic
-		size = 100
+		size = 2100
 	}
 
 	artisans = {
 		culture = assyrian
 		religion = catholic
-		size = 100
+		size = 10100
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = catholic
 		size = 4775
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = syriac
+		size = 30000
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = syriac
+		size = 20000
 	}
 }
 #Kirkuk (160000/40000 POPS)
