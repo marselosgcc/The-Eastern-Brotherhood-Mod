@@ -1,5 +1,6 @@
-owner = WES
-controller = WES
+owner = BRA
+controller = BRA
+add_core = BRA
 add_core = WES
 add_core = GER
 trade_goods = fruit

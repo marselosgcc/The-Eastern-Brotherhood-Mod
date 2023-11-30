@@ -892,25 +892,25 @@
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 50 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 5000
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 75 
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 1875 
 	}
@@ -978,25 +978,25 @@
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 100 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 2200
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 75 
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 13425
 	}
@@ -1084,31 +1084,31 @@
 	}
 
 	farmers = {
-		culture = pomeranian
-		religion = catholic
+		culture = pruski
+		religion = orthodox
 		size = 24425 
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 75 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 450
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 1000
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 7475
 	}
@@ -1182,25 +1182,25 @@
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 225 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 250 
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = orthodox
 		size = 24225 
 	}
@@ -1210,79 +1210,79 @@
 #Allenstein (396000/99000 POPS) 
 696 = {
 	aristocrats = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 2000 
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 550   
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 2900
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 50550
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 325 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 1800
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = protestant
 		size = 32875  
 	}
 
 	clergymen = {
-		culture = polish
+		culture = pruski
 		religion = catholic
 		size = 75 
 	}
 
 	artisans = {
-		culture = polish
+		culture = pruski
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = polish
+		culture = pruski
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = polish
+		culture = pruski
 		religion = catholic
 		size = 4625 
 	}
@@ -1402,55 +1402,55 @@
 #Bromberg (212000/53000 POPS) 
 700 = {
 	aristocrats = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 800 
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 200   
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 1050
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 1150   
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 20150
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 50  
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 350
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 75    
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = pomeranian
 		religion = orthodox
 		size = 6525  
 	}
