@@ -1,7 +1,7 @@
 capital = 703
-primary_culture = polish
-religion = catholic
-government = democracy
+primary_culture = galicja
+religion = orthodox
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_productivity
 literacy = 0.6

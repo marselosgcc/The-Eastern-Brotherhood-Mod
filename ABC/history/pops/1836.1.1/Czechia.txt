@@ -883,31 +883,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = silesian
 		religion = catholic
 		size = 350  
 	}
 
 	clergymen = {
-		culture = polish
+		culture = silesian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = polish
+		culture = silesian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = polish
+		culture = silesian
 		religion = catholic
 		size = 150
 	}
 
 	serfs = {
-		culture = polish
+		culture = silesian
 		religion = catholic
 		size = 12650 
 	}

@@ -5156,37 +5156,37 @@
 695 = {
 	aristocrats = {
 		culture = pruski
-		religion = catholic
+		religion = orthodox
 		size = 2250 
 	}
 
 	bureaucrats = {
 		culture = pruski
-		religion = catholic
+		religion = orthodox
 		size = 1300
 	}
 
 	officers = {
 		culture = pruski
 		religion = catholic
-		size = 250  
+		size = 2500
 	}
 
 	clergymen = {
 		culture = pruski
 		religion = catholic
-		size = 825  
+		size = 3825  
 	}
 
 	artisans = {
 		culture = pruski
-		religion = catholic
+		religion = orthodox
 		size = 10000
 	}
 
-	artisans = {
+	serfs = {
 		culture = pruski
-		religion = catholic
+		religion = orthodox
 		size = 5000
 	}
 
@@ -5290,7 +5290,7 @@
 697 = {
 	aristocrats = {
 		culture = pruski
-		religion = catholic
+		religion = orthodox
 		size = 1100 
 	}
 
@@ -5314,8 +5314,14 @@
 
 	farmers = {
 		culture = pruski
-		religion = catholic
-		size = 47275
+		religion = orthodox
+		size = 17155
+	}
+
+	serfs = {
+		culture = pruski
+		religion = orthodox
+		size = 30120
 	}
 
 	clergymen = {

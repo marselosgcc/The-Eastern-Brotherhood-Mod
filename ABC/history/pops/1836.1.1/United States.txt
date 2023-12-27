@@ -666,26 +666,26 @@
 	}
 	
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 500
 	}
 	
 	clergymen = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 10
 	}
 	
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 50
 	}
 	
 	soldiers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 25
 	}
 	
@@ -771,20 +771,20 @@
 		size = 1700
 	}
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 500
 	}
 	
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 50
 	}
 	
 	soldiers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 25
 	}
 
@@ -822,8 +822,8 @@
 	}
 	
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 150
 	}
 
@@ -886,8 +886,8 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
 	aristocrats = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 10
 	}
 
@@ -933,38 +933,38 @@
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 400
 	}
 	
 	aristocrats = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 10
 	}
 	
 	bureaucrats = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 75
 	}
 	
 	artisans = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 150
 	}
 	
 	clergymen = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 25
 	}
 	
 	soldiers = {
-		culture = yankee
-		religion = protestant
+		culture = biyanic
+		religion = confucian
 		size = 25
 	}
 }
@@ -979,7 +979,7 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 15
+		size = 150
 	}
 
 	farmers = {
@@ -991,49 +991,61 @@
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 125
 	}
 
 	soldiers = {
 		culture = native_american_minor
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 800
+		size = 1800
 	}
 	
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 500
+		culture = biyanic
+		religion = confucian
+		size = 1500
+	}
+	
+	craftsmen = {
+		culture = biyanic
+		religion = confucian
+		size = 900
+	}
+	
+	clerks = {
+		culture = biyanic
+		religion = confucian
+		size = 120
 	}
 	
 	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 10
+		culture = biyanic
+		religion = confucian
+		size = 510
 	}
 	
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 150
+		culture = biyanic
+		religion = confucian
+		size = 1500
 	}
 	
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 25
+		culture = biyanic
+		religion = confucian
+		size = 1025
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 100
+		culture = biyanic
+		religion = confucian
+		size = 1000
 	}
 }
 #Idaho Region (24000)

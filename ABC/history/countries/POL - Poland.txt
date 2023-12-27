@@ -1,6 +1,8 @@
 capital = 706
 primary_culture = polish
 culture = pomeranian
+culture = galicja
+culture = pruski
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.2
