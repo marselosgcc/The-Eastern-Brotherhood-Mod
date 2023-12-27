@@ -21,7 +21,7 @@ germanic = {
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}
 	rhinelander = { 
-		color = { 145 137 130 }
+		color = { 107 149 153 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
 		Gustav Hasso Heinrich Helmuth Hermann Joachim Johann Jürgen Karl
@@ -787,7 +787,7 @@ polish_culture_group = {
 		radicalism = 10
 	}
 	galicja = {
-		color = {211 70 224}
+		color = {255 163 205}
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
