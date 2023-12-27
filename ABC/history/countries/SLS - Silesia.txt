@@ -1,6 +1,6 @@
 capital = 682
-primary_culture = polish
-religion = orthodox
+primary_culture = silesian
+religion = catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

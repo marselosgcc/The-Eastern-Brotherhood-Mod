@@ -4,7 +4,7 @@
 1470 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 22000
 	}
 
@@ -697,55 +697,55 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
+		size = 30000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1000
+		size = 10000
 	}
 
 	officers = {
 		culture = manchu
 		religion = mahayana
-		size = 750
+		size = 7500
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 1250
+		size = 32500
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 5000
+		size = 190000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 13000
+		size = 33000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 56750
+		size = 256750
 	}
 
 	aristocrats = {
 		culture = korean
 		religion = mahayana
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
 		culture = korean
 		religion = mahayana
-		size = 120
+		size = 1200
 	}
 
 	artisans = {
@@ -824,20 +824,20 @@
 1480 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
-		size = 1800
+		religion = confucian
+		size = 18000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 300
+		size = 30000
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
-		size = 600
+		religion = confucian
+		size = 160000
 	}
 
 	soldiers = {
@@ -855,7 +855,7 @@
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 150
+		size = 1500
 	}
 
 	artisans = {
@@ -865,13 +865,13 @@
 	}
 
 	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 150
+		culture = manchu
+		religion = confucian
+		size = 15000
 	}
 	
 	farmers = {
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size = 122750
 	}
@@ -886,7 +886,7 @@
 1481 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 250
 	}
 
@@ -950,7 +950,7 @@
 1482 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 6700
 	}
 
@@ -1144,7 +1144,7 @@
 1483 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 3800
 	}
 
@@ -1248,7 +1248,7 @@
 1484 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 4700
 	}
 
@@ -1328,7 +1328,7 @@
 1486 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 3900
 	}
 
@@ -1462,7 +1462,7 @@
 1487 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 4750
 	}
 
@@ -1738,7 +1738,7 @@
 1489 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 10500
 	}
 
@@ -1818,7 +1818,7 @@
 1490 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 13500
 	}
 
@@ -1964,7 +1964,7 @@
 1491 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 3000
 	}
 
@@ -2062,7 +2062,7 @@
 1492 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15300
 	}
 
@@ -2156,7 +2156,7 @@
 1493 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 4250
 	}
 
@@ -2489,7 +2489,7 @@
 1494 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 7400
 	}
 
@@ -2605,7 +2605,7 @@
 1495 = {
 	aristocrats = {
 		culture = min
-		religion = mahayana
+		religion = confucian
 		size = 350
 	}
 
@@ -2716,7 +2716,7 @@
 
 	farmers = {
 		culture = yue
-		religion = mahayana
+		religion = confucian
 		size = 20000
 	}
 	
@@ -2731,7 +2731,7 @@
 1496 = {
 	clergymen = {
 		culture = yue
-		religion = mahayana
+		religion = confucian
 		size = 25
 	}
 
@@ -2770,7 +2770,7 @@
 1497 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 3200
 	}
 
@@ -2868,7 +2868,7 @@
 1499 = {
 	aristocrats = {
 		culture = min
-		religion = mahayana
+		religion = confucian
 		size = 3700
 	}
 
@@ -2990,7 +2990,7 @@
 1500 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 2325
 	}
 
@@ -3094,7 +3094,7 @@
 1501 = {
 	aristocrats = {
 		culture = yue
-		religion = mahayana
+		religion = confucian
 		size = 8800
 	}
 
@@ -3151,63 +3151,63 @@
 1498 = {
 
 	aristocrats = {
-		culture = portuguese
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = portuguese
+		culture = french
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = french
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = french
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 	
 	soldiers = {
-		culture = portuguese
+		culture = french
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 	
 	farmers = {
-		culture = portuguese
+		culture = french
 		religion = catholic
-		size = 110
+		size = 2110
 	}
 
 	aristocrats = {
 		culture = yue
 		religion = catholic
-		size = 100
+		size = 300
 	}
 	
 	officers = {
 		culture = yue
 		religion = catholic
-		size = 100
+		size = 200
 	}
 	
 	clergymen = {
 		culture = yue
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = yue
 		religion = catholic
-		size = 435
+		size = 635
 	}
 
 	soldiers = {
@@ -3277,7 +3277,7 @@
 1502 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 1825
 	}
 
@@ -3441,7 +3441,7 @@
 1503 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 5200
 	}
 
@@ -3617,7 +3617,7 @@
 1504 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 1500
 	}
 
@@ -3741,7 +3741,7 @@
 1505 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 5275
 	}
 
@@ -3899,7 +3899,7 @@
 1506 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 5500
 	}
 
@@ -4027,7 +4027,7 @@
 1507 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 9000
 	}
 	
@@ -4145,7 +4145,7 @@
 1508 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18250
 	}
 
@@ -4262,7 +4262,7 @@
 1509 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15400
 	}
 
@@ -4348,7 +4348,7 @@
 1510 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15500
 	}
 
@@ -4440,7 +4440,7 @@
 1511 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 21500
 	}
 
@@ -4538,7 +4538,7 @@
 1512 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15250
 	}
 
@@ -4624,7 +4624,7 @@
 1513 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -4686,7 +4686,7 @@
 1514 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 14600
 	}
 
@@ -4742,7 +4742,7 @@
 1515 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 20000
 	}
 	
@@ -4824,7 +4824,7 @@
 1516 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -4970,7 +4970,7 @@
 1517 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 20500
 	}
 
@@ -5044,7 +5044,7 @@
 1518 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15750
 	}
 
@@ -5160,7 +5160,7 @@
 1519 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 	
@@ -5282,7 +5282,7 @@
 1520 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -5368,7 +5368,7 @@
 1521 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -5484,7 +5484,7 @@
 1522 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 16000
 	}
 
@@ -5582,7 +5582,7 @@
 1523 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15500
 	}
 
@@ -5712,7 +5712,7 @@
 1524 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 20475
 	}
 
@@ -5852,7 +5852,7 @@
 1525 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 7200
 	}
 
@@ -5926,7 +5926,7 @@
 1526 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 16500
 	}
 	
@@ -6036,7 +6036,7 @@
 1527 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 16800
 	}
 
@@ -6128,7 +6128,7 @@
 1528 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 4850
 	}
 
@@ -6196,7 +6196,7 @@
 1529 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -6252,7 +6252,7 @@
 1530 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 12500
 	}
 
@@ -6340,7 +6340,7 @@
 1532 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = confucian
 		size = 2000
 	}
 
@@ -6427,7 +6427,7 @@
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
+		religion = confucian
 		size = 325
 	}
 
@@ -6508,7 +6508,7 @@
 1534 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = confucian
 		size = 650
 	}
 
@@ -6564,7 +6564,7 @@
 1535 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = confucian
 		size = 2225
 	}
 
@@ -6622,7 +6622,7 @@
 2221 = {
 	aristocrats = {
 		culture = hakka
-		religion = protestant
+		religion = confucian
 		size = 11500
 	}
 
@@ -6804,7 +6804,7 @@
 1536 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 1050
 	}
 
@@ -6890,7 +6890,7 @@
 1537 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 26725
 	}
 
@@ -7018,7 +7018,7 @@
 1538 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 1300
 	}
 
@@ -7056,7 +7056,7 @@
 1539 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 21225
 	}
 
@@ -7154,7 +7154,7 @@
 1540 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 22150
 	}
 	
@@ -7236,7 +7236,7 @@
 1541 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 25750
 	}
 
@@ -7353,7 +7353,7 @@
 1542 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 2350
 	}
 
@@ -7427,7 +7427,7 @@
 1543 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 2200
 	}
 
@@ -7513,7 +7513,7 @@
 1544 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 11650
 	}
 	
@@ -7625,7 +7625,7 @@
 1545 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 
@@ -7807,7 +7807,7 @@
 1546 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 10500
 	}
 
@@ -7917,7 +7917,7 @@
 1547 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 31500
 	}
 	
@@ -8051,7 +8051,7 @@
 1548 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 5750
 	}
 
@@ -8119,7 +8119,7 @@
 1549 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15100
 	}
 
@@ -8229,7 +8229,7 @@
 1550 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 23500
 	}
 
@@ -8375,7 +8375,7 @@
 1551 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 11500
 	}
 
@@ -8457,7 +8457,7 @@
 1552 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 3750
 	}
 	
@@ -8569,14 +8569,14 @@
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 300
 	}
 	
 	artisans = {
 		culture = manchu
-		religion = mahayana
-		size = 1900
+		religion = confucian
+		size = 40900
 	}
 
 	soldiers = {
@@ -8594,7 +8594,7 @@
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 1000
 	}
 
 	officers = {
@@ -8622,15 +8622,15 @@
 	}
 	
 	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 77000
+		culture = manchu
+		religion = confucian
+		size = 87000
 	}
 
 	farmers = {
 		culture = siberian
 		religion = animist
-		size = 200
+		size = 20000
 	}
 
 	farmers = {
@@ -8643,7 +8643,7 @@
 1554 = {
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 750
 	}
 
@@ -8707,14 +8707,14 @@
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
-		size = 850
+		religion = confucian
+		size = 10850
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 700
+		size = 20700
 	}
 
 	soldiers = {
@@ -8726,7 +8726,7 @@
 	labourers = {
 		culture = manchu
 		religion = mahayana
-		size = 87550
+		size = 127550
 	}
 
 	aristocrats = {
@@ -8738,7 +8738,7 @@
 	clergymen = {
 		culture = korean
 		religion = mahayana
-		size = 350
+		size = 2350
 	}
 
 	artisans = {
@@ -8770,7 +8770,7 @@
 
 	clergymen = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 225
 	}
 
@@ -8816,7 +8816,7 @@
 1556 = {
 	aristocrats = {
 		culture = tibetan
-		religion = gelugpa
+		religion = confucian
 		size = 1000
 	}
 
@@ -9113,7 +9113,7 @@
 	
 	farmers = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 12000
 	}
 }
@@ -9271,7 +9271,7 @@
 	
 	farmers = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 5000
 	}
 }
@@ -9281,7 +9281,7 @@
 1559 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 
@@ -9397,7 +9397,7 @@
 1561 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 5050
 	}
 
@@ -9465,7 +9465,7 @@
 1562 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 7750
 	}
 
@@ -9587,7 +9587,7 @@
 2062 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 6325
 	}
 
@@ -9663,7 +9663,7 @@
 1563 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 28100
 	}
 
@@ -9815,7 +9815,7 @@
 1564 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18500
 	}
 
@@ -9877,7 +9877,7 @@
 1565 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18150
 	}
 	
@@ -9927,7 +9927,7 @@
 1566 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 100
 	}
 
@@ -9959,7 +9959,7 @@
 1567 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 19650
 	}
 
@@ -10021,7 +10021,7 @@
 1568 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18425
 	}
 
@@ -10089,7 +10089,7 @@
 1569 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 125
 	}
 
@@ -10121,7 +10121,7 @@
 1570 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18450
 	}
 
@@ -10189,7 +10189,7 @@
 1571 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 19700
 	}
 
@@ -10259,7 +10259,7 @@
 1572 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 21800
 	}
 
@@ -10364,7 +10364,7 @@
 1573 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 16850
 	}
 
@@ -10462,7 +10462,7 @@
 1574 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 18550
 	}
 
@@ -10554,7 +10554,7 @@
 1575 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 16800
 	}
 
@@ -10646,7 +10646,7 @@
 1576 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 1100
 	}
 
@@ -10710,7 +10710,7 @@
 1577 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 19150
 	}
 
@@ -10772,7 +10772,7 @@
 1578 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 11550
 	}
 
@@ -10876,7 +10876,7 @@
 1579 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 21225
 	}
 	
@@ -10956,7 +10956,7 @@
 1580 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 9900
 	}
 
@@ -11114,7 +11114,7 @@
 1581 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 21400
 	}
 
@@ -11182,7 +11182,7 @@
 1582 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 
@@ -11322,7 +11322,7 @@
 1583 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 22900
 	}
 
@@ -11402,7 +11402,7 @@
 1584 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 15100
 	}
 
@@ -11464,7 +11464,7 @@
 1585 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 8550
 	}
 
@@ -11574,7 +11574,7 @@
 1586 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 9025
 	}
 
@@ -11710,7 +11710,7 @@
 1601 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 13500
 	}
 
@@ -12032,7 +12032,7 @@
 1603 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 2200
 	}
 
@@ -12216,7 +12216,7 @@
 1604 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 5450
 	}
 
@@ -12416,7 +12416,7 @@
 1605 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 725
 	}
 
@@ -12484,7 +12484,7 @@
 1606 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 950
 	}
 
@@ -12558,7 +12558,7 @@
 1607 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 8375
 	}
 	
@@ -12680,7 +12680,7 @@
 1608 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 3325
 	}
 
@@ -12755,7 +12755,7 @@
 1609 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 1725
 	}
 
@@ -12830,7 +12830,7 @@
 1610 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 8400
 	}
 
@@ -12874,7 +12874,7 @@
 1611 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
+		religion = confucian
 		size = 8350
 	}
 
@@ -12950,25 +12950,25 @@
 1612 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 24050
 	}
 
 	bureaucrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 9100
 	}
 
 	officers = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 6000
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 12050
 	}
 
@@ -12987,7 +12987,7 @@
 
 	farmers = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 908650
 	}
 	
@@ -13034,7 +13034,7 @@
 	}
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 15000
 	}
 }
@@ -13042,7 +13042,7 @@
 1613 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 21750
 	}
 
@@ -13200,7 +13200,7 @@
 1614 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 16800
 	}
 
@@ -13274,7 +13274,7 @@
 1615 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 22450
 	}
 
@@ -13348,49 +13348,49 @@
 1616 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 19075
 	}
 
 	clergymen = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11075
 	}
 
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 	
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 	
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 	
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 	
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 11000
 	}
 	
 	artisans = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 5350
 	}
 
@@ -13414,31 +13414,31 @@
 
 	farmers = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 607425
 	}
 	
 	serfs = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 400000
 	}
 	
 	aristocrats = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 5000
 	}
 
 	bureaucrats = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 10250
 	}
 
 	officers = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 3500
 	}
 
@@ -13480,13 +13480,13 @@
 	
 	soldiers = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 18000
 	}
 
 	farmers = {
 		culture = manchu
-		religion = mahayana
+		religion = confucian
 		size = 10750
 	}
 }
@@ -13494,7 +13494,7 @@
 1617 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 29025
 	}
 
@@ -13562,7 +13562,7 @@
 1618 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 26150
 	}
 
@@ -13644,7 +13644,7 @@
 3249 = {
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 2025
 	}
 
@@ -13668,7 +13668,7 @@
 
 	aristocrats = {
 		culture = beifaren
-		religion = mahayana
+		religion = confucian
 		size = 750
 	}
 
