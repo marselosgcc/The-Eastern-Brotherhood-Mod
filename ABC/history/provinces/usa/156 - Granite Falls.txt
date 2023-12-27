@@ -1,5 +1,5 @@
-owner = SIX
-controller = SIX
-add_core = SIX
+owner = UIL
+controller = UIL
+add_core = UIL
 trade_goods = coal
 life_rating = 35
