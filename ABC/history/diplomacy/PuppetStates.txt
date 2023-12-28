@@ -90,15 +90,6 @@ start_date = 1836.1.1
 
 end_date = 1885.8.9 
 }
-substate = {
-first = ETH
-
-second = TIG
-
-start_date = 1836.1.1
-
-end_date = 1865.5.1 
-}
 vassal = {
 first = GEL
 
@@ -232,6 +223,26 @@ vassal = {
 first = WES
 	
 second = BRA
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+substate = {
+	
+first = GEL
+	
+second = OGD
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+substate = {
+	
+first = ENL
+	
+second = JAM
 	
 start_date = 1836.1.1
 	

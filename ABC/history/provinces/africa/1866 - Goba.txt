@@ -1,5 +1,7 @@
-owner = GEL
-controller = GEL
+owner = OGD
+controller = OGD
 add_core = GEL
+add_core = SOM
+add_core = OGD
 trade_goods = cattle
 life_rating = 30

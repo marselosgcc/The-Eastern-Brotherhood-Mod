@@ -3,5 +3,6 @@ controller = HAR
 add_core = HAR
 add_core = SHW
 add_core = GEL
+add_core = SOM
 trade_goods = coffee
 life_rating = 30
