@@ -5,6 +5,7 @@ culture = siebenburger
 culture = croat
 culture = north_german
 culture = cubanische
+culture = silesian
 religion = catholic
 government = absolute_monarchy
 plurality = 10.0
