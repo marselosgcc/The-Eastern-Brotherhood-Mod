@@ -332,6 +332,7 @@ WRI		= "countries/Warri.txt"
 WOL		= "countries/Wolof.txt"
 XHO		= "countries/Xhosa.txt"
 ZAM		= "countries/Zambia.txt"
+OGD		= "countries/Ogaden.txt"
 
 # Eastern Asia
 DJA		= "countries/Jambi.txt"
