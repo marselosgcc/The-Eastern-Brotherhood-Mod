@@ -198,3 +198,13 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
+alliance = {
+	
+first = NET
+	
+second = WES
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
