@@ -248,3 +248,33 @@ start_date = 1836.1.1
 	
 end_date = 1936.1.1
 }
+substate = {
+	
+first = DEN
+	
+second = ICL
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = DEN
+	
+second = HOL
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}
+vassal = {
+	
+first = DEN
+	
+second = SCH
+	
+start_date = 1836.1.1
+	
+end_date = 1936.1.1
+}

@@ -173,6 +173,14 @@ jewish_cultures = {
 		Sassoon Sebag
 		}
 	}
+	keffichojewish = {
+		color = {40 82 84}
+		first_names = { Abraham Tekle Shimon Sacho Gawa Yetbarak Gaha Shagi Dawīti Yaikobi Jilcha Jawe Sana Yosef Gunji Tīyago Galli Gaki Beshi Hoti Kaye Zohar Zekariyasi
+		}
+
+		last_names = { Ginocho Gaocho Sherocho Israel Silva Nechocho Baruch Sachi Einstein Bulgu Goldstein Gomol Epstein "Yekafa Zagiwē" Cave Zimro Zvadya Adamso Yavarkan Neguise Solomon
+		}
+	}
 }
 
 beneluxian = {
@@ -366,6 +374,7 @@ scandinavian = {
 			Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
 		}
 	}
+	union = SCA
 }
 
 british = {
