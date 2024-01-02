@@ -4476,3 +4476,59 @@
 	}
 
 }
+3275 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3276 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3277 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3278 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3279 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3280 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3281 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3282 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
