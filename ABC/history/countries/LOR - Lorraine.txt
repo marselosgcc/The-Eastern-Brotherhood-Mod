@@ -51,5 +51,15 @@ upper_house = {
 	communist = 0
 }
 
+state_building = {
+    level = 1
+    building = regular_clothes_factory
+    upgrade = yes
+}
 
+state_building = {
+    level = 1
+    building = liquor_distillery
+    upgrade = yes
+}
 
