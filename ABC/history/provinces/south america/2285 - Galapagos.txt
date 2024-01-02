@@ -1,6 +1,6 @@
-owner = COL
-controller = COL
-add_core = COL
+owner = GCOL
+controller = GCOL
+add_core = GCOL
 add_core = ECU
 trade_goods = fish
 life_rating = 35
