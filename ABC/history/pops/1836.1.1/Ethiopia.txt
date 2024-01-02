@@ -28,13 +28,13 @@
 
 	artisans = {
 		culture = amhara
-		religion = coptic
+		religion = jewish
 		size = 5650
 	}
 
 	soldiers = {
 		culture = amhara
-		religion = coptic
+		religion = jewish
 		size = 5020
 	}
 
@@ -69,9 +69,9 @@
 	}
 
 	artisans = {
-		culture = amhara
+		culture = keffichojewish
 		religion = jewish
-		size = 350
+		size = 3500
 	}
 
 	soldiers = {
@@ -989,32 +989,38 @@
 1862 = {
 	aristocrats = {
 		culture = kefficho
-		religion = animist
+		religion = jewish
 		size = 1000
 	}
 	
 	officers = {
 		culture = kefficho
-		religion = animist
-		size = 100
+		religion = jewish
+		size = 1000
 	}
 
 	clergymen = {
 		culture = kefficho
-		religion = animist
-		size = 100
+		religion = jewish
+		size = 1000
 	}
 	
 	soldiers = {
 		culture = kefficho
-		religion = animist
+		religion = jewish
 		size = 2000
 	}
 	
 	farmers = {
 		culture = kefficho
-		religion = animist
-		size = 10100
+		religion = jewish
+		size = 40100
+	}
+	
+	artisans = {
+		culture = kefficho
+		religion = jewish
+		size = 20200
 	}
 	
 	aristocrats = {
@@ -1176,15 +1182,15 @@
 #Asosa (756000/189000 POPS)
 1863 = {
 	aristocrats = {
-		culture = amhara
-		religion = coptic
-		size = 200
+		culture = keffichojewish
+		religion = jewish
+		size = 5200
 	}
 
 	clergymen = {
-		culture = amhara
-		religion = coptic
-		size = 310
+		culture = keffichojewish
+		religion = jewish
+		size = 4310
 	}
 
 	artisans = {
@@ -1194,25 +1200,44 @@
 	}
 
 	soldiers = {
-		culture = amhara
-		religion = coptic
-		size = 1100
+		culture = keffichojewish
+		religion = jewish
+		size = 10100
 	}
-	farmers = {
-		culture = amhara
-		religion = coptic
+	
+	artisans = {
+		culture = kefficho
+		religion = jewish
 		size = 20850
+	}
+	
+	farmers = {
+		culture = kefficho
+		religion = jewish
+		size = 40000
+	}
+	
+	artisans = {
+		culture = keffichojewish
+		religion = jewish
+		size = 15000
+	}
+	
+	farmers = {
+		culture = keffichojewish
+		religion = jewish
+		size = 32000
 	}
 
 	slaves = {
 		culture = amhara
-		religion = coptic
+		religion = jewish
 		size = 6000
 	}
 
 	aristocrats = {
 		culture = oromo
-		religion = sunni
+		religion = jewish
 		size = 1650
 	}
 
@@ -1254,7 +1279,7 @@
 
 	farmers = {
 		culture = cushitic
-		religion = animist
+		religion = jewish
 		size = 41000
 	}
 }

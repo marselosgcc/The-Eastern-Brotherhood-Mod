@@ -1,5 +1,5 @@
 capital = 2324
-primary_culture = araukaner
+primary_culture = araukaneer
 religion = reformed
 government = democracy
 plurality = 20.0

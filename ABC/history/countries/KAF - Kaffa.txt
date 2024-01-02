@@ -1,12 +1,13 @@
 capital = 1862
-primary_culture = kefficho
+primary_culture = keffichojewish
+culture = kefficho
 culture = cushitic
 culture = oromo
 religion = jewish
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.15
+literacy = 0.35
 non_state_culture_literacy = 0.01
 
 # Political reforms
