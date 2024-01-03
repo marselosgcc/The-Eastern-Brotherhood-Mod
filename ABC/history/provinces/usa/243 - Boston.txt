@@ -15,6 +15,6 @@ state_building = {
 }
 state_building = {
     level = 1
-    building regular_clothes_factory
+    building = regular_clothes_factory
     upgrade = no
 }
