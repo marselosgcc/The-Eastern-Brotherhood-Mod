@@ -4,3 +4,13 @@ add_core = BAV
 add_core = GER
 trade_goods = coal
 life_rating = 35
+state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building = regular_clothes_factory
+    upgrade = no
+}

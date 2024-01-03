@@ -3,3 +3,13 @@ controller = IRE
 add_core = IRE
 trade_goods = grain
 life_rating = 35
+state_building = {
+    level = 1
+    building = regular_clothes_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building = clipper_shipyard
+    upgrade = no
+}

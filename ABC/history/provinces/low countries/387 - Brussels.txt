@@ -5,3 +5,8 @@ add_core = WLL
 add_core = FLA
 trade_goods = sulphur
 life_rating = 35
+state_building = {
+    level = 2
+    building = luxury_clothes_factory
+    upgrade = no
+}

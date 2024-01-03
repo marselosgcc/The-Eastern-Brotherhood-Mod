@@ -3,3 +3,13 @@ controller = JAD
 add_core = JAD
 trade_goods = cotton
 life_rating = 35
+state_building = {
+    level = 1
+    building = canned_food_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building = winery
+    upgrade = no
+}

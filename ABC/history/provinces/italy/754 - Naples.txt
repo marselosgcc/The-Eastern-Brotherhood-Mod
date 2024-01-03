@@ -4,3 +4,13 @@ add_core = SIC
 add_core = ITA
 trade_goods = fish
 life_rating = 35
+state_building = {
+    level = 1
+    building ammunition_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building regular_clothes_factory
+    upgrade = no
+}

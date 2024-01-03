@@ -3,3 +3,8 @@ controller = SPC
 add_core = SPC
 trade_goods = fish
 life_rating = 35
+state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = no
+}

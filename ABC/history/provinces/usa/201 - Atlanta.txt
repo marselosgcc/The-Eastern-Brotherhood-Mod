@@ -3,3 +3,8 @@ controller = ARK
 add_core = ARK
 trade_goods = iron
 life_rating = 35
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = no
+}
