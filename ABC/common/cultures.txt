@@ -2444,14 +2444,6 @@ latin_american_cultures = {
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
-	irochesi = {
-		color = {0 168 99}
-		first_names = { Atotarho Canastota Ganeodiyo Hengah Jikonsaseka Keghsogwa Tawiskaron Thayendanegea Kanadariio Ratanenhawi Aientaa Honawira Skennen Teyoninhokovawen Awiyathentha Kanyenkeha Teiothorake Marco Giuseppe Francesco Alberto Stefano Alessandro Federico Matteo Antonio Vittorio Davide Alessio Carlo Edoardo Giovanni Lorenzo
-		}
-
-		last_names = { Rossi Russo Conti "Di Siracusa" Vomero Chiaia Esposito Moretti Mancini "Di Ferrara" Romano Rinaldi Marchetti "Di Martino" "Di Napoli" "di Buonaparte" "Di Firenze" "Di Giorgio" "Di Marco" "Di Lucca" "Di Matteo" "Di Franco" "Di Pasquale"
-		}
-	}
 }
 
 african_diaspora_cultures = {
@@ -3350,5 +3342,29 @@ Polabian = {
 		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
 		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
 		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski Griffin "Von Griffin-Habsburg" Griffin-Galicja }
+	}
+}
+Italo_american = {
+ 	leader = european
+	unit = ItalianGC
+
+	irochesi = {
+		color = {0 168 99}
+		first_names = { Geovane Atotarho Afonso Canastota Luca Ganeodiyo Sandro Hengah Luigi Jikonsaseka Keghsogwa Luis Tawiskaron Thayendanegea Fillipo Kanadariio Ratanenhawi Aientaa Honawira Skennen Teyoninhokovawen Awiyathentha Kanyenkeha Teiothorake Marco Giuseppe Francesco Alberto Stefano Alessandro Federico Matteo Antonio Vittorio Davide Alessio Carlo Edoardo Giovanni Lorenzo
+		}
+
+		last_names = { Rossi Olivetto Conti "Di Siracusa" Vomero Chiaia Gomera Esposito Moretti Mancini "Di Ferrara" Romano Rinaldi Marchetti "Di Martino" "Di Napoli" "di Buonaparte" "Di Firenze" "Di Giorgio" "Di Marco" "Di Lucca" Lombardo "Di Matteo" "Di Franco" "Di Pasquale" Sorrentino "D'Bourbon-Anjou" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti 
+		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi Pelloux Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli Martinelli Vitale Valente Colombo Vanwery Pietro
+		}
+	}
+	
+	venezuelano {
+		color = {0 168 99}
+		first_names = { Abramo Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Francesco Enzo Pietro Andrea Giuseppe Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio
+		}
+
+		last_names = { Rossi Ferrari Esposito Bianchi Romano Colombo Ricci Marino Conti De Luca Galli Moretti Fontana Bellini Mariani Rizzo Ferraro Gallo Santis Martini Lombardi Marconi Mancini Russo Barbieri Rossetti Monti Oliveto De Angelis Caputo Ferri Rinaldi Greco Pellegrino Napolitano Caruso Leone Damico Lombardo Bruno Ferrara Messina Vitale Santoro Rizzi Galloso Palumbo Russoso Rosato
+		}
 	}
 }
