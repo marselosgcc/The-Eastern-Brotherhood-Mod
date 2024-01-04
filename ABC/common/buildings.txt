@@ -23,7 +23,8 @@ aeroplane_factory = {
 		electric_gear = 600
 		steel = 600
 		cement = 600
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
@@ -31,6 +32,7 @@ aeroplane_factory = {
 	pop_build_factory = yes
 	advanced_factory = yes
 }
+
 barrel_factory = {
 	type = factory
 	on_completion = factory
@@ -43,6 +45,7 @@ barrel_factory = {
 		steel = 500
 		cement = 500
 	}
+
 	time = 730
 	visibility = yes
 	onmap = no
@@ -51,6 +54,7 @@ barrel_factory = {
 	pop_build_factory = yes
 	advanced_factory = yes
 }
+
 automobile_factory = {
 	type = factory
 	on_completion = factory
@@ -62,7 +66,8 @@ automobile_factory = {
 		electric_gear = 200
 		steel = 400
 		cement = 400
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
@@ -70,6 +75,7 @@ automobile_factory = {
 	pop_build_factory = yes
 	advanced_factory = yes
 }
+
 radio_factory = {
 	type = factory
 
@@ -82,7 +88,8 @@ radio_factory = {
 		electric_gear = 200
 		steel = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
@@ -90,6 +97,7 @@ radio_factory = {
 	pop_build_factory = yes
 	advanced_factory = yes
 }
+
 telephone_factory = {
 	type = factory
 
@@ -102,7 +110,8 @@ telephone_factory = {
 		electric_gear = 200
 		steel = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
@@ -110,6 +119,7 @@ telephone_factory = {
 	pop_build_factory = yes
 	advanced_factory = yes
 }
+
 ############# STRATEGIC FACTORIES
 
 electric_gear_factory = {
@@ -123,7 +133,8 @@ electric_gear_factory = {
 		machine_parts = 300
 		steel = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
@@ -131,6 +142,7 @@ electric_gear_factory = {
 	pop_build_factory = yes
 	strategic_factory = yes
 }
+
 machine_parts_factory = {
 	type = factory
 
@@ -142,7 +154,8 @@ machine_parts_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
@@ -150,6 +163,7 @@ machine_parts_factory = {
 	pop_build_factory = yes
 	strategic_factory = yes
 }
+
 synthetic_oil_factory = {
 	type = factory
 
@@ -161,7 +175,8 @@ synthetic_oil_factory = {
 		machine_parts = 300
 		steel = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
@@ -169,6 +184,7 @@ synthetic_oil_factory = {
 	pop_build_factory = yes
 	strategic_factory = yes
 }
+
 fuel_refinery = {
 	type = factory
 
@@ -180,7 +196,8 @@ fuel_refinery = {
 		machine_parts = 200
 		steel = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
@@ -188,6 +205,7 @@ fuel_refinery = {
 	pop_build_factory = yes
 	strategic_factory = yes
 }
+
 ############# NAVAL FACTORIES
 
 steamer_shipyard = {
@@ -203,13 +221,15 @@ steamer_shipyard = {
 		machine_parts = 400
 		steel = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = steamer_shipyard
 	pop_build_factory = yes
 }
+
 clipper_shipyard = {
 	type = factory
 	
@@ -223,13 +243,15 @@ clipper_shipyard = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = clipper_shipyard
 	pop_build_factory = yes
 }
+
 ############# LUXURY GOODS FACTORIES
 
 luxury_clothes_factory = {
@@ -243,13 +265,15 @@ luxury_clothes_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = luxury_clothes_factory
 	pop_build_factory = yes
 }
+
 luxury_furniture_factory = {
 	type = factory
 
@@ -261,13 +285,15 @@ luxury_furniture_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = luxury_furniture_factory
 	pop_build_factory = yes
 }
+
 ############# MEDIUM FACTORIES
 
 steel_factory = {
@@ -281,13 +307,15 @@ steel_factory = {
 		machine_parts = 200
 		iron = 200
 		coal = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 	
 	production_type = steel_factory
 	pop_build_factory = yes
 }
+
 artillery_factory = {
 	type = factory
 
@@ -299,13 +327,15 @@ artillery_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = artillery_factory
 	pop_build_factory = yes
 }
+
 small_arms_factory = {
 	type = factory
 	on_completion = factory
@@ -316,13 +346,15 @@ small_arms_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = small_arms_factory
 	pop_build_factory = yes
 }
+
 ############# COMMON FACTORIES
 
 furniture_factory = {
@@ -335,13 +367,15 @@ furniture_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = furniture_factory
 	pop_build_factory = yes
 }
+
 paper_mill = {
 	type = factory
 	on_completion = factory
@@ -352,13 +386,15 @@ paper_mill = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 	
 	production_type = paper_mill
 	pop_build_factory = yes
 }
+
 regular_clothes_factory = {
 	type = factory
 	on_completion = factory
@@ -369,13 +405,15 @@ regular_clothes_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = regular_clothes_factory
 	pop_build_factory = yes
 }
+
 explosives_factory = {
 	type = factory
 	on_completion = factory
@@ -386,13 +424,15 @@ explosives_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = explosives_factory
 	pop_build_factory = yes
 }
+
 ############# CHEAP FACTORIES
 
 ammunition_factory = {
@@ -406,13 +446,15 @@ ammunition_factory = {
 		machine_parts = 100
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = ammunition_factory
 	pop_build_factory = yes
 }
+
 canned_food_factory = {
 	type = factory
 
@@ -424,13 +466,15 @@ canned_food_factory = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
 	production_type = canned_food_factory
 	pop_build_factory = yes
 }
+
 dye_factory = {
 	type = factory
 
@@ -442,13 +486,15 @@ dye_factory = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
 	production_type = dye_factory
 	pop_build_factory = yes
 }
+
 liquor_distillery = {
 	type = factory
 
@@ -460,7 +506,8 @@ liquor_distillery = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 	
@@ -468,6 +515,7 @@ liquor_distillery = {
 	production_type = liquor_distillery
 	pop_build_factory = yes
 }
+
 winery = {
 	type = factory
 	on_completion = factory
@@ -478,7 +526,8 @@ winery = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
-	}	time = 730
+	}
+	time = 730
 	visibility = yes
 	onmap = no
 
@@ -486,6 +535,7 @@ winery = {
 	production_type = winery
 	pop_build_factory = yes
 }
+
 ############# BASIC FACTORIES
 
 lumber_mill = {
@@ -498,13 +548,15 @@ lumber_mill = {
 		machine_parts = 20
 		iron = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
 	production_type = lumber_mill
 	pop_build_factory = yes
 }
+
 fabric_factory = {
 	type = factory
 	on_completion = factory
@@ -515,13 +567,15 @@ fabric_factory = {
 		machine_parts = 20
 		iron = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
 	production_type = fabric_factory
 	pop_build_factory = yes
 }
+
 cement_factory = {
 	type = factory
 	on_completion = factory
@@ -532,13 +586,15 @@ cement_factory = {
 		machine_parts = 20
 		iron = 200
 		timber = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
 	production_type = cement_factory
 	pop_build_factory = yes
 }
+
 glass_factory = {
 	type = factory
 	on_completion = factory
@@ -549,7 +605,8 @@ glass_factory = {
 		machine_parts = 40
 		iron = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 	
@@ -557,6 +614,7 @@ glass_factory = {
 	production_type = glass_factory
 	pop_build_factory = yes
 }
+
 fertilizer_factory = {
 	type = factory
 	on_completion = factory
@@ -567,13 +625,15 @@ fertilizer_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
-	}	time = 365
+	}
+	time = 365
 	visibility = yes
 	onmap = no
 
 	production_type = fertilizer_factory
 	pop_build_factory = yes
 }
+
 fort = {      
 	type = fort
 	goods_cost =
@@ -583,13 +643,15 @@ fort = {
 		explosives = 50
 		small_arms = 50
 		artillery = 40
-	}	time = 1080 
+	}
+	time = 1080 
 	visibility = yes
 	onmap = yes
 	max_level = 6
 	province = yes
 	fort_level = 1
 }
+
 naval_base = {    
 	type = naval_base
 	cost = 15000
@@ -600,7 +662,8 @@ naval_base = {
 		cement = 100
 		steel = 100
 		machine_parts = 1
-	}	time = 1080
+	}
+	time = 1080
 	naval_capacity = 1
 	capital = yes
 	onmap = yes
@@ -612,7 +675,8 @@ naval_base = {
 	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.10
-}       
+}
+       
 railroad = {   
 	type = infrastructure
 	goods_cost =
@@ -620,7 +684,8 @@ railroad = {
 		timber = 100
 		cement = 100
 		steel = 100
-	}	time = 720
+	}
+	time = 720
 	visibility = yes
 	onmap = yes
 	max_level = 6
