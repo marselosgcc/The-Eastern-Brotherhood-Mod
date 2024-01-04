@@ -3136,6 +3136,36 @@
 		size = 45000
 	}
 	
+	craftsmen = {
+		culture = brazilian
+		religion = protestant
+		size = 12000
+	}
+	
+	craftsmen = {
+		culture = brazilian
+		religion = reformed
+		size = 9000
+	}
+	
+	craftsmen = {
+		culture = brazilian
+		religion = catholic
+		size = 4000
+	}
+	
+	clerks = {
+		culture = brazilian
+		religion = reformed
+		size = 4000
+	}
+	
+	craftsmen = {
+		culture = brazilian
+		religion = protestant
+		size = 4000
+	}
+	
 	farmers = {
 		culture = brazilian
 		religion = catholic

@@ -36,7 +36,14 @@
 		religion = catholic
 		size = 2350
 	}
-        artisans = {
+
+	craftsmen = {
+		culture = galician
+		religion = catholic
+		size = 12350
+	}
+	
+    artisans = {
 		culture = galician
 		religion = catholic
 		size = 4350
@@ -1177,6 +1184,12 @@
 	}
 
 	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 10000
+	}
+
+	craftsmen = {
 		culture = catalan
 		religion = catholic
 		size = 10000

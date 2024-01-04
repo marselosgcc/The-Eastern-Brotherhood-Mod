@@ -32,6 +32,12 @@
 		size = 2325
 	}
 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 2000
+	}
+
 	artisans = {
 		culture = north_italian
 		religion = catholic
@@ -238,6 +244,12 @@
 		culture = north_italian
 		religion = catholic
 		size = 250
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 2000
 	}
 
 	clergymen = {
@@ -1643,6 +1655,12 @@
 		culture = south_italian
 		religion = catholic
 		size = 825
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 2000
 	}
 
 	officers = {

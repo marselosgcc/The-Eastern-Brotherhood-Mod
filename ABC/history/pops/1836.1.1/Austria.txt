@@ -338,6 +338,12 @@
 		size = 10000
 	}
 
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 11000
+	}
+
 	artisans = {
 		culture = south_german
 		religion = catholic

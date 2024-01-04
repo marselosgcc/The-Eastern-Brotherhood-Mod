@@ -42,6 +42,12 @@
 		religion = catholic
 		size = 150200
 	}
+	
+	craftsmen = {
+	    culture = portuguese
+		religion = catholic
+		size = 10000
+	}
 }
 #Vila Real (324000/81000) POPS
 519 = {
@@ -115,6 +121,12 @@
 		culture = portuguese
 		religion = catholic
 		size = 1100
+	}
+	
+	craftsmen = {
+	    culture = portuguese
+		religion = catholic
+		size = 4000
 	}
 
 	officers = {

@@ -539,6 +539,12 @@
 		religion = protestant
 		size = 700
 	}
+	
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 10700
+	}
 
 	bureaucrats = {
 		culture = british

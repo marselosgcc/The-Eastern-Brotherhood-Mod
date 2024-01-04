@@ -6,5 +6,5 @@ life_rating = 35
 state_building = {
     level = 1
     building = winery
-    upgrade = no
+    upgrade = yes
 }

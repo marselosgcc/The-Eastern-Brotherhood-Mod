@@ -3553,6 +3553,18 @@
 		size = 50
 	}
 
+	craftsmen = {
+		culture = jugmoravian
+		religion = protestant
+		size = 10050
+	}
+
+	artisans = {
+		culture = jugmoravian
+		religion = catholic
+		size = 5900
+	}
+
 	clergymen = {
 		culture = afro_slavic
 		religion = catholic
@@ -7733,6 +7745,18 @@
 		size = 225
 	}
 
+	craftsmen = {
+		culture = akadyjski
+		religion = orthodox
+		size = 10050
+	}
+
+	artisans = {
+		culture = akadyjski
+		religion = catholic
+		size = 5900
+	}
+
 	officers = {
 		culture = akadyjski
 		religion = catholic
@@ -8011,6 +8035,24 @@
 		culture = jadwigan
 		religion = orthodox
 		size = 1100
+	}
+
+	craftsmen = {
+		culture = jadwigan
+		religion = protestant
+		size = 9000
+	}
+
+	craftsmen = {
+		culture = jadwigan
+		religion = reformed
+		size = 4000
+	}
+
+	craftsmen = {
+		culture = jadwigan
+		religion = orthodox
+		size = 2000
 	}
 
 	soldiers = {

@@ -6,7 +6,7 @@
 		religion = jewish
 		size = 70
 	}
-	artisans = {
+	clerks = {
 		culture = ashkenazi
 		religion = jewish
 		size = 6509
@@ -31,12 +31,12 @@
 		religion = reformed
 		size = 1739
 	}
-	artisans = {
+	craftsmen = {
 		culture = dutch
 		religion = catholic
 		size = 18800
 	}
-	artisans = {
+	craftsmen = {
 		culture = dutch
 		religion = reformed
 		size = 9400
