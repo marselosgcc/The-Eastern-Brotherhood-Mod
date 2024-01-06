@@ -4,61 +4,61 @@
 2239 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 50
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 350
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = reformed
 		size = 100
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = reformed
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = reformed
 		size = 700
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = reformed
 		size = 150
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = reformed
 		size = 13075
 	}
 }
@@ -97,56 +97,56 @@
 #Essequibo (33000/8250 POPS)
 2243 = {
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = venezuelano
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = venezuelano
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = venezuelano
+		religion = reformed
 		size = 100
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = venezuelano
+		religion = reformed
 		size = 25
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = venezuelano
+		religion = reformed
 		size = 50
 	}
 
 	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = afro_italic
+		religion = reformed
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = afro_italic
+		religion = reformed
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = afro_italic
+		religion = reformed
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = afro_italic
+		religion = reformed
 		size = 8550
 	}
 }

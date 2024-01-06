@@ -12,12 +12,12 @@ ARK_proletarian_dictatorship;DPR of Arkadia;;;;;;;;;;;;x
 JAD;Jadwiga;;;;;;;;;;;;x
 JAD_ADJ;Jadwigan;;;;;;;;;;;;x
 JAD_democracy;Jadwiga;;;;;;;;;;;;x
-JAD_presidential_dictatorship;Jadwiga;;;;;;;;;;;;x
-JAD_bourgeois_dictatorship;Jadwiga;;;;;;;;;;;;x
-JAD_absolute_monarchy;Crown of Nowa Warszawa;;;;;;;;;;;;x
-JAD_prussian_constitutionalism;Kingdom of Nowa Warszawa;;;;;;;;;;;;x
-JAD_hms_government;Kingdom of Nowa Warszawa;;;;;;;;;;;;x
-JAD_fascist_dictatorship;Jadwiga;;;;;;;;;;;;x
+JAD_presidential_dictatorship;Jadwiga Republic;;;;;;;;;;;;x
+JAD_bourgeois_dictatorship;Free State of Jadwiga;;;;;;;;;;;;x
+JAD_absolute_monarchy;Jadwiga;;;;;;;;;;;;x
+JAD_prussian_constitutionalism;Jadwiga;;;;;;;;;;;;x
+JAD_hms_government;Jadwiga;;;;;;;;;;;;x
+JAD_fascist_dictatorship;Aarya;;;;;;;;;;;;x
 JAD_proletarian_dictatorship;Democratic People's Republic of Jadwiga;;;;;;;;;;;;x
 SIX;Sioux;;;;;;;;;;;;x
 SIX_ADJ;Sioux;;;;;;;;;;;;x
@@ -30,7 +30,7 @@ SIX_hms_government;The Great Sioux Nation;;;;;;;;;;;;x
 SIX_fascist_dictatorship;The Sioux Front;;;;;;;;;;;;x
 SIX_proletarian_dictatorship;The Sioux Union;;;;;;;;;;;;x
 NEN;Stato Irochese;;;;;;;;;;;;x
-NEN_ADJ;Meriodinali;;;;;;;;;;;;x
+NEN_ADJ;Irochese Borealis;;;;;;;;;;;;x
 NEN_democracy;Stato Irochese;;;;;;;;;;;;x
 NEN_presidential_dictatorship;Stato Irochese;;;;;;;;;;;;x
 NEN_bourgeois_dictatorship;Stato Irochese;;;;;;;;;;;;x
@@ -278,3 +278,13 @@ KAF_prussian_constitutionalism;Zagwe-Kaffa;;;;;;;;;;;;x
 KAF_hms_government;Beta Israel;;;;;;;;;;;;x
 KAF_fascist_dictatorship;State of Israel;;;;;;;;;;;;x
 KAF_proletarian_dictatorship;Kaffa Commune;;;;;;;;;;;;x
+NET;Netherlands;;;;;;;;;;;;x
+NET_ADJ;Niederländisch;;;;;;;;;;;;x
+NET_democracy;Seven Provinces;;;;;;;;;;;;x
+NET_presidential_dictatorship;Niederlands;;;;;;;;;;;;x
+NET_bourgeois_dictatorship;Niederlands;;;;;;;;;;;;x
+NET_absolute_monarchy;Niederlands;;;;;;;;;;;;x
+NET_prussian_constitutionalism;Niederlands;;;;;;;;;;;;x
+NET_hms_government;Niederlands;;;;;;;;;;;;x
+NET_fascist_dictatorship;Friesisches Reich;;;;;;;;;;;;x
+NET_proletarian_dictatorship;Tulpenrepublik;;;;;;;;;;;;x

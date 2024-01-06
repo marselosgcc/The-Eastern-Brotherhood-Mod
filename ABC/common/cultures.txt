@@ -2460,6 +2460,14 @@ african_diaspora_cultures = {
 		Delany Douglass "Du Bois" Fields Flipper Gardner Griffin Hawkins Holland Jackson
 		King Mink Nell Pinn Ratcliff Remond Smith Stukes Tubman Veale }
 	}
+	afro_italic {
+		color = {28 69 33}
+		first_names = { Abramo Nichola Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Philliberto Francesco Enzo Pietro Andrea Giuseppe Charles Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio Louis Victor
+		}
+
+		last_names = { Rossi Ferrari Esposito Bianchi Romano Colombo Ricci Marino Conti "De Luca" Galli Moretti Fontana Bellini Mariani Rizzo Ferraro Gallo Santis Martini Lombardi Marconi Mancini Russo Barbieri Rossetti Monti Oliveto "De Angelis" Caputo Ferri Rinaldi Greco Pellegrino "D' Habsburgo-Anjou" Napolitano Caruso Leone Damico Lombardo Bruno Ferrara Messina "Di Anjou" Vitale Santoro Rizzi Galloso "Di Nassau-Weilburg" Palumbo Russoso Rosato "'d Savòja"
+		}
+	}
 	afro_caribbean = {
 		color = {32 57 32}
 		first_names = { Anderson Anselm Arthur Ben Colville Cyril Earl Edwin Ellis Eric
@@ -3360,11 +3368,11 @@ Italo_american = {
 	}
 	
 	venezuelano {
-		color = {0 168 99}
-		first_names = { Abramo Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Francesco Enzo Pietro Andrea Giuseppe Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio
+		color = {77 255 99}
+		first_names = { Abramo Nichola Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Philliberto Francesco Enzo Pietro Andrea Giuseppe Charles Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio Louis Victor
 		}
 
-		last_names = { Rossi Ferrari Esposito Bianchi Romano Colombo Ricci Marino Conti De Luca Galli Moretti Fontana Bellini Mariani Rizzo Ferraro Gallo Santis Martini Lombardi Marconi Mancini Russo Barbieri Rossetti Monti Oliveto De Angelis Caputo Ferri Rinaldi Greco Pellegrino Napolitano Caruso Leone Damico Lombardo Bruno Ferrara Messina Vitale Santoro Rizzi Galloso Palumbo Russoso Rosato
+		last_names = { Rossi Ferrari Esposito Bianchi Romano Colombo Ricci Marino Conti "De Luca" Galli Moretti Fontana Bellini Mariani Rizzo Ferraro Gallo Santis Martini Lombardi Marconi Mancini Russo Barbieri Rossetti Monti Oliveto "De Angelis" Caputo Ferri Rinaldi Greco Pellegrino "D' Habsburgo-Anjou" Napolitano Caruso Leone Damico Lombardo Bruno Ferrara Messina "Di Anjou" Vitale Santoro Rizzi Galloso "Di Nassau-Weilburg" Palumbo Russoso Rosato "'d Savòja"
 		}
 	}
 }
