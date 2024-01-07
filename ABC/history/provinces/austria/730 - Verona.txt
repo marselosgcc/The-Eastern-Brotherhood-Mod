@@ -1,5 +1,5 @@
-owner = TUS
-controller = TUS
+owner = VEN
+controller = VEN
 add_core = VEN
 add_core = TUS
 trade_goods = cattle

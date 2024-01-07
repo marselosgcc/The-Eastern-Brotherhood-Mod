@@ -1,5 +1,6 @@
 capital = 749
 primary_culture = north_italian
+culture = swiss_italian
 culture = south_italian
 culture = sicilian
 culture = griko

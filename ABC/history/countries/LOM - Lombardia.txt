@@ -1,5 +1,6 @@
 capital = 726
 primary_culture = north_italian
+culture = swiss_italian
 religion = catholic
 government = hms_government
 plurality = 0.0

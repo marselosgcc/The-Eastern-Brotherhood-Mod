@@ -1,6 +1,6 @@
-owner = TUS
-controller = TUS
+owner = AUS
+controller = AUS
 add_core = AUS
-add_core = TUS
+add_core = VEN
 trade_goods = grain
 life_rating = 35

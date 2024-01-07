@@ -1,5 +1,6 @@
 capital = 744
 primary_culture = north_italian
+culture = swiss_italian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

@@ -288,3 +288,17 @@ NET_prussian_constitutionalism;Niederlands;;;;;;;;;;;;x
 NET_hms_government;Niederlands;;;;;;;;;;;;x
 NET_fascist_dictatorship;Friesisches Reich;;;;;;;;;;;;x
 NET_proletarian_dictatorship;Tulpenrepublik;;;;;;;;;;;;x
+LOM_democracy;Ambrosian Republic;;;;;;;;;;;;x
+LOM_presidential_dictatorship;Ambrosia;;;;;;;;;;;;x
+LOM_bourgeois_dictatorship;Ambrosian Golden Republic;;;;;;;;;;;;x
+LOM_absolute_monarchy;Ducato di Milano;;;;;;;;;;;;x
+LOM_prussian_constitutionalism;Ducato di Milano;;;;;;;;;;;;x
+LOM_hms_government;Milano;;;;;;;;;;;;x
+VEN_democracy;Venice;;;;;;;;;;;;x
+VEN_presidential_dictatorship;Venice;;;;;;;;;;;;x
+VEN_bourgeois_dictatorship;Venice;;;;;;;;;;;;x
+VEN_absolute_monarchy;Venice;;;;;;;;;;;;x
+VEN_prussian_constitutionalism;Venice;;;;;;;;;;;;x
+VEN_hms_government;Venice;;;;;;;;;;;;x
+VEN_fascist_dictatorship;Venice;;;;;;;;;;;;x
+VEN_proletarian_dictatorship;Venice;;;;;;;;;;;;x

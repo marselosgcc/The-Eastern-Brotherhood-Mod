@@ -1,5 +1,5 @@
-owner = TUS
-controller = TUS
+owner = LOM
+controller = LOM
 add_core = LOM
 add_core = TUS
 add_core = ITA
