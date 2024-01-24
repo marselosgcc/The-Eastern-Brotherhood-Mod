@@ -1,5 +1,6 @@
 capital = 1745
-primary_culture = misri
+primary_culture = circassian_arab
+culture = misri
 culture = mashriqi
 culture = sudanese
 culture = bedouin

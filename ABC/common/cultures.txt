@@ -1066,8 +1066,8 @@ levantine = {
 	}
 }
 
-turko_semitic = {
-	leader = arab
+anatolian_turkish = {
+	leader = european
 	is_overseas = no
 	unit = OttomanGC
 	turkish = {
@@ -1085,9 +1085,28 @@ turko_semitic = {
 		}
 		
 		last_names = { 
-			Bey Pasha Hoca Efendi
+			Bey Pasha Hoca Efendi Şimşek Kemal Abacı Osmanoğlu Abasıyanık Abay Acar Açık Adanır Adem Adin Aga Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Mogul Onder Osman Ozan Reis Sari Tabak Tata Yilmaz Younan Muanmmar "Osmanoğlu Karesioğulları" Karesioğulları Aydinids 
 		}
 	}
+	azerbaijani = {
+		color = {47 44 107}
+		first_names = { 
+			Ahmad Aliagha Ali Bahram Elbay Farhad Firudin Hamid Hasan Heydar
+			Huseyin Ibrahim Ismayil Jalil Mahmud Malik Mehdi Mohammad Murad Samad 
+			Tahir Zahid
+			}
+		
+		last_names = {
+			Ahmadbek Ahmadzade Akbarzade Edigar Ganjavi Ibrahimbek Mehmandar Nakhchivani 
+			Qasimbek Qasimzade Rasulzade Tahirzade Talishkhan Topchubashi Zardabi
+			}
+		radicalism = 5
+	}
+}
+turkic = {
+	leader = arab
+	is_overseas = no
+	unit = OttomanGC
 	uzbek = {
 		color = {152 67 56}
 		first_names = {
@@ -1158,20 +1177,7 @@ turko_semitic = {
 		}
 		radicalism = 10
 	}
-	azerbaijani = {
-		color = {47 44 107}
-		first_names = { 
-			Ahmad Aliagha Ali Bahram Elbay Farhad Firudin Hamid Hasan Heydar
-			Huseyin Ibrahim Ismayil Jalil Mahmud Malik Mehdi Mohammad Murad Samad 
-			Tahir Zahid
-			}
-		
-		last_names = {
-			Ahmadbek Ahmadzade Akbarzade Edigar Ganjavi Ibrahimbek Mehmandar Nakhchivani 
-			Qasimbek Qasimzade Rasulzade Tahirzade Talishkhan Topchubashi Zardabi
-			}
-		radicalism = 5
-	}
+	union = TKS
 }
 
 caucasian = {
@@ -1286,6 +1292,17 @@ arab = {
 		}
 		radicalism = 10
 	}
+		circassian_arab = {
+		color = {185 170 50}
+		first_names = {
+			Aghwrbiy Abatiy Albech Albot "Alhx'es" "Alhx'o" Alijiqwe Bale Batirbiy Biylhosten Blaneshu Bubeird Chetsu "Ch'ischiqwe" Chawis Dariqwe Dokshiqua Dzeghaschte Dzune Foqwe Ghwaze Gushina Gushipsa Hegwtsire Hanaqua Hetsu Jirandiqwe Kwshbiy Lhostenasch Mamsriqwe Menshaq Meshiqwe Nalbiy Nartshu Nerzan Pschimaxwe Qideghaze Schebet Shumaxwe Shupashe Takwu Tsumash Tighwenbiy Tighwen Werdeschawe Wezroqwe Yedij Zhore
+			}
+		
+		last_names = {
+			Neghwey al-Shishani Shapsug Zhaney Temirgoy Natukhai Syupako Abadzehs Kerzedzh Kuytsuk Khatirame Birdzh Cherch Ubykhs Mamkhegh Kabarday Cherkess Hatuqwai Bzhedug Kabardi Adyghe
+		}
+		radicalism = 50
+		}
 	bedouin = {
 		color = {31 143 43}
 		first_names = { 

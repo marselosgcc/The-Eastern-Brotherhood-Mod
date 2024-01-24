@@ -3,39 +3,39 @@
 #Cairo (1004600/251150 POPS)
 1745 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 750
+		size = 7500
 	}
 
 	bureaucrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 1450
+		size = 4450
 	}
 
 	officers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 450
+		size = 2450
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 1250
+		size = 10250
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 10000
+		size = 15000
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
-		size = 1250
+		size = 19250
 	}
 
 	aristocrats = {
@@ -149,7 +149,7 @@
 	farmers = {
 		culture = misri
 		religion = coptic
-		size = 26800
+		size = 56800
 	}
 
 	clergymen = {
@@ -167,13 +167,13 @@
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 1225
+		size = 10225
 	}
 
 	slaves = {
@@ -191,25 +191,25 @@
 #Dumyat (402600/100650 POPS)
 1746 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 5575
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 75
 	}
@@ -289,19 +289,19 @@
 #Tanta (341600/85400 POPS)
 1747 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 5575
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 75
 	}
@@ -357,19 +357,19 @@
 #Mansura (256200/64050 POPS)
 1748 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 600
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 2400
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 50
 	}
@@ -437,19 +437,19 @@
 #Ziqaziq (272600/68150 POPS)
 1749 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 650
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 425
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 75
 	}
@@ -505,19 +505,19 @@
 #Giza (386400/96600 POPS)
 1750 = {
 	aristocrats = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 950
 	}
 
 	artisans = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = circassian
+		culture = circassian_arab
 		religion = sunni
 		size = 100
 	}
@@ -1439,19 +1439,19 @@
 	bureaucrats = {
 		culture = misri
 		religion = coptic
-		size = 5
+		size = 510
 	}
 
 	clergymen = {
 		culture = misri
 		religion = coptic
-		size = 50
+		size = 350
 	}
 
 	artisans = {
 		culture = misri
 		religion = coptic
-		size = 100
+		size = 3100
 	}
 
 	farmers = {
@@ -1507,7 +1507,7 @@
 	farmers = {
 		culture = misri
 		religion = coptic
-		size = 4700
+		size = 44700
 	}
 }
 #Idfu (76000/19000 POPS)
