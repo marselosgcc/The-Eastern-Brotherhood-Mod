@@ -1073,19 +1073,41 @@ anatolian_turkish = {
 	turkish = {
 		color = {250 55 55}
 		first_names = { 
-			Abdullah Abdulhamid Abdulkerim Abdulrahim Ahmet Akif Ali Arif 
-			Bahaeddin Bekir Cemal Cevad Celaleddin Cevdet Daud Edhem Emin Enver 
-			Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev
-			Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal Lutfi
-			Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa 
-			Namik Nazim Nurettin Nuri Numan Omar Osman 
-			Pertev Rauf Receb Reshad Refet Rifat Riza 
-			Sabaheddin Said Selim Shevket Shukru Suleyman 
-			Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin
+			Abdullah Abdulhamid Abdulkerim Abdulrahim Ahmet Akif Ali Arif Bahaeddin Bekir Cemal Cevad Celaleddin Cevdet Daud Edhem Emin Enver Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal Lutfi Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa Namik Nazim Nurettin Nuri Numan Omar Osman Pertev Rauf Receb Reshad Refet Rifat Riza Sabaheddin Said Selim Shevket Shukru Suleyman Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin
 		}
 		
 		last_names = { 
-			Bey Pasha Hoca Efendi Şimşek Kemal Abacı Osmanoğlu Abasıyanık Abay Acar Açık Adanır Adem Adin Aga Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Mogul Onder Osman Ozan Reis Sari Tabak Tata Yilmaz Younan Muanmmar "Osmanoğlu Karesioğulları" Karesioğulları Aydinids 
+			Bey Pasha Hoca Efendi Şimşek Kemal Abacı Osmanoğlu Abasıyanık Abay Acar Açık Adanır Adem Adin "Manininoğlu" Isa Agapius Faust Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Mogul Onder Osman Ozan Reis Sari Tabak Tata Yilmaz Younan Muanmmar "Osmanoğlu Karesioğulları" Karesioğulları Aydinids Mani
+		}
+	}
+	kumanlari = {
+		color = {67 71 19}
+		first_names = { 
+			Abdullah Abdulla Abdulhamid Abdulkerim Aibek Aikorkem Azat Abdulrahim Ahmet Akif Ali Aigerim Arif Bahaeddin Aisha Bekir Cemal Cevad Celaleddin Cevdet Daud Edhem Emin Enver Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Zamir Faust Halim Hasan Hayrullah Gulnar Talgat Alinur Husrev Kadyr Mani Aizere Oraz Aydar Lutfi Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa Namik Ammo Nazim Nurettin Nuri Numan Omar Osman Pertev Rauf Receb Mukhammed Reshad Refet Aset Ziya Ziyauddin Rustam Akmaral Nursultan Atabek
+		}
+		
+		last_names = { 
+			Bey Pasha Maniak Hoca Efendi Şimşek Bortz-Quman "Qalawun-Bortz Khan" Qalawun Jaqeli Abacı Ayepa "Azat Khan" Tugorkan Abasıyanık Abay Acar Quman Açık Adanır Adem Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Faust Mogul Agapius Onder Osman "Manininoğlu" Zerdüşt Syrchan "Ozan Khan" Ozan Yurgi Sari Tabak Tata Yilmaz Younan Otrok Abdullin Muanmmar Iskal Sharukan-Sarkel Sıçğan Uzur Arbuz Nabiyev Khan Karamanid Mani Köten Bačman "Bačman Khan"
+		}
+	}
+	morozbekler = {
+		color = {194 170 48}
+		first_names = { 
+			Abdullah Abdulhamid Abhmet Emil Akif Ali Arif Bahaeddin Muzaffar Celaleddin Jamal Mazdek Cevdet Leonid Daud Edhem Emin Angel Enver Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev Ibrahim Anatohl Mani Farhad Iskender Faust Ismet Izzet Tengri Kamil Kazim Khalifa Abdel Lutfi Mahmut Mehmet Mithat Mustafa Malik Namik Nazim Nurettin Nuri Numan Omar Osman Pertev Rauf Receb Reshad Refet Rifat Riza Sabaheddin Said Selim Isa Shevket Mani Muhammad Shukru Köten Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin Mazdek
+		}
+		
+		last_names = { 
+			Bey Pasha Hoca Efendi Şimşek Kemal Abacı Osmanoğlu Mani Abasıyanık Abay Acar Açık Adanır Bačman Adem Adin Aga Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Mogul Onder Osman Ozan Reis Sari Tabak Tata Yilmaz Isa Younan Muanmmar Faust "Osmanoğlu Karesioğulları" Karesioğulları Aydinids Mazdek "Manininoğlu"
+		}
+	}
+	turko-kurdish = {
+		color = {204 252 157}
+		first_names = { 
+			Abdullah Abdulhamid Abdulkerim Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Davut Hossein Kamran Karim "Lotf Ali" Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah Hasan Abadula Hayrullah Husrev Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal Lutfi Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa Namik Nazim Nurettin Nuri Numan Omar Osman Pertev Mani Rauf Receb Reshad Refet Rifat Riza Sabaheddin Said Selim Shevket Shukru Suleyman Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin
+		}
+		
+		last_names = { 
+			Bey Pasha Hoca Efendi Eriha Şimşek Badirkhan Barzani Khan Shilak Isa Mohammad Davut İbrahim İshak Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti Adanır Bačman Adem Adin Aga Agha Aksoy Arap Aslan Avcı Koc Koca Kocak Malas Mogul
 		}
 	}
 	azerbaijani = {
@@ -1102,6 +1124,7 @@ anatolian_turkish = {
 			}
 		radicalism = 5
 	}
+	union = TUR
 }
 turkic = {
 	leader = arab
