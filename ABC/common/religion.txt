@@ -79,10 +79,14 @@ jewish_group = {
 
     }
 }
-zoroastrian_group = {
+mazdan_group = {
     zoroastrian = {
         icon = 22
         color = { 0.7 0.2 0.1 }
+    }
+    manichaeism = {
+        icon = 22
+        color = { 0.4 0.2 0.3 }
     }
 }
 

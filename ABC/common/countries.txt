@@ -477,6 +477,7 @@ ROM		="countries/Romania.txt"
 SER		="countries/Serbia.txt"
 SLO		="countries/Slovenia.txt"
 TUR		="countries/Ottoman Empire.txt"
+CUM		="countries/Cumania.txt"
 WAL		="countries/Wallachia.txt"
 YUG		="countries/Yugoslavia.txt"
 
