@@ -67,6 +67,12 @@
 		religion = fetishist
 		size = 3600
 	}
+
+	farmers = {
+		culture = afro_italic
+		religion = catholic
+		size = 15000
+	}
 }
 #Abeokuta (784000/196000 POPS)
 1924 = {
@@ -547,15 +553,15 @@
 	}
 
 	soldiers = {
-		culture = itsekari
-		religion = fetishist
-		size = 3000
+		culture = afro_italic
+		religion = catholic
+		size = 6000
 	}
 
 	soldiers = {
 		culture = itsekari
 		religion = fetishist
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
@@ -568,6 +574,12 @@
 		culture = ibo
 		religion = fetishist
 		size = 78000
+	}
+
+	farmers = {
+		culture = afro_italic
+		religion = catholic
+		size = 20000
 	}
 }
 #ruled by Benin in 1836
@@ -714,6 +726,12 @@
 		religion = fetishist
 		size = 14000
 	}
+
+	farmers = {
+		culture = afro_italic
+		religion = catholic
+		size = 28320
+	}
 }
 #Awka (1264000/316000 POPS)
 1933 = {
@@ -807,6 +825,12 @@
 		culture = tiv
 		religion = fetishist
 		size = 44000
+	}
+
+	slaves = {
+		culture = afro_italic
+		religion = catholic
+		size = 40000
 	}
 }
 #Aruchukwu (832000/208000 POPS)

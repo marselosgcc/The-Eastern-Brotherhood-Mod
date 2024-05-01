@@ -257,7 +257,7 @@
 	
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 

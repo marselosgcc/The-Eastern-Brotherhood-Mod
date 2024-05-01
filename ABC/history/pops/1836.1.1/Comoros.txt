@@ -64,7 +64,7 @@
 
 	slaves = {
 		culture = kilombero
-		religion = animist
+		religion = fetishist
 		size = 281
 	}
 }
@@ -132,7 +132,7 @@
 
 	slaves = {
 		culture = kilombero
-		religion = animist
+		religion = fetishist
 		size = 60
 	}
 

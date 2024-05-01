@@ -519,13 +519,13 @@
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 10575
+		size = 20575
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 750
 	}
 
 	artisans = {
@@ -543,7 +543,7 @@
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 15675
+		size = 25675
 	}
 
 	slaves = {

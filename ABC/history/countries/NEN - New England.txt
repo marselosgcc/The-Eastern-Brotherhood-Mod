@@ -4,12 +4,12 @@ religion = catholic
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.5915
 civilized = yes
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting

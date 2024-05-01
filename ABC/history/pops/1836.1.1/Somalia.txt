@@ -47,7 +47,7 @@
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 6000
 	}
 }
@@ -85,37 +85,37 @@
 
 	aristocrats = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 75
 	}
 
 	clergymen = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	artisans = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 250
 	}
 
 	soldiers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 50
 	}
 
 	farmers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 4575
 	}
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 1100
 	}
 }
@@ -188,7 +188,7 @@
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 }
@@ -238,7 +238,7 @@
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 5000
 	}
 }
@@ -290,13 +290,13 @@
 
 	slaves = {
 		culture = oromo
-		religion = animist
+		religion = fetishist
 		size = 7000
 	}
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 3000
 	}
 }

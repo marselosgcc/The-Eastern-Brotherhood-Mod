@@ -261,25 +261,25 @@
 	aristocrats = {
 		culture = venezuelano
 		religion = catholic
-		size = 100
+		size = 300
 	}
 
 	bureaucrats = {
 		culture = venezuelano
 		religion = catholic
-		size = 25
+		size = 325
 	}
 
 	officers = {
 		culture = venezuelano
 		religion = catholic
-		size = 25
+		size = 225
 	}
 
 	clergymen = {
 		culture = venezuelano
 		religion = catholic
-		size = 75
+		size = 750
 	}
 
 	artisans = {
@@ -291,7 +291,7 @@
 	soldiers = {
 		culture = venezuelano
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	farmers = {
@@ -303,19 +303,19 @@
 	clergymen = {
 		culture = afro_italic
 		religion = catholic
-		size = 20
+		size = 200
 	}
 
 	artisans = {
 		culture = afro_italic
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = afro_italic
 		religion = catholic
-		size = 10
+		size = 100
 	}
 
 	farmers = {
@@ -327,7 +327,7 @@
 	slaves = {
 		culture = afro_italic
 		religion = catholic
-		size = 400
+		size = 9400
 	}
 }
 #Calabozo (40000/10000 POPS)
@@ -389,7 +389,7 @@
 	slaves = {
 		culture = afro_italic
 		religion = catholic
-		size = 500
+		size = 6500
 	}
 }
 #Barinas (32000/8000 POPS)
@@ -731,19 +731,19 @@
 	aristocrats = {
 		culture = venezuelano
 		religion = catholic
-		size = 525
+		size = 925
 	}
 
 	clergymen = {
 		culture = venezuelano
 		religion = catholic
-		size = 200
+		size = 2200
 	}
 
 	artisans = {
 		culture = venezuelano
 		religion = catholic
-		size = 1100
+		size = 4100
 	}
 
 	soldiers = {
@@ -761,19 +761,19 @@
 	clergymen = {
 		culture = afro_italic
 		religion = catholic
-		size = 50
+		size = 1950
 	}
 
 	artisans = {
 		culture = afro_italic
 		religion = catholic
-		size = 200
+		size = 1700
 	}
 
 	soldiers = {
 		culture = afro_italic
 		religion = catholic
-		size = 50
+		size = 3050
 	}
 
 	farmers = {
@@ -785,7 +785,7 @@
 	slaves = {
 		culture = afro_italic
 		religion = catholic
-		size = 1100
+		size = 10100
 	}
 }
 #Orinoco Region (152000)
@@ -795,61 +795,61 @@
 	aristocrats = {
 		culture = north_andean
 		religion = catholic
-		size = 175
+		size = 775
 	}
 
 	clergymen = {
 		culture = north_andean
 		religion = catholic
-		size = 50
+		size = 1050
 	}
 
 	artisans = {
 		culture = north_andean
 		religion = catholic
-		size = 250
+		size = 2250
 	}
 
 	soldiers = {
 		culture = north_andean
 		religion = catholic
-		size = 50
+		size = 3000
 	}
 
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 4475
+		size = 34475
 	}
 	
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 300
+		size = 6300
 	}
 
 	aristocrats = {
 		culture = amazonian
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	clergymen = {
 		culture = amazonian
 		religion = animist
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 150
+		size = 1500
 	}
 
 	soldiers = {
 		culture = amazonian
 		religion = animist
-		size = 25
+		size = 250
 	}
 
 	farmers = {

@@ -194,7 +194,7 @@
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 5000
 	}
 	
@@ -280,7 +280,7 @@
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 6000
 	}
 }
@@ -567,7 +567,7 @@
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 8000
 	}
 }
@@ -677,7 +677,7 @@
 	
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 }
@@ -1235,7 +1235,7 @@
 
 	slaves = {
 		culture = forest_bantu
-		religion = animist
+		religion = fetishist
 		size = 2500
 	}
 }

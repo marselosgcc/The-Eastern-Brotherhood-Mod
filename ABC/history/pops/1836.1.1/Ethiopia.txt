@@ -228,7 +228,7 @@
 
 	slaves = {
 		culture = oromo
-		religion = animist
+		religion = fetishist
 		size = 16700
 	}
 }
@@ -302,37 +302,37 @@
 
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 1470
 	}
 
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 170
 	}
 
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 3150
 	}
 
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 770
 	}
 
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 15840
 	}
 
 	slaves = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 5600
 	}
 }
@@ -388,7 +388,7 @@
 
 	artisans = {
 		culture = oromo
-		religion = animist
+		religion = fetishist
 		size = 8000
 	}
 
@@ -412,7 +412,7 @@
 
 	slaves = {
 		culture = oromo
-		religion = animist
+		religion = fetishist
 		size = 9800
 	}
 }
@@ -506,7 +506,7 @@
 
 	slaves = {
 		culture = nilotic
-		religion = animist
+		religion = fetishist
 		size = 1400
 	}
 }
@@ -612,7 +612,7 @@
 
 	artisans = {
 		culture = afar
-		religion = animist
+		religion = fetishist
 		size = 5000
 	}
 
@@ -636,7 +636,7 @@
 
 	farmers = {
 		culture = afar
-		religion = animist
+		religion = fetishist
 		size = 11000
 	}
 
@@ -648,7 +648,7 @@
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 3000
 	}
 }
@@ -872,7 +872,7 @@
 	
 	slaves = {
 		culture = oromo
-		religion = animist
+		religion = fetishist
 		size = 10000
 	}
 	
@@ -1055,67 +1055,67 @@
 	
 	aristocrats = {
 		culture = cushitic #sidama
-		religion = animist
+		religion = fetishist
 		size = 4225
 	}
 	
 	clergymen = {
 		culture = cushitic #sidama
-		religion = animist
+		religion = fetishist
 		size = 625
 	}
 	
 	artisans = {
 		culture = cushitic #sidama
-		religion = animist
+		religion = fetishist
 		size = 5350
 	}
 	
 	soldiers = {
 		culture = cushitic #sidama
-		religion = animist
+		religion = fetishist
 		size = 1500
 	}
 	
 	farmers = {
 		culture = cushitic #sidama
-		religion = animist
+		religion = fetishist
 		size = 106500
 	}
 	
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 8200
 	}
 	
 	aristocrats = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 1300
 	}
 	
 	clergymen = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 100
 	}
 	
 	soldiers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 	
 	artisans = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 	
 	farmers = {
 		culture = luo
-		religion = animist
+		religion = fetishist
 		size = 42500
 	}
 	
@@ -1273,7 +1273,7 @@
 
 	clergymen = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 435
 	}
 
@@ -1323,37 +1323,37 @@
 	
 	aristocrats = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 500
 	}
 
 	clergymen = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 275
 	}
 
 	artisans = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 1075
 	}
 
 	soldiers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 275
 	}
 
 	farmers = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 9875
 	}
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 7000
 	}
 }
@@ -1435,7 +1435,7 @@
 	
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 2200
 	}
 
@@ -1505,7 +1505,7 @@
 	
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 5000
 	}
 	
@@ -1569,7 +1569,7 @@
 
 	slaves = {
 		culture = cushitic
-		religion = animist
+		religion = fetishist
 		size = 2000
 	}
 

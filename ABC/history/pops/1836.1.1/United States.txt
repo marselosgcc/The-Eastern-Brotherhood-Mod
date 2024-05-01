@@ -10412,13 +10412,13 @@
 234 = {
 	bureaucrats = {
 		culture = irochesi
-		religion = reformed
+		religion = jewish
 		size = 150
 	}
 
 	officers = {
 		culture = irochesi
-		religion = reformed
+		religion = jewish
 		size = 50
 	}
 
@@ -10430,37 +10430,37 @@
 
 	artisans = {
 		culture = irochesi
-		religion = reformed
-		size = 250
+		religion = jewish
+		size = 8250
 	}
 
 	soldiers = {
 		culture = irochesi
 		religion = reformed
-		size = 50
+		size = 500
 	}
 
-	farmers = {
+	craftsmen = {
 		culture = irochesi
-		religion = reformed
+		religion = jewish
 		size = 4475
 	}
 	bureaucrats = {
 		culture = irochesi
 		religion = catholic
-		size = 975
+		size = 1375
 	}
 
 	officers = {
 		culture = irochesi
 		religion = catholic
-		size = 500
+		size = 900
 	}
 
 	clergymen = {
 		culture = irochesi
 		religion = catholic
-		size = 625
+		size = 2625
 	}
 
 	artisans = {
@@ -10472,13 +10472,31 @@
 	soldiers = {
 		culture = irochesi
 		religion = catholic
-		size = 2000
+		size = 10000
+	}
+
+	farmers = {
+		culture = irochesi
+		religion = reformed
+		size = 50775
 	}
 
 	farmers = {
 		culture = irochesi
 		religion = catholic
-		size = 70775
+		size = 10
+	}
+
+	slaves = {
+		culture = afro_italic
+		religion = reformed
+		size = 60000
+	}
+
+	farmers = {
+		culture = afro_italic
+		religion = catholic
+		size = 31500
 	}
 }
 #Binghamton (352000/88000 POPS)
@@ -10788,8 +10806,8 @@
 
 	clerks = {
 		culture = irochesi
-		religion = catholic
-		size = 50
+		religion = jewish
+		size = 500
 	}
 
 	craftsmen = {
@@ -10813,25 +10831,25 @@
 	farmers = {
 		culture = irochesi
 		religion = catholic
-		size = 64560
+		size = 34560
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = afro_italic
 		religion = catholic
-		size = 25
+		size = 250
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = afro_italic
 		religion = catholic
-		size = 500
+		size = 2500
 	}
 
-	farmers = {
-		culture = afro_american
+	slaves = {
+		culture = afro_italic
 		religion = catholic
-		size = 1475
+		size = 51475
 	}
 }
 #Rhode Island Region (104000)  
@@ -11117,13 +11135,13 @@
 	clergymen = {
 		culture = irochesi
 		religion = reformed
-		size = 25
+		size = 2025
 	}
 
 	artisans = {
 		culture = irochesi
 		religion = reformed
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
@@ -11135,43 +11153,43 @@
 	craftsmen = {
 		culture = irochesi
 		religion = reformed
-		size = 100
+		size = 2100
 	}
 	
 	clergymen = {
 		culture = irochesi
-		religion = catholic
-		size = 225
+		religion = jewish
+		size = 1225
 	}
 
 	clerks = {
 		culture = irochesi
-		religion = catholic
-		size = 25
+		religion = jewish
+		size = 1250
 	}
 
 	craftsmen = {
 		culture = irochesi
 		religion = catholic
-		size = 300
+		size = 3000
 	}
 
 	artisans = {
 		culture = irochesi
 		religion = catholic
-		size = 1125
+		size = 3125
 	}
 
 	soldiers = {
 		culture = irochesi
 		religion = catholic
-		size = 300
+		size = 6300
 	}
 
-	farmers = {
-		culture = irochesi
+	slaves = {
+		culture = afro_italic
 		religion = catholic
-		size = 27025
+		size = 32025
 	}
 
 	clergymen = {
@@ -11187,8 +11205,8 @@
 	}
 
 	farmers = {
-		culture = irish
-		religion = reformed
+		culture = irochesi
+		religion = catholic
 		size = 2950
 	}
 }
