@@ -1,7 +1,0 @@
-owner = OMA
-controller = OMA
-add_core = OMA 
-add_core= ZAN
-trade_goods = cattle
-life_rating = 30
-colonial = 2

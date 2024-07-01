@@ -1,5 +1,0 @@
-owner = INO
-controller = INO
-trade_goods = fish
-life_rating = 35
-colonial = 2

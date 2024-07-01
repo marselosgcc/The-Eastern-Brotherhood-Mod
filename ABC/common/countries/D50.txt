@@ -1,2 +1,0 @@
-color = { 181  72  106 } #randomise
-graphical_culture = EuropeanGC # inherit

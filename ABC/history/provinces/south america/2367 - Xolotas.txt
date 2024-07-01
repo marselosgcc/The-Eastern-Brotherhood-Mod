@@ -1,6 +1,0 @@
-owner = LPL
-controller = LPL
-add_core = LPL
-add_core = ARC
-trade_goods = timber
-life_rating = 35

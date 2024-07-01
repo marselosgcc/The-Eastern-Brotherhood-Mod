@@ -1,5 +1,0 @@
-owner = UIL
-controller = UIL
-add_core = UIL
-trade_goods = timber
-life_rating = 35

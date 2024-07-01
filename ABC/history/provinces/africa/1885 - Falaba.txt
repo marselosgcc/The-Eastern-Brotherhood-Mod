@@ -1,6 +1,0 @@
-owner = LOR
-controller = LOR
-add_core = JAL
-trade_goods = coffee
-life_rating = 30
-colonial = 2

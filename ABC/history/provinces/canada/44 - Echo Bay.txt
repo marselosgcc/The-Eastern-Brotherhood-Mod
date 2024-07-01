@@ -1,5 +1,0 @@
-owner = CUB
-controller = AUS
-add_core = CUB
-trade_goods = fish
-life_rating = 35

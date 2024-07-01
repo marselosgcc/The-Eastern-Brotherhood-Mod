@@ -1,0 +1,6 @@
+name = "*The Eastern Brotherhood"
+path = "mod/TEB"
+user_dir = "TEB"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"

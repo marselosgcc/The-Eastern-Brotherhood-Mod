@@ -1,7 +1,0 @@
-owner = SYR
-controller = SYR
-add_core = SYR
-add_core = LBN
-add_core = ARU
-trade_goods = timber
-life_rating = 35

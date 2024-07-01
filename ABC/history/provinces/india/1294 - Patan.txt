@@ -1,4 +1,0 @@
-owner = EIC
-controller = EIC
-trade_goods = cotton
-life_rating = 35

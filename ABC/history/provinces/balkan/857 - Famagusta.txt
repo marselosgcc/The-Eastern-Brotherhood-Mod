@@ -1,5 +1,0 @@
-owner = CYP
-controller = CYP
-add_core = CYP
-trade_goods = fruit
-life_rating = 35

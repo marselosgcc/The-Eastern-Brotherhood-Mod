@@ -1,5 +1,0 @@
-add_core = GEL
-add_core = SOM
-trade_goods = cattle
-life_rating = 15
-colonial = 1

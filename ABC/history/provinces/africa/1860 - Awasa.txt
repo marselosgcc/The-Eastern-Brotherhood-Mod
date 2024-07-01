@@ -1,6 +1,0 @@
-owner = SHW
-controller = SHW
-add_core = ETH
-add_core = SHW
-trade_goods = precious_metal
-life_rating = 30

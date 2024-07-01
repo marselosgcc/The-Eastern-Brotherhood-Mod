@@ -1,5 +1,0 @@
-owner = JDU
-controller = JDU
-add_core = JDU
-trade_goods = iron
-life_rating = 35

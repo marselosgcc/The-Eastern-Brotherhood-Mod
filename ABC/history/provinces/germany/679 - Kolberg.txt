@@ -1,6 +1,0 @@
-owner = POM
-controller = POM
-add_core = POM
-add_core = LUZ
-trade_goods = grain
-life_rating = 35

@@ -1,4 +1,0 @@
-owner = EIC
-controller = EIC
-trade_goods = dye
-life_rating = 35

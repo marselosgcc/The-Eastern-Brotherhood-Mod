@@ -1,4 +1,0 @@
-owner = EIC
-controller = EIC
-trade_goods = fish
-life_rating = 35

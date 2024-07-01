@@ -1,7 +1,0 @@
-# Saxony-Thuringia (Friedrich August II, Johann I, Albrecht der Gute, Georg, Friedrich August II)
-union = {
-    first = SAX
-    second = WEI
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}

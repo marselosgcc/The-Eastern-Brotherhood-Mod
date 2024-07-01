@@ -1,5 +1,0 @@
-owner = ANG
-controller = ANG
-add_core = ANG 
-trade_goods = iron
-life_rating = 30

@@ -1,5 +1,0 @@
-owner = INO
-controller = INO
-trade_goods = timber
-life_rating = 35
-colonial = 2

@@ -1,8 +1,0 @@
-owner = SVY
-controller = SVY
-add_core = SAR
-add_core = SVY
-add_core = TUS
-add_core = ITA
-trade_goods = grain
-life_rating = 35

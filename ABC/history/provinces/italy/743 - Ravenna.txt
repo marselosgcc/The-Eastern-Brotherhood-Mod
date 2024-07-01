@@ -1,7 +1,0 @@
-owner = TUS
-controller = TUS
-add_core = TUS
-add_core = MOD
-add_core = ITA
-trade_goods = wool
-life_rating = 35

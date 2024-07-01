@@ -1,2 +1,0 @@
-color = { 137 183 124  }
-graphical_culture = EuropeanGC # inherit

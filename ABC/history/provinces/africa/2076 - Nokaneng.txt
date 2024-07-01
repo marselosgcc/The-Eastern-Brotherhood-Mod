@@ -1,5 +1,0 @@
-owner = TSW
-controller = TSW
-add_core = TSW
-trade_goods = fruit
-life_rating = 30

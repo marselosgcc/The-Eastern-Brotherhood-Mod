@@ -1,9 +1,0 @@
-owner = LPL
-controller = LPL
-add_core = LPL
-add_core = SPU
-add_core = ARC
-add_core = BOL
-add_core = CHL
-trade_goods = wool
-life_rating = 30

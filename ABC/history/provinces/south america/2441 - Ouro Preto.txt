@@ -1,6 +1,0 @@
-owner = BAH
-controller = BAH
-add_core = BAH
-add_core = BRZ
-trade_goods = iron
-life_rating = 35
