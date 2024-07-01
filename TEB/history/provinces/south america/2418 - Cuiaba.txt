@@ -1,0 +1,6 @@
+owner = AMZ
+controller = AMZ
+add_core = AMZ
+add_core = BRZ
+trade_goods = precious_metal
+life_rating = 35

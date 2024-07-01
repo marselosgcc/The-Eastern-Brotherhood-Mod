@@ -1,0 +1,8 @@
+owner = TUS
+controller = TUS
+add_core = SAR
+add_core = TUS
+add_core = LOM
+add_core = ITA
+trade_goods = silk
+life_rating = 35

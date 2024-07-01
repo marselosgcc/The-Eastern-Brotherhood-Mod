@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = QNG
+add_core = YNN
+add_core = CHI
+colonial = 2
+trade_goods = silk
+life_rating = 35

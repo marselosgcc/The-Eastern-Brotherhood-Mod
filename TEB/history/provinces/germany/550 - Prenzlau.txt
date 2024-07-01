@@ -1,0 +1,5 @@
+owner = LUZ
+controller = LUZ
+add_core = LUZ
+trade_goods = cattle
+life_rating = 35

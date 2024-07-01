@@ -1,0 +1,4 @@
+owner = KNG
+controller = KNG
+trade_goods = grain
+life_rating = 30

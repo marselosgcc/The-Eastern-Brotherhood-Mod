@@ -1,0 +1,6 @@
+owner = PLS
+controller = PLS
+add_core = PLS
+add_core = ARU
+trade_goods = wool
+life_rating = 35

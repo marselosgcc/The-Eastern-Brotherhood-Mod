@@ -1,0 +1,15 @@
+owner = ENL
+controller = ENL
+add_core = ENL
+trade_goods = grain
+life_rating = 35
+state_building = {
+    level = 1
+    building = dye_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = winery
+    upgrade = yes
+}

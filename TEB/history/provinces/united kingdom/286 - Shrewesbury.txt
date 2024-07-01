@@ -1,0 +1,6 @@
+owner = ENL
+controller = ENL
+add_core = ENL
+add_core = WHA
+trade_goods = iron
+life_rating = 35

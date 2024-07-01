@@ -1,0 +1,6 @@
+owner = SHW
+controller = SHW
+add_core = ETH
+add_core = SHW
+trade_goods = coffee
+life_rating = 30

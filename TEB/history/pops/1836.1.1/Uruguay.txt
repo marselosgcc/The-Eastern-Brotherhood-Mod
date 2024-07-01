@@ -1,0 +1,267 @@
+#Uruguay Region (200000)  
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+2344 = {
+	aristocrats = {
+		culture = gaucho
+		religion = protestant
+		size = 575
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	bureaucrats = {
+		culture = gaucho
+		religion = catholic
+		size = 100
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	officers = {
+		culture = gaucho
+		religion = catholic
+		size = 50
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	clergymen = {
+		culture = gaucho
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = gaucho
+		religion = catholic
+		size = 980
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	soldiers = {
+		culture = gaucho
+		religion = catholic
+		size = 5000
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 18095
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 250
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3150
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3500
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+}
+#Paysandu (36000/9000 POPS)
+2345 = {
+	aristocrats = {
+		culture = gaucho
+		religion = protestant
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 20
+	}	
+	
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = gaucho
+		religion = reformed
+		size = 450
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1500
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	farmers = {
+		culture = gaucho
+		religion = catholic
+		size = 7275
+	}
+}
+#Tacumba (12000/3000 POPS)
+2346 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = platinean
+		religion = protestant
+		size = 1000
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = gaucho
+		religion = catholic
+		size = 5800
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = protestant
+		size = 2050
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = protestant
+		size = 550
+	}
+
+	farmers = {
+		culture = gaucho
+		religion = protestant
+		size = 3925
+	}
+}
+#Melo (40000/10000 POPS)
+2347 = {
+	aristocrats = {
+		culture = gaucho
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = gaucho
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = gaucho
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = gaucho
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = gaucho
+		religion = catholic
+		size = 400
+	}
+
+	farmers = {
+		culture = gaucho
+		religion = catholic
+		size = 5450
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 3150
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = gaucho
+		religion = catholic
+		size = 9775
+	}
+
+}

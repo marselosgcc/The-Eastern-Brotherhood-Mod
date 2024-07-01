@@ -1,0 +1,5 @@
+owner = BLC
+controller = BLC
+add_core = BLC
+trade_goods = fruit
+life_rating = 35

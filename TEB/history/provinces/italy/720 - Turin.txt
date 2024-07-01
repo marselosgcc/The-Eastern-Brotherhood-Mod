@@ -1,0 +1,13 @@
+owner = TUS
+controller = TUS
+add_core = SAR
+add_core = TUS
+add_core = SVY
+add_core = ITA
+trade_goods = fruit
+life_rating = 35
+state_building = {
+    level = 1
+    building = canned_food_factory
+    upgrade = yes
+}

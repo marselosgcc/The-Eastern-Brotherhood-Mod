@@ -1,0 +1,7 @@
+owner = LPL
+controller = LPL
+add_core = LPL
+add_core = SPU
+add_core = BOL
+trade_goods = grain
+life_rating = 35

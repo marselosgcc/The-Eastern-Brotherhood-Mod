@@ -1,0 +1,5 @@
+owner = TEX
+controller = TEX
+add_core = TEX
+trade_goods = coal
+life_rating = 35

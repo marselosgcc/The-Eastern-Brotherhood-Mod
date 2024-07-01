@@ -1,0 +1,20 @@
+owner = NEN
+controller = NEN
+add_core = NEN
+trade_goods = grain
+life_rating = 35
+state_building = {
+    level = 1
+    building = canned_food_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = cement_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = regular_clothes_factory
+    upgrade = yes
+}

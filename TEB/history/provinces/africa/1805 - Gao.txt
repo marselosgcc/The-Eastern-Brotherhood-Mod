@@ -1,0 +1,5 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+trade_goods = wool
+life_rating = 30
