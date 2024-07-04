@@ -2500,7 +2500,7 @@ african_diaspora_cultures = {
 		Delany Douglass "Du Bois" Fields Flipper Gardner Griffin Hawkins Holland Jackson
 		King Mink Nell Pinn Ratcliff Remond Smith Stukes Tubman Veale }
 	}
-	afro_italic {
+	afro_italic = {
 		color = {28 69 33}
 		first_names = { Abramo Nichola Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Philliberto Francesco Enzo Pietro Andrea Giuseppe Charles Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio Louis Victor
 		}
@@ -3355,7 +3355,7 @@ anglo_saxon = {
 	}
 	aenglisc = {
 	color = { 255 80 90}
-		first_names = { Aelfric Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ethelwulf Godwine Harold Leofric Oswulf Aethelstan Aelfhere Aelfric Aethelmaer Aethelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
+		first_names = { Aethelred Beornwulf Cenred Eadric Ealdred Ecgberht Ethelwulf Godwine Harold Leofric Oswulf Aethelstan Aelfhere Aelfric Aethelmaer Aethelric Eadgar Eadmund Eadweard Ealhmund Leofwine Wulfstan }
 
 	    last_names = { Aiken Aslam Bagaut Danil Cynewulf Ecgberht Wulfric Cyneheard Leofric Fedor Ivan Karim Mirz Mustaf Petrov "Af Wessex" Smirn Sult Turgan "Af Godwin" "Af Kent" "Af Wuffingas" "Af Arthur" Umar Volkov Yakub Yermak Zaitsev }
     }
@@ -3407,7 +3407,7 @@ Italo_american = {
 		}
 	}
 	
-	venezuelano {
+	venezuelano = {
 		color = {77 255 99}
 		first_names = { Abramo Nichola Achille Adamo Lorenzo Matteo Marco Davide Giovanni Luca Antonio Alessio Roberto Stefano Riccardo Paolo Simone Federico Carlo Philliberto Francesco Enzo Pietro Andrea Giuseppe Charles Mario Edoardo Angelo Alessandro Leonardo Gabriele Afonso Vittorio Louis Victor
 		}
