@@ -10543,10 +10543,22 @@
 		size = 2000
 	}
 
+	slaves = {
+		culture = afro_italic
+		religion = reformed
+		size = 50975
+	}
+
+	farmers = {
+		culture = irochesi
+		religion = reformed
+		size = 35000
+	}
+
 	farmers = {
 		culture = irochesi
 		religion = catholic
-		size = 80975
+		size = 10
 	}
 }
 #Buffalo (244000/61000 POPS)
@@ -11236,16 +11248,22 @@
 		size = 1050
 	}
 
+	slaves = {
+		culture = afro_italic
+		religion = catholic
+		size = 31050
+	}
+
 	soldiers = {
 		culture = irochesi
 		religion = catholic
-		size = 225
+		size = 9225
 	}
 
 	farmers = {
 		culture = irochesi
 		religion = catholic
-		size = 19575
+		size = 13575
 	}
 }
 #Vermont Region (284000)  
@@ -11282,10 +11300,10 @@
 		size = 650
 	}
 
-	farmers = {
-		culture = irochesi
-		religion = catholic
-		size = 50200
+	slaves = {
+		culture = afro_italic
+		religion = reformed
+		size = 56200
 	}
 
 	clergymen = {
@@ -11324,9 +11342,9 @@
 		size = 200
 	}
 
-	soldiers = {
+	farmers = {
 		culture = irochesi
-		religion = reformed
+		religion = catholic
 		size = 25
 	}
 
@@ -11412,9 +11430,9 @@
 		size = 2000
 	}
 
-	farmers = {
-		culture = irochesi
-		religion = catholic
+	slaves = {
+		culture = afro_italic
+		religion = reformed
 		size = 55700
 	}
 	
@@ -11425,8 +11443,8 @@
 	}
 
 	farmers = {
-		culture = french_canadian
-		religion = reformed
+		culture = irochesi
+		religion = catholic
 		size = 6000
 	}
 	
