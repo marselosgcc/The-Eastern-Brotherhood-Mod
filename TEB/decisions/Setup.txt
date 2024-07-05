@@ -1,0 +1,106 @@
+			#################Giving Starting Money to Pops and Countries######################
+			any_country = { limit = { exists = yes is_greater_power = yes } capitalists = { money = 1000 } aristocrats = { money = 500 } artisans = { money = 200 } }
+			any_country = { limit = { exists = yes is_secondary_power = yes } capitalists = { money = 800 } aristocrats = { money = 400 } artisans = { money = 100 } }
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = no
+					is_secondary_power = no
+					civilized = yes
+				}
+				capitalists = { money = 500 }
+				aristocrats = { money = 200 }
+				artisans = { money = 50 }
+				small_arms = 30
+				canned_food = 30
+				liquor = 15
+				artillery = 15
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = yes
+					NOT = { tag = SPA }
+				}
+				small_arms = 105
+				canned_food = 105
+				liquor = 60
+				artillery = 60
+				treasury = 100000
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					OR = {
+						is_secondary_power = yes
+						tag = SPA
+					}
+				}
+				small_arms = 60
+				canned_food = 60
+				liquor = 30
+				artillery = 30
+				treasury = 50000
+			}
+			
+			any_country = { limit = { exists = yes civilized = yes is_greater_power = no is_secondary_power = no number_of_states = 2 } treasury = 10000 }
+			any_country = { limit = { exists = yes civilized = yes is_greater_power = no is_secondary_power = no NOT = { number_of_states = 2 } } treasury = 5000 }
+			any_country = { limit = { exists = yes civilized = no NOT = { tag = QNG } } treasury = 2500 }
+						#########Countries that start at war will get a war-chest#########
+			
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = yes
+					war = yes
+				}
+				treasury = 100000
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					is_secondary_power = yes
+					war = yes
+				}
+				treasury = 50000
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = yes
+					war = yes
+				}
+				treasury = 25000
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = no
+					war = yes
+				}
+				treasury = 10000
+			}
+			#########Top GPs are richer#########
+			any_country = {
+				limit = { rank = 1 }
+				treasury = 500000
+			}
+			
+			any_country = {
+				limit = { rank = 2 NOT = { rank = 1 } }
+				treasury = 250000
+			}
+			
+			any_country = {
+				limit = { rank = 3 NOT = { rank = 2 } }
+				treasury = 150000
+			}
+			
+			any_country = {
+				limit = { rank = 4 NOT = { rank = 3 } }
+				treasury = 100000
+			}
+			

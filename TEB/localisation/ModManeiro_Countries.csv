@@ -272,12 +272,13 @@ OGD_proletarian_dictatorship;Ogaden Red Union;;;;;;;;;;;;x
 KAF;Kaffa;;;;;;;;;;;;x
 KAF_democracy;Kaffa;;;;;;;;;;;;x
 KAF_presidential_dictatorship;Kaffa;;;;;;;;;;;;x
-OGD_bourgeois_dictatorship;Kaffa Social Republic;;;;;;;;;;;;x
+KAF_bourgeois_dictatorship;Kaffa Social Republic;;;;;;;;;;;;x
 KAF_absolute_monarchy;Zagwe-Kaffa;;;;;;;;;;;;x
 KAF_prussian_constitutionalism;Zagwe-Kaffa;;;;;;;;;;;;x
 KAF_hms_government;Beta Israel;;;;;;;;;;;;x
 KAF_fascist_dictatorship;State of Israel;;;;;;;;;;;;x
 KAF_proletarian_dictatorship;Kaffa Commune;;;;;;;;;;;;x
+KAF_ADJ;Kaffirdi;;;;;;;;;;;;x
 NET;Netherlands;;;;;;;;;;;;x
 NET_ADJ;Niederländisch;;;;;;;;;;;;x
 NET_democracy;Seven Provinces;;;;;;;;;;;;x
@@ -312,3 +313,14 @@ CUM_absolute_monarchy;Cumanian United Provinces;;;;;;;;;;;;x
 CUM_prussian_constitutionalism;Cumania Confederacy;;;;;;;;;;;;x
 CUM_hms_government;Cumania Confederacy;;;;;;;;;;;;x
 CUM_dominion;Satrapy of Cumania;;;;;;;;;;;;x
+BAH;Malê Caliphate;;;;;;;;;;;;x
+BAH_ADJ;Bahian;;;;;;;;;;;;;x
+BAH_proletarian_dictatorship;Bahian Popular Republic;;;;;;;;;;;;;x
+BAH_fascist_dictatorship;Grande Benin;;;;;;;;;;;;;x
+BAH_presidential_dictatorship;Malê Republic;;;;;;;;;;;;;x
+BAH_bourgeois_dictatorship;Malê Republic;;;;;;;;;;;;;x
+BAH_democracy;Bahia;;;;;;;;;;;;;x
+BAH_absolute_monarchy;Malê Federation;;;;;;;;;;;;x
+BAH_hms_government;Bahia Sultanate;;;;;;;;;;;;x
+BAH_prussian_constitutionalism;Bahia Sultanate;;;;;;;;;;;;x
+BAH_dominion;Principado Baiano;;;;;;;;;;;;;x

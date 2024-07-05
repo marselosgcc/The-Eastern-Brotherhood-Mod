@@ -3,9 +3,9 @@ primary_culture = afro_brazilian
 culture = brazilian
 religion = sunni
 government = theocracy
-plurality = 0.0
+plurality = 20.0
 nationalvalue = nv_liberty
-literacy = 0.08
+literacy = 0.115
 civilized = yes
 
 # Political reforms
@@ -13,7 +13,7 @@ slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = jefferson_method
 political_parties = non_secret_ballots
@@ -29,7 +29,7 @@ school_reforms = no_schools
 
 
 #New Reforms
-conscription = no_draft
+conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
 child_labor = child_labor_legal
@@ -43,9 +43,9 @@ ruling_party = generic_liberal
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0
-	liberal = 25
-	conservative = 60
-	reactionary = 15
+	liberal = 35
+	conservative = 40
+	reactionary = 25
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
@@ -53,4 +53,27 @@ upper_house = {
 
 
 
+decision = BAH_1836_setup
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+mechanical_production = 1
+piston_steam_engine = 1
+clipper_design = 1
+
+# Inventions
+dragoon_activation = yes
+
+#Starting Consciousness
+oob = "BAH_oob.txt"
 

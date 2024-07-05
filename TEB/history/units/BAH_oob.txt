@@ -1,0 +1,181 @@
+leader = {
+	name = "Irineu Odunayo Casto"
+	date = 1832.1.1
+	type = land
+	personality = merciless
+	background = hated
+	prestige = 0.1
+}
+
+leader = {
+	name = "André de Jesus"
+	date = 1829.1.1
+	type = land
+	personality = implacable
+	background = school_of_the_bayonet
+	prestige = 0.95
+}
+
+leader = {
+	name = "Francisco Mohammed Al-Meida"
+	date = 1830.1.1
+	type = land
+	personality = romantic
+	background = politician
+	prestige = 0.3
+}
+
+leader = {
+	name = "Louis d'Gaulle"
+	date = 1832.1.1
+	type = sea
+	personality = stout
+	background = cursed_luck
+	prestige = 0.1
+}
+
+army = {
+	name = "Legião do profeta Maomé"
+	location = 2447
+	regiment = {
+		name= "1. Brigada de Elite"
+		type = guard
+		home = 2436
+	}
+
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 2436
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 2436
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 2436
+	}
+
+	regiment = {
+		name= "1. Brigada de Dragões"
+		type = dragoon
+		home = 2436
+	}
+
+	regiment = {
+		name= "1. Brigada de Baterias"
+		type = artillery
+		home = 2436
+	}
+
+	regiment = {
+		name= "2. Brigada de Baterias"
+		type = artillery
+		home = 2436
+	}
+
+	regiment = {
+		name= "3. Brigada de Baterias"
+		type = artillery
+		home = 2436
+	}
+
+	regiment = {
+		name= "4. Brigada de Baterias"
+		type = artillery
+		home = 2436
+	}
+
+	regiment = {
+		name= "1. Brigada de Engenheiros"
+		type = engineer
+		home = 2436
+	}
+}
+
+army = {
+	name = "1. Milícia Popular"
+	location = 2432
+	regiment = {
+		name= "1. Milícia de Escravos"
+		type = irregular
+		home = 2435
+	}
+	regiment = {
+		name= "2. Milícia de Escravos"
+		type = infantry
+		home = 2435
+	}
+	regiment = {
+		name= "3. Milícia de Escravos"
+		type = irregular
+		home = 2435
+	}
+}
+army = {
+	name = "2. Milícia Popular"
+	location = 2438
+	regiment = {
+		name= "3. Milícia de Escravos"
+		type = infantry
+		home = 2441
+	}
+	regiment = {
+		name= "4. Milícia de Escravos"
+		type = irregular
+		home = 2435
+	}
+	regiment = {
+		name= "5. Milícia de Escravos"
+		type = irregular
+		home = 2441
+	}
+}
+navy = {
+	name = "Frota do Sultão"
+	location = 2985
+ship = {
+		name= "NS Abdul"
+		type = manowar
+	}
+
+	ship = {
+		name= "NS Zumbi dos Palmares"
+		type = manowar
+	}
+
+	ship = {
+		name= "NS Nova Medina"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Jesus"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Novo Mundo"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Granada"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Liberdade"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Colombo"
+		type = frigate
+	}
+}

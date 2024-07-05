@@ -1,0 +1,254 @@
+leader = {
+	name = "Pierre Labatut"
+	date = 1824.1.1
+	type = land
+	personality = arrogant
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Francisco de Lima e Silva"
+	date = 1824.1.1
+	type = land
+	personality = implacable
+	background = gifted_administrator
+	prestige = 0.5
+}
+
+leader = {
+	name = "Sebastião Pinto"
+	date = 1825.1.1
+	type = land
+	personality = perverse
+	background = unfit
+	prestige = 0.0
+}
+
+leader = {
+	name = "Barão de Tramandaí"
+	date = 1830.1.1
+	type = land
+	personality = cautious
+	background = politician
+	prestige = 0.0
+}
+
+leader = {
+	name = "Conde de Lajes"
+	date = 1830.1.1
+	type = land
+	personality = romantic
+	background = politician
+	prestige = 0.0
+}
+
+leader = {
+	name = "Bellegarde"
+	date = 1833.1.1
+	type = land
+	personality = reserved
+	background = professor
+	prestige = 0.0
+}
+
+leader = {
+	name = "John Grenfell"
+	date = 1822.1.1
+	type = sea
+	personality = brash
+	background = butcher
+	prestige = 0.1
+}
+army = {
+	name = "Exército Brasileiro"
+	location = 2442
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "1. Brigada de Cavalaria"
+		type = cuirassier
+		home = 2450
+	}
+
+	regiment = {
+		name= "1. Brigada de Artilharia"
+		type = artillery
+		home = 2450
+	}
+
+	regiment = {
+		name= "2. Brigada de Artilharia"
+		type = artillery
+		home = 2450
+	}
+
+	regiment = {
+		name= "3. Brigada de Artilharia"
+		type = artillery
+		home = 2450
+	}
+
+	regiment = {
+		name= "4. Brigada de Artilharia"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "5. Brigada de Artilharia"
+		type = artillery
+		home = 2447
+	}
+}
+navy = {
+	name = "Frota Imperial Brasileira"
+	location = 2986
+ship = {
+		name= "São Paulo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Minas Gerais"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sirius"
+		type = manowar
+	}
+
+	ship = {
+		name= "Branco"
+		type = manowar
+	}
+
+	ship = {
+		name= "Amorim do Valle"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ceará"
+		type = manowar
+	}
+
+	ship = {
+		name= "Rio de Janeiro"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bahia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Niterói"
+		type = manowar
+	}
+
+	ship = {
+		name= "Araguaia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Marajó"
+		type = manowar
+	}
+
+	ship = {
+		name= "Almirante Saldanha"
+		type = manowar
+	}
+
+	ship = {
+		name= "Atlântico"
+		type = frigate
+	}
+
+	ship = {
+		name= "Independência"
+		type = frigate
+	}
+
+	ship = {
+		name= "União"
+		type = frigate
+	}
+
+	ship = {
+		name= "Bosisio"
+		type = frigate
+	}
+
+	ship = {
+		name= "Defensora"
+		type = frigate
+	}
+
+	ship = {
+		name= "Liberal"
+		type = frigate
+	}
+
+	ship = {
+		name= "Constituinte"
+		type = frigate
+	}
+
+	ship = {
+		name= "Niterói"
+		type = frigate
+	}
+
+	ship = {
+		name= "Greenhalgh"
+		type = frigate
+	}
+
+	ship = {
+		name= "Rademaker"
+		type = frigate
+	}
+
+	ship = {
+		name= "Bosísio"
+		type = frigate
+	}
+
+	ship = {
+		name= "Niterói"
+		type = frigate
+	}
+
+	ship = {
+		name= "Barroso"
+		type = commerce_raider
+	}
+
+}

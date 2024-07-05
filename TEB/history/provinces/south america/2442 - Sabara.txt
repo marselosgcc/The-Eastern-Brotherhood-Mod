@@ -1,5 +1,5 @@
 owner = BAH
-controller = BAH
+controller = BRZ
 add_core = BAH
 add_core = BRZ
 trade_goods = iron

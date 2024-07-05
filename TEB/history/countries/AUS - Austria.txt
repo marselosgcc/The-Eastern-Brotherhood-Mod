@@ -10,7 +10,7 @@ religion = catholic
 government = absolute_monarchy
 plurality = 10.0
 nationalvalue = nv_liberty
-literacy = 0.67
+literacy = 0.72
 civilized = yes
 
 #GreaterPowers = prestige

@@ -3,27 +3,27 @@
 #Luanda (164000/41000 POPS)
 1999 = {
 	aristocrats = {
-		culture = portuguese
+		culture = brazilian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = brazilian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = brazilian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = brazilian
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	aristocrats = {
@@ -56,6 +56,12 @@
 		size = 11550
 	}
 
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 4500
+	}
+
 	aristocrats = {
 		culture = bakongo
 		religion = fetishist
@@ -65,7 +71,7 @@
 	clergymen = {
 		culture = bakongo
 		religion = fetishist
-		size = 100
+		size = 2100
 	}
 
 	artisans = {
@@ -101,25 +107,25 @@
 	clergymen = {
 		culture = kavango
 		religion = fetishist
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = kavango
 		religion = fetishist
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
 		culture = kavango
 		religion = fetishist
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = kavango
 		religion = fetishist
-		size = 8600
+		size = 18600
 	}
 
 	slaves = {
