@@ -1,10 +1,10 @@
 capital = 1555
 primary_culture = manchu
 religion = mahayana
-government = absolute_monarchy
-plurality = 0.0
+government = dominion
+plurality = 15.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.25
 non_state_culture_literacy = 0.01
 prestige = 1
 
@@ -42,9 +42,9 @@ ruling_party = generic_reactionary
 last_election = 1834.1.1
 upper_house = {
 	fascist = 0
-	liberal = 0
-	conservative = 100
-	reactionary = 0
+	liberal = 45
+	conservative = 40
+	reactionary = 15
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

@@ -1,6 +1,7 @@
-owner = YEM
-controller = YEM
+owner = MHR
+controller = MHR
 add_core = ARU
+add_core = MHR
 add_core = YEM
 trade_goods = fish
 life_rating = 35

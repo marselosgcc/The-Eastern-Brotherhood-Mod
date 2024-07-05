@@ -1,5 +1,6 @@
 owner = UYG
 controller = UYG
 add_core = UYG
+add_core = CHI
 trade_goods = cotton
 life_rating = 35

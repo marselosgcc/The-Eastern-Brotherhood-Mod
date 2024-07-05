@@ -1,5 +1,6 @@
 owner = LSK
 controller = LSK
 add_core = LSK
+add_core = JAP
 trade_goods = coal
 life_rating = 35

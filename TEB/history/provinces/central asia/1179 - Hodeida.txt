@@ -1,5 +1,6 @@
-owner = YEM
-controller = YEM
+owner = NYE
+controller = NYE
+add_core = NYE
 add_core = YEM
 add_core = ARU
 trade_goods = grain

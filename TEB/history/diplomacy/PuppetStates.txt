@@ -18,6 +18,16 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
+substate = {
+	
+first = QNG
+	
+second = MCK
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
 vassal = { 
 first = ENL
  

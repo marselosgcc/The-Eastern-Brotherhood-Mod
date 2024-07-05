@@ -1,5 +1,5 @@
-owner = YEM
-controller = YEM
+owner = FRA
+controller = FRA
 add_core = YEM
 add_core = ARU
 trade_goods = fish

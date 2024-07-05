@@ -1,5 +1,7 @@
 owner = LSK
 controller = LSK
 add_core = LSK
+add_core = CHI
+add_core = MCK
 trade_goods = fish
 life_rating = 35

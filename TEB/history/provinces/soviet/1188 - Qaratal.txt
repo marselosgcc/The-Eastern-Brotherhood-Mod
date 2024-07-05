@@ -1,5 +1,7 @@
-owner = KAZ
-controller = KAZ
+owner = UYG
+controller = UYG
+add_core = UYG
+add_core = CHI
 add_core = KAZ
 trade_goods = grain
 life_rating = 35
