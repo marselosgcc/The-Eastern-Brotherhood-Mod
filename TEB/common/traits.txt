@@ -480,7 +480,7 @@ background = {
 		morale = 0.20
 	}
 	cartographer = {
-		speed = 0.40
+		speed = 1
 	}
 	professor = {
 		attack = -1

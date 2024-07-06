@@ -60,6 +60,15 @@ leader = {
 	background = butcher
 	prestige = 0.1
 }
+
+leader = {
+	name = "Pedro de Assis"
+	date = 1835.1.1
+	type = sea
+	personality = audacious
+	background = cartographer
+	prestige = 0.0
+}
 army = {
 	name = "Exército Brasileiro"
 	location = 2442
@@ -82,8 +91,8 @@ army = {
 	}
 
 	regiment = {
-		name= "4. Brigada de Infantaria"
-		type = infantry
+		name= "1. Brigada de Infantaria pesada"
+		type = guard
 		home = 2447
 	}
 
@@ -125,7 +134,7 @@ army = {
 }
 navy = {
 	name = "Frota Imperial Brasileira"
-	location = 2986
+	location = 2451
 ship = {
 		name= "São Paulo"
 		type = manowar
@@ -182,7 +191,7 @@ ship = {
 	}
 
 	ship = {
-		name= "Almirante Saldanha"
+		name= "Almirante Costa Neto"
 		type = manowar
 	}
 
@@ -212,7 +221,7 @@ ship = {
 	}
 
 	ship = {
-		name= "Liberal"
+		name= "Imperatriz Leopoldina"
 		type = frigate
 	}
 
@@ -251,4 +260,84 @@ ship = {
 		type = commerce_raider
 	}
 
+	ship = {
+		name= "Fortaleza"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Santa Maria"
+		type = commerce_raider
+	}
+
+}
+
+army = {
+	name = "Voluntários da Pátria"
+	location = 2451
+	regiment = {
+		name= "1. Brigada de Voluntários"
+		type = irregular
+		home = 2447
+	}
+
+	regiment = {
+		name= "2. Brigada de Voluntários"
+		type = irregular
+		home = 2447
+	}
+
+	regiment = {
+		name= "3. Brigada de Voluntários"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "4. Brigada de Voluntários"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "5. Brigada de Voluntários"
+		type = cuirassier
+		home = 2447
+	}
+
+	regiment = {
+		name= "6. Brigada de Artilharia"
+		type = dragoon
+		home = 2447
+	}
+
+	regiment = {
+		name= "7. Brigada de Voluntários"
+		type = engineer
+		home = 2447
+	}
+
+	regiment = {
+		name= "8. Brigada de Voluntários"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "9. Brigada de Voluntários"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "10. Brigada de Voluntários"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "11. Brigada de Voluntários"
+		type = artillery
+		home = 2450
+	}
 }

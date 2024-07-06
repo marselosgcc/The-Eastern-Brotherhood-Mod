@@ -45,13 +45,13 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Infantaria"
-		type = infantry
+		type = irregular
 		home = 2436
 	}
 
 	regiment = {
 		name= "2. Brigada de Infantaria"
-		type = infantry
+		type = irregular
 		home = 2436
 	}
 
@@ -92,8 +92,8 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Brigada de Engenheiros"
-		type = engineer
+		name= "1. Brigada de Cavalaria Pesada"
+		type = cuirassier
 		home = 2436
 	}
 }
@@ -108,7 +108,7 @@ army = {
 	}
 	regiment = {
 		name= "2. Milícia de Escravos"
-		type = infantry
+		type = irregular
 		home = 2435
 	}
 	regiment = {
@@ -122,7 +122,7 @@ army = {
 	location = 2438
 	regiment = {
 		name= "3. Milícia de Escravos"
-		type = infantry
+		type = irregular
 		home = 2441
 	}
 	regiment = {
@@ -138,7 +138,7 @@ army = {
 }
 navy = {
 	name = "Frota do Sultão"
-	location = 2985
+	location = 2987
 ship = {
 		name= "NS Abdul"
 		type = manowar
@@ -151,7 +151,7 @@ ship = {
 
 	ship = {
 		name= "NS Nova Medina"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -176,6 +176,21 @@ ship = {
 
 	ship = {
 		name= "NS Colombo"
+		type = frigate
+	}
+	
+	ship = {
+		name= "NS Piri Reis"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Cabral"
+		type = frigate
+	}
+
+	ship = {
+		name= "NS Jadid Ufuq"
 		type = frigate
 	}
 }
