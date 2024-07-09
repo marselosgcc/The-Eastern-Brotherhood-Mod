@@ -554,7 +554,7 @@ genocide = {
 }
 
 rebuilding_city = {
-	population_growth = 0.005
+	population_growth = 0.010
 	local_RGO_output = 0.5
 	icon = 11
 }

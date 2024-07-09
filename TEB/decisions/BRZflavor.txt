@@ -1,0 +1,29 @@
+political_decisions = {
+move_capital_to_rio = {
+    picture = "build_belo_horizonte"
+    name = "move_capital_to_rio"
+    potential = {
+        tag = BRZ
+        capital = 2450 # Current capital is São Paulo
+    }
+    allow = {
+        war = no
+        OR = {
+            capital = 2450 # Ensure the capital is São Paulo
+            capital = 2447 # If already moved, allow to trigger effects again
+        }
+    }
+    effect = {
+        capital = 2447 # Move capital to Rio de Janeiro
+        2447 = { # Province 2447 (Rio de Janeiro)
+            add_province_modifier = {
+                name = "rebuilding_city"
+                duration = 730 # Duration in days
+            }
+        }
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+}

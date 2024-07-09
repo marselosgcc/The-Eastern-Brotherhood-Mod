@@ -1,3 +1,375 @@
+political_decisions = {
+
+	enable_options = {
+		alert = no
+		potential = {
+			ai = no
+			NOT = { has_global_flag = looking_through_options }
+			NOT = { year = 1837 }
+			NOT = { has_country_flag = test_dec }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = looking_through_options
+			set_country_flag = country_looking_through_options
+		}
+	}
+	
+	disable_options = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			clr_global_flag = looking_through_options
+			clr_country_flag = country_looking_through_options
+		}
+	}
+	
+	option_disable_anarcho_liberals = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = anarcho_liberals_disabled }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = anarcho_liberals_disabled
+		}
+	}
+	
+	option_disable_hpm_crisis = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = revolution_n_counter_researched }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = revolution_n_counter_researched
+		}
+	}
+	
+	option_enable_fantasy_countries = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = fantasy_countries_enabled }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = fantasy_countries_enabled
+		}
+	}
+	
+	option_enable_easter_eggs = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = easter_eggs_enabled }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = easter_eggs_enabled
+		}
+	}
+	
+	option_disable_workplace_events = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = workplace_events_disabled }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = workplace_events_disabled
+		}
+	}
+	
+	option_disable_bankruptcy_events = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_country_flag = bankruptcy_events_disabled }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_country_flag = bankruptcy_events_disabled
+			any_country = { limit = { ai = no } set_country_flag = bankruptcy_events_disabled }
+		}
+	}
+
+###Disable Starting Party Loyalty
+
+	option_disable_starting_party_loyalty = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = party_loyalty_eliminated }
+		}
+		
+		allow = {
+		}
+		
+		effect = {
+			set_global_flag = party_loyalty_eliminated
+			country_event = 6016814
+		}
+	}
+	1836_initial_setup = {
+		potential = {
+			ai = yes
+			exists = yes
+			civilized = yes
+			NOT = { rank = 17 }
+			NOT = { year = 1838 }
+			NOT = { has_global_flag = 1836_set_up }
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+		}
+		
+		effect = {
+			set_global_flag = 1836_set_up
+			set_country_flag = existing_country
+			any_country = { limit = { exists = yes } set_country_flag = existing_country }
+			#################Class Literacy Setup######################
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = yes
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.3
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.15
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.1
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.05
+				}
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					is_greater_power = no
+					is_secondary_power = yes
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.2
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.1
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.05
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.02
+				}
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = yes
+					is_greater_power = no
+					is_secondary_power = no
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.1
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.05
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.02
+				}
+			}
+			
+			any_country = {
+				limit = {
+					exists = yes
+					civilized = no
+					civilization_progress = 0.2
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+							has_pop_culture = beifaren
+							has_pop_culture = nanfaren
+						}
+					}
+					literacy = 0.05
+				}
+			}
+			
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.1
+				}
+				any_pop = {
+					limit = {
+						strata = rich
+						NOT = { religion = animist }
+						location = { is_colonial = no }
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					literacy = 0.05
+				}
+				any_pop = {
+					limit = {
+						strata = middle
+						NOT = { religion = animist }
+						OR = {
+							is_primary_culture = yes
+							is_accepted_culture = yes
+						}
+					}
+					literacy = 0.02
+				}
 			#################Giving Starting Money to Pops and Countries######################
 			any_country = { limit = { exists = yes is_greater_power = yes } capitalists = { money = 1000 } aristocrats = { money = 500 } artisans = { money = 200 } }
 			any_country = { limit = { exists = yes is_secondary_power = yes } capitalists = { money = 800 } aristocrats = { money = 400 } artisans = { money = 100 } }
@@ -103,4 +475,28 @@
 				limit = { rank = 4 NOT = { rank = 3 } }
 				treasury = 100000
 			}
+						################# War of Males######################
+			BRZ =  { any_pop = { limit = { is_state_religion = yes }
+					dominant_issue = { factor = 0.60 value = moralism }
+					dominant_issue = { factor = 0.30 value = jingoism }
+					ideology = { factor = 0.75 value = reactionary }
+				}  { war_exhaustion = -50 } }
+			BAH = { war_exhaustion = -50 }
 			
+	
+				#################Slaves and Serfs  Pops Setup######################
+			serfs = { militancy = -9 consciousness = -9 literacy = -0.99 }
+			slaves = { literacy = -0.99 }
+			any_country = {
+				limit = { exists = yes has_pop_type = serfs }
+				serfs = { militancy = -9 consciousness = -9 literacy = -0.99 }
+			}
+			any_country = {
+				limit = { exists = yes has_pop_type = slaves }
+				slaves = { literacy = -0.99 }
+			}
+			any_pop = { limit = { has_pop_culture = gypsy } literacy = -0.99 }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = gypsy } literacy = -0.99 } }
+	        }
+    }
+}
