@@ -475,13 +475,113 @@ political_decisions = {
 				limit = { rank = 4 NOT = { rank = 3 } }
 				treasury = 100000
 			}
+			#################Isolationist Uncivs Setup######################
+			any_country = {
+				limit = {
+					exists = yes
+					NOT = { tag = SIA }
+					NOT = { primary_culture = japanese }
+					NOT = { tag = QNG }
+					NOT = { tag = YNN }
+					NOT = { tag = KOR }
+					OR = {
+						capital_scope = { continent = africa } 
+						capital_scope = { continent = west_africa } 
+						capital_scope = { continent = central_africa } 
+						capital_scope = { continent = east_africa } 
+						capital_scope = { continent = south_west_africa }
+						capital_scope = { continent = oceania }
+						capital_scope = { continent = asia }
+					}
+				}
+				relation = { who = FRA value = -75 }
+			}
+			
+			random_country = {
+				limit = {
+					tag = SIA
+				}
+				add_country_modifier = { name = uncivilized_isolationism duration = -1 }
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						is_culture_group = east_asian
+						has_country_modifier = uncivilized_isolationism
+						has_country_modifier = sakoku
+						vassal_of = QNG
+						substate_of = QNG
+					}
+					civilized = no
+					naval_schools = yes_naval_schools
+					NOT = { has_country_modifier = isolationist_foreign_naval_schools  }
+				}
+				add_country_modifier = { name = isolationist_foreign_naval_schools duration = -1 }
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						is_culture_group = east_asian
+						has_country_modifier = uncivilized_isolationism
+						has_country_modifier = sakoku
+						vassal_of = QNG
+						substate_of = QNG
+					}
+					civilized = no
+					foreign_officers = yes_foreign_officers
+					NOT = { has_country_modifier = isolationist_foreign_officers }
+				}
+				add_country_modifier = { name = isolationist_foreign_officers duration = -1 }
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						is_culture_group = east_asian
+						has_country_modifier = uncivilized_isolationism
+						has_country_modifier = sakoku
+						vassal_of = QNG
+						substate_of = QNG
+					}
+					civilized = no
+					foreign_naval_officers = yes_foreign_naval_officers
+					NOT = { has_country_modifier = isolationist_foreign_naval_officers }
+				}
+				add_country_modifier = { name = isolationist_foreign_naval_officers duration = -1 }
+			}
+			
+			any_country = {
+				limit = {
+					OR = {
+						is_culture_group = east_asian
+						has_country_modifier = uncivilized_isolationism
+						has_country_modifier = sakoku
+						vassal_of = QNG
+						substate_of = QNG
+					}
+					civilized = no
+					foreign_training = yes_foreign_training
+					NOT = { has_country_modifier = isolationist_foreign_training }
+				}
+				add_country_modifier = { name = isolationist_foreign_training duration = -1 }
+			}
+			
+			any_country = {
+				limit = { has_country_flag = lacking_writing_system exists = yes }
+				add_country_modifier = { name = lacks_writing_system duration = -1 } 
+			}
 						################# War of Males######################
 			BRZ =  { any_pop = { limit = { is_state_religion = yes }
 					dominant_issue = { factor = 0.60 value = moralism }
 					dominant_issue = { factor = 0.30 value = jingoism }
-					ideology = { factor = 0.75 value = reactionary }
-				}  { war_exhaustion = -50 } }
-			BAH = { war_exhaustion = -50 }
+					ideology = { factor = 0.50 value = reactionary }
+				}   war_exhaustion = -50  }
+			BAH = { any_pop = { limit = { is_state_religion = yes }
+					dominant_issue = { factor = 0.40 value = pluralism }
+					dominant_issue = { factor = 0.50 value = jingoism }
+					ideology = { factor = 0.50 value = liberal } } war_exhaustion = -50  }
 			
 	
 				#################Slaves and Serfs  Pops Setup######################
@@ -497,6 +597,6 @@ political_decisions = {
 			}
 			any_pop = { limit = { has_pop_culture = gypsy } literacy = -0.99 }
 			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = gypsy } literacy = -0.99 } }
-	        }
+	        }  
+        }
     }
-}
