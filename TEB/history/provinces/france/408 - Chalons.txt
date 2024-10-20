@@ -3,3 +3,13 @@ controller = LOR
 add_core = LOR
 trade_goods = fruit
 life_rating = 35
+state_building = {
+    level = 1
+    building = machine_parts_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = no
+}

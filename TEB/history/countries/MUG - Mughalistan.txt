@@ -5,7 +5,8 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.02
+literacy = 0.06
+prestige = 100
 
 ruling_party = generic_conservative
 upper_house = {

@@ -10,7 +10,7 @@ literacy = 0.95
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 40
+prestige = 33
 
 # Political reforms
 slavery = yes_slavery
@@ -182,6 +182,6 @@ school_reforms = acceptable_schools
 
 #Inventions
 }
-
+oob = "NET_oob.txt"
 
 

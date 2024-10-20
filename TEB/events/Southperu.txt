@@ -1,0 +1,58 @@
+country_event = {
+    id = spu.1
+    title = "EVTNAME_spu_1"
+    desc = "EVTDESC_spu_1"
+    picture = "independence_southp"
+
+    is_triggered_only = yes
+
+    trigger = {
+        has_country_flag = spu_declared_independence
+        tag = SPU
+    }
+
+    option = {
+        name = "EVTOPTA_spu_1"
+		prestige = 3
+        relation = {
+		    who = PEU
+			value = 100
+		}
+    }
+}
+
+country_event = {
+    id = spu.2
+    title = "EVTNAME_spu_2"
+    desc = "EVTDESC_spu_2"
+    picture = "independence_southp"
+
+    is_triggered_only = yes
+
+    trigger = {
+        has_country_flag = spu_declared_independence
+        tag = SPC
+    }
+
+    option = {
+        name = "EVTOPTA_spu_2"
+		release_vassal = SPU		
+        prestige = -5
+        relation = {
+            who = SPU
+            value = 50
+        }
+    }
+    option = {
+        name = "EVTOPTB_spu_2"
+		release_vassal = SPU
+        casus_belli = {
+            target = SPU
+            type = conquest
+        }
+        relation = {
+            who = SPU
+            value = -200
+        }
+    }
+}

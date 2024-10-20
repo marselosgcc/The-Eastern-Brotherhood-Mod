@@ -15,7 +15,7 @@ non_state_culture_literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 90
+prestige = 50
 
 # Political reforms
 slavery = yes_slavery
@@ -107,8 +107,7 @@ decision = lorraine_rename
 
 foreign_investment = {
 	PAP = 15000
-	SAR = 10000
-	BEL = 20000
+	RHI = 10000
 }
 
 1861.1.1 = {
@@ -225,5 +224,5 @@ upper_house = {
 
 #Inventions
 }
-
+oob = "FRA_oob.txt"
 

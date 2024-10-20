@@ -1,0 +1,95 @@
+#Sphere of Influence
+#GPs
+ENL = { value = 200 }
+SWE = { value = 100 }
+LOR = { value = -30 }
+RUS = { value = 90 }
+NET = { value = 60 }
+FRA = { value = -50 }
+POL = { value = -25 }
+SPC = {
+	value = 200
+	level = 3
+	influence_value = 75
+}
+MOL = {
+	value = 200
+	level = 3
+	influence_value = 75
+}
+WAL = {
+	value = 200
+	level = 4
+	influence_value = 75
+}
+
+FRM = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+HAM = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+WES = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+BRA = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+BRE = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+OLD = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+ANH = {
+	value = 200
+	level = 3
+	influence_value = 10
+}
+BAV = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+BAD = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+ULM = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+SAX = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+WEI = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+RHI = {
+	value = 200
+	level = 4
+	influence_value = 75
+}
+HES = {
+	value = 200
+	level = 5
+	influence_value = 75
+}

@@ -3,13 +3,13 @@
 #La Paz (392000/98000 POPS)
 2310 = {
 	aristocrats = {
-		culture = south_andean
+		culture = quechua
 		religion = catholic
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = quechua
 		religion = catholic
 		size = 400
 	}
@@ -27,7 +27,7 @@
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = platinean
 		religion = catholic
 		size = 5825
 	}
@@ -41,7 +41,7 @@
 	soldiers = {
 		culture = south_andean
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
@@ -53,13 +53,13 @@
 	clergymen = {
 		culture = aimara
 		religion = catholic
-		size = 300
+		size = 1300
 	}
 
 	artisans = {
 		culture = aimara
 		religion = catholic
-		size = 2525
+		size = 4525
 	}
 
 	farmers = {
@@ -71,25 +71,25 @@
 	clergymen = {
 		culture = quechua
 		religion = catholic
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = quechua
 		religion = catholic
-		size = 150
+		size = 1500
 	}
 
 	soldiers = {
 		culture = quechua
 		religion = catholic
-		size = 50
+		size = 3500
 	}
 
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 2775
+		size = 22775
 	}
 }
 #Cochabamba (352000/88000 POPS)

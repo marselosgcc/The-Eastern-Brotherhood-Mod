@@ -129,7 +129,7 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 1500
+		size = 4500
 		militancy = 9
 		rebel_type = liberal_rebels
 	}
@@ -139,25 +139,37 @@
 		religion = catholic
 		size = 7275
 	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 9500
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 4000
+	}
 }
 #Tacumba (12000/3000 POPS)
 2346 = {
 	aristocrats = {
 		culture = platinean
 		religion = catholic
-		size = 25
+		size = 250
 	}
 
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 10
+		size = 100
 	}
 
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	artisans = {
@@ -169,7 +181,7 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
@@ -181,7 +193,7 @@
 	clergymen = {
 		culture = brazilian
 		religion = catholic
-		size = 15
+		size = 150
 	}
 
 	artisans = {
@@ -193,7 +205,7 @@
 	soldiers = {
 		culture = brazilian
 		religion = protestant
-		size = 550
+		size = 1550
 	}
 
 	farmers = {
@@ -201,37 +213,49 @@
 		religion = protestant
 		size = 3925
 	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 11000
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 10000
+	}
 }
 #Melo (40000/10000 POPS)
 2347 = {
 	aristocrats = {
 		culture = gaucho
 		religion = catholic
-		size = 150
+		size = 250
 	}
 
 	bureaucrats = {
 		culture = gaucho
 		religion = catholic
-		size = 10
+		size = 110
 	}
 
 	clergymen = {
 		culture = gaucho
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	artisans = {
 		culture = gaucho
 		religion = catholic
-		size = 350
+		size = 450
 	}
 
 	soldiers = {
 		culture = gaucho
 		religion = catholic
-		size = 400
+		size = 1400
 	}
 
 	farmers = {
@@ -243,7 +267,7 @@
 	clergymen = {
 		culture = brazilian
 		religion = catholic
-		size = 50
+		size = 250
 	}
 
 	artisans = {
@@ -255,13 +279,19 @@
 	soldiers = {
 		culture = brazilian
 		religion = catholic
-		size = 100
+		size = 1100
 	}
 
 	farmers = {
 		culture = gaucho
 		religion = catholic
 		size = 9775
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 15275
 	}
 
 }

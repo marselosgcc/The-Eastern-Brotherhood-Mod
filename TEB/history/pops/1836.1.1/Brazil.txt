@@ -4219,7 +4219,7 @@
 	soldiers = {
 		culture = gaucho
 		religion = catholic
-		size = 2400
+		size = 3400
 	}
 
 	farmers = {
@@ -4231,19 +4231,19 @@
 	clergymen = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 200
+		size = 900
 	}
 
 	soldiers = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 50
+		size = 3500
 	}
 
 	farmers = {
@@ -4255,7 +4255,13 @@
 	slaves = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 2500
+		size = 10500
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 20000
 	}
 }
 #Passo Fundo (112000/28000 POPS)
@@ -4305,13 +4311,13 @@
 	soldiers = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 50
+		size = 2500
 	}
 
 	farmers = {
 		culture = afro_brazilian
 		religion = catholic
-		size = 1700
+		size = 3700
 	}
 
 	slaves = {
@@ -4323,25 +4329,31 @@
 	clergymen = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = guarani
 		religion = animist
-		size = 250
+		size = 1250
 	}
 
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	farmers = {
 		culture = guarani
 		religion = animist
 		size = 4650
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 10000
 	}
 }
 #Santa Maria (88000/22000 POPS)
@@ -4405,6 +4417,12 @@
 		religion = catholic
 		size = 3500
 	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 9000
+	}
 }
 #Alegrete (64000/16000 POPS)
 2467 = {
@@ -4453,13 +4471,19 @@
 	soldiers = {
 		culture = guarani
 		religion = animist
-		size = 50
+		size = 500
 	}
 
-	farmers = {
+	slaves = {
 		culture = guarani
 		religion = animist
 		size = 4575
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 7000
 	}
 }
 #Beni Region (32000) #see Bolivia.txt for balance of region

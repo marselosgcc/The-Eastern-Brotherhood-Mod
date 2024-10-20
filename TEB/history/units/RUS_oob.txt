@@ -1,0 +1,29 @@
+#Sphere of Influence
+#GPs
+ENL = { value = 50 }
+SWE = { value = -150 }
+AUS = { value = 120 }
+LOR = { value = 90 }
+NET = { value = 15 }
+FRA = { value = 20 }
+POL = { value = 200 }
+CAL = {
+	value = 100
+	level = 5
+	influence_value = 50
+}
+MGL = {
+	value = 200
+	level = 4
+	influence_value = 100
+}
+MCK = {
+	value = 200
+	level = 4
+	influence_value = 50
+}
+LSK = {
+	value = 50
+	level = 5
+	influence_value = 0
+}

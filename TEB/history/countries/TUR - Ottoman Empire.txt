@@ -8,9 +8,7 @@ nationalvalue = nv_autocracy
 literacy = 0.80
 non_state_culture_literacy = 0.45
 civilized = yes
-
-#GreaterPowers = prestige
-prestige = 90
+prestige = 0
 
 # Political reforms
 slavery = yes_slavery

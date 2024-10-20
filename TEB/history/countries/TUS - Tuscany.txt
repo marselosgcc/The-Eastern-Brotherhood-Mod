@@ -4,10 +4,10 @@ culture = swiss_italian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.50
 civilized = yes
-prestige = 5
+prestige = 22
 
 
 # Political reforms

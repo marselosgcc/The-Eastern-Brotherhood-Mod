@@ -1,0 +1,39 @@
+#Sphere of Influence
+#GPs
+ENL = { value = 100 }
+SWE = { value = -30 }
+AUS = { value = 20 }
+RUS = { value = 200 }
+NET = { value = 90 }
+FRA = { value = 150 }
+LOR = { value = 90 }
+MOL = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+CRI = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+KRA = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+FRM = {
+	value = 200
+	level = 3
+	influence_value = 50
+}
+BUL = {
+	value = 200
+	level = 4
+	influence_value = 100
+}
+WAL = {
+	value = -200
+	level = 1
+	influence_value = 0
+}

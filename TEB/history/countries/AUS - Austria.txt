@@ -192,6 +192,6 @@ foreign_investment = {
 #Inventions
 
 }
-
+oob = "AUS_oob.txt"
 
 

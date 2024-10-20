@@ -4,8 +4,9 @@ religion = sikh
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.02
+literacy = 0.20
 non_state_culture_literacy = 0.01
+prestige = 15
 
 ruling_party = generic_conservative
 upper_house = {

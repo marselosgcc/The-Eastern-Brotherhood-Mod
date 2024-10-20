@@ -1,0 +1,29 @@
+political_decisions = {
+vop_declare_independence = {
+    picture = "burning_spc"
+    potential = {
+        tag = VOP
+        NOT = { exists = SPU } 
+    }
+    allow = {
+        war = no # Deve estar em paz
+    }
+    effect = {
+        change_tag = SPU 
+        set_country_flag = spu_declared_independence
+        country_event = {
+            id = spu.1
+            days = 1
+        }
+        SPC = {
+            country_event = {
+                id = spu.2
+                days = 1
+            }
+        }
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+}

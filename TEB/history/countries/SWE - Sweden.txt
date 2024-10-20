@@ -6,9 +6,11 @@ religion = protestant
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.8
+literacy = 0.91
 civilized = yes
-prestige = 10
+
+#GreaterPowers = prestige
+prestige = 45
 
 # Political reforms
 slavery = yes_slavery
@@ -190,6 +192,6 @@ school_reforms = low_schools
 
 #Inventions
 }
-
+oob = "SWE_oob.txt"
 
 

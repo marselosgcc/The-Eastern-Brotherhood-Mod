@@ -11,6 +11,7 @@ nationalvalue = nv_tradition
 literacy = 0.25
 non_state_culture_literacy = 0.09
 is_releasable_vassal = no
+prestige = 40
 
 # Political reforms
 slavery = yes_slavery

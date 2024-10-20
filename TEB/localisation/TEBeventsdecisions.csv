@@ -1,3 +1,12 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 move_capital_to_rio;Move Capital to Rio de Janeiro;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 move_capital_to_rio_desc;With the end of malês war, we can move our government from São Paulo to Rio de Janeiro again and start rebuilding the city;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_declare_independence;Declare Independence of Southern Peru;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_declare_independence_desc;Declare independence from Spain and form the nation of Southern Peru;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_1;The Independence of Southern Peru;;;;;;;;;;;;;;;
+EVTDESC_spu_1;The Viceroyalty of Peru has declared its independence and changed the name of the country to Southern Peru.;;;;;;;;;;;;;;;
+EVTNAME_spu_2;Southern Peru Declares Independence;;;;;;;;;;;;;;;
+EVTDESC_spu_2;The Vicerey of Peru has declared its independence and formed the new nation of Southern Peru. How we will respond?;;;;;;;;;;;;;;;
+EVTOPTA_spu_1;Long live Southern Peru!;;;;;;;;;;;;;;;
+EVTOPTA_spu_2;There is nothing we can do;;;;;;;;;;;;;;;
+EVTOPTB_spu_2;We will not let another liberal republic arise!;;;;;;;;;;;;;;;

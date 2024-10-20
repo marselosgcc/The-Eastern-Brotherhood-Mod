@@ -8,7 +8,9 @@ plurality = 0.0
 nationalvalue = nv_productivity 
 literacy = 0.8
 civilized = yes
-prestige = 1
+
+#GreaterPowers = prestige
+prestige = 40		
 
 # Political reforms
 slavery = no_slavery
@@ -50,6 +52,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+oob = "LOR_oob.txt"
 
 
 

@@ -5,10 +5,11 @@ culture = south_german
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.8
 civilized = yes
-prestige = 1
+
+prestige = 0
 
 # Political reforms
 slavery = no_slavery
@@ -44,8 +45,8 @@ colonial_policy = no_colonies
 ruling_party = generic_liberal
 upper_house = {
 	fascist = 0
-	liberal = 30
-	conservative = 55
+	liberal = 50
+	conservative = 35
 	reactionary = 15
 	anarcho_liberal = 0
 	socialist = 0

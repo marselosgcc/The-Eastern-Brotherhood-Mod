@@ -1,16 +1,14 @@
 capital = 2146
 primary_culture = yankee
-culture = dixie
 religion = protestant
 government = presidential_dictatorship
-plurality = 30.0
-nationalvalue = nv_liberty
+plurality = 10.0
+nationalvalue = nv_autocracy
 literacy = 0.40
 non_state_culture_literacy = 0.2
 civilized = yes
 
-#GreaterPowers = prestige
-prestige = 45
+prestige = 5
 
 # Political reforms
 slavery = yes_slavery

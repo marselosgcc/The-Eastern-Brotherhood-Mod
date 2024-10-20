@@ -1,0 +1,79 @@
+#Sphere of Influence
+#GPs
+LOR = { value = 150 }
+SWE = { value = -50 }
+AUS = { value = 100 }
+RUS = { value = 70 }
+NET = { value = 200 }
+FRA = { value = -100 }
+POL = { value = 50 }
+FRM = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+JAM = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+CAN = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+EIC = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+TEX = {
+	value = 50
+	level = 2
+	influence_value = 100
+}
+POR = {
+	value = 200
+	level = 5
+	influence_value = 75
+}
+MLY = {
+	value = 200
+	level = 3
+	influence_value = 75
+}
+BRT = {
+	value = 200
+	level = 4
+	influence_value = 75
+}
+JAP = {
+	value = 200
+	level = 3
+	influence_value = 50
+}
+GCO = {
+	value = 200
+	level = 3
+	influence_value = 50
+}
+URU = {
+	value = 200
+	level = 4
+	influence_value = 50
+}
+NEN = {
+	value = 200
+	level = 5
+	influence_value = 50
+}
+USA = {
+	value = -200
+	level = 1
+	influence_value = 0
+}
+UIL = {
+	value = 200
+	level = 4
+	influence_value = 100
+}

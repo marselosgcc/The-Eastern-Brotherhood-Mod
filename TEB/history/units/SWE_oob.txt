@@ -1,0 +1,29 @@
+#Sphere of Influence
+#GPs
+ENL = { value = -150 }
+LOR = { value = 50 }
+AUS = { value = 150 }
+RUS = { value = -200 }
+NET = { value = 100 }
+FRA = { value = 120 }
+POL = { value = 30 }
+IRE = {
+	value = 200
+	level = 4
+	influence_value = 75
+}
+SCO = {
+	value = 200
+	level = 4
+	influence_value = 75
+}
+POM = {
+	value = 200
+	level = 5
+	influence_value = 25
+}
+LIT = {
+	value = 200
+	level = 4
+	influence_value = 25
+}

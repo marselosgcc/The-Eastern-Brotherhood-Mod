@@ -3,3 +3,8 @@ controller = LOR
 add_core = LOR
 trade_goods = fish
 life_rating = 35
+state_building = {
+    level = 1
+    building = artillery_factory
+    upgrade = no
+}

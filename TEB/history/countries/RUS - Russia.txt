@@ -13,9 +13,8 @@ literacy = 0.15
 non_state_culture_literacy = 0.05
 civilized = yes
 
-
 #GreaterPowers = prestige
-prestige = 50
+prestige = 40
 
 # Political reforms
 slavery = no_slavery
@@ -188,6 +187,6 @@ govt_flag = {
 	school_reforms = no_schools
 	
 }
-
+oob = "RUS_oob.txt"
 
 

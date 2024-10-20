@@ -1,7 +1,6 @@
 political_decisions = {
 move_capital_to_rio = {
     picture = "build_belo_horizonte"
-    name = "move_capital_to_rio"
     potential = {
         tag = BRZ
         capital = 2450 # Current capital is São Paulo

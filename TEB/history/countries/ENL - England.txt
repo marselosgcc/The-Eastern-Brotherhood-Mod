@@ -3,10 +3,13 @@ primary_culture = british
 religion = protestant
 government = hms_government
 plurality = 5
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.55
 civilized = yes
 is_releasable_vassal = no
+
+#GreaterPowers = prestige
+prestige = 32
 
 # Political reforms
 slavery = no_slavery
@@ -55,6 +58,7 @@ govt_flag = {
 	government = absolute_monarchy
 	flag = theocracy
 }
+oob = "ENL_oob.txt"
 
 
 
