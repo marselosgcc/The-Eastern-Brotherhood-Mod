@@ -1,0 +1,19 @@
+
+name = "Cuban War of Independence"
+
+1825.8.10 = {
+	add_attacker = AUS
+	add_defender = CUB
+
+	war_goal = {
+		casus_belli = establish_protectorate_casus_belli
+		actor = AUS
+		receiver = CUB
+	}
+	war_goal = {
+		casus_belli = become_independent
+		actor = CUB
+		receiver = AUS
+	}
+
+}

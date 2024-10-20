@@ -93,3 +93,157 @@ HES = {
 	level = 5
 	influence_value = 75
 }
+
+leader = {
+	name = "Friedrich der Morder"
+	date = 1823.1.1
+	type = land
+	personality = merciless
+	background = hated
+	prestige = 0.9
+}
+
+leader = {
+	name = "Karl von Siebenbürgen-Medici"
+	date = 1828.1.1
+	type = land
+	personality = arrogant
+	background = aristocrat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Alexander Graf von Breslau"
+	date = 1825.1.1
+	type = land
+	personality = perverse
+	background = aristocrat
+	prestige = 0.2
+}
+
+leader = {
+	name = "Hermann von Hess"
+	date = 1834.1.1
+	type = land
+	personality = aggressive
+	background = generals_aide
+	prestige = 0.1
+}
+
+leader = {
+	name = "Julijana od Alpa"
+	date = 1823.1.1
+	type = sea
+	personality = romantic
+	background = natural_born_leader
+	prestige = 0.3
+}
+leader = {
+	name = "Andrzej 'Sylezyjski swiynty'"
+	date = 1833.2.10
+	type = sea
+	personality = deeply_religious
+	background = eccentric_genius
+	prestige = 0.2
+}
+leader = {
+	name = "Yoosef der Leewe"
+	date = 1833.2.10
+	type = land
+	personality = implacable
+	background = cursed_luck
+	prestige = 0.9
+}
+leader = {
+	name = "Josef Radetzky"
+	date = 1805.1.1
+	type = land
+	personality = au_fait
+	background = elderly
+	prestige = 0.3
+}
+
+leader = {
+	name = "Julius von Haynau"
+	date = 1835.1.1
+	type = land
+	personality = wrathful
+	background = natural_born_leader
+	prestige = 0.1
+}
+
+leader = {
+	name = "von Mittrowitz-Nettolitzky"
+	date = 1835.1.1
+	type = land
+	personality = active_p
+	background = aristocrat
+	prestige = 0.1
+}
+
+army = {
+	name = "Karibische Armee"
+	location = 2212
+	regiment = {
+		name= "1. Loyalisten-Brigade"
+		type = infantry
+		home = 624
+	}
+
+	regiment = {
+		name= "2. Loyalisten-Brigade"
+		type = infantry
+		home = 648
+	}
+
+	regiment = {
+		name= "3. Loyalisten-Brigade"
+		type = infantry
+		home = 647
+	}
+
+	regiment = {
+		name= "4. Loyalisten-Brigade"
+		type = infantry
+		home = 625
+	}
+}
+army = {
+	name = "Die koloniale Befriedungsarmee"
+	location = 44
+	regiment = {
+		name= "5. Loyalisten-Brigade"
+		type = irregular
+		home = 684
+	}
+
+	regiment = {
+		name= "6. Loyalisten-Brigade"
+		type = irregular
+		home = 682
+	}
+
+	regiment = {
+		name= "7. Loyalisten-Brigade"
+		type = irregular
+		home = 683
+	}
+
+	regiment = {
+		name= "8. Loyalisten-Brigade"
+		type = irregular
+		home = 622
+	}
+
+	regiment = {
+		name= "9. Loyalisten-Brigade"
+		type = irregular
+		home = 619
+	}
+
+	regiment = {
+		name= "10. Loyalisten-Brigade"
+		type = irregular
+		home = 643
+	}
+}

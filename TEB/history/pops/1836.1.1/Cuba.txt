@@ -106,6 +106,18 @@
 		size = 600
 	}
 
+	officers = {
+		culture = cubanische
+		religion = catholic
+		size = 220
+	}
+
+	officers = {
+		culture = karibik
+		religion = catholic
+		size = 50
+	}
+
 	clergymen = {
 		culture = karibik
 		religion = catholic
@@ -148,6 +160,18 @@
 		size = 11850
 	}
 
+	farmers = {
+		culture = karibik
+		religion = catholic
+		size = 22000
+	}
+
+	artisans = {
+		culture = karibik
+		religion = catholic
+		size = 15000
+	}
+
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
@@ -165,7 +189,7 @@
 	clergymen = {
 		culture = karibik
 		religion = catholic
-		size = 400
+		size = 800
 	}
 
 	artisans = {
@@ -177,31 +201,43 @@
 	soldiers = {
 		culture = karibik
 		religion = catholic
-		size = 150
+		size = 3150
 	}
 
 	farmers = {
 		culture = karibik
 		religion = catholic
-		size = 8500
+		size = 18500
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1500
+		size = 16500
 	}
 
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 300
+		size = 3000
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 2200
+	}
+
+	farmers = {
+		culture = cubanische
+		religion = protestant
+		size = 22200
+	}
+
+	farmers = {
+		culture = cubanische
+		religion = catholic
+		size = 13200
 	}
 
 	slaves = {
@@ -228,6 +264,12 @@
 		culture = karibik
 		religion = catholic
 		size = 3500
+	}
+
+	artisans = {
+		culture = cubanische
+		religion = catholic
+		size = 3300
 	}
 
 	soldiers = {
@@ -260,6 +302,18 @@
 		size = 3300
 	}
 
+	farmers = {
+		culture = cubanische
+		religion = catholic
+		size = 9000
+	}
+
+	farmers = {
+		culture = karibik
+		religion = reformed
+		size = 13000
+	}
+
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
@@ -273,31 +327,31 @@
 	aristocrats = {
 		culture = karibik
 		religion = catholic
-		size = 5
+		size = 105
 	}
 
 	clergymen = {
 		culture = karibik
 		religion = catholic
-		size = 10
+		size = 210
 	}
 
 	artisans = {
 		culture = karibik
 		religion = catholic
-		size = 25
+		size = 250
 	}
 
 	soldiers = {
 		culture = karibik
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = karibik
 		religion = catholic
-		size = 240
+		size = 10240
 	}
 	
 	farmers = {

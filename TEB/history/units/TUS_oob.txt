@@ -1,0 +1,8 @@
+leader = {
+	name = "Paolucci delle Roncole"
+	date = 1824.1.1
+	type = sea
+	personality = competent
+	background = aristocrat
+	prestige = 0.1
+}
