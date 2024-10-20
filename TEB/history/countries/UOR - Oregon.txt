@@ -1,11 +1,12 @@
 capital = 81
-primary_culture = yankee
-culture = dixie
+primary_culture = biyanic
+culture = dakotan
+culture = russian
 religion = protestant
 government = presidential_dictatorship
 plurality = 0.5
-nationalvalue = nv_liberty
-literacy = 0.6
+nationalvalue = nv_order
+literacy = 0.67
 civilized = yes
 prestige = 1
 
@@ -41,7 +42,7 @@ colonial_policy = no_colonies
 
 
 
-ruling_party = generic_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 37

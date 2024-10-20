@@ -2195,28 +2195,20 @@ american_cultures = {
 			Íosefr Karl Hrútr Bjarni Hrœrekr Kristofr Ríkharðr Kestr Leifr Natanjálfr Fríðrekr Jámr Dómald Sýrulf Ambrósi 
 			Eðvarðr Jǫfurr Agústinn Norðrinn Abnarr Ísarr Ámóss Þórmóðr Rannúlfr 
 		}
-		last_names = { Smiðr Vestrgarðr Grantr Skjalmann Herbergi Pállsson Klemensson Ábjǫrn Andarson Armstængr Kokkr Kaupmaðr 
-			Dagrson Fjorðr Fróðleikr Bryggjur Hrólfrson Varnarson Réttmaðr McArthur McClellan McCook McDowell Meade Mitchell
-				Morgan Paine Phelps Porter "Von Potter" Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
-				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
-				Wilson Wright Young "Von Luxemburg" Smith d'Calais 
+		last_names = { Smiðr Vestrgarðr Grantr Skjalmann Herbergi Pállsson Klemensson Ábjǫrn Andarson Armstængr Kokkr Kaupmaðr Dagrson Fjorðr Fróðleikr Bryggjur Hrólfrson Varnarson Réttmaðr McArthur McClellan McCook McDowell Meade Mitchell Morgan Paine Phelps Porter "Von Potter" Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner Wilson Wright Young "Von Luxemburg" Smith d'Calais Wulfstan Aethelric Aethelwald Baldwinsson Bjornsson Caedmonsson Cedricsson Cliffordsson Dafyddsson Edredsson Edmundsson Eldricsson Finnsson Fyodorsson Gerulfsson Gunnarsson Haakonsson Ivarsson Joarsson Leifsson Cockburn Luciansson Morcarsson Ragnarsson
 		}
 	}
 	dakotan = {
 		color = {129 129 129}
-		first_names = {Hrœrekr Járnsíða Jámr Natan Geirr Jón Patrekr Alfráðr Viljálmr Ríkharðr Hlǽw Bjarni Dáni Þórmóðr Pétr 
-			Jarimundr Símunn Ælfráðr Esr
-		}
+		first_names = { Hrœrekr Járnsíða Jámr Natan Geirr Jón Patrekr Alfráðr Viljálmr Ríkharðr Hlǽw Bjarni Dáni Þórmóðr Pétr Jarimundr Símunn Ælfráðr Esr }
 	
-		last_names = { Lee Jackson Hood Breckenridge Bragg 
-		Barksdale Early Hill Ewell Leifr Jónsson Stigr Fjǫrr Húða Morgun Andarson Hjólari Klæðsker Gangari Boganef Dagrson 
-		}
+		last_names = { Lee Jackson Hood Breckenridge Bragg Barksdale Early Hill Ewell Leifr Jónsson Stigr Fjǫrr Húða Morgun Andarson Hjólari Klæðsker Gangari Boganef Dagrson Wulfstan Aethelric Aethelwald Baldwinsson Bjornsson Caedmonsson Cedricsson Cliffordsson Dafyddsson Edredsson Edmundsson Eldricsson Finnsson Fyodorsson Gerulfsson Gunnarsson Haakonsson Ivarsson Joarsson Leifsson Cockburn Luciansson Morcarsson Ragnarsson }
 	}
 	texan = {
 		color = {153 0 0}
-		first_names = {Hamilton Matthew Richard Hamlitun Matthæus Ríkharðr Jón Viljálmr Sámr Heimríkr Hlúðvíkr 
+		first_names = { Hamilton Matthew Richard Hamlitun Matthæus Ríkharðr Jón Viljálmr Sámr Heimríkr Hlúðvíkr 
 		}
-		last_names = {Bee Búi Þræfr Hússteinn Hrós Grímr Haraldsson Mór Young Bowie Travis Houston "Von Schotlland"
+		last_names = { Bee Búi Þræfr Hússteinn Hrós Grímr Haraldsson Mór Young Bowie Travis Houston "Von Schotlland" Wulfstan Aethelric Aethelwald Baldwinsson Bjornsson Caedmonsson Cedricsson Cliffordsson Dafyddsson Edredsson Edmundsson Eldricsson Finnsson Fyodorsson Gerulfsson Gunnarsson Haakonsson Ivarsson Joarsson Leifsson Cockburn Luciansson Morcarsson Ragnarsson
 		}
 		radicalism = 10
 	}

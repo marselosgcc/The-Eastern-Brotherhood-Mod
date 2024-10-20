@@ -1,5 +1,5 @@
 capital = 60
-primary_culture = dixie
+primary_culture = yankee
 culture = texan
 religion = orthodox
 government = democracy

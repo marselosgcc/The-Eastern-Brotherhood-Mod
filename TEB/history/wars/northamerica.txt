@@ -1,0 +1,20 @@
+name = "The Great Western War"
+
+1830.1.20 = {
+	add_attacker = DAK
+	add_defender = UOR
+	add_defender = CAL
+	add_attacker = USA
+
+	war_goal = {
+		casus_belli = conquest
+		actor = UOR
+		receiver = DAK
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = DAK
+		receiver = UOR
+	}
+
+}

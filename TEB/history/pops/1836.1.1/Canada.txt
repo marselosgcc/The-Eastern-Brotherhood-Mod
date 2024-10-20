@@ -395,6 +395,24 @@
 		religion = animist
 		size = 2460
 	}
+	
+	farmers = {
+		culture = biyanic
+		religion = mahayana
+		size = 500
+	}
+	
+	farmers = {
+		culture = biyanic
+		religion = catholic
+		size = 500
+	}
+	
+	farmers = {
+		culture = biyanic
+		religion = protestant
+		size = 500
+	}
 
 }
 #Vancouver Island (8000/2000 POPS)
@@ -427,6 +445,18 @@
 		culture = native_american_minor
 		religion = animist
 		size = 2130
+	}
+	
+	farmers = {
+		culture = biyanic
+		religion = protestant
+		size = 500
+	}
+	
+	farmers = {
+		culture = biyanic
+		religion = mahayana
+		size = 500
 	}
 }
 #Prince Rupert (8000/2000 POPS)

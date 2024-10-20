@@ -6491,14 +6491,14 @@ all_voting_pops = {
 			factor = 2.0
 			country = { government = democracy }
 			NOT = { country = { primary_culture = yankee } }
-			NOT = { country = { primary_culture = dixie } }
+			NOT = { country = { primary_culture = dakotan } }
 		}
 		
 		modifier = {
 			factor = 0.5
 			OR = {
 				country = { primary_culture = yankee }
-				country = { primary_culture = dixie }
+				country = { primary_culture = dakotan }
 			}
 		}
 		
