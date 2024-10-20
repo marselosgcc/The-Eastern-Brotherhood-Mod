@@ -2191,43 +2191,32 @@ american_cultures = {
 	is_overseas = no
 	yankee = {
 		color = {65 65 129}
-		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
-				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
-				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		first_names = { Ádámr Alǫksandr Viljálmr Heimríkr Míkal Sámr Íósif Geirr Jón Matthæus Markús Lúkr Lókas Geifriþr Úlfgeirr 
+			Íosefr Karl Hrútr Bjarni Hrœrekr Kristofr Ríkharðr Kestr Leifr Natanjálfr Fríðrekr Jámr Dómald Sýrulf Ambrósi 
+			Eðvarðr Jǫfurr Agústinn Norðrinn Abnarr Ísarr Ámóss Þórmóðr Rannúlfr 
 		}
-		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
-				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
-				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
-				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
-				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
-				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
-				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+		last_names = { Smiðr Vestrgarðr Grantr Skjalmann Herbergi Pállsson Klemensson Ábjǫrn Andarson Armstængr Kokkr Kaupmaðr 
+			Dagrson Fjorðr Fróðleikr Bryggjur Hrólfrson Varnarson Réttmaðr McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter "Von Potter" Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
 				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
-				Wilson Wright Young 
+				Wilson Wright Young "Von Luxemburg" Smith d'Calais 
 		}
 	}
-	dixie = {
+	dakotan = {
 		color = {129 129 129}
-		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
-		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre 
-		Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
-		"Fitz Hugh" Carnot Ezra Wilton
+		first_names = {Hrœrekr Járnsíða Jámr Natan Geirr Jón Patrekr Alfráðr Viljálmr Ríkharðr Hlǽw Bjarni Dáni Þórmóðr Pétr 
+			Jarimundr Símunn Ælfráðr Esr
 		}
 	
-		last_names = { Lee Jackson Johnson Beauregard Stuart Longstreet Forrest Pickett Mosby Cleburne Hood Breckenridge Bragg 
-		Barksdale Early Hill Ewell Morgan Armistead Semmes Smith Hampton Polk Cheatham Wheeler Pemberton Gordon Hardee Floyd Price 
-		Wise "Van Dorn" Loring Buckner Taylor Williams French Gibbs Hindman Anderson Sibley Garnett Magruder Pillow McLaws Rodes Heth 
-		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
-		Davis Lane Posey Scales Warner Imboden Jenkins
+		last_names = { Lee Jackson Hood Breckenridge Bragg 
+		Barksdale Early Hill Ewell Leifr Jónsson Stigr Fjǫrr Húða Morgun Andarson Hjólari Klæðsker Gangari Boganef Dagrson 
 		}
 	}
 	texan = {
 		color = {153 0 0}
-		first_names = {Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
-		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+		first_names = {Hamilton Matthew Richard Hamlitun Matthæus Ríkharðr Jón Viljálmr Sámr Heimríkr Hlúðvíkr 
 		}
-		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
-		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
+		last_names = {Bee Búi Þræfr Hússteinn Hrós Grímr Haraldsson Mór Young Bowie Travis Houston "Von Schotlland"
 		}
 		radicalism = 10
 	}
@@ -2317,6 +2306,16 @@ neo_european_cultures = {
 		last_names = { Guidry Thibodeaux Boudreaux Deterville "de St.-Lézin" Mandrin Laviolette Doralise Lafayette Comeaux Lazare Thibaut Guilliot Dugas Breaux Borque Bergeron Babineaux Arceneaux Cyr Daigle Delcombre Dupre Girouard Herbert Olivier Prudhomme Richard Landry Delahoussaye Courville
 		}
 	}
+	patagonian_scots = {
+	color = {47 100 107}
+	first_names = { Alasdair Angus Ailie Ewan Fergus Hamish Iain Jamie Lachlan Mungo Seumas Tavish Aonghas 
+			Mhairi Rab Roy Sìleas Tam Morag Fiona Donalda Catriona Eilidh Kenna 
+	}
+	last_names = { MacAlister MacGregor MacDonald MacKenzie MacLeod MacFarlane MacIntyre MacTavish MacDougall MacNeill 
+			Campbell Stewart Drummond Ross Boyd Grant Kerr Gordon Sinclair Ogilvie Sutherland Lamont Wallace 
+	}
+}
+
 
 	french_australian = {
 		color = {94 177 229}
