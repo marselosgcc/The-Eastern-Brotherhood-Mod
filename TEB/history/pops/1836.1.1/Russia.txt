@@ -6820,57 +6820,57 @@
 #Ulala (36000/9000 POPS)
 1068 = {
 	clergymen = {
-		culture = russian
-		religion = orthodox
-		size = 50
+		culture = mongol
+		religion = shiite
+		size = 750
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 150
+		culture = mongol
+		religion = shiite
+		size = 1150
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
-		size = 25
+		culture = mongol
+		religion = shiite
+		size = 625
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 2775
+		culture = mongol
+		religion = shiite
+		size = 5775
 	}
 
 	aristocrats = {
 		culture = tatar
-		religion = animist
-		size = 100
+		religion = shiite
+		size = 300
 	}
 
 	clergymen = {
 		culture = tatar
-		religion = animist
-		size = 50
+		religion = shiite
+		size = 250
 	}
 
 	artisans = {
 		culture = tatar
-		religion = animist
-		size = 300
+		religion = shiite
+		size = 3900
 	}
 
 	soldiers = {
 		culture = tatar
-		religion = animist
-		size = 75
+		religion = shiite
+		size = 975
 	}
 
 	farmers = {
 		culture = tatar
-		religion = animist
-		size = 5475
+		religion = shiite
+		size = 15475
 	}
 }
 #Yakutsk Region (117000)
@@ -9618,50 +9618,50 @@
 1078 = {
 
 	artisans = {
-		culture = ashkenazi
-		religion = jewish
+		culture = siberian
+		religion = syriac
 		size = 1100
 	}
 	
 	aristocrats = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 400
 	}
 
 	bureaucrats = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 75
 	}
 
 	officers = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 65
 	}
 
 	clergymen = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 375
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 1850
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 375
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 7500
 	}
 
@@ -9704,32 +9704,32 @@
 #Nerchinsk (160000/40000 POPS) #Mongol = Buryat   
 1079 = {
 	aristocrats = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 275
 	}
 
 	clergymen = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 275
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 1500
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 300
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
+		culture = mongol
+		religion = syriac
 		size = 21650
 	}
 

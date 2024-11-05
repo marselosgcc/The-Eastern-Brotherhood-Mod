@@ -1,21 +1,23 @@
 capital = 2348
 primary_culture = platinean
+culture = south_andean
+culture = gaucho
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_productivity 
-literacy = 0.12
+literacy = 0.25
 civilized = yes
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = underground_parties
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -48,6 +50,26 @@ upper_house = {
 	communist = 0
 }
 
+# Technologies
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+clipper_design = 1
+the_command_principle = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+guild_based_production = 1
+piston_steam_engine = 1
+mechanical_production = 1
+mechanized_mining = 1
+basic_chemistry = 1
 
 
 

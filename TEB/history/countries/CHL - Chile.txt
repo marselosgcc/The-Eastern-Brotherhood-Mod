@@ -1,6 +1,7 @@
-capital = 2324
-primary_culture = araukaneer
-religion = reformed
+capital = 2322
+primary_culture = south_andean
+culture = platinean
+religion = catholic
 government = democracy
 plurality = 20.0
 nationalvalue = nv_equality

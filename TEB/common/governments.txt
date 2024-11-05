@@ -6,9 +6,20 @@
 proletarian_dictatorship = {
 	#which ideology of parties.
 	communist = yes
-	
+	  
 	election = no
 	appoint_ruling_party = yes
+	flagType = communist
+}
+
+socialist_republic = {
+	#which ideology of parties.
+	communist = yes
+	socialist = yes
+	natsyn = yes
+	
+	election = 48
+	appoint_ruling_party = no
 	flagType = communist
 }
 
@@ -61,9 +72,10 @@ bourgeois_dictatorship = {
 fascist_dictatorship = {
 	#which ideology of parties.
 	fascist = yes
+	natsyn = yes
 	
 	election = no
-	appoint_ruling_party = yes
+	appoint_ruling_party = no
 	flagType = fascist
 }
  
@@ -133,8 +145,8 @@ federal_democracy = {
 	fascist = yes
 	
 	election = yes
-	duration = 48
-	appoint_ruling_party = no
+	duration = 32
+	appoint_ruling_party = yes
 	flagType = republic
 }
 
@@ -172,6 +184,16 @@ pirate_government = {
 	
 	election = yes
 	duration = 120
+	appoint_ruling_party = yes
+	flagType = monarchy
+}
+
+fascist_monarchy = {
+	#which ideology of parties.
+	fascist = yes
+	natsyn = yes
+	
+	election = no
 	appoint_ruling_party = yes
 	flagType = monarchy
 }

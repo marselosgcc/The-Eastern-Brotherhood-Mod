@@ -1,5 +1,5 @@
-owner = MYS
-controller = MYS
-add_core = MYS
+owner = POR
+controller = POR
+add_core = HYD
 trade_goods = fish
 life_rating = 35

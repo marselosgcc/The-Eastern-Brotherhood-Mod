@@ -1,4 +1,5 @@
-owner = EIC
-controller = EIC
+owner = SIN
+controller = SIN
+add_core = SIN
 trade_goods = fruit
 life_rating = 35

@@ -1,0 +1,81 @@
+country_event = {
+    id = 37450
+    title = "EVTNAME_LPL1"
+    desc = "EVTDESC_LPL1"
+    picture = "bolivar_death"
+    trigger = {
+        tag = LPL
+        year = 1838 
+		month = 11
+    }
+    is_triggered_only = no
+
+    immediate = {
+	    remove_core = 2312
+        remove_core = 2314
+        remove_core = 2309
+        remove_core = 2305
+        remove_core = 1714
+        remove_core = 2370
+        remove_core = 2369
+        remove_core = 2368
+        remove_core = 2371
+        remove_core = 2372
+        remove_core = 2315
+        remove_core = 2313
+        remove_core = 2311
+        remove_core = 2316
+        remove_core = 2318
+        remove_core = 2317
+        remove_core = 2356
+        remove_core = 2357
+        remove_core = 2358
+        remove_core = 2359
+        remove_core = 2360
+        release = BOL
+        release = ENT
+
+        2312 = { owner = BOL controller = BOL }
+        2314 = { owner = BOL controller = BOL }
+        2309 = { owner = BOL controller = BOL }
+        2305 = { owner = BOL controller = BOL }
+        1714 = { owner = BOL controller = BOL }
+        2370 = { owner = BOL controller = BOL }
+        2369 = { owner = BOL controller = BOL }
+        2368 = { owner = BOL controller = BOL }
+        2371 = { owner = BOL controller = BOL }
+        2372 = { owner = BOL controller = BOL }
+        2315 = { owner = BOL controller = BOL }
+        2313 = { owner = BOL controller = BOL }
+        2311 = { owner = BOL controller = BOL }
+        2316 = { owner = BOL controller = BOL }
+        2318 = { owner = BOL controller = BOL }
+        2317 = { owner = BOL controller = BOL }
+
+        2356 = { owner = ENT controller = ENT }
+        2357 = { owner = ENT controller = ENT }
+        2358 = { owner = ENT controller = ENT }
+        2359 = { owner = ENT controller = ENT }
+        2360 = { owner = ENT controller = ENT }
+
+        change_tag = ARC
+    }
+
+    option = {
+        name = "EVTOPTA_37451"
+        ARC = { prestige = -5
+        relation = { who = BOL value = 50 }
+        relation = { who = ENT value = 50 }
+        militancy = -2 }
+    }
+
+    option = {
+        name = "EVTOPTB_37452"
+        ARC = { prestige = 5 
+        relation = { who = BOL value = -50 }
+        relation = { who = ENT value = -50 }
+        relation = { who = BRZ value = -50 }		
+        relation = { who = URU value = -50 }		
+        militancy = 2 }
+    }
+}

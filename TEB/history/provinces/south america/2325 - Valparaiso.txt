@@ -1,5 +1,5 @@
-owner = CHL
-controller = CHL
-add_core = CHL
+owner = AKN
+controller = AKN
+add_core = AKN
 trade_goods = fruit
 life_rating = 35

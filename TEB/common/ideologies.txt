@@ -12,6 +12,7 @@ fascist_group = {
 			base = 1
 			modifier = {
 				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
@@ -21,6 +22,7 @@ fascist_group = {
 			base = 1
 			modifier = {
 				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
@@ -30,6 +32,7 @@ fascist_group = {
 			base = 1
 			modifier = {
 				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
@@ -39,14 +42,58 @@ fascist_group = {
 			base = 1
 			modifier = {
 				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
 		
 		
 		
+	}	
+	natsyn = {
+		uncivilized = no
+		color = { 153 66 66 }
+		date = 1900.1.1
+	
+		
+		add_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
+			}
+		}
+	
+	
+		remove_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = natsyn }
+				NOT = { ruling_party_ideology = fascist }
+			}
+		}
+	
+	
+
+		add_social_reform = {
+			base = 1
+		}
+	
+		remove_social_reform = {
+			base = 0
+		}
+				
+		add_military_reform = {
+			base = 0.5
+		}
+		
+		add_economic_reform = {
+			base = 1
+		}
+		
 	}
-}	
+}		
 
 conservative_group = {
 	reactionary = {

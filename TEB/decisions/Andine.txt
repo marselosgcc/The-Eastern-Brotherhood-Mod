@@ -12,12 +12,12 @@ vop_declare_independence = {
         change_tag = SPU 
         set_country_flag = spu_declared_independence
         country_event = {
-            id = spu.1
+            id = 37500
             days = 1
         }
         SPC = {
             country_event = {
-                id = spu.2
+                id = 37501
                 days = 1
             }
         }

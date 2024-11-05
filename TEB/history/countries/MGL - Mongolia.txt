@@ -1,11 +1,11 @@
 capital = 1468
 primary_culture = mongol
-religion = gelugpa
+religion = syriac
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01 #Chinese
+literacy = 0.41
+non_state_culture_literacy = 0.01 
 prestige = 1
 
 # Political reforms

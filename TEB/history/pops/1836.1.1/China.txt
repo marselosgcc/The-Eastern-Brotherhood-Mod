@@ -82,31 +82,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 425
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 225
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1050
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 225
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 19075
 	}
 
@@ -254,31 +254,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 10950
 	}
 }
@@ -340,31 +340,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 825
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 425
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2525
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 425
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 37800
 	}
 }
@@ -450,31 +450,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 11850
 	}
 }
@@ -1560,6 +1560,36 @@
 		size = 11000
 	}
 	
+	aristocrats = {
+		culture = hanhui
+		religion = shiite
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = hanhui
+		religion = shiite
+		size = 200
+	}
+
+	officers = {
+		culture = hanhui
+		religion = shiite
+		size = 1
+	}
+
+	clergymen = {
+		culture = hanhui
+		religion = shiite
+		size = 10
+	}
+
+	artisans = {
+		culture = hanhui
+		religion = shiite
+		size = 1
+	}
+	
 	artisans = {
 		culture = hanhui
 		religion = sunni
@@ -1587,7 +1617,7 @@
 	soldiers = {
 		culture = hanhui
 		religion = sunni
-		size = 3000
+		size = 9000
 	}
 
 	soldiers = {
@@ -1604,62 +1634,68 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	serfs = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 7325
 	}
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1325
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 675
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3350
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 675
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 60975
+	}
+
+	farmers = {
+		culture = hanhui
+		religion = shiite
+		size = 6500
 	}
 
 	aristocrats = {
@@ -1786,31 +1822,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 12750
 	}
 }
@@ -1872,13 +1908,13 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
@@ -1896,37 +1932,37 @@
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 224600
 	}
 
 	aristocrats = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 750
 	}
 
 	artisans = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	farmers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 13650
 	}
 
@@ -1998,34 +2034,46 @@
 		size = 25000
 	}
 
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = syriac
+		size = 100
+	}
+
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
-		size = 350
+		religion = sunni
+		size = 1350
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
-		size = 200
+		religion = sunni
+		size = 2200
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
-		size = 1100
+		religion = sunni
+		size = 11100
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
-		size = 200
+		religion = sunni
+		size = 7200
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
-		size = 68250
+		religion = sunni
+		size = 118250
 	}
 
 	aristocrats = {
@@ -2037,25 +2085,25 @@
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 675
+		size = 1675
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 3350
+		size = 23350
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 675
+		size = 6750
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 60975
+		size = 90975
 	}
 }
 #Pingliang (3168000/792000 POPS)
@@ -2122,31 +2170,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1300
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 275
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 23675
 	}
 }
@@ -4200,31 +4248,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1050
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 550
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 550
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 49600
 	}
 
@@ -4316,31 +4364,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 375
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 34575
 	}
 }
@@ -4408,31 +4456,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1950
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 35500
 	}
 }
@@ -4506,31 +4554,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1050
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 550
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2700
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 550
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 49050
 	}
 }
@@ -4592,31 +4640,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 725
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 375
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1850
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 375
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 33675
 	}
 }
@@ -4920,31 +4968,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 15475
 	}
 
@@ -5128,31 +5176,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 14575
 	}
 }
@@ -5250,31 +5298,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 16400
 	}
 }
@@ -5336,31 +5384,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 14575
 	}
 }
@@ -5452,31 +5500,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 10
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 }
@@ -5550,31 +5598,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 10
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 }
@@ -5678,31 +5726,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 20
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 10
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 }
@@ -6399,6 +6447,18 @@
 	}
 
 	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = syriac
+		size = 100
+	}
+
+	farmers = {
 		culture = beifaren
 		religion = mahayana
 		size = 83625
@@ -6541,6 +6601,18 @@
 		religion = mahayana
 		size = 70000
 	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = syriac
+		size = 100
+	}
 	
 	artisans = {
 		culture = beifaren
@@ -6571,7 +6643,7 @@
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 1125
+		size = 3125
 	}
 
 	artisans = {
@@ -6583,7 +6655,7 @@
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 1125
+		size = 6125
 	}
 
 	farmers = {
@@ -6614,6 +6686,18 @@
 		culture = beifaren
 		religion = mahayana
 		size = 5125
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = syriac
+		size = 100
 	}
 }
 #Jiangsu Region (37612000)
@@ -8307,31 +8391,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1150
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 600
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2950
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 600
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 53700
 	}
 	
@@ -8797,6 +8881,42 @@
 		religion = gelugpa
 		size = 75000
 	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 3000
+	}
+	
+	farmers = {
+		culture = manchu
+		religion = syriac
+		size = 13000
+	}
+	
+	clergymen = {
+		culture = mongol
+		religion = syriac
+		size = 100
+	}
+
+	artisans = {
+		culture = mongol
+		religion = syriac
+		size = 1100
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 1200
+	}
+	
+	officers = {
+		culture = mongol
+		religion = syriac
+		size = 120
+	}
 	
 	farmers = {
 		culture = siberian
@@ -8846,80 +8966,80 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 1800
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 300
 	}
 	
 	bureaucrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 6600
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3800
 	}
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1000
 	}
 	
 	officers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 
@@ -8999,19 +9119,19 @@
 1557 = {
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1000
 	}
 	
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3775
 	}
 	
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 25000
 	}
 	
@@ -9035,7 +9155,7 @@
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 775
 	}
 
@@ -9121,19 +9241,19 @@
 1558 = {
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 700
 	}
 	
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3000
 	}
 	
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 12000
 	}
 	
@@ -9169,31 +9289,31 @@
 
 	aristocrats = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	farmers = {
 		culture = kazak
-		religion = shiite
+		religion = sunni
 		size = 10925
 	}
 
@@ -9347,31 +9467,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2100
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 425
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 38225
 	}
 
@@ -9433,31 +9553,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 175
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 16400
 	}
 }
@@ -9507,31 +9627,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 825
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 425
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 2150
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 450
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 39150
 	}
 
@@ -9629,31 +9749,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 375
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 18225
 	}
 }
@@ -9765,31 +9885,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1400
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 700
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3550
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 725
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 64625
 	}
 
@@ -10314,31 +10434,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 12750
 	}
 
@@ -10430,31 +10550,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 100
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 8200
 	}
 }
@@ -10522,31 +10642,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 7300
 	}
 }
@@ -10614,31 +10734,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 6375
 	}
 }
@@ -10676,31 +10796,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1800
 	}
 }
@@ -11722,7 +11842,7 @@
 
 	officers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1375
 	}
 
@@ -11752,19 +11872,19 @@
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 12000
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 775
 	}
 
@@ -11782,31 +11902,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1100
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 11000
 	}
 	
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 500
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 189100
 	}
 
@@ -11928,31 +12048,31 @@
 1602 = {
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 9575
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 26375
 	}
 
@@ -12050,7 +12170,7 @@
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 6100
 	}
 
@@ -12062,25 +12182,25 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 350
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1200
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 43650
 	}
 
@@ -12999,37 +13119,37 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 850
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 450
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 11000
 	}
 	
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 450
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 31250
 	}
 	soldiers = {
@@ -13096,31 +13216,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 150
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 12750
 	}
 	
@@ -13530,31 +13650,31 @@
 
 	aristocrats = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 1950
 	}
 
 	soldiers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 400
 	}
 
 	farmers = {
 		culture = hanhui
-		religion = shiite
+		religion = sunni
 		size = 35500
 	}
 }

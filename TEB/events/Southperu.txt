@@ -1,5 +1,5 @@
 country_event = {
-    id = spu.1
+    id = 37500
     title = "EVTNAME_spu_1"
     desc = "EVTDESC_spu_1"
     picture = "independence_southp"
@@ -14,6 +14,7 @@ country_event = {
     option = {
         name = "EVTOPTA_spu_1"
 		prestige = 3
+		government = democracy
         relation = {
 		    who = PEU
 			value = 100
@@ -22,7 +23,7 @@ country_event = {
 }
 
 country_event = {
-    id = spu.2
+    id = 37501
     title = "EVTNAME_spu_2"
     desc = "EVTDESC_spu_2"
     picture = "independence_southp"
@@ -46,9 +47,9 @@ country_event = {
     option = {
         name = "EVTOPTB_spu_2"
 		release_vassal = SPU
-        casus_belli = {
+        war = {
             target = SPU
-            type = conquest
+            attacker_goal = { casus_belli = colonial_reconquest_cb }  
         }
         relation = {
             who = SPU

@@ -37,6 +37,30 @@
 		religion = gelugpa
 		size = 900
 	}
+	
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 5800
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 17000
+	}
+	
+	clergymen = {
+		culture = mongol
+		religion = syriac
+		size = 3000
+	}
+
+	artisans = {
+		culture = mongol
+		religion = syriac
+		size = 9200
+	}
 
 	farmers = {
 		culture = mongol
@@ -76,7 +100,7 @@
 	
 	slaves = {
 		culture = uighur
-		religion = sunni
+		religion = shiite
 		size = 6000
 	}
 }
@@ -114,8 +138,20 @@
 	
 	slaves = {
 		culture = uighur
-		religion = sunni
+		religion = shiite
 		size = 5000
+	}
+	
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 3000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 12000
 	}
 }
 #Bayan Tumen (176000/44000 POPS)   
@@ -142,6 +178,30 @@
 		culture = mongol
 		religion = gelugpa
 		size = 425
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 10000
+	}
+	
+	clergymen = {
+		culture = mongol
+		religion = syriac
+		size = 1000
+	}
+
+	artisans = {
+		culture = mongol
+		religion = syriac
+		size = 2800
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 5000
 	}
 
 	farmers = {
@@ -184,37 +244,79 @@
 1468 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
-		size = 650
+		religion = shiite
+		size = 250
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
-		size = 350
+		religion = shiite
+		size = 1350
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 1750
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
+		size = 6350
+	}
+
+	officers = {
+		culture = mongol
+		religion = shiite
 		size = 350
+	}
+
+	officers = {
+		culture = mongol
+		religion = syriac
+		size = 650
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
-		size = 31900
+		religion = shiite
+		size = 61900
+	}
+	
+	aristocrats = {
+		culture = mongol
+		religion = syriac
+		size = 950
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = syriac
+		size = 2350
+	}
+
+	artisans = {
+		culture = mongol
+		religion = syriac
+		size = 2750
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 3350
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 35000
 	}
 	
 	slaves = {
 		culture = uighur
-		religion = sunni
+		religion = shiite
 		size = 2000
 	}
 }
@@ -238,11 +340,23 @@
 		religion = gelugpa
 		size = 875
 	}
+	
+	soldiers = {
+		culture = mongol
+		religion = syriac
+		size = 2500
+	}
+
+	farmers = {
+		culture = mongol
+		religion = syriac
+		size = 10000
+	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 175
+		size = 1750
 	}
 
 	farmers = {
@@ -256,31 +370,31 @@
 2608 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 750
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
-		size = 375
+		religion = shiite
+		size = 1375
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
-		size = 1500
+		religion = shiite
+		size = 3500
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
-		size = 375
+		religion = shiite
+		size = 3750
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 35000
 	}
 }
@@ -288,31 +402,31 @@
 2678 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
-		size = 400
+		religion = shiite
+		size = 700
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
-		size = 200
+		religion = shiite
+		size = 1200
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
-		size = 1050
+		religion = shiite
+		size = 1550
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
-		size = 225
+		religion = shiite
+		size = 2050
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 17125
 	}
 }
@@ -320,67 +434,67 @@
 2679 = {
 	aristocrats = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 350
 	}
 
 	clergymen = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 175
 	}
 
 	artisans = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 900
 	}
 
 	soldiers = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 175
 	}
 
 	farmers = {
 		culture = mongol
-		religion = gelugpa
+		religion = shiite
 		size = 16400
 	}
 
 	aristocrats = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 200
 	}
 
 	clergymen = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 100
 	}
 
 	artisans = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 600
 	}
 
 	soldiers = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 125
 	}
 	
 	farmers = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 10975
 	}
 	
 	slaves = {
 		culture = kazak
-		religion = sunni
+		religion = shiite
 		size = 2000
 	}
 }
@@ -424,7 +538,7 @@
 	
 	slaves = {
 		culture = tatar
-		religion = gelugpa
+		religion = shiite
 		size = 1000
 	}
 
