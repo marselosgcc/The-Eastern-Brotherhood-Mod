@@ -1,0 +1,21 @@
+political_decisions = {
+	union_with_URU = {
+		potential = {
+			tag = ENT
+			exists = URU
+		}
+		allow = {
+			URU = {
+				owns = 2463
+				owns = 2464
+				owns = 2465
+				owns = 2466
+				owns = 2467
+			}
+		}
+		effect = {
+			ENT = {
+				annex_to = URU
+			}
+		}
+}
