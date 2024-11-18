@@ -2,7 +2,7 @@ capital = 2339
 primary_culture = platinean
 culture = guarani
 religion = catholic
-government = presidential_dictatorship
+government = theocracy
 plurality = 5.0
 nationalvalue = nv_autocracy
 literacy = 0.11
@@ -41,12 +41,12 @@ centralization = totalitarianism
 colonial_policy = no_colonies 
 
 
-ruling_party = generic_conservative
+ruling_party = PRG_jesuits
 upper_house = {
 	fascist = 0
 	liberal = 0
-	conservative = 0
-	reactionary = 100
+	conservative = 90
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
