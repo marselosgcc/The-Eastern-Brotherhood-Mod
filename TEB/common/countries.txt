@@ -11,7 +11,7 @@ MRA		="countries/Moravia Australis.txt"
 ARK		="countries/Arkadia.txt"
 JAD		="countries/Jadwiga.txt"
 JDU		="countries/Jadid Ufuq.txt"
-
+CIP		="countries/Cisplatine.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

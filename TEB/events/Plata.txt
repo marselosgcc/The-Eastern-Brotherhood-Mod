@@ -79,3 +79,35 @@ country_event = {
         militancy = 2 }
     }
 }
+country_event = {
+	id = 34751
+
+	trigger = {
+		tag = URU
+		NOT = {
+			owns = 2463
+			owns = 2464
+			owns = 2465
+			owns = 2466
+			owns = 2467
+		}
+	}
+
+	title = "EVTNAME_spu_3"
+	desc = "EVTDESC_spu_3"
+	picture = "charruan_dismantlement"
+
+	option = {
+		name = "EVTOPTA_spu_3"
+		remove_core = 2463
+		remove_core = 2464
+		remove_core = 2465
+		remove_core = 2466
+		remove_core = 2467
+		remove_core = 2356
+		remove_core = 2357
+		remove_core = 2358
+		remove_core = 2359
+		remove_core = 2360
+	}
+}
