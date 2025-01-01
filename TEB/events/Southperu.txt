@@ -10,7 +10,9 @@ country_event = {
         has_country_flag = spu_declared_independence
         tag = SPU
     }
-
+	mean_time_to_happen =  {
+		months = 1
+	}
     option = {
         name = "EVTOPTA_spu_1"
 		prestige = 3
@@ -55,5 +57,26 @@ country_event = {
             who = SPU
             value = -200
         }
+    }
+}
+country_event = {
+    id = 37502
+    title = "EVTNAME_spu_4"
+    desc = "EVTDESC_spu_4"
+    picture = "independence_southp"
+	trigger = {
+		tag = PEU
+        	nationalism_n_imperialism = 1
+    		relation = {
+			who = SPU
+			value = 150
+		}
+	}
+
+    option = {
+        name = "EVTOPTA_spu_4"
+	SPU = {
+		annex_to = THIS
+	}	
     }
 }
