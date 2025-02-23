@@ -1,6 +1,8 @@
 capital = 809
 primary_culture = bulgarian
-religion = orthodox
+culture = czech
+culture
+religion = catholic
 government = hms_government
 plurality = 0.08
 nationalvalue = nv_order

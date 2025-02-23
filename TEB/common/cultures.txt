@@ -653,27 +653,18 @@ south_slavic = {
 	}
 	bulgarian = {
 		color = {65 150 100}
-		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
-		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
-		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
-		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
-		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
+		first_names = { Abraham Asparuh Ismail Irbis Aleksandar Arshak Akatziroi Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar Tarkhan Aaron Isac ZachariahXäydär  Davut Cyril Joze Jurij Karpo Lado Leon Lojze Miha Mitra Temirgoy Vladimirov Barjik Sahin Bahadir Bagrat Michael Iacob Fetih Canibek Devlet Cholabdulla Ayaz Borisov Jean Draza Petar
+		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Terval Presiyan Kemal Kardam Kimon Kiril Joze Joseph Jurij Karpo Lado Leon Lojze Miha
+		Kliment Konstantin Krastyu Leonid Mihail Mithat Muhtar Murat Musa Mustafa Namik Nazim Nurettin Nuri Numan Omar Osman Pertev Rauf Receb Reshad Refet Rifat Riza Sabaheddin Said Selim Shevket Shukru Suleyman Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin Ziebel Kubrat Onogur
 		}
 
-		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
-		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
-		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
-		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
-		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		last_names = { Agura Ismail Balabanov Balkanski Battemberg Ahmed Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
+		Dimitriev Draganov Fichev Kalil Georgiev Hesapchiev Hasan Ilyev Ahmeti Ali Ivanov Kirkov Kemal Kovachev Krayonski
+		Kutinchev Lazarov Lukov Marinkov Cansu Mustafa Hasan Murat Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
+		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Saadet Reyhan Sabaheddin Nedzhmi Yosof Enis Solarov Turgan Stoyanov Tenev Todorov
+		Hassan Zhekov Zlatarev Tahsin Orlin Zlatev Neriman Ibrahim Andrijaevic Dulo Balic Bjelica Bjelogrlic Bulic Büyükak Buric Cabarkapa Cetkovic Ðakonovic Damjanac Delic Ðokovic Ðukanovic Doic Drincic Giray Drobnjak Dogan Haji Devlet Hamid Ðuriic Filipovic Celiloglu Ivanovic Jovanovic Kankara Kneevic Kovacevic Tuqay Krivokapic Kujovic Talgat  Vefik Tabak Kurt Lambulic Lazovic Lompar Martinovic Perovic Petrovic Mutalib Kazak Plamenac Uzun Popovic Alieva Radoncic Radonjic Radulovic Ayaz Raicevic Rastoder Rolovic iljak Simovic Stefanovic  Vucevic Vucinic Vujacic Vujadinovic Vujoevic Inönü Vujovic Vukcevic Vukotic Kortan Özgüç Ulusoy Tata Küpçü Özdemir Selekman Ahmed
 		}
 		radicalism = 10
-	}
-	montenegrin = {
-		color = {196 47 55}
-		first_names = { Akso Ananije Andro Anto Arsenije Arso Baco Bajo Bakoc Blagota Blago Blaija Blao Brajuko Crnoje Cedo Danilo Danko Davor Diko Dinjo Dmitar Emilo Gajo Gao Gavro Ignjatije Iliko Ilko Jaka Janko Jevrem Kenjo Kicun Kiro Krsto Labud Lagota Laketa Maksim Maljota Markic Markia Najdan Nenoje Nikac Obren Orle Pajo Panto Pejo Radan Radava Savan Savic Sekule }
-
-		last_names = { Andrijaevic  Balic Bjelica Bjelogrlic Bulic Buric Cabarkapa Cetkovic Ðakonovic Damjanac Delic Ðokovic Ðukanovic Doic Drincic Drobnjak Ðuriic Filipovic Ivanovic Jovanovic Kankara Kneevic Kovacevic Krivokapic Kujovic Lambulic Lazovic Lompar Martinovic Perovic Petrovic Plamenac Popovic Radoncic Radonjic Radulovic Raicevic Rastoder Rolovic iljak Simovic Stefanovic  Vucevic Vucinic Vujacic Vujadinovic Vujoevic Vujovic Vukcevic Vukotic }
-		radicalism = 15
 	}
 	slovene = {
 		color = {0 90 128}

@@ -119,31 +119,31 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 600  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 100  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 8700 
 	}
@@ -241,31 +241,31 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1400  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 300  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 300  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 25000 
 	}
@@ -648,27 +648,27 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 100
+		size = 2000
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 100
+		size = 3000
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 250
+		size = 8500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 7950
+		size = 28550
 	}
 
 	aristocrats = {

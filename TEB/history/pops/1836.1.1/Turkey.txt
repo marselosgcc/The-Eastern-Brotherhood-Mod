@@ -63,25 +63,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 120
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 500
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 9950
 	}
@@ -137,7 +137,7 @@
 #Kirklareli (112000/28000 POPS)
 858 = {
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = sunni
 		size = 1550
 	}
@@ -191,25 +191,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 2000
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 30825
 	}
@@ -277,37 +277,37 @@
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 5475
 	}
@@ -436,37 +436,37 @@
 		size = 40900
 	}
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 3120
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 5000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 475
 	}

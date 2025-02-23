@@ -1,12 +1,12 @@
 capital = 806
-primary_culture = bulgarian
+primary_culture = hungarian
 culture = greek
 culture = albanian
-religion = orthodox
+religion = jewish
 government = dominion
-plurality = 0.08
+plurality = 0.50
 nationalvalue = nv_order
-literacy = 0.4
+literacy = 0.6
 civilized = yes
 
 # Political reforms

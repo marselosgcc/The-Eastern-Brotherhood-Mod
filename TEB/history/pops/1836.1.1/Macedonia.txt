@@ -33,39 +33,75 @@
 	}
 
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 125
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 110
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 22100
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 56350
+	}
+	
+	aristocrats = {
+		culture = hungarian
+		religion = jewish
+		size = 1200
+	}
+	
+	officers = {
+		culture = hungarian
+		religion = jewish
+		size = 920
+	}
+	
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 2000
+	}
+	
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 2500
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 15000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 25000
 	}
 	
 	aristocrats = {
@@ -121,27 +157,45 @@
 #Bitola (268000/67000 POPS) 
 807 = {
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 6200
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1100
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 4250
 	}
 
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 5000
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 1000
+	}
+
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 24075
+		size = 13000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 27500
 	}
 	
 	soldiers = {
@@ -165,7 +219,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 2965
+		size = 29650
 	}
 	
 	farmers = {
@@ -175,7 +229,7 @@
 	}
 	
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = catholic
 		size = 6000
 	}
@@ -259,25 +313,73 @@
 	clergymen = {
 		culture = albanian
 		religion = catholic
-		size = 125
+		size = 425
 	}
 
 	artisans = {
 		culture = albanian
 		religion = catholic
-		size = 400
+		size = 700
 	}
 
 	soldiers = {
 		culture = albanian
 		religion = catholic
-		size = 2100
+		size = 3100
 	}
 
 	farmers = {
 		culture = albanian
 		religion = catholic
 		size = 22062
+	}
+	
+	artisans = {
+		culture = hungarian
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = orthodox
+		size = 3000
+	}
+	
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 8000
+	}
+	
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 1500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 3000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = orthodox
+		size = 17800
+	}
+	
+	soldiers = {
+		culture = albanian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 100
 	}
 	
 	soldiers = {

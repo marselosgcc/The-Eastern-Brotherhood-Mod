@@ -343,55 +343,55 @@
 	aristocrats = {
 		culture = volga_german
 		religion = protestant
-		size = 80
+		size = 180
 	}
 
 	clergymen = {
 		culture = volga_german
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = volga_german
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
 		culture = volga_german
 		religion = protestant
-		size = 100
+		size = 2100
 	}
 	
 	farmers = {
 		culture = volga_german
 		religion = protestant
-		size = 100
+		size = 6000
 	}
 
 	clergymen = {
 		culture = estonian
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = estonian
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	soldiers = {
 		culture = estonian
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = estonian
 		religion = protestant
-		size = 3225
+		size = 4225
 	}
 
 }

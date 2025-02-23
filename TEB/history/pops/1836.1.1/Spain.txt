@@ -784,7 +784,7 @@
 		religion = catholic
 		size = 600
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
@@ -792,7 +792,7 @@
 		religion = catholic
 		size = 550
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
@@ -800,7 +800,7 @@
 		religion = catholic
 		size = 3000
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	soldiers = {
@@ -808,7 +808,7 @@
 		religion = catholic
 		size = 550
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	farmers = {
@@ -816,7 +816,7 @@
 		religion = catholic
 		size = 51800
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	aristocrats = {
@@ -848,6 +848,12 @@
 		religion = catholic
 		size = 18850
 	}
+	
+	craftsmen = {
+		culture = basque
+		religion = catholic
+		size = 5000
+	}
 }
 #Pamplona (244000/61000 POPS)
 493 = {
@@ -856,47 +862,47 @@
 		religion = catholic
 		size = 700
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	officers = {
 		culture = basque
 		religion = catholic
-		size = 100
+		size = 500
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	bureaucrats = {
 		culture = basque
 		religion = catholic
-		size = 150
+		size = 350
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
 		culture = basque
 		religion = catholic
-		size = 375
+		size = 2375
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
 		culture = basque
 		religion = catholic
-		size = 1750
+		size = 4750
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	soldiers = {
 		culture = basque
 		religion = catholic
-		size = 400
+		size = 6000
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	labourers = {
@@ -904,7 +910,7 @@
 		religion = catholic
 		size = 35025
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	aristocrats = {
@@ -940,13 +946,13 @@
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 250
+		size = 1250
 	}
 
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 19975
+		size = 29975
 	}
 }
 #Logrono (158000/39500 POPS)
@@ -979,6 +985,30 @@
 		culture = spanish
 		religion = catholic
 		size = 35850
+	}
+	
+	officers = {
+		culture = basque
+		religion = catholic
+		size = 700
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 2400
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 26000
+	}
+	
+	craftsmen = {
+		culture = basque
+		religion = catholic
+		size = 6000
 	}
 
 }
@@ -1114,7 +1144,7 @@
 		religion = catholic
 		size = 1200
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
@@ -1122,7 +1152,7 @@
 		religion = catholic
 		size = 550
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
@@ -1130,7 +1160,7 @@
 		religion = catholic
 		size = 2750
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	soldiers = {
@@ -1138,7 +1168,7 @@
 		religion = catholic
 		size = 1100
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	farmers = {
@@ -1146,7 +1176,7 @@
 		religion = catholic
 		size = 51500
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 }
@@ -1292,7 +1322,7 @@
 		religion = catholic
 		size = 33300
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	aristocrats = {
@@ -1332,7 +1362,7 @@
 		religion = catholic
 		size = 550
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
@@ -1340,7 +1370,7 @@
 		religion = catholic
 		size = 250
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
@@ -1348,7 +1378,7 @@
 		religion = catholic
 		size = 2750
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	soldiers = {
@@ -1356,7 +1386,7 @@
 		religion = catholic
 		size = 275
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	farmers = {
@@ -1364,7 +1394,7 @@
 		religion = catholic
 		size = 24150
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	aristocrats = {
@@ -1404,7 +1434,7 @@
 		religion = catholic
 		size = 850
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
@@ -1412,7 +1442,7 @@
 		religion = catholic
 		size = 400
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
@@ -1426,7 +1456,7 @@
 		religion = catholic
 		size = 400
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	farmers = {
@@ -1434,7 +1464,7 @@
 		religion = catholic
 		size = 37850
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	aristocrats = {
@@ -1442,7 +1472,7 @@
 		religion = catholic
 		size = 450
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	clergymen = {
@@ -1450,7 +1480,7 @@
 		religion = catholic
 		size = 200
 		militancy = 8
-		rebel_type = carlist_rebels
+		rebel_type = christino_rebels
 	}
 
 	artisans = {
@@ -1590,6 +1620,12 @@
 		religion = catholic
 		size = 1100
 	}
+	
+	craftsmen = {
+		culture = catalan
+		religion = catholic
+		size = 8000
+	}
 
 	officers = {
 		culture = catalan
@@ -1668,13 +1704,13 @@
 	aristocrats = {
 		culture = catalan
 		religion = catholic
-		size = 500
+		size = 1100
 	}
 
 	clergymen = {
 		culture = catalan
 		religion = catholic
-		size = 275
+		size = 2075
 	}
 
 	artisans = {
@@ -1686,13 +1722,13 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 250
+		size = 2500
 	}
 
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 26275
+		size = 36275
 	}
 }
 #Alicante (384000/96000 POPS)

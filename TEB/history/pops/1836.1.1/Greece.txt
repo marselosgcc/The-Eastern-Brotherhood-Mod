@@ -45,45 +45,75 @@
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 120
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 125
+		size = 250
 	}
 
 	artisans = {
-		culture = bulgarian
-		religion = orthodox
-		size = 500
-	}
-	
-	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
+	
+	soldiers = {
+		culture = hungarian
+		religion = orthodox
+		size = 500
+	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
-		size = 5900
+		size = 20000
 	}
 	
 	soldiers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 250
+		culture = hungarian
+		religion = jewish
+		size = 2500
+	}
+	
+	officers = {
+		culture = hungarian
+		religion = jewish
+		size = 450
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 1250
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 7500
+	}
+	
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 4000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 35000
 	}
 	
 	aristocrats = {
@@ -179,25 +209,25 @@
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 300
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 1425
 	}
@@ -271,37 +301,37 @@
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 125
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 4000
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 30300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 15650
 	}
@@ -377,25 +407,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 4800
 	}
@@ -434,6 +464,30 @@
 		culture = greek
 		religion = catholic
 		size = 7000
+	}
+	
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 2000
+	}
+	
+	officers = {
+		culture = hungarian
+		religion = jewish
+		size = 400
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 15000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 20000
 	}
 }
 #Grevena (140000/35000 POPS) #now part of Greece
@@ -491,6 +545,30 @@
 		religion = catholic
 		size = 325
 	}
+	
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 600
+	}
+	
+	officers = {
+		culture = hungarian
+		religion = jewish
+		size = 300
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 3000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 8000
+	}
 }
 #Edessa (128000/32000 POPS) #now part of Greece
 821 = {
@@ -519,25 +597,25 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 3800
 	}
@@ -570,6 +648,24 @@
 		culture = greek
 		religion = catholic
 		size = 4975
+	}
+	
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 2000
+	}
+	
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 4000
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 29000
 	}
 }
 #Epirus Region (724000) #see Albania.txt for balance of region 
@@ -757,7 +853,7 @@
 #Corfu (112200/28000 POPS)
 826 = {
 	bureaucrats = {
-		culture = british
+		culture = south_italian
 		religion = protestant
 		size = 5
 	}
@@ -803,23 +899,41 @@
 		religion = orthodox
 		size = 22000
 	}
+	
+	farmers = {
+		culture = greek
+		religion = catholic
+		size = 200
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 200
+	}
 
 	farmers = {
-		culture = north_italian
+		culture = south_italian
 		religion = catholic
-		size = 650
+		size = 6650
 	}
 	
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 10
+		size = 1500
+	} 
+	
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 20000
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 490
+		size = 1490
 	}
 }
 #Zante (76000/19000 POPS)
@@ -913,25 +1027,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 10300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 29550
 	}
@@ -993,25 +1107,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 4000
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 3000
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = hungarian
 		religion = orthodox
 		size = 43625
 	}
@@ -1249,10 +1363,58 @@
 		size = 1000
 	}
 
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 9000
+	}
+
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 2100
+		size = 9100
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 1100
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 6000
+	}
+	
+	craftsmen = {
+		culture = albanian
+		religion = reformed
+		size = 3000
+	}
+	
+	clerks = {
+		culture = sephardic
+		religion = jewish
+		size = 600
+	}
+	
+	capitalists = {
+		culture = sephardic
+		religion = jewish
+		size = 200
 	}
 
 	farmers = {

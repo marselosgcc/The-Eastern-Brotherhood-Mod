@@ -124,13 +124,19 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 250
+		size = 1250
 	}
 
 	labourers = {
 		culture = swedish
 		religion = protestant
 		size = 11925
+	}
+	
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 16000
 	}
 
 	farmers = {
@@ -156,7 +162,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1100
+		size = 2100
 	}
 
 	labourers = {
@@ -174,7 +180,19 @@
 	farmers = {
 		culture = sami
 		religion = protestant
-		size = 2200
+		size = 17200
+	}
+	
+	artisans = {
+		culture = sami
+		religion = protestant
+		size = 1400
+	}
+
+	soldiers = {
+		culture = sami
+		religion = protestant
+		size = 2500
 	}
 
 	farmers = {
@@ -227,6 +245,12 @@
 		culture = swedish
 		religion = protestant
 		size = 1100
+	}
+
+	craftsmen = {
+		culture = swedish
+		religion = protestant
+		size = 3000
 	}
 
 	soldiers = {
@@ -482,7 +506,13 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 33750
+		size = 13750
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 20000
 	}
 }
 #Boras (220000/55000 POPS)
@@ -616,71 +646,83 @@
 #Malmo (312000/77000 POPS)
 334 = {
 	aristocrats = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 3750
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 69125
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 35000
 	}
 }
 #Karlskrona (259000/64750 POPS)
 335 = {
 	aristocrats = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 625
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 3125
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 60625
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 35000
 	}
 
 }

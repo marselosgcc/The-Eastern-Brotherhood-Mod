@@ -31,6 +31,17 @@
 		religion = protestant
 		size = 150
 	}
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 7000
+	}
+
+	soldiers = {
+		culture = sami
+		religion = protestant
+		size = 3000
+	}
 
 	farmers = {
 		culture = finnish
@@ -55,7 +66,13 @@
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 25
+		size = 2500
+	}
+	
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 8000
 	}
 
 	farmers = {
@@ -83,6 +100,17 @@
 		religion = protestant
 		size = 100
 	}
+	artisans = {
+		culture = sami
+		religion = protestant
+		size = 1075
+	}
+
+	soldiers = {
+		culture = sami
+		religion = protestant
+		size = 2000
+	}
 
 	farmers = {
 		culture = finnish
@@ -93,7 +121,7 @@
 	farmers = {
 		culture = sami
 		religion = protestant
-		size = 1075
+		size = 29075
 	}
 }
 #Karelia Region (524000)
@@ -329,49 +357,49 @@
 	officers = {
 		culture = finnish
 		religion = protestant
-		size = 50
+		size = 350
 	}
 
 	bureaucrats = {
 		culture = finnish
 		religion = protestant
-		size = 150
+		size = 350
 	}
 
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 150
+		size = 450
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 2250
+		size = 3250
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 1100
+		size = 6500
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 19400
+		size = 29400
 	}
 
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 350
+		size = 1350
 	}
 
 	bureaucrats = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 325
 	}
 
 	officers = {
@@ -383,13 +411,13 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 1750
+		size = 2750
 	}
 
 	soldiers = {
@@ -397,6 +425,13 @@
 		religion = protestant
 		size = 100
 	}
+
+	craftsmen = {
+		culture = finnish
+		religion = protestant
+		size = 2500
+	}
+
 
 	farmers = {
 		culture = swedish

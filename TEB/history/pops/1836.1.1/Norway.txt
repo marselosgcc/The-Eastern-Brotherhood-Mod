@@ -50,6 +50,12 @@
 		religion = protestant
 		size = 50
 	}
+	
+	farmers = {
+		culture = sami
+		religion = animist
+		size = 16000
+	}
 
 	aristocrats = {
 		culture = norwegian
@@ -111,6 +117,12 @@
 		culture = norwegian
 		religion = protestant
 		size = 5000
+	}
+	
+	farmers = {
+		culture = sami
+		religion = animist
+		size = 12500
 	}
 
 	farmers = {
@@ -446,6 +458,12 @@
 		culture = norwegian
 		religion = protestant
 		size = 17025
+	}
+
+	craftsmen = {
+		culture = norwegian
+		religion = protestant
+		size = 8200
 	}
 
 }

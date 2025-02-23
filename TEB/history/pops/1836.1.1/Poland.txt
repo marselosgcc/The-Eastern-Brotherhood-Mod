@@ -818,13 +818,67 @@
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size = 25  
+		size = 250  
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
 		size = 1675   
+	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = catholic
+		size = 1500  
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = catholic
+		size = 1550 
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = catholic
+		size = 4000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 25000
+	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1200
+	}
+	
+	farmers = {
+		culture = slovak
+		religion = orthodox
+		size = 30000
 	}
 }
 #West Prussia Region (688000) 

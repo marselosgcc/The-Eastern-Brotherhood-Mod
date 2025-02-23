@@ -545,6 +545,36 @@
 		religion = jewish
 		size = 1425  
 	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = catholic
+		size = 5000
+	}
+
+	officers = {
+		culture = bulgarian
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 50000
+	}
 }
 #Moravia Region (1476000) 
 #under the rule of Austria in 1836  
@@ -589,7 +619,7 @@
 	serfs = {
 		culture = gypsy
 		religion = catholic
-		size = 3550 
+		size = 35500 
 	}
 	
 	serfs = {
@@ -663,6 +693,25 @@
 		religion = jewish
 		size = 1370   
 	}
+	
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1100
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 48625  
+	}
+
 }
 #Olomouc (372800/93200 POPS)
 632 = {
@@ -749,6 +798,24 @@
 		religion = jewish
 		size = 1225  
 	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 3000
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 50000
+	}
 }
 #Silesia Region (220000) #see Poland.txt for balance of region
 #under the rule of Austria in 1836  
@@ -831,6 +898,30 @@
 		religion = catholic
 		size = 17610   
 	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = catholic
+		size = 2000 
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = catholic
+		size = 1550 
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 7800
+	}
 }
 #Teschen (116000/29000 POPS)
 689 = {
@@ -849,7 +940,7 @@
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size = 125
+		size = 1250
 	}
 
 	farmers = {
@@ -867,13 +958,13 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 100 
+		size = 1000 
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 25
+		size = 250
 	}
 
 	farmers = {
@@ -910,5 +1001,29 @@
 		culture = silesian
 		religion = catholic
 		size = 12650 
+	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = catholic
+		size = 420  
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = catholic
+		size = 2400 
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = catholic
+		size = 7500 
 	}
 }

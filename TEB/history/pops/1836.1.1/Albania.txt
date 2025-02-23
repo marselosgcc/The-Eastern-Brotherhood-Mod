@@ -212,7 +212,7 @@
 	artisans = {
 		culture = albanian
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 	farmers = {
 		culture = albanian
@@ -222,21 +222,46 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 122
+		size = 1220
 	}
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 245
+		size = 2450
 	}
+	
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 23799
+		size = 43799
+	}
+	
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = greek
+		religion = catholic
+		size = 100
+	}
+	
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 100
 	}
 }

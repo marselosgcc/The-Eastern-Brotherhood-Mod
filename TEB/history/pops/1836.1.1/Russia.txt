@@ -1015,6 +1015,12 @@
 	
 	farmers = {
 		culture = sami
+		religion = animist
+		size = 3400
+	}
+	
+	farmers = {
+		culture = sami
 		religion = orthodox
 		size = 150
 	}

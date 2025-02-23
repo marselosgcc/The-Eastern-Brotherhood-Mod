@@ -307,7 +307,7 @@
 	}
 
 	bureaucrats = {
-		culture = lotharian
+		culture = picard
 		religion = catholic
 		size = 750
 	}
@@ -331,9 +331,21 @@
 	}
 
 	farmers = {
-		culture = lotharian
+		culture = picard
 		religion = catholic
-		size = 120725
+		size = 90725
+	}
+
+	craftsmen = {
+		culture = picard
+		religion = catholic
+		size = 20000
+	}
+
+	farmers = {
+		culture = picard
+		religion = reformed
+		size = 10000
 	}
 }
 #Cambrai (280000/70000 POPS)
@@ -817,7 +829,7 @@
 	officers = {
 		culture = lotharian
 		religion = reformed
-		size = 400
+		size = 600
 	}
 
 	bureaucrats = {
@@ -847,7 +859,7 @@
 	farmers = {
 		culture = lotharian
 		religion = reformed
-		size = 94600
+		size = 64600
 	}
 	
 	farmers = {
@@ -860,6 +872,12 @@
 		culture = lotharian
 		religion = reformed
 		size = 32700
+	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = catholic
+		size = 30000
 	}
 
 	bureaucrats = {

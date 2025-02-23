@@ -347,55 +347,55 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = galicja
 		religion = orthodox
 		size = 4250  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = galicja
 		religion = orthodox
 		size = 425  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = galicja
 		religion = orthodox
 		size = 2150 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = galicja
 		religion = orthodox
 		size = 450
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = galicja
 		religion = orthodox
 		size = 35725  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = galicja
 		religion = protestant
 		size = 400  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = galicja
 		religion = protestant
 		size = 2250 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = galicja
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size =  38950   
 	}
@@ -443,9 +443,9 @@
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = orthodox
-		size = 875  
+		size = 35875  
 	}
 
 	clergymen = {

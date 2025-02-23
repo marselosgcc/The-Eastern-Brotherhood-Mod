@@ -9,7 +9,7 @@
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 450
 	}
@@ -57,67 +57,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1550  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 200  
 	}
 
 	officers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 135   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 135  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 135  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 7400   
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 85
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 100  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 9725    
 	}
@@ -153,45 +153,51 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 1250  
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 275 
 	}
 
 	officers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 150 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 11100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 175  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 33000  
+	}
+	
+	farmers = {
+		culture = bulgarian
+		religion = reformed
+		size = 50000
 	}
 }
 #Trencin (342540/85635 POPS)
@@ -251,45 +257,51 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 300  
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 100  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 100  
+		size = 1000
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 6450 
+		size = 26450 
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 50 
+		size = 500 
 	}
 	
 	officers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 35 
+		size = 135 
+	}
+	
+	farmers = {
+		culture = slovak
+		religion = orthodox
+		size = 30000
 	}
 }
 #Nitra (3279752/819938 POPS)
@@ -331,67 +343,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 2712  
 	}
 	
 	bureaucrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 300
 	}
 	
 	officers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 65
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 140
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 190 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 16937 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 115  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 950
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 162  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 17712    
 	}
@@ -421,25 +433,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 50  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 2750  
 	}
@@ -501,37 +513,37 @@
 	}
 	
 	bureaucrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 50 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	officers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 35 
+		size = 350
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 250
+		size = 2500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
-		size = 50  
+		size = 500  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 4000  
 	}
@@ -557,7 +569,13 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 900 
+		size = 9000
+	}
+	
+	farmers = {
+		culture = slovak
+		religion = orthodox
+		size = 30000
 	}
 }
 #Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
@@ -607,67 +625,67 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1875  
 	}
 
 	bureaucrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 400 
 	}
 
 	officers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 375 
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 237  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 300  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 19166  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 200 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 1300
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 237  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = bulgarian
 		religion = protestant
 		size = 19762
 	}
@@ -697,37 +715,37 @@
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 200  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = bulgarian
 		religion = catholic
 		size = 18925  
 	}
@@ -787,9 +805,21 @@
 		religion = catholic
 		size = 21900    
 	}
+
+	serfs = {
+		culture = bulgarian
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = slovak
+		religion = orthodox
+		size = 30000
+	}
 	
 	aristocrats = {
-		culture = hungarian
+		culture = bulgarian
 		religion = catholic
 		size = 1000
 	}

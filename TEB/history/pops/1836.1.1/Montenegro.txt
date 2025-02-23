@@ -3,25 +3,25 @@
 #Ulcinj (36000/9000 POPS) 
 800 = {
 	clergymen = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 20
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 16550
 	}
@@ -59,19 +59,19 @@
 #Niksic (52000/13000 POPS) 
 2569 = {
 	clergymen = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 500
 	}
@@ -83,13 +83,13 @@
 	}
 	
 	farmers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 1000
 	}
 
 	serfs = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 9400
 	}
@@ -128,43 +128,43 @@
 #Cetinje (104000/26000 POPS) 
 2583 = {
 	aristocrats = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 22375
 	}
@@ -193,13 +193,13 @@
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 250
 	}
@@ -211,7 +211,7 @@
 	}
 
 	serfs = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 5175
 	}
@@ -317,25 +317,25 @@
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = serb
 		religion = orthodox
 		size = 10225
 	}
