@@ -254,21 +254,21 @@
 	}
 	
 	officers = {
-		culture = greek
-		religion = orthodox
+		culture = sephardic
+		religion = jewish
 		size = 110
 	}
 	
 	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 150
+		culture = hungarian
+		religion = jewish
+		size = 6000
 	}
 
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 150
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 950
 	}
 
 	artisans = {
@@ -277,16 +277,28 @@
 		size = 200
 	}
 	
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 500
-	}
-
 	artisans = {
 		culture = sephardic
 		religion = jewish
+		size = 5000
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 41000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
 		size = 2000
+	}
+	
+	soldiers = {
+		culture = gypsy
+		religion = orthodox
+		size = 7000
 	}
 }
 #Vidin (124000/31000 POPS)

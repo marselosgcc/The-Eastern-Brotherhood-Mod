@@ -231,31 +231,31 @@
 	soldiers = {
 		culture = bosniak
 		religion = reformed
-		size = 100
+		size = 2000
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = reformed
-		size = 100
+		size = 800
 	}
 
 	artisans = {
 		culture = bosniak
 		religion = reformed
-		size = 800
+		size = 8000
 	}
 
 	farmers = {
 		culture = bosniak
 		religion = reformed
-		size = 4500
+		size = 9500
 	}
 	
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
@@ -285,7 +285,7 @@
 	clergymen = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
@@ -459,13 +459,13 @@
 	soldiers = {
 		culture = bosniak
 		religion = reformed
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
 		culture = bosniak
 		religion = reformed
-		size = 100
+		size = 400
 	}
 
 	artisans = {
@@ -477,13 +477,13 @@
 	farmers = {
 		culture = bosniak
 		religion = reformed
-		size = 9900
+		size = 19900
 	}
 	
 	soldiers = {
 		culture = croat
 		religion = catholic
-		size = 100
+		size = 3100
 	}
 
 	clergymen = {

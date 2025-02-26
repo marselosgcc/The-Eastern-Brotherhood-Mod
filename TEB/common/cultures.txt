@@ -652,7 +652,7 @@ south_slavic = {
 		radicalism = 15
 	}
 	bulgarian = {
-		color = {65 150 100}
+		color = {171 208 224}
 		first_names = { Abraham Asparuh Ismail Irbis Aleksandar Arshak Akatziroi Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar Tarkhan Aaron Isac ZachariahXäydär  Davut Cyril Joze Jurij Karpo Lado Leon Lojze Miha Mitra Temirgoy Vladimirov Barjik Sahin Bahadir Bagrat Michael Iacob Fetih Canibek Devlet Cholabdulla Ayaz Borisov Jean Draza Petar
 		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Terval Presiyan Kemal Kardam Kimon Kiril Joze Joseph Jurij Karpo Lado Leon Lojze Miha
 		Kliment Konstantin Krastyu Leonid Mihail Mithat Muhtar Murat Musa Mustafa Namik Nazim Nurettin Nuri Numan Omar Osman Pertev Rauf Receb Reshad Refet Rifat Riza Sabaheddin Said Selim Shevket Shukru Suleyman Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin Ziebel Kubrat Onogur

@@ -1,12 +1,12 @@
-capital = 996
-primary_culture = finnish #izhorian
-culture = estonian
-culture = ugrian
+capital = 869
+primary_culture = turkish
+culture = armenian
+culture = greek
 religion = orthodox
-government = democracy
+government = absolute_monarchy
 plurality = 0.5
 nationalvalue = nv_equality
-literacy = 0.6
+literacy = 0.35
 civilized = yes
 
 # Political reforms

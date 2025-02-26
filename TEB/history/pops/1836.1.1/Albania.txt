@@ -98,6 +98,47 @@
 		religion = catholic
 		size = 10127
 	}
+	farmers = {
+		culture = serb
+		religion = catholic
+		size = 2100
+	}
+	
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 12340
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = catholic
+		size = 9000
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 20000
+	}
+	
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 5500
+	}
+	
+	soldiers = {
+		culture = albanian
+		religion = orthodox
+		size = 3400
+	}
+	
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 2600
+	}
 }
 851 = {
 	aristocrats = {
@@ -182,17 +223,17 @@
 	clergymen = {
 		culture = albanian
 		religion = orthodox
-		size = 102
+		size = 1020
 	}
 	soldiers = {
 		culture = albanian
 		religion = orthodox
-		size = 450
+		size = 4500
 	}
 	artisans = {
 		culture = albanian
-		religion = orthodox
-		size = 122
+		religion = jewish
+		size = 1220
 	}
 	farmers = {
 		culture = albanian
@@ -202,12 +243,12 @@
 	soldiers = {
 		culture = albanian
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 	clergymen = {
 		culture = albanian
 		religion = orthodox
-		size = 100
+		size = 2000
 	}
 	artisans = {
 		culture = albanian
@@ -238,30 +279,30 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 43799
+		size = 53799
 	}
 	
 	artisans = {
 		culture = greek
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 	
 	farmers = {
 		culture = greek
 		religion = catholic
-		size = 100
+		size = 17800
 	}
 	
-	artisans = {
-		culture = albanian
-		religion = catholic
-		size = 100
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 6000
 	}
 	
-	farmers = {
-		culture = albanian
+	soldiers = {
+		culture = greek
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 }

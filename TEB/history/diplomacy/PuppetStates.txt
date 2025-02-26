@@ -318,3 +318,44 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
+substate = {
+	
+first = GRE
+	
+second = CRE
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
+substate = {
+	
+first = GRE
+	
+second = CYP
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
+vassal = {
+	
+first = SIC
+	
+second = ALB
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}
+
+substate = {
+	
+first = GRE
+	
+second = IZH
+	
+start_date = 1836.1.1
+	
+end_date = 1939.1.1
+}

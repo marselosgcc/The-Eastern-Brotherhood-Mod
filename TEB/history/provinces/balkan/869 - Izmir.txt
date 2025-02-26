@@ -1,6 +1,7 @@
-owner = GRE
-controller = GRE
+owner = IZH
+controller = IZH
 add_core = GRE
 add_core = TUR
+add_core = IZH
 trade_goods = sulphur
 life_rating = 35

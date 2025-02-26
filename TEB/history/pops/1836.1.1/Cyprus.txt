@@ -35,7 +35,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 175
+		size = 1750
 	}
 
 	farmers = {
@@ -59,13 +59,13 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
@@ -77,7 +77,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 10150
+		size = 19000
 	}
 
 	slaves = {
@@ -115,19 +115,19 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 1350
+		size = 2050
 	}
 	
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 110
+		size = 520
 	}
 
 	artisans = {
@@ -139,7 +139,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 8425
+		size = 11250
 	}
 }
 #Famagusta (44000/11000 POPS)
@@ -153,25 +153,25 @@
 	clergymen = {
 		culture = turkish
 		religion = sunni
-		size = 110
+		size = 1100
 	}
 
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 150
+		size = 1500
 	}
 
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 100
+		size = 7000
 	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 2500
+		size = 11000
 	}
 	
 	soldiers = {

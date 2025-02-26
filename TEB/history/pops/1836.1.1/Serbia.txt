@@ -402,8 +402,20 @@
 	
 	farmers = {
 		culture = gypsy
-		religion = orthodox
+		religion = catholic
 		size = 4500
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 22000
+	}
+	
+	soldiers = {
+		culture = gypsy
+		religion = orthodox
+		size = 6000
 	}
 }
 #Bor (220400/55000 POPS)
@@ -843,6 +855,18 @@
 		religion = catholic
 		size = 19700
 	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 20000
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = protestant
+		size = 11000
+	}
 }
 #Prizren (186000/46000 POPS)
 803 = {
@@ -1068,13 +1092,31 @@
 		religion = orthodox
 		size = 1425
 	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 32000
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = protestant
+		size = 22000
+	}
+	
+	soldiers = {
+		culture = gypsy
+		religion = orthodox
+		size = 6000
+	}
 }
 #Novi Pazar (72000/18000 POPS)
 804 = {
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 200
+		size = 800
 	}
 
 	artisans = {
@@ -1092,30 +1134,30 @@
 	soldiers = {
 		culture = serb
 		religion = orthodox
-		size = 1100
+		size = 5100
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = catholic
+		religion = reformed
 		size = 200
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = catholic
-		size = 450
+		religion = reformed
+		size = 4500
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = catholic
-		size = 1100
+		religion = protestant
+		size = 3100
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = catholic
+		religion = protestant
 		size = 7450
 	}
 

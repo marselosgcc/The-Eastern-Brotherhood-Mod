@@ -1257,8 +1257,8 @@
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size = 40350
 	}
 
@@ -1306,8 +1306,8 @@
 
 	farmers = {
 		culture = greek
-		religion = orthodox
-		size = 4750
+		religion = catholic
+		size = 47500
 	}
 	
 	aristocrats = {
@@ -1346,10 +1346,10 @@
 		size = 580
 	}
 
-	artisans = {
+	capitalists = {
 		culture = sephardic
 		religion = jewish
-		size = 3000
+		size = 600
 	}
 }
 #Manisa (244000/61000 POPS)

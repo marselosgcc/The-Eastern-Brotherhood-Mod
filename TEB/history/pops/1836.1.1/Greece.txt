@@ -847,6 +847,42 @@
 		religion = orthodox
 		size = 425
 	}
+	
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 550
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 425
+	}
+	
+	soldiers = {
+		culture = albanian
+		religion = orthodox
+		size = 20000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 12500
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 1125
+	}
 }
 #Ionian Islands Region (188000)
 #under the rule of Britain/Ionian Islands in 1836
@@ -1979,25 +2015,25 @@
 	clergymen = {
 		culture = greek
 		religion = catholic
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = greek
 		religion = catholic
-		size = 550
+		size = 1550
 	}
 
 	soldiers = {
 		culture = greek
 		religion = catholic
-		size = 175
+		size = 3000
 	}
 
 	farmers = {
 		culture = greek
 		religion = catholic
-		size = 5850
+		size = 15850
 	}
 	
 	aristocrats = {
@@ -2009,31 +2045,31 @@
 	officers = {
 		culture = greek
 		religion = orthodox
-		size = 50
+		size = 500
 	}
 	
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 200
+		size = 9000
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 450
+		size = 4500
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9475
+		size = 28000
 	}
 
 }

@@ -342,3 +342,36 @@ PRG_naturalists;Jepokuaaba;;;;;;;;;;;;;x
 PRG_socialists;Revolucionarios;;;;;;;;;;;;;x
 PRG_comunists;Partido Comunista Rehegua;;;;;;;;;;;;;x
 PRG_nationalists;Partido Nacional Mestizo;;;;;;;;;;;;;x
+HUN;Trákia;;;;;;;;;;;;x
+HUN_ADJ;Magyar;;;;;;;;;;;;;x
+HUN_democracy;Thrace;;;;;;;;;;;;x
+HUN_presidential_dictatorship;Trák állam;;;;;;;;;;;;x
+HUN_bourgeois_dictatorship;Republic of Thracia;;;;;;;;;;;;x
+HUN_absolute_monarchy;Trák Királyság;;;;;;;;;;;;x
+HUN_prussian_constitutionalism;Trák Királyság;;;;;;;;;;;;x
+HUN_hms_government;Kingdom of Thrace;;;;;;;;;;;;x
+HUN_fascist_dictatorship;Trák Köztársaság;;;;;;;;;;;;x
+HUN_proletarian_dictatorship;Trák Tanácsköztársaság;;;;;;;;;;;;x
+HUN_dominion;Trák Élo Zóna;;;;;;;;;;;;;x
+BUL;Bolgharia;;;;;;;;;;;;x
+BUL_ADJ;Bulghar;;;;;;;;;;;;;x
+BUL_democracy;Bulgaria;;;;;;;;;;;;x
+BUL_presidential_dictatorship;Pannonia;;;;;;;;;;;;x
+BUL_bourgeois_dictatorship;Bolghar Republic;;;;;;;;;;;;x
+BUL_absolute_monarchy;Bolgariâniñ Imperiya;;;;;;;;;;;;x
+BUL_prussian_constitutionalism;Bolgariâniñ Imperiya;;;;;;;;;;;;x
+BUL_hms_government;Tzargrad of Bolgharia;;;;;;;;;;;;x
+BUL_fascist_dictatorship;Second Bolghar Empire;;;;;;;;;;;;x
+BUL_proletarian_dictatorship;Qizil Bolgariâ;;;;;;;;;;;;x
+BUL_dominion;Territorium Bulgarorum;;;;;;;;;;;;;x
+IZH;Izmir;;;;;;;;;;;;x
+IZH_ADJ;Izhmirnian;;;;;;;;;;;;;x
+IZH_democracy;Izhmir;;;;;;;;;;;;x
+IZH_presidential_dictatorship;Izmirnian Authority;;;;;;;;;;;;x
+IZH_bourgeois_dictatorship;Izhmirnian Free Zone;;;;;;;;;;;;x
+IZH_absolute_monarchy;Smýrne Antivasíleio;;;;;;;;;;;;x
+IZH_prussian_constitutionalism;Smýrne Antivasíleio;;;;;;;;;;;;x
+IZH_hms_government;Izmir Principality;;;;;;;;;;;;x
+IZH_fascist_dictatorship;Tourkovyzantiní Dimokratía;;;;;;;;;;;;x
+IZH_proletarian_dictatorship;People's Republic of Izmir;;;;;;;;;;;;x
+IZH_dominion;Izhmir District;;;;;;;;;;;;;x
