@@ -1,5 +1,4 @@
-owner = KNG
-controller = KNG
-add_core = KNG
+owner = LOR
+controller = LOR
 trade_goods = grain
 life_rating = 30

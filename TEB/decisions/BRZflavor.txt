@@ -3,21 +3,21 @@ move_capital_to_rio = {
     picture = "build_belo_horizonte"
     potential = {
         tag = BRZ
-        capital = 2450 # Current capital is São Paulo
+        capital = 2450 
     }
     allow = {
         war = no
         OR = {
-            capital = 2450 # Ensure the capital is São Paulo
-            capital = 2447 # If already moved, allow to trigger effects again
+            capital = 2450 
+            capital = 2447 
         }
     }
     effect = {
         capital = 2447 # Move capital to Rio de Janeiro
-        2447 = { # Province 2447 (Rio de Janeiro)
+        2447 = { 
             add_province_modifier = {
                 name = "rebuilding_city"
-                duration = 730 # Duration in days
+                duration = 730 
             }
         }
     }

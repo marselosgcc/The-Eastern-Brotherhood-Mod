@@ -3292,6 +3292,7 @@ american_slavic = {
 	 
         last_names = { Ivanov Kovalenko Kozak Kuznetsov Mikhaylenko Petrov Shevchenko Mikhail Fedor Moroz Volk Andreev Kozlo Yegor Novik Ponomare Orlo Belyak Vorobi Zaitsev Suvorov Ponomarev Orlov Belyakov Vorobiev Zaitsev Tkachenko Volkov Yermolov Fedorov Antonov Borisov Galinov Ivanov Kozlov Maksimov Petrov Suvorov }
     }
+	union = KNG
 }
 american_german = { 
     leader = european

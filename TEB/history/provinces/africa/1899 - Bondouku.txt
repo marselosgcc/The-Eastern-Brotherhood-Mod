@@ -1,5 +1,4 @@
-owner = KNG
-controller = KNG
-add_core = KNG
+owner = FRA
+controller = FRA
 trade_goods = coffee
 life_rating = 30

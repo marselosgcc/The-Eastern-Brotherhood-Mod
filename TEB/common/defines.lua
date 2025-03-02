@@ -30,7 +30,7 @@ country = {
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.275, -- Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.025, -- At least this many % needs to support a reform for the AI to take it
 	BASE_MONTHLY_DIPLOPOINTS = 0.3, -- Base value gain for diplomatic actions each month
-	DIPLOMAT_TRAVEL_TIME = 14,
+	DIPLOMAT_TRAVEL_TIME = -1,
 	PROVINCE_OVERSEAS_PENALTY = 0.03, -- Each province req. this many goods flagged as overseas penalty 
 	NONCORE_TAX_PENALTY = -0.075, -- -5% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = 0.1, -- baseline tariff efficiency
@@ -90,7 +90,7 @@ country = {
 	COLONIZATION_INFLUENCE_TEMPERATURE_PER_LEVEL = 0.005,
 	PARTY_LOYALTY_HIT_ON_WAR_LOSS = 0.95, -- Drops the ruling party loyalty if war is lost.
 	RESEARCH_POINTS_ON_CONQUER_MULT = 200, -- multiplier to RP got by conquering as unciv when got enacted military reforms
-	MAX_RESEARCH_POINTS = 35000, -- max RP you can store for uncivs
+	MAX_RESEARCH_POINTS = 50000, -- max RP you can store for uncivs
 },
 
 economy = {

@@ -1,14 +1,14 @@
 capital = 60
-primary_culture = yankee
-culture = texan
+primary_culture = jugmoravian
+culture = akadyjski
+culture = jadwigan
 religion = orthodox
-government = democracy
+government = federal_democracy
 plurality = 25.1
 nationalvalue = nv_liberty
 literacy = 0.50
 civilized = yes
 is_releasable_vassal = no
-
 
 # Technologies
 post_napoleonic_thought = 1

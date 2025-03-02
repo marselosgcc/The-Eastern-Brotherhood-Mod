@@ -1019,7 +1019,7 @@ small_baby_boom = {
 }
 
 baby_boom = {
-	population_growth = 0.006
+	population_growth = 0.015
 	icon = 19
 }
 

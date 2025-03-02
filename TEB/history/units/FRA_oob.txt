@@ -28,7 +28,13 @@ IRE = {
 	influence_value = 25
 }
 MHR = {
-	value = 125
+	value = 185
 	level = 4
-	influence_value = 25
+	influence_value = 99.9
+}
+
+NYE = {
+	value = 200
+	level = 3
+	influence_value = 35
 }

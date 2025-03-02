@@ -1,0 +1,71 @@
+political_decisions = {
+    establish_aden_protectorate = {
+        picture = aden_protectorate
+        potential = {
+            tag = FRA
+            NOT = { has_global_flag = created_aden_protectorate }
+        }
+        allow = {
+            owns = 1412 
+            is_sphere_leader_of = MHR 
+            war = no
+        }
+        effect = {
+            set_global_flag = created_aden_protectorate
+            random_country = {
+				limit = {
+					tag = MHR
+					exists = yes
+					ai = yes
+				}
+				FRA = { inherit = MHR }
+			}
+            release_vassal = YEM
+			YEM = { government = dominion }
+			 1412 = { 
+            add_province_modifier = {
+                name = "baby_boom"
+                duration = 1095 
+            }
+        }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+   integrate_north_yemen = {
+    picture = aden_protectorate
+        potential = {
+            tag = FRA
+            has_global_flag = created_aden_protectorate
+			not = {has_global_flag = integrated_north_yemen}
+        }
+        allow = {
+		is_sphere_leader_of = NYE
+            war = no
+        }
+        effect = {
+                        random_country = {
+				limit = {
+					tag = NYE
+					exists = yes
+					ai = yes
+				}
+				YEM = { inherit = NYE }
+			}
+            set_global_flag = integrated_north_yemen
+			 YEM = {
+                capital = 1178
+            }
+			1178 = { 
+            add_province_modifier = {
+                name = "baby_boom"
+                duration = 2920 
+            }
+        }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}
