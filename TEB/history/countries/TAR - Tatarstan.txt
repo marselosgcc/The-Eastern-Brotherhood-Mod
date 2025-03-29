@@ -1,10 +1,10 @@
-capital = 1030
-primary_culture = russian
+capital = 1036
+primary_culture = tatar
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.37
 civilized = yes
 
 # Political reforms

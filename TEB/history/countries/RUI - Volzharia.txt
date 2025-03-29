@@ -1,15 +1,12 @@
 capital = 994
 primary_culture = russian
-culture = byelorussian
-culture = ukrainian
-culture = ugrian
+culture = tatar
 culture = volga_german
-culture = alaskan
-religion = orthodox
-government = absolute_monarchy
+religion = sunni
+government = theocracy
 plurality = 5.0
-nationalvalue = nv_autocracy
-literacy = 0.15
+nationalvalue = nv_equality
+literacy = 0.21
 non_state_culture_literacy = 0.05
 civilized = yes
 
@@ -57,7 +54,7 @@ upper_house = {
 	communist = 0
 }
 
-decision = RUS_setup_1836
+decision = RUI_setup_1836
 
 # Technologies
 post_nelsonian_thought = 1

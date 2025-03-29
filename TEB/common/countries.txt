@@ -5,7 +5,7 @@ REB 	= 	"countries/rebels.txt"
 
 ### NEW NATIONS MOD ###
 
-# Meu mod
+# TEB
 SIX		="countries/Sioux.txt"
 MRA		="countries/Moravia Australis.txt"
 ARK		="countries/Arkadia.txt"
@@ -13,7 +13,7 @@ JAD		="countries/Jadwiga.txt"
 JDU		="countries/Jadid Ufuq.txt"
 CIP		="countries/Cisplatine.txt"
 KNG		="countries/Konkordiya.txt"
-
+RUI     ="countries/Volzharia.txt"
 ###France Mod###
 NZF		="countries/French New Zealand.txt"
 FAS		="countries/French Australia.txt"
