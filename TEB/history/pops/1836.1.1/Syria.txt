@@ -346,6 +346,12 @@
 		religion = sunni
 		size = 225
 	}
+	
+	officers = {
+		culture = sephardic
+		religion = jewish
+		size = 400
+	}
 
 	clergymen = {
 		culture = mashriqi
@@ -380,7 +386,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 43200
+		size = 23200
 	}
 
 	clergymen = {
@@ -398,7 +404,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = shiite
-		size = 1450
+		size = 31450
 	}
 
 	clergymen = {
@@ -422,7 +428,7 @@
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 50
+		size = 500
 	}
 
 	artisans = {
@@ -430,27 +436,38 @@
 		religion = jewish
 		size = 1950
 	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 9200
+	}
 	
 	aristocrats = {
 		culture = mashriqi
 		religion = druze
-		size = 50
+		size = 150
 	}
 	
 	artisans = {
 		culture = mashriqi
 		religion = druze
-		size = 100
+		size = 1000
 	}
 	
 	farmers = {
 		culture = mashriqi
 		religion = druze
-		size = 2000
+		size = 12000
+	}
+	
+	soldiers = {
+		culture = mashriqi
+		religion = druze
+		size = 3000
 	}
 }
 #Homs (80000/20000 POPS)
-# 45% Sunni, 40% Orthodox, 15% Shia
 903 = {
 	aristocrats = {
 		culture = mashriqi
@@ -461,7 +478,7 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 125
+		size = 1250
 	}
 
 	artisans = {
@@ -473,31 +490,37 @@
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 200
+		size = 2000
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 11175
+		size = 21175
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = shiite
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = shiite
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = shiite
 		size = 4000
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 8000
 	}
 
 	clergymen = {
@@ -515,7 +538,13 @@
 	farmers = {
 		culture = mashriqi
 		religion = orthodox
-		size = 10575
+		size = 22500
+	}
+	
+	bureaucrats = {
+		culture = mashriqi
+		religion = orthodox
+		size = 700
 	}
 }
 #Hama (108000/27000 POPS)
@@ -634,6 +663,12 @@
 		culture = mashriqi
 		religion = orthodox
 		size = 3000
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 9500
 	}
 	
 	aristocrats = {

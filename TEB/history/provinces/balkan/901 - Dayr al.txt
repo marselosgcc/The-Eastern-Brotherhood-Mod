@@ -1,5 +1,9 @@
 owner = TUR
 controller = TUR
 add_core = TUR
+add_core = KDS
+add_core = SYR
+add_core = ASY
+add_core = ARU
 trade_goods = grain
 life_rating = 35

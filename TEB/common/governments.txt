@@ -176,11 +176,9 @@ french_bourbon = {
 pirate_government = {
 	liberal = yes
 	socialist = yes
-	conservative = yes
 	communist = yes
 	anarcho_liberal = yes
 	fascist = yes
-	
 	
 	election = yes
 	duration = 120
@@ -196,4 +194,17 @@ fascist_monarchy = {
 	election = no
 	appoint_ruling_party = yes
 	flagType = monarchy
+}
+
+prov_gov_revolution = {
+	liberal = yes
+	conservative = yes
+	radical = yes
+	reactionary = yes
+	fascist = yes
+	communist = yes
+	natsyn = yes
+    election = no
+    appoint_ruling_party = yes
+	flagType = republic
 }

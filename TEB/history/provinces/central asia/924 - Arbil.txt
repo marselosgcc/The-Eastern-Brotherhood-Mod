@@ -1,6 +1,6 @@
 owner = ASY
 controller = ASY
 add_core = ASY
-
+add_core = KDS
 trade_goods = wool
 life_rating = 35
