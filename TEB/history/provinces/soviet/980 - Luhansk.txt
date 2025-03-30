@@ -1,5 +1,6 @@
-owner = UKR
-controller = UKR
+owner = RUI
+controller = RUI
+add_core = RUI
 add_core = UKR
 trade_goods = cattle
 life_rating = 35

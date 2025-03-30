@@ -1,16 +1,11 @@
 capital = 994
 primary_culture = russian
-culture = byelorussian
-culture = ukrainian
-culture = ugrian
-culture = volga_german
-culture = alaskan
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0
-nationalvalue = nv_autocracy
-literacy = 0.15
-non_state_culture_literacy = 0.05
+nationalvalue = nv_equality
+literacy = 0.13
+non_state_culture_literacy = 0.10
 civilized = yes
 
 #GreaterPowers = prestige

@@ -1,6 +1,7 @@
-owner = OMA
-controller = OMA
+owner = FRA
+controller = FRA
 add_core = OMA
+add_core = ABU
 add_core = ARU
 trade_goods = fish
 life_rating = 35

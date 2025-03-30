@@ -1894,37 +1894,37 @@
 	}
 
 	aristocrats = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 700
 	}
 
 	officers = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 950
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 6850
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 100
 	}
@@ -4077,20 +4077,20 @@
 	}
 	
 	farmers = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 10650
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 2300
 	}
 }
@@ -4241,62 +4241,62 @@
 	}
 
 	clergymen = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 500
 	}
 
 	artisans = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 5000
 	}
 
 	soldiers = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 900
 	}
 
 	farmers = {
-		culture = volga_german
+		culture = russian
 		religion = protestant
 		size = 22650
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 350
 	}
 	
 	bureaucrats = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 3900
 	}
 
 	soldiers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 10750
 	}
 	
 	aristocrats = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 600
 	}
 
@@ -4363,38 +4363,38 @@
 	}
 	
 	clergymen = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 4250
 	}
 
 	farmers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 8540
 	}
 	
 	soldiers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 500
 	}
 
 	aristocrats = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 950
 	}	
 }
@@ -4803,26 +4803,26 @@
 	}
 
 	clergymen = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 25  
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 2000 
 	}
 
 	soldiers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 3875  
 	}
 
@@ -4938,26 +4938,26 @@
 	}
 	
 	clergymen = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 25  
 	}
 
 	artisans = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 2000 
 	}
 
 	soldiers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = volga_german
-		religion = catholic
+		culture = russian
+		religion = sunni
 		size = 3875  
 	}
 

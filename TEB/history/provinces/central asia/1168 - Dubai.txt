@@ -1,6 +1,7 @@
 owner = OMA
 controller = OMA
 add_core = OMA
+add_core = ABU
 add_core = ARU
 trade_goods = fruit
 life_rating = 35

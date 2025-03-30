@@ -49,6 +49,18 @@
 		religion = fetishist
 		size = 14000
 	}
+	
+	farmers = {
+		culture = swahili
+		religion = ibadi
+		size = 2000
+	}
+
+	slaves = {
+		culture = kilombero
+		religion = ibadi
+		size = 200
+	}
 
 	aristocrats = {
 		culture = sukuma
@@ -78,6 +90,18 @@
 		culture = sukuma
 		religion = sunni
 		size = 3650
+	}
+	
+	soldiers = {
+		culture = sukuma
+		religion = ibadi
+		size = 100
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = ibadi
+		size = 500
 	}
 }
 #Tanga (88000/22000 POPS)
@@ -147,6 +171,18 @@
 		religion = sunni
 		size = 2650
 	}
+	
+	farmers = {
+		culture = swahili
+		religion = ibadi
+		size = 2500
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = ibadi
+		size = 3000
+	}
 }
 #Kilwa (188000/47000 POPS)
 2038 = {
@@ -184,6 +220,18 @@
 		culture = yao
 		religion = fetishist
 		size = 350
+	}
+	
+	farmers = {
+		culture = swahili
+		religion = ibadi
+		size = 200
+	}
+
+	farmers = {
+		culture = yao
+		religion = ibadi
+		size = 300
 	}
 
 	clergymen = {
@@ -263,6 +311,30 @@
 		culture = yao
 		religion = fetishist
 		size = 4000
+	}
+	
+	officers = {
+		culture = bedouin
+		religion = ibadi
+		size = 200
+	}
+
+	artisans	= {
+		culture = bedouin
+		religion = ibadi
+		size = 300
+	}
+	
+	farmers = {
+		culture = swahili
+		religion = ibadi
+		size = 200
+	}
+
+	farmers = {
+		culture = yao
+		religion = ibadi
+		size = 300
 	}
 }
 #Ruvuma-Rufiji Region (568000)
@@ -1152,11 +1224,29 @@
 		religion = sunni
 		size = 1100
 	}
+	
+	soldiers = {
+		culture = swahili
+		religion = ibadi
+		size = 300
+	}
 
 	farmers = {
 		culture = swahili
 		religion = sunni
 		size = 7100
+	}
+	
+	farmers = {
+		culture = swahili
+		religion = ibadi
+		size = 200
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = ibadi
+		size = 3000
 	}
 
 	aristocrats = {
@@ -1168,19 +1258,19 @@
 	bureaucrats = {
 		culture = bedouin
 		religion = ibadi
-		size = 75
+		size = 750
 	}
 
 	officers = {
 		culture = bedouin
 		religion = ibadi
-		size = 75
+		size = 750
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = ibadi
-		size = 50
+		size = 500
 	}
 
 	artisans = {

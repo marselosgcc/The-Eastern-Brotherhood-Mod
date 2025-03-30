@@ -1,5 +1,7 @@
 owner = UKR
 controller = UKR
 add_core = UKR
+add_core = RUI
+add_core = RUS
 trade_goods = coal
 life_rating = 35

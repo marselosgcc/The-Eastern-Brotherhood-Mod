@@ -1,13 +1,16 @@
 capital = 994
 primary_culture = russian
-culture = tatar
-culture = volga_german
-religion = sunni
+culture = ukrainian
+culture = bedouin
+culture = mashriqi
+culture = dagestani
+culture = chechen
+religion = sunni # The Caliphate
 government = theocracy
 plurality = 5.0
-nationalvalue = nv_equality
-literacy = 0.21
-non_state_culture_literacy = 0.05
+nationalvalue = nv_order
+literacy = 0.235
+non_state_culture_literacy = 0.018
 civilized = yes
 
 #GreaterPowers = prestige
