@@ -1,2 +1,3 @@
-# Divergences-of-Masonaria
-A victoria 2 mod!
+# The-Eastern-Brotherhood
+
+The Eastern Brotherhood (TEB) is a Victoria 2 mod set in an alternate timeline where historical divergences from our own world become evident by 1836. These alterations span from the Middle Ages to the era of the Concert of Europe, impacting both Western and, most notably, Eastern Europe, the region that inspires the mod's name. In this reimagined history, Poland embraces Orthodoxy, the Hungarians invade and settle Thrace instead of Pannonia, and the migration of Turks to Anatolia is led by the Kipchak Turks rather than the Oghuzes and much more. Meanwhile, Western Europe is not left untouched by change: a neo-Inca state rises as a stronghold of the once-mighty Tawantisuyu, remnants of Islamic rule persist in parts of southern Europe with entities like the Balearic Emirate and Sicily, and many other captivating twists await your discovery.
