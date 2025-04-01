@@ -6,7 +6,7 @@ vop_declare_independence = {
         NOT = { exists = SPU } 
     }
     allow = {
-        war = no # Deve estar em paz
+        war = no 
     }
     effect = {
         change_tag = SPU 
