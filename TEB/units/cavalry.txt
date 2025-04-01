@@ -22,9 +22,9 @@ cavalry = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 60
 	build_cost = {
-		grain = 30
+		grain = 20
 	}
 	
 	supply_consumption = 1.0
