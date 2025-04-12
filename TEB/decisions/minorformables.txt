@@ -1,0 +1,380 @@
+political_decisions = {
+#form_iran = {
+    picture = "form_iran_pic"
+    potential = {
+        is_culture_group = iranian_turanian
+        NOT = {
+            exists = LOREMIPSUM
+        }
+    }
+    allow = {
+        war = no
+        prestige = 25
+        LOREMIPSUM = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 10
+        change_tag = LOREMIPSUM
+        add_accepted_culture = persian
+        add_accepted_culture = tajik
+        add_accepted_culture = pashtun
+        add_accepted_culture = baluchi
+        add_accepted_culture = gypsy
+        any_country = {
+            limit = {
+                NOT = {
+                    is_greater_power = yes
+                }
+            is_culture_group = iranian_turanian
+            in_sphere = THIS
+            }
+        annex_to = THIS
+        }
+    }
+}
+form_somalia = {
+    picture = "form_somalia_pic"
+    potential = {
+        is_culture_group = somalic
+        NOT = {
+            exists = SOM
+        }
+    }
+    allow = {
+        war = no
+        THIS = {
+            AND = {
+                owns = 1868
+                owns = 1869
+                owns = 1870
+                owns = 1871
+                owns = 1872
+                owns = 1873
+                owns = 1874
+            }
+        }
+    }
+    effect = {
+        prestige = 5
+        change_tag = SOM
+        add_accepted_culture = somali
+        add_accepted_culture = harari
+    }
+    ai_will_do = {
+        factor = 1
+    }
+} 
+form_abyssinia = {
+    picture = "form_abyssinia_pic"
+    potential = {
+        is_culture_group = abyssinian
+        NOT = {
+            exists = ETH
+        }
+    }
+    allow = {
+        war = no
+        ETH = {
+            all_core = {
+                    owned_by = THIS
+            }
+        }
+    }
+    effect = {
+        prestige = 10
+        change_tag = ETH
+        add_accepted_culture = amhara
+        add_accepted_culture = afar
+        add_accepted_culture = oromo
+        add_accepted_culture = kefficho
+        add_accepted_culture = tigray
+        add_accepted_culture = cushitic
+        add_accepted_culture = sidama
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_yemen = {
+    picture = "form_yemen_pic"
+    potential = {
+        OR = {
+            capital = {
+                region = YEM_1412
+            }
+            capital = {
+                region = YEM_1178
+            }
+        }
+        NOT = {
+            exists = YEM
+        }
+    }
+    allow = {
+        war = no
+        YEM = {
+            all_core = {
+                owned_by = THIS
+            }
+        }
+    }
+    effect = {
+        prestige = 5
+        change_tag = YEM
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_konkordiya = {
+    picture = "form_konkordiya_pic"
+    potential = {
+        is_culture_group = american_slavic
+        NOT = {
+            exists = KNG
+        }
+    }
+    allow = {
+        war = no
+        KNG = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 15
+        change_tag = KNG
+        add_accepted_culture = jadwigan
+        add_accepted_culture = jugmoravian
+        add_accepted_culture = akadyjski
+        any_country = {
+            limit = {
+                NOT = {
+                    is_greater_power = yes
+                }
+            }
+            is_culture_group = american_slavic
+            in_sphere = THIS
+        }
+        annex_to = THIS
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_east_germany = {
+    picture = "form_east_germany_pic"
+    potential = {
+        OR = {
+            primary_culture = rhinelander
+            primary_culture = dutch
+        }
+        NOT = {
+            exists = NGF
+        }
+    }
+    allow = {
+        prestige = 30
+        is_greater_power = yes
+        war = no
+        NGF = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 15
+        change_tag = NGF
+        add_accepted_culture = dutch
+        add_accepted_culture = rhinelander
+        any_country = {
+            limit = {
+                NOT = {
+                    is_greater_power = yes
+                }
+                OR = {
+                primary_culture = dutch
+                primary_culture = rhinelander
+                }
+                in_sphere = THIS
+            }
+            annex_to = THIS
+        }
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_west_germany = {
+    picture = "form_west_germany_pic"
+    potential = {
+        OR = {
+            primary_culture = north_german
+            primary_culture = south_german
+        }
+        NOT = {
+            exists = SGF
+        }
+    }
+    allow = {
+        prestige = 30
+        is_greater_power = yes
+        war = no
+        SGF = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 15
+        change_tag = SGF
+        add_accepted_culture = south_german
+        add_accepted_culture = north_german
+        any_country = {
+            limit = {
+                NOT = {
+                    is_greater_power = yes
+                }
+                OR = {
+                primary_culture = south_german
+                primary_culture = north_german
+                }
+                in_sphere = THIS
+            }
+            annex_to = THIS
+        }
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_byzantium = {
+    picture = "form_byzantium_pic"
+    potential = {
+        is_culture_group = levantine
+        NOT = {
+            exists = BYZ
+        }
+    }
+    allow = {
+        war = no
+        prestige = 45
+        BYZ = {
+            all_core = {
+                owned_by = THIS
+            }
+        }
+    }
+    effect = {
+        prestige = 20
+        change_tag = BYZ
+        add_accepted_culture = greek
+        add_accepted_culture = griko
+        add_accepted_culture = georgian
+        add_accepted_culture = armenian
+        add_accepted_culture = assyrian
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_yugoslavia = {
+    picture = "form_yugoslavia_pic"
+    potential = {
+        is_culture_group = south_slavic
+        NOT = {
+            exists = YUG
+        }
+    }
+    allow = {
+        is_greater_power = yes
+        war = no
+        YUG = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 20
+        change_tag = YUG
+        add_accepted_culture = croat
+        add_accepted_culture = serb
+        add_accepted_culture = bulgarian
+        add_accepted_culture = slovene
+        add_accepted_culture = bosniak
+        any_country = {
+            limit = {
+                NOT = {
+                    is_greater_power = yes
+                }
+                is_culture_group = south_slavic
+                in_sphere = THIS
+            }
+            annex_to = THIS
+        }
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+form_transcaucasia = {
+    picture = "form_transcaucasia_pic"
+    potential = {
+        is_culture_group = caucasian
+        NOT = {
+            exists = TCA
+        }
+    }
+    allow = {
+        war = no
+        TCA = {
+            all_core = {
+                owned_by = THIS
+            }
+        }
+    }
+    effect = {
+        prestige = 10
+        change_tag = TCA
+        add_accepted_culture = dagestani
+        add_accepted_culture = chechen
+        add_accepted_culture = circassian
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+}
