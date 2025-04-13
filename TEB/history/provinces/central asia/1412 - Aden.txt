@@ -1,6 +1,6 @@
 owner = FRA
 controller = FRA
-add_core = FRA
+add_core = MHR
 add_core = YEM
 add_core = ARU
 trade_goods = fish

@@ -1,0 +1,46 @@
+country_event = {
+    id = 290001
+    title = "event_sphere_fra_mhr"   
+	desc = "carlinhos"
+	picture = "vargas"
+    trigger = {
+        tag = FRA
+		NOT = { has_global_flag = influence_1 }
+        NOT = { is_player = yes }
+        year = 1842
+		tag = MHR  = { NOT = is_player = yes }
+    }
+	mean_time_to_happen =  {
+		months = 1
+	}
+    option = {
+	    set_global_flag = influence_1
+        name = "EVTOPTA_FRA_MHR"
+        FRA = {
+		diplomatic_influence = { who = MHR value = 200 }
+    }
+}
+} 
+country_event = {
+    id = 290002
+    title = "event_sphere_fra_nye"   
+	desc = "carlinhos"
+	picture = "vargas"
+    trigger = {
+        tag = FRA
+        NOT = { has_diplomatic_relation = sphere }
+		NOT = { has_global_flag = influence_2 }
+        NOT = { is_player = yes }
+        year = 1856
+		tag = NYE  = { NOT = is_player = yes }
+    }
+	mean_time_to_happen =  {
+		months = 96
+	}
+    option = {
+	    set_global_flag = influence_2
+        name = "EVTOPTA_FRA_NYE" 
+        FRA = { diplomatic_influence = { who = NYE value = 400} }
+    }
+} 
+
