@@ -1,0 +1,64 @@
+
+#SEJM PACIFISM AND THE INITIAL EVENT
+country_event = {
+    id = 76543
+    title = "EVTNAME_pol1"
+    desc = "EVTDESC_pol1"
+    picture = "MarszMarsz"
+    trigger = {
+        tag = POL
+        year = 1836
+        month = 1
+    }
+    is_triggered_only = no
+    fire_only_once = yes
+
+    option = {
+        name = "EVTOPTA_pol1"
+        POL = {
+            prestige = 10
+            relation = {who = RUS value = 25}
+            set_country_flag = sejm_pacifism
+        }
+    }
+}
+country_event = {
+    id = 76544
+    title = "EVTNAME_pol2"
+    desc = "EVTDESC_pol2"
+    picture = "InnocentWar"
+    trigger = {
+        tag = POL
+        has_country_flag = sejm_pacifism
+        war = yes
+    }
+    is_triggered_only = no
+
+    option = {
+        name = "EVTOPTA_pol2"
+        POL = {
+            add_country_modifier = { name = sejm_pacifism_modifier duration = -1 }
+            set_country_flag = war_sejm_pacifism
+        }
+    }
+}
+country_event = {
+    id = 76545
+    title = "EVTNAME_pol3"
+    desc = "EVTDESC_pol3"
+    picture = "EndOfWarPOL"
+    trigger = {
+        tag = POL
+        has_country_flag = war_sejm_pacifism
+        war = no
+    }
+    is_triggered_only = no
+
+    option = {
+        name = "EVTOPTA_pol3"
+        POL = {
+            remove_country_modifier = sejm_pacifism_modifier
+            clr_country_flag = war_sejm_pacifism
+        }
+    }
+}

@@ -3276,3 +3276,15 @@ foreign_weapons_imported = {
 	icon = 9
 }
 
+###TEB Modifiers###
+
+sejm_pacifism_modifier = {
+	org_regain = -0.5
+	land_organisation = -0.5
+	land_defense_modifier = -0.05
+	supply_consumption = 0.5
+	war_exhaustion = 10
+	pop_militancy_modifier = 2
+	tax_efficiency = -0.7
+	icon = 4
+}
