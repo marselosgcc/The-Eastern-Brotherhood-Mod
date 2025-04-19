@@ -1,12 +1,10 @@
 capital = 1121
 primary_culture = persian
-culture = azerbaijani
-culture = hazara
-religion = catholic
+religion = syriac
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_productivity 
-literacy = 0.21
+literacy = 0.14
 non_state_culture_literacy = 0.09
 
 # Political reforms
@@ -85,6 +83,8 @@ bronze_muzzle_loaded_artillery = 1
 	# Inventions
 
 }
+
+oob = "PER_oob.txt"
 
 
 

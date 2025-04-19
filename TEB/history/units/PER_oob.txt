@@ -1,0 +1,15 @@
+ASY = {
+	value = 200
+}
+AZB = {
+	value = -150	
+}
+IRQ = {
+	value = -50	
+}
+GRE = {
+	value = 120
+}
+ARM = {
+	value = 70
+}
