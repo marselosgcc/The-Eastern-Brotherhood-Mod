@@ -3288,3 +3288,11 @@ sejm_pacifism_modifier = {
 	tax_efficiency = -0.7
 	icon = 4
 }
+
+eastern_schism = {
+	icon = 8
+}
+
+eastern_church = {
+	icon = 13
+}

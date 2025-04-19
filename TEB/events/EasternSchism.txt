@@ -1,0 +1,160 @@
+#EASTERN SCHISM - BOTH
+country_event = {
+    id = 76660
+    title = "EVTNAME_sla1"
+    desc = "EVTDESC_sla1"
+    picture = "SchismPicture"
+    trigger = {
+        OR = {
+            tag = POL
+            tag = RUS
+        }
+        year = 1836
+        month = 1
+    }
+    is_triggered_only = no
+
+    option = {
+        name = "EVTOPTA_sla1"
+        THIS = {
+            add_country_modifier = eastern_schism
+            set_country_flag = SchismEventFired
+        }
+    }
+}
+country_event = {
+    id = 76667
+    title = "EVTNAME_sla3"
+    desc = "EVTDESC_sla3"
+    picture = "UnionAgitation"
+    trigger = {
+        OR = {
+            tag = POL
+            tag = RUS
+        }
+        has_global_flag = schism_chain2
+        year = 1841
+        NOT = {
+            has_country_flag = agitation_fired
+        }
+    }
+
+    option = {
+        name = "EVTOPTA_sla3"
+        set_country_flag = agitation_fired
+        prestige = 5
+        any_pop = {
+            limit = {
+                has_pop_religion = orthodox
+            }
+            militancy = 0.7
+        }
+    }
+}
+country_event = {
+    id = 76668
+    title = "EVTNAME_sla4"
+    desc = "EVTDESC_sla4"
+    picture = "BrothersUnited"
+    trigger = {
+        OR = {
+            any_country = {
+                has_country_flag = agitation_fired
+            }
+            has_global_flag = eastern_schism_mended
+        }
+        OR = {
+            tag = POL
+            tag = RUS
+        }
+        year = 1843
+    }
+    allow_multiple_instances = no
+
+    option = {
+        name = "EVTOPTA_sla4"
+        prestige = 10
+        set_global_flag = eastern_schism_mended
+        add_country_modifier = eastern_church
+        remove_country_modifier = eastern_schism
+    }
+}
+country_event = {
+    id = 76670
+    name = "EVTNAME_sla6"
+    desc = "EVTDESC_sla6"
+    picture = "SchismStands"
+    trigger = {
+        tag = RUS
+        has_global_flag = schism_stands
+    }
+
+    option = {
+        name = "EVTOPTA_sla6"
+        prestige = -10
+    }
+}
+
+# SCHISM EVENT CHAIN
+country_event = {
+    id = 76665
+    title = "EVTNAME_sla2"
+    desc = "EVTDESC_sla2"
+    picture = "CouncilOfLodz"
+    trigger = {
+        tag = POL
+        has_country_flag = SchismEventFired
+        year = 1838
+        month = 6
+    }
+
+    option = {
+        name = "EVTOPTA_sla2"
+        prestige = 20
+        relation = {who = RUS value = -100}
+        set_global_flag = schism_stands
+        clr_country_flag = SchismEventFired
+    }
+
+    option = {
+        name = "EVTOPTB_sla2"
+        prestige = -10
+        set_country_flag = schism_chain1
+        relation = {who = RUS value = 100}
+        clr_country_flag = SchismEventFired
+    }
+}
+country_event = {
+    id = 76666
+    title = "EVTNAME_sch1"
+    desc = "EVTDESC_sch1"
+    picture = "Stravinsky"
+    trigger = {
+        has_country_flag = schism_chain1
+        year = 1840
+        month = 1
+    }
+    fire_only_once = yes
+
+    option = {
+        name = "EVTOPTA_sch1"
+        prestige = 5
+        set_global_flag = schism_chain2
+        clr_country_flag = schism_chain1
+    }
+}
+country_event = {
+    id = 76669
+    name = "EVTNAME_sla5"
+    desc = "EVTDESC_sla5"
+    picture = "SchismStands"
+    trigger = {
+        tag = POL
+        has_global_flag = schism_stands
+    }
+
+    option = {
+        name = "EVTOPTA_sla5"
+        prestige = 5
+    }
+}
