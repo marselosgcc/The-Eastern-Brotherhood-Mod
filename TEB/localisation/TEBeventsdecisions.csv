@@ -31,3 +31,16 @@ EVTOPTA_pol2;This is a shameful display!!!;;;;;;;;;;;;;;;
 EVTNAME_pol3;Peace at last!;;;;;;;;;;;;;;;
 EVTDESC_pol3;We have finally found peace after all this time of war, and the nobles have quieted down at last...;;;;;;;;;;;;;;;X,,,,,,,,,,,,,, 
 EVTOPTA_pol3;Now back to cabbage farming...;;;;;;;;;;;;;;;
+EVTNAME_sla1;Still Brothers, Yet Divided;;;;;;;;;;;;;;;
+EVTDESC_sla1;The Polish and Russian Orthodox church currently face a schism, whilst previously united under the "Northern Slavs Orthodox Church", due to eclesiological disagreements on the role of the Church in the functions of the state. This left the two brother states in a diplomatic and religious standoff since 1833...;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_sla1;We can just wait for the church(es) resolval on the issue;;;;;;;;;;;;;;;
+EVTNAME_sla2;The Council of Lodz;;;;;;;;;;;;;;;
+EVTDESC_sla2;The Church of Poland has convened a council sat at Lodz for the discussion about the matter of the Polish-Russian Schism. The faction advocating for the union between the Russian and Polish Church supports that the Church of Poland leave the eclesiological decision that dictates power of the state to appoint the seat of the Patriarchs, while the faction who suppports the continuation of the schism says that we shouldn't just backoff our developments in favor of union with a church who doesn't even represent the Polish People;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_sla2;We won't give in!;;;;;;;;;;;;;;;
+EVTOPTB_sla2;Sacrifices must be made;;;;;;;;;;;;;;;
+EVTNAME_sla3;Pro-Union Agitation;;;;;;;;;;;;;;;
+EVTDESC_sla3;There has been a sharp surge in public meetings, processions and even sermons in churches supporting the mending of the Polish-Russian Schism;;;;;;;;;;;;;;;X,,,,,,,,,,,,,
+EVTOPTA_sla3;What a curious development...;;;;;;;;;;;;;;;
+EVTNAME_sla4;Brothers, united!;;;;;;;;;;;;;;;
+EVTDESC_sla4;After the sacrifices made at the Council of Lodz by the Polish Church, and the public agitation in favor of the union, the two churches have officially found a agreeable ground on the issue, and the schism is mended;;;;;;;;;;;;;;;X,,,,,,,,,,,,,
+EVTOPTA_sla4;We, as one!;;;;;;;;;;;;;;;
