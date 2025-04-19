@@ -23,9 +23,7 @@ establish_aden_protectorate_desc;Since we bought the island of Socotra in 1793 a
 integrate_north_yemen_title;Integrate Zaidi Imamate into Aden Protectorate;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 integrate_north_yemen_desc;Now that we have southern Yemen, we can put some pressure on the Qasimid State where we have a certain influence to "integrate" them into our protectorate.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 EVTNAME_pol1;Marsz, Marsz, Polska!;;;;;;;;;;;;;;;
-EVTDESC_pol1;
-The bastion of Orthodoxy, the land of the Poles! We have faced the biggest of odds and still came out on top, eternal, and we shall be great for millenia to come! Marsz, Marsz, Polska! 
-§RWARNING: If you declare war for your cores before the Emergency Sejm of 1838, you will get heavy (and i mean, HEAVY) penalties.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_pol1;The bastion of Orthodoxy, the land of the Poles! We have faced the biggest of odds and still came out on top, eternal, and we shall be great for millenia to come! Marsz, Marsz, Polska! §RWARNING: If you declare war for your cores before the Emergency Sejm of 1838, you will get heavy (and i mean, HEAVY) penalties.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 EVTOPTA_pol1;Jeszcze Polska nie zginęła!;;;;;;;;;;;;;;;
 EVTNAME_pol2;The Sejm Pacifism;;;;;;;;;;;;;;;
 EVTDESC_pol2;We have tried to push a war against a foreign country even without the support of the Sejm, overriding the "democracy" in our country. This left the Szlachta extremely angry, and it's improbable our war efforts will lead anywhere.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,, 
