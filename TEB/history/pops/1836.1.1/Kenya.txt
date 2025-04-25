@@ -494,13 +494,13 @@
 	aristocrats = {
 		culture = somali
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	clergymen = {
 		culture = somali
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
@@ -512,13 +512,13 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = somali
 		religion = sunni
-		size = 2700
+		size = 20700
 	}
 }
 #Upper Swahili Coast Region (304000)  

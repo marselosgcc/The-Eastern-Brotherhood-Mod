@@ -3,5 +3,6 @@ controller = SHW
 add_core = SHW
 add_core = GON
 add_core = ETH
+add_core = TIG
 trade_goods = cattle
 life_rating = 30

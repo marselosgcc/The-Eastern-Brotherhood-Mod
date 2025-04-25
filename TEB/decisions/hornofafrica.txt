@@ -1,0 +1,14 @@
+political_decisions = {
+annex_ogaden = {
+    picture = "conquest"
+    potential = { 
+    tag = SOM
+    OGD = { exists = yes } 
+    OGD = { is_vassal = yes } 
+}
+allow = { SOM = { civilized = yes } }
+
+effect = {  SOM = { inherit = OGD }
+}
+}
+}

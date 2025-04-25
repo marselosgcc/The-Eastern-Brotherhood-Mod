@@ -68,11 +68,23 @@ form_somalia = {
         change_tag = SOM
         add_accepted_culture = somali
         add_accepted_culture = harari
-    }
+		2025 = {
+            add_core = SOM
+            }
+		2031 = {
+            add_core = SOM
+            }
+		2032 = {
+            add_core = SOM
+            }
+		1864 = {
+            add_core = SOM
+            }
+        }
     ai_will_do = {
         factor = 1
     }
-} 
+}
 form_abyssinia = {
     picture = "form_abyssinia_pic"
     potential = {
@@ -99,6 +111,47 @@ form_abyssinia = {
         add_accepted_culture = tigray
         add_accepted_culture = cushitic
         add_accepted_culture = sidama
+		add_accepted_culture = keffichojewish
+		add_accepted_culture = luo
+		1848 = {
+            add_core = ETH
+            }
+		1849 = {
+            add_core = ETH
+            }
+		1850 = {
+            add_core = ETH
+            }
+		1851 = {
+            add_core = ETH
+            }
+		1858 = {
+            add_core = ETH
+            }
+		1861 = {
+            add_core = ETH
+            }
+		1864 = {
+            add_core = ETH
+            }
+		1865 = {
+            add_core = ETH
+            }
+		1866 = {
+            add_core = ETH
+            }
+		1867 = {
+            add_core = ETH
+            }
+        }
+		1847 = {
+            add_core = ETH
+            }
+        }
+		1832 = {
+            add_core = ETH
+            }
+        }
     }
     ai_will_do = {
         factor = 1

@@ -1,6 +1,7 @@
 owner = LOR
 controller = LOR
 add_core = LIE
+add_core = TRZ
 trade_goods = fish
 life_rating = 30
 colonial = 2	

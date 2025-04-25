@@ -2,5 +2,7 @@ owner = TIG
 controller = TIG
 add_core = TIG
 add_core = ETH
+add_core = GON
+add_core = SHW
 trade_goods = cattle
 life_rating = 30

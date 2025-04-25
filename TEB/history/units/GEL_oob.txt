@@ -1,0 +1,25 @@
+
+army = {
+	name = "Southern Royalists"
+	location = 1871
+	regiment = {
+		name= "1. Somali Brigade"
+		type = infantry
+		home = 1868
+	}
+
+	regiment = {
+		name= "2. Somali Brigade"
+		type = irregular
+		home = 1869
+	}
+}
+
+leader = {
+	name = "Amir Bimaal Dir"
+	date = 1803.1.1
+	type = land
+	personality = harsh
+	background = old_school
+	prestige = 0.90
+}
