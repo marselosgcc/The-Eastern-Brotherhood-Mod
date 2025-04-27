@@ -329,7 +329,7 @@
 }
 #Tana Region (324000)  
 #uncolonized in 1836
-#Marsabit (52000/13000 POPS
+#Marsabit 
 2025 = {
 	aristocrats = {
 		culture = kikuyu
@@ -389,6 +389,42 @@
 		culture = oromo
 		religion = coptic
 		size = 4575
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 1000
+	}
+	
+	slaves = {
+		culture = somali
+		religion = coptic
+		size = 8000
+	}
+	
+	slaves = {
+		culture = somali
+		religion = sunni
+		size = 2000
 	}
 }
 #Wajir (100000/25000 POPS)

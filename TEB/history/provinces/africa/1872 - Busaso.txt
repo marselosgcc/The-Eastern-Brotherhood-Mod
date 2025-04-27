@@ -1,6 +1,7 @@
 owner = WRL
 controller = WRL
 add_core = WRL
+add_core = MAJ
 add_core = SOM
 trade_goods = grain
 life_rating = 30

@@ -1,0 +1,87 @@
+country_event = {
+    id = 89000
+    title = "EVTNAME_SOMCAP"
+    desc = "EVTDESC_SOMCAP"
+    picture = somaliatown
+    
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "EVTOPTA_SOMCAP"
+        SOM = {
+            capital = 1874
+            1874 = { change_province_name = "Nabadgelyo"}
+            1874 = { add_province_modifier = { name = recently_built_city duration = 4380 } }
+            research_points = 5000
+            prestige = 15
+        }
+        
+        ai_chance = {
+            factor = 0.4
+        }
+    }
+    
+    option = {
+        name = "EVTOPTB_SOMCAP"
+        SOM = {
+            capital = 1873
+            1873 = { change_province_name = "Qurux Wanaag"}
+            1873 = { add_province_modifier = { name = recently_built_city duration = 3650 } }
+            research_points = 2000
+            prestige = 20
+        }
+        
+        ai_chance = {
+            factor = 0.2
+        }
+    }
+    
+    option = {
+        name = "EVTOPTC_SOMCAP"
+        SOM = {
+            capital = 1870
+            1870 = { change_province_name = "Horumar"}
+            1870 = { add_province_modifier = { name = recently_built_city duration = 3650 } }
+            research_points = 10000
+            nationalvalue = nv_equality
+            plurality = 10
+        }
+        
+        ai_chance = {
+            factor = 0.2
+        }
+    }
+    
+    option = {
+        name = "EVTOPTD_SOMCAP"
+        SOM = {
+            1868 = { change_province_name = "New Mogadishu"}
+            1868 = { add_province_modifier = { name = recently_built_city duration = 1825 } }
+            plurality = -10
+            research_points = 20000
+        }
+        
+        ai_chance = {
+            factor = 0.1
+        }
+    }
+    
+    option = {
+        name = "EVTOPTE_SOMCAP"
+        SOM = {
+            capital = 1871
+            1871 = { change_province_name = "Magaalada Nyela"}
+            1871 = { add_province_modifier = { name = recently_built_city duration = 3650 } }
+            research_points = 9000
+            nationalvalue = nv_liberty
+            plurality = 4
+        }
+        
+        ai_chance = {
+            factor = 0.1
+        }
+    }
+    
+}

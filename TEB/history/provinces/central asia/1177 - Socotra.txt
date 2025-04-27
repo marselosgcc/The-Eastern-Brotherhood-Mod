@@ -2,6 +2,7 @@ owner = FRA
 controller = FRA
 add_core = OMA
 add_core = SOM
+add_core = MAJ
 add_core = YEM
 trade_goods = fish
 life_rating = 35

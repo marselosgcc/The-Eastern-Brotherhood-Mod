@@ -1,14 +1,78 @@
 political_decisions = {
-annex_ogaden = {
-    picture = "conquest"
-    potential = { 
-    tag = SOM
-    OGD = { exists = yes } 
-    OGD = { is_vassal = yes } 
-}
-allow = { SOM = { civilized = yes } }
+    annex_ogaden = {
+        picture = conquest
+        potential = {
+            tag = SOM
+            country_exists = OGD
+            OGD = { is_vassal_of = SOM }
+            NOT = {has_global_flag = ogaden_annexed}
+        }
+        allow = {
+            civilized = yes
+            war = no
+            NOT = { badboy = 0.50 } 
+        }
+        effect =  {
+            inherit = OGD
+            prestige = 5
+            badboy = 10
+            set_global_flag = ogaden_annexed 
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
 
-effect = {  SOM = { inherit = OGD }
-}
-}
+    annex_harar = {
+        picture = conquest
+        potential = {
+            tag = SOM
+            country_exists = HAR
+            HAR = { is_vassal_of = SOM }
+            NOT = { country_exists = OGD }
+            NOT = { has_global_flag = harar_annexed }
+            has_global_flag = ogaden_annexed
+        }
+        allow = {
+             war = no
+             NOT = { badboy = 0.30 }
+        }
+        effect = {
+            inherit = HAR
+            prestige = 10
+            badboy = 5
+            add_accepted_culture = oromo
+            set_global_flag = harar_annexed
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    somalian_capital = {
+        picture = somaliatown
+        potential            = {
+           tag = SOM
+           owns = 1868
+           owns = 1869
+           owns = 1870
+           owns = 1871
+           owns = 1872
+           owns = 1873
+           owns = 1874
+           NOT = { has_global_flag = somalian_capital_builded }
+        }
+        allow = {
+            war = no
+            money = 100000 
+            government = absolute_monarchy
+        }
+        effect = {
+            money = -80000
+            set_global_flag = somalian_capital_builded
+            country_event = {
+                id = 89000
+                days = -1
+            }
+        }
+    }
 }

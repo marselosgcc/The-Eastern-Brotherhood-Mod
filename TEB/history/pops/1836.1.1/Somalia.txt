@@ -24,7 +24,7 @@
 	clergymen = {
 		culture = somali
 		religion = sunni
-		size = 550
+		size = 1550
 	}
 
 	artisans = {
@@ -36,7 +36,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size = 1125
+		size = 5625
 	}
 
 	farmers = {
@@ -203,19 +203,19 @@
 	bureaucrats = {
 		culture = somali
 		religion = sunni
-		size = 50
+		size = 350
 	}
 
 	officers = {
 		culture = somali
 		religion = sunni
-		size = 50
+		size = 500
 	}
 
 	clergymen = {
 		culture = somali
 		religion = sunni
-		size = 275
+		size = 975
 	}
 
 	artisans = {
@@ -227,7 +227,7 @@
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size = 1000
+		size = 9000
 	}
 
 	farmers = {
@@ -267,7 +267,7 @@
 	clergymen = {
 		culture = somali
 		religion = sunni
-		size = 450
+		size = 750
 	}
 
 	artisans = {

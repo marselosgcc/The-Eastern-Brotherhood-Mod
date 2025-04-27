@@ -4,7 +4,7 @@ culture = amhara
 culture = cushitic
 culture = nilotic
 religion = sunni
-government = absolute_monarchy
+government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.09	
@@ -41,7 +41,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 
-ruling_party = generic_conservative
+ruling_party = generic_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 10

@@ -1,8 +1,10 @@
 name = "Ajuran Restoration War"
 
-1835.10.12 = {
-	add_attacker = GEL
-	add_defender = WRL
+1835.6.7 = {
+	add_defender = GEL
+	add_defender = OGD
+	add_defender = HAR
+	add_attacker = WRL
 
 	war_goal = {
 		casus_belli = unification_annex_casus_belli
@@ -13,6 +15,17 @@ name = "Ajuran Restoration War"
 		casus_belli = unification_annex_casus_belli
 		actor = GEL
 		receiver = WRL
+	}
+	war_goal = {
+		casus_belli = war_reparations
+		actor = WRL
+		receiver = OGD
+	}
+
+	war_goal = {
+		casus_belli = war_reparations
+		actor = WRL
+		receiver = HAR
 	}
 
 }

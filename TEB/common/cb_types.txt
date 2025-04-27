@@ -6965,3 +6965,49 @@ war_reparations = {
 	}
 }
 
+restore_ethiopia = {
+    sprite_index = 21
+    is_triggered_only = yes
+    months = 12
+
+    construction_speed = 0.0
+
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 0.5
+    penalty_factor = 1
+    always = yes
+
+    break_truce_prestige_factor = 5
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 8
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+	    year = 1844
+        NOT = { is_our_vassal = THIS }
+        NOT = { has_global_flag = ethiopia_formed }
+        THIS = {
+            is_culture_group = abyssinian
+            NOT = { tag = ETH } OR = ( primary_culture = keffichojewish ) 
+        }
+        is_vassal = no
+        neighbour = THIS
+        any_owned_province = {
+            is_core = ETH
+        }
+	}
+    allowed_states = {
+        any_owned_province = {
+            is_core = ETH
+        }
+    }
+
+    po_annex = yes
+
+    war_name = WAR_RESTORE_ETHIOPIA_NAME
+}

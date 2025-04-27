@@ -171,6 +171,30 @@
 		size = 4775
 	}
 
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 2000
+	}
+
 	slaves = {
 		culture = kefficho
 		religion = animist

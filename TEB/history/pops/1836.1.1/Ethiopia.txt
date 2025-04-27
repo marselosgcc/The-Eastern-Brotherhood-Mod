@@ -27,13 +27,13 @@
 	}
 
 	artisans = {
-		culture = amhara
+		culture = keffichojewish
 		religion = jewish
 		size = 5650
 	}
 
 	soldiers = {
-		culture = amhara
+		culture = keffichojewish
 		religion = jewish
 		size = 5020
 	}
@@ -57,7 +57,7 @@
 	}
 	
 	officers = {
-		culture = amhara
+		culture = kefficho
 		religion = jewish
 		size = 105
 	}
@@ -958,6 +958,37 @@
 		size = 10000
 	}
 	
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 1500
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 10000
+	}
+
+	slaves = {
+		culture = somali
+		religion = fetishist
+		size = 10000
+	}
+	
 	#From here on they were amhara and coptic
 	aristocrats = {
 		culture = oromo
@@ -1012,39 +1043,39 @@
 #Bonga (516000/129000 POPS)
 1862 = {
 	aristocrats = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
 		size = 1000
 	}
 	
 	officers = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
 		size = 1000
 	}
 
 	clergymen = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
 		size = 1000
 	}
 	
 	soldiers = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
 		size = 2000
 	}
 	
 	farmers = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
-		size = 40100
+		size = 4010
 	}
 	
 	artisans = {
-		culture = kefficho
+		culture = keffichojewish
 		religion = jewish
-		size = 20200
+		size = 2020
 	}
 	
 	aristocrats = {
@@ -1074,7 +1105,7 @@
 	farmers = {
 		culture = kefficho
 		religion = coptic
-		size = 7000
+		size = 70000
 	}
 	
 	aristocrats = {
@@ -1086,7 +1117,7 @@
 	farmers = {
 		culture = luo
 		religion = coptic
-		size = 1000
+		size = 10000
 	}
 	
 	farmers = {
@@ -1411,9 +1442,39 @@
 		religion = fetishist
 		size = 9875
 	}
+	,
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 2000
+	}
+
+	artisans = {
+		culture = somali
+		religion = fetishist
+		size = 600
+	}
+
+	soldiers = {
+		culture = somali
+		religion = fetishist
+		size = 275
+	}
+
+	farmers = {
+		culture = somali
+		religion = fetishist
+		size = 10000
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 1000
+	}
 
 	slaves = {
-		culture = cushitic
+		culture = somali
 		religion = fetishist
 		size = 7000
 	}
@@ -1568,6 +1629,36 @@
 		culture = cushitic
 		religion = fetishist
 		size = 5000
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = somali
+		religion = coptic
+		size = 200
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 15000
+	}
+	
+	slaves = {
+		culture = somali
+		religion = fetishist
+		size = 25000
 	}
 	
 }

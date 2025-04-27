@@ -4,21 +4,43 @@ army = {
 	location = 1872
 	regiment = {
 		name= "1. Somali Brigade"
-		type = infantry
+		type = guard
 		home = 1872
 	}
 
 	regiment = {
 		name= "2. Somali Brigade"
-		type = infantry
+		type = dragoon
 		home = 1873
 	}
 }
-leader = {
+army = {
+	name = "Majeerten Royalists"
+	location = 1873
+	regiment = {
+		name= "1. Majeerten Brigade"
+		type = infantry
+		home = 1872
+	}
+	regiment = {
+		name= "2. Majeerten Brigade"
+		type = infantry
+		home = 1872
+	}
+}
+   leader = {
 	name = "Diria Sugulleh Ainashe"
 	date = 1798.1.1
 	type = land
 	personality = heroic
 	background = aristocrat
 	prestige = 0.9
+} 
+   leader = {
+	name = "Boqor Mahmud Yusufe"
+	date = 1800.10.7
+	type = land
+	personality = cautious
+	background = poet
+	prestige = 0.25
 }
