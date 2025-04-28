@@ -6988,6 +6988,7 @@ restore_ethiopia = {
     good_relation_militancy_factor = 1
 
     can_use = {
+		year = 1843
         NOT = { is_our_vassal = THIS }
         NOT = { has_global_flag = ethiopia_formed }
         THIS = {
