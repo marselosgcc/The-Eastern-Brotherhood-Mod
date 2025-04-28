@@ -6974,7 +6974,7 @@ restore_ethiopia = {
 
     badboy_factor = 0
     prestige_factor = 0
-    peace_cost_factor = 0.5
+    peace_cost_factor = 0.75
     penalty_factor = 1
     always = yes
 
@@ -6988,24 +6988,19 @@ restore_ethiopia = {
     good_relation_militancy_factor = 1
 
     can_use = {
-	    year = 1844
         NOT = { is_our_vassal = THIS }
         NOT = { has_global_flag = ethiopia_formed }
         THIS = {
-            is_culture_group = abyssinian
-            NOT = { tag = ETH } OR = ( primary_culture = keffichojewish ) 
+		OR = { tag = KAF 
+		is_culture_group = abyssinian }	 
+        NOT = { tag = ETH }
         }
         is_vassal = no
-        neighbour = THIS
+         neighbour = THIS
         any_owned_province = {
             is_core = ETH
         }
 	}
-    allowed_states = {
-        any_owned_province = {
-            is_core = ETH
-        }
-    }
 
     po_annex = yes
 
