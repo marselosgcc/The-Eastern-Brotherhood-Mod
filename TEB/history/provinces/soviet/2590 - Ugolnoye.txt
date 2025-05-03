@@ -1,5 +1,8 @@
-owner = SPC
-controller = SPC
+owner = SIC
+controller = SIC
+add_core = MOR
+add_core = LIE
+add_core = SIC
 add_core = SPC
 trade_goods = fish
 life_rating = 35

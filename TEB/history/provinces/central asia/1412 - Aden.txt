@@ -5,3 +5,4 @@ add_core = YEM
 add_core = ARU
 trade_goods = fish
 life_rating = 35
+colonial = 2

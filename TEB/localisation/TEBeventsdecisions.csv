@@ -70,3 +70,15 @@ EVTOPTD_SOMCAP;We must only renew the city of Mogadishu, and defend tradition at
 EVTOPTE_SOMCAP;Hobyo, it is at the center and ends up not moving the center of power to the south or north;;;;;;;;;;;;;;;
 somalian_capital_title;Build a New Capital;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 somalian_capital_desc;Now that we are in a good situation, we can think about building a new seat for the government...;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+som_buy_socotra_title;Buy Socotra;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+som_buy_socotra_desc;With the conquest of Aden by France, we had the opportunity to buy back Socotra for Somalia now that the island had lost its purpose for France.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_SOCOTSOM;A Offer from Somalia!;;;;;;;;;;;;;;;
+EVTDESC_SOCOTSOM;The Somalis are offering us a large amount of money to buy the island of Socotra.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_SOCOTSOM;Accept the offer;;;;;;;;;;;;;;;
+EVTOPTB_SOCOTSOM;Refuse the offer;;;;;;;;;;;;;;;
+EVTNAME_FAILED_SOM;Refusal to purchase;;;;;;;;;;;;;;;
+EVTDESC_FAILED_SOM;Our offer to buy Socotra was refused. We only have military alternatives if we want the island now.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_FAILED_SOM;Unfortunate;;;;;;;;;;;;;;;
+EVTNAME_SUCESS_SOM;Territory Sale Accepted!;;;;;;;;;;;;;;;
+EVTDESC_SUCESS_SOM;We managed to acquire Socotra island peacefully from.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_SUCESS_SOM;Excellent!;;;;;;;;;;;;;;;

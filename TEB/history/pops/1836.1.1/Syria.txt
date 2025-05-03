@@ -948,3 +948,32 @@
 	}
 
 }
+
+3283 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3284 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3285 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}
+3287 = {
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+}

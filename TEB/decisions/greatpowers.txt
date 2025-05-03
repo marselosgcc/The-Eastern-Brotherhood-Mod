@@ -25,7 +25,7 @@ political_decisions = {
 			 1412 = { 
             add_province_modifier = {
                 name = "baby_boom"
-                duration = 1095 
+                duration = 4380 
             }
         }
         }
@@ -60,7 +60,7 @@ political_decisions = {
 			1178 = { 
             add_province_modifier = {
                 name = "baby_boom"
-                duration = 2920 
+                duration = 2190
             }
         }
         }

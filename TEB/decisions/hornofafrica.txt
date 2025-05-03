@@ -63,11 +63,11 @@ political_decisions = {
         }
         allow = {
             war = no
-            money = 100000 
+            money = 20000 
             government = absolute_monarchy
         }
         effect = {
-            money = -80000
+            money = -20000
             set_global_flag = somalian_capital_builded
             country_event = {
                 id = 89000
@@ -75,4 +75,43 @@ political_decisions = {
             }
         }
     }
+    som_buy_socotra = { 
+    picture = socotra_yemen
+    potential = {
+        tag = SOM
+        NOT = { has_global_flag = som_buy_socotra }
+        1177 = {
+            is_owned = yes
+            owner = { NOT = { tag = SOM } }
+        }
+        1177 = {
+            owner = {
+                OR = {
+                    tag = FRA
+                    AND = {
+                        is_vassal = yes
+                        overlord = { tag = FRA }
+                    }
+                }
+            }
+        }
+    }
+    allow = {
+        war = no
+        money = 100000
+    }
+    effect = {
+        money = -100000
+        1177 = {
+            owner = {
+                province_event = { id = 89001
+                days = -1 }
+            }
+        }
+        set_global_flag = som_buy_socotra
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
 }
