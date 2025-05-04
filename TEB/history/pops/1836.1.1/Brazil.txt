@@ -4577,3 +4577,10 @@
 	}
 
 }
+3288 = {
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 2700
+	}
+}
