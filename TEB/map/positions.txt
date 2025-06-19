@@ -14077,7 +14077,7 @@
         naval_base = 5.061456
     }
 
-} # G�vle
+} # G?vle
 
 317 = {
     unit = {
@@ -14170,7 +14170,7 @@
         naval_base = 3.926992
     }
 
-} # �stersund
+} # ?stersund
 
 319 = {
     unit = {
@@ -14230,7 +14230,7 @@
 
     }
 
-} # Ume�
+} # Ume?
 
 320 = {
     unit = {
@@ -14300,7 +14300,7 @@
         naval_base = 3.752459
     }
 
-} # Lule�
+} # Lule?
 
 321 = {
     unit = {
@@ -14512,7 +14512,7 @@
         naval_base = 2.530728
     }
 
-} # Norrk�ping
+} # Norrk?ping
 
 325 = {
     unit = {
@@ -14553,7 +14553,7 @@
         naval_base = 2.879794
     }
 
-} # V�ster�s
+} # V?ster?s
 
 326 = {
     unit = {
@@ -14633,7 +14633,7 @@
         naval_base = 4.188792
     }
 
-} # �rebro
+} # ?rebro
 
 327 = {
     unit = {
@@ -14750,7 +14750,7 @@
 
     }
 
-} # G�teborg
+} # G?teborg
 
 329 = {
     unit = {
@@ -14806,7 +14806,7 @@
 
     }
 
-} # Bor�s
+} # Bor?s
 
 330 = {
     unit = {
@@ -14950,7 +14950,7 @@
         naval_base = 2.792527
     }
 
-} # V�xj�
+} # V?xj?
 
 333 = {
     unit = {
@@ -14987,7 +14987,7 @@
 
     }
 
-} # Malm�
+} # Malm?
 
 334 = {
     unit = {
@@ -15943,7 +15943,7 @@
 
     }
 
-} # �sel
+} # ?sel
 
 353 = {
     text_position = {
@@ -27738,7 +27738,7 @@
 
     }
 
-} # Resicab�nya
+} # Resicab?nya
 
 653 = {
     text_position = {
@@ -29297,7 +29297,7 @@
 
     }
 
-} # K�nigsberg
+} # K?nigsberg
 
 695 = {
     text_position = {
@@ -37756,8 +37756,8 @@
 
 901 = {
     text_position = {
-        x = 3428.520000
-        y = 1369.540000
+        x = 3408.900000
+        y = 1369.250000
     }
 
     text_scale = 3.199999
@@ -37957,8 +37957,8 @@
 
 907 = {
     text_position = {
-        x = 3438.185000
-        y = 1340.415000
+        x = 3440.840000
+        y = 1346.470000
     }
 
     text_rotation = 0.7
@@ -37974,8 +37974,8 @@
     }
 
     building_construction = {
-        x = 3434.955000
-        y = 1332.625000
+        x = 3440.210000
+        y = 1352.910000
     }
 
     military_construction = {
@@ -38558,8 +38558,8 @@
 
 924 = {
     text_position = {
-        x = 3500.120000
-        y = 1368.766667
+        x = 3472.250000
+        y = 1377.550000
     }
 
     text_scale = 3.199999
@@ -91315,7 +91315,7 @@
         naval_base = 2.530728
     }
 
-} # Le�n
+} # Le?n
 
 2199 = {
     unit = {
@@ -93441,7 +93441,7 @@
 
     }
 
-} # Ibagu�
+} # Ibagu?
 
 2248 = {
     text_position = {
@@ -98985,7 +98985,7 @@
 
     }
 
-} # Neuqu�n
+} # Neuqu?n
 
 2391 = {
     text_position = {
@@ -112494,7 +112494,7 @@
 
     }
 
-} # V�nern
+} # V?nern
 
 2703 = {
     unit = {
@@ -112509,7 +112509,7 @@
 
     text_rotation = 1.134464
     text_scale = 2.200000
-} # V�ttern
+} # V?ttern
 
 2704 = {
     text_position = {
@@ -112534,7 +112534,7 @@
 
     text_rotation = 0.698132
     text_scale = 3.099999
-} # �lands Hav
+} # ?lands Hav
 
 2706 = {
     unit = {
@@ -112606,7 +112606,7 @@
     }
 
     text_scale = 3.099999
-} # �resund
+} # ?resund
 
 2711 = {
     unit = {
@@ -112636,7 +112636,7 @@
 
     text_rotation = 0.523599
     text_scale = 3.099999
-} # Peipsi J�rv
+} # Peipsi J?rv
 
 2713 = {
     unit = {
@@ -120667,10 +120667,11 @@
 
 3283 = {
     text_position = {
-        x = 3435.720000
-        y = 1371.520000
+        x = 3434.760000
+        y = 1373.200000
     }
 
+    text_scale = 6
     unit = {
         x = 3432.480000
         y = 1368.880000
@@ -120708,10 +120709,12 @@
 
 3284 = {
     text_position = {
-        x = 3414.440000
-        y = 1334.053333
+        x = 3418.108333
+        y = 1332.928333
     }
 
+    text_rotation = 0,5
+    text_scale = 5
     unit = {
         x = 3404.733333
         y = 1324.026667
@@ -120758,6 +120761,7 @@
         y = 1348.350000
     }
 
+    text_scale = 3
     unit = {
         x = 3383.450000
         y = 1348.050000
@@ -120804,6 +120808,7 @@
         y = 1370.020000
     }
 
+    text_scale = 5
     unit = {
         x = 3491.130000
         y = 1364.105000
