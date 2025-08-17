@@ -4,7 +4,6 @@
 
 
 proletarian_dictatorship = {
-	#which ideology of parties.
 	communist = yes
 	  
 	election = no
@@ -18,7 +17,8 @@ socialist_republic = {
 	socialist = yes
 	natsyn = yes
 	
-	election = 48
+	election = yes
+	duration = 96
 	appoint_ruling_party = no
 	flagType = communist
 }
@@ -35,7 +35,6 @@ presidential_dictatorship = {
 }
 
 colonial_company = {
-	#which ideology of parties.
 	liberal = yes
 	socialist = yes
 	conservative = yes
@@ -53,6 +52,7 @@ dominion = {
 	communist = yes
 	anarcho_liberal = yes
 	fascist = yes
+	natsyn = yes
 	
 	election = yes
 	duration = 48
@@ -61,7 +61,6 @@ dominion = {
 
  
 bourgeois_dictatorship = {
-	#which ideology of parties.
 	anarcho_liberal = yes
 	
 	election = no
@@ -75,7 +74,7 @@ fascist_dictatorship = {
 	natsyn = yes
 	
 	election = no
-	appoint_ruling_party = no
+	appoint_ruling_party = yes
 	flagType = fascist
 }
  
@@ -92,7 +91,6 @@ absolute_monarchy = {
  
 prussian_constitutionalism = {
 	liberal = yes
-	socialist = yes
 	conservative = yes
 	reactionary = yes
 	
@@ -127,7 +125,7 @@ democracy = {
 	communist = yes
 	anarcho_liberal = yes
 	fascist = yes
-	
+	natsyn = yes
 	
 	election = yes
 	duration = 48
@@ -151,7 +149,6 @@ federal_democracy = {
 }
 
 theocracy = {
-	#which ideology of parties.
 	reactionary = yes
 	conservative = yes
 	
@@ -178,7 +175,7 @@ pirate_government = {
 	socialist = yes
 	communist = yes
 	anarcho_liberal = yes
-	fascist = yes
+	natsyn = yes
 	
 	election = yes
 	duration = 120
@@ -187,7 +184,6 @@ pirate_government = {
 }
 
 fascist_monarchy = {
-	#which ideology of parties.
 	fascist = yes
 	natsyn = yes
 	
