@@ -54,27 +54,27 @@
 	aristocrats = {
 		culture = albanian
 		religion = reformed
-		size = 880
+		size = 1880
 	}
 	clergymen = {
 		culture = albanian
 		religion = reformed
-		size = 307
+		size = 1307
 	}
 	artisans = {
 		culture = albanian
 		religion = reformed
-		size = 1556
+		size = 3556
 	}
 	soldiers = {
 		culture = albanian
 		religion = reformed
-		size = 819
+		size = 1819
 	}
 	farmers = {
 		culture = albanian
 		religion = reformed
-		size = 30566
+		size = 48566
 	}
 	
 	aristocrats = {
@@ -244,6 +244,16 @@
 		culture = albanian
 		religion = orthodox
 		size = 1000
+	}
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 3000
+	}
+	soldiers = {
+		culture = albanian
+		religion = catholic
+		size = 500
 	}
 	clergymen = {
 		culture = albanian

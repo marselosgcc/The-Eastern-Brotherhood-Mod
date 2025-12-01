@@ -73,6 +73,30 @@
 		religion = catholic
 		size = 15000
 	}
+	
+	clergymen = {
+		culture = afro_italic
+		religion = catholic
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = afro_italic
+		religion = catholic
+		size = 4000
+	}
+	
+	artisans = {
+		culture = afro_italic
+		religion = catholic
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = afro_italic
+		religion = catholic
+		size = 100
+	}
 }
 #Abeokuta (784000/196000 POPS)
 1924 = {

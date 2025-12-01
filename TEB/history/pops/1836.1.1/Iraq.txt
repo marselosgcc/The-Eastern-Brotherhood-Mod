@@ -1147,6 +1147,60 @@
 		religion = shiite
 		size = 19375
 	}
+	
+	artisans = {
+		culture = assyrian
+		religion = syriac
+		size = 250
+	}
+
+	soldiers = {
+		culture = assyrian
+		religion = syriac
+		size = 50
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = sunni
+		size = 4550
+	}
+
+	aristocrats = {
+		culture = assyrian
+		religion = syriac
+		size = 375
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = syriac
+		size = 200
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = syriac
+		size = 1050
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = syriac
+		size = 15000
+	}
+	
+	farmers = {
+		culture = mashriqi
+		religion = syriac
+		size = 12000
+	}
+	
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 5000
+	}
 }
 #Nasiriyya (152000/38000 POPS)
 933 = {

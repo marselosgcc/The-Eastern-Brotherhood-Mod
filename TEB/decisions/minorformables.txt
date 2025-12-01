@@ -254,9 +254,10 @@ form_west_germany = {
         prestige = 15
         change_tag = WGF
         add_accepted_culture = dutch
+        add_accepted_culture = south_german
         add_accepted_culture = rhinelander
         add_accepted_culture = north_german
-        set_global_flag = east_germany_formed
+        set_global_flag = west_germany_formed
         any_country = {
             limit = {
                 NOT = {
@@ -275,8 +276,8 @@ form_west_germany = {
         factor = 1
     }
 }
-form_west_germany = {
-    picture = "form_west_germany_pic"
+form_east_germany = {
+    picture = "form_east_germany_pic"
     potential = {
         OR = {
             primary_culture = north_german
@@ -304,7 +305,7 @@ form_west_germany = {
     }
     effect = {
         prestige = 15
-        change_tag = SGF
+        change_tag = WGF
         add_accepted_culture = south_german
         add_accepted_culture = north_german
         add_accepted_culture = rhinelander
@@ -428,6 +429,8 @@ form_transcaucasia = {
         add_accepted_culture = dagestani
         add_accepted_culture = chechen
         add_accepted_culture = circassian
+        add_accepted_culture = armenian
+        add_accepted_culture = georgian
     }
     ai_will_do = {
         factor = 1

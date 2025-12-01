@@ -884,6 +884,24 @@
 		religion = jewish
 		size = 750
 	}
+	
+	soldiers = {
+		culture = gypsy
+		religion = catholic
+		size = 1000
+	}
+	
+	artisans = {
+		culture = gypsy
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = catholic
+		size = 13000
+	}
 }
 #Stara Zagora (80000/20000 POPS)
 816 = {
@@ -969,6 +987,30 @@
 		culture = hungarian
 		religion = catholic
 		size = 4850
+	}
+	
+	clergymen = {
+		culture = gypsy
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = gypsy
+		religion = catholic
+		size = 4300
+	}
+	
+	artisans = {
+		culture = gypsy
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = catholic
+		size = 25000
 	}
 }
 #Burgas (196000/49000 POPS)

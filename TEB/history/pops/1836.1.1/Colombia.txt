@@ -475,18 +475,60 @@
 	soldiers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 75
+		size = 1075
 	}
 
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 1500
+		size = 5500
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 5000
+	}
+
+	clergymen = {
+		culture = panamaisch
+		religion = reformed
+		size = 200
+	}
+
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 350
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 750
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = protestant
 		size = 5000
 	}
 }
@@ -519,7 +561,7 @@
 	farmers = {
 		culture = north_andean
 		religion = catholic
-		size = 20575
+		size = 40575
 	}
 
 	clergymen = {
@@ -575,6 +617,61 @@
 		religion = catholic
 		size = 1850
 	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 2
+	}
+	
+	officers = {
+		culture = panamaisch
+		religion = reformed
+		size = 100
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 25000
+	}
+
+	clergymen = {
+		culture = panamaisch
+		religion = reformed
+		size = 1400
+	}
+
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 5350
+	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 3750
+	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 5350
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 150
+	}
+
 }
 #Barranquilla (132000/33000 POPS)
 2255 = {

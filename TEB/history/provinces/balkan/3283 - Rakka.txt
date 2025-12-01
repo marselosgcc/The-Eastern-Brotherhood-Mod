@@ -1,7 +1,10 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = ASY
+controller = ASY
+add_core = ASY
 add_core = TUR
+add_core = ARU
+add_core = IRQ
+add_core = KDS
 trade_goods = fruit
 life_rating = 35
 

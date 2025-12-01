@@ -7784,155 +7784,262 @@
 		religion = catholic
 		size = 17650
 	}
+	
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 9000
+	}
+	
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 2500
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 4000
+	}
 }
 #Florida Region (88000)
 #ruled by the USA
 #Tallahassee (32000/8000 POPS)
 198 = {
 	aristocrats = {
-		culture = yankee
-		religion = protestant
+		culture = akadyjski
+		religion = orthodox
 		size = 100
 	}
-
-	bureaucrats = {
-		culture = yankee
-		religion = protestant
-		size = 25
-	}
-
+	
 	officers = {
-		culture = yankee
-		religion = protestant
-		size = 25
+		culture = akadyjski
+		religion = orthodox
+		size = 200
 	}
 
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
+		culture = akadyjski
+		religion = orthodox
+		size = 400
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 175
+		culture = akadyjski
+		religion = catholic
+		size = 2300
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 75
+		culture = akadyjski
+		religion = catholic
+		size = 3000
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 3550
+		culture = akadyjski
+		religion = catholic
+		size = 9000
+	}
+	
+	soldiers = {
+		culture = akadyjski
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = akadyjski
+		religion = orthodox
+		size = 7000
+	}
+	
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 500
+	}
+	
+	officers = {
+		culture = berber
+		religion = sunni
+		size = 20
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = berber
+		religion = sunni
+		size = 1000
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 80
+		culture = berber
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 1200
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = berber
+		religion = sunni
+		size = 15000
+	}
+	
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 4000
 	}
 
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 3900
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 11000
 	}
 }
 #St Augustine (48000/12000 POPS)
 199 = {
 	aristocrats = {
-		culture = yankee
-		religion = catholic
-		size = 5
-	}
-
-	clergymen = {
-		culture = yankee
-		religion = catholic
-		size = 5
-	}
-
-	artisans = {
-		culture = yankee
-		religion = catholic
+		culture = berber
+		religion = sunni
 		size = 25
 	}
-
-	farmers = {
-		culture = yankee
-		religion = catholic
-		size = 125
-	}
 	
-	aristocrats = {
-		culture = yankee
-		religion = protestant
-		size = 150
+	officers = {
+		culture = berber
+		religion = sunni
+		size = 140
 	}
 
 	clergymen = {
-		culture = yankee
-		religion = protestant
-		size = 50
+		culture = berber
+		religion = sunni
+		size = 300
 	}
 
 	artisans = {
-		culture = yankee
-		religion = protestant
-		size = 325
+		culture = berber
+		religion = sunni
+		size = 300
 	}
 
 	soldiers = {
-		culture = yankee
-		religion = protestant
-		size = 125
+		culture = berber
+		religion = sunni
+		size = 1200
 	}
 
 	farmers = {
-		culture = yankee
-		religion = protestant
-		size = 7350
+		culture = berber
+		religion = sunni
+		size = 9000
+	}
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 125
+	}
+	
+	craftsmen = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
+	}
+	
+	craftsmen = {
+		culture = jadwigan
+		religion = orthodox
+		size = 9000
+	}
+	
+	craftsmen = {
+		culture = jadwigan
+		religion = catholic
+		size = 3000
 	}
 
 	clergymen = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = maghrebi
+		religion = sunni
+		size = 500
 	}
 
 	artisans = {
-		culture = afro_american
-		religion = protestant
-		size = 80
+		culture = maghrebi
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
 	}
 
 	farmers = {
-		culture = afro_american
-		religion = protestant
-		size = 10
+		culture = maghrebi
+		religion = sunni
+		size = 20000
 	}
 
-	slaves = {
-		culture = afro_american
-		religion = protestant
-		size = 3900
+	clergymen = {
+		culture = jadwigan
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = jadwigan
+		religion = orthodox
+		size = 420
+	}
+
+	soldiers = {
+		culture = jadwigan
+		religion = orthodox
+		size = 2000
+	}
+
+	farmers = {
+		culture = jadwigan
+		religion = orthodox
+		size = 15000
 	}
 }
 #Tampa (8000/2000 POPS)
@@ -7965,6 +8072,101 @@
 		culture = native_american_minor
 		religion = animist
 		size = 1800
+	}
+	
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 25
+	}
+	
+	officers = {
+		culture = berber
+		religion = sunni
+		size = 215
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 2500
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 18000
+	}
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 25
+	}
+	
+	craftsmen = {
+		culture = maghrebi
+		religion = sunni
+		size = 2000
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 9000
+	}
+
+	clergymen = {
+		culture = jadwigan
+		religion = orthodox
+		size = 10
+	}
+
+	artisans = {
+		culture = jadwigan
+		religion = orthodox
+		size = 20
+	}
+
+	soldiers = {
+		culture = jadwigan
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = jadwigan
+		religion = orthodox
+		size = 250
 	}
 }
 #Georgia Region (628000)

@@ -1,13 +1,12 @@
 capital = 100
 primary_culture = pueblo
-culture = texan
+culture = dakotan
 culture = mexican
 religion = protestant
 government = presidential_dictatorship
 plurality = 0.1
 nationalvalue = nv_liberty
-literacy = 0.50
-civilized = yes
+literacy = 0.10
 
 
 # Political reforms

@@ -1,4 +1,4 @@
-capital = 2410
+capital = 3288
 primary_culture = amazonian
 religion = animist
 government = hms_government

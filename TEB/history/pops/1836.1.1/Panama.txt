@@ -17,25 +17,25 @@
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 10
+		size = 100
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 895
+		size = 1895
 	}
 
 	clergymen = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	artisans = {
@@ -60,6 +60,72 @@
 		culture = afro_caribeno
 		religion = catholic
 		size = 500
+	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 20
+	}
+	
+	officers = {
+		culture = panamaisch
+		religion = reformed
+		size = 100
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 1200
+	}
+
+	clergymen = {
+		culture = panamaisch
+		religion = reformed
+		size = 100
+	}
+
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 290
+	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 20
+	}
+	
+	clergymen = {
+		culture = panamaisch
+		religion = catholic
+		size = 30
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 15
+	}
+	
+	bureaucrats = {
+		culture = panamaisch
+		religion = reformed
+		size = 90
+	}
+	
+	bureaucrats = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
 	}
 }
 
@@ -92,19 +158,19 @@
 	artisans = {
 		culture = central_american
 		religion = catholic
-		size = 450
+		size = 1450
 	}
 
 	soldiers = {
 		culture = central_american
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 8050
+		size = 10050
 	}
 
 	clergymen = {
@@ -135,6 +201,72 @@
 		culture = afro_caribeno
 		religion = catholic
 		size = 1100
+	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 20
+	}
+	
+	officers = {
+		culture = panamaisch
+		religion = reformed
+		size = 400
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 15000
+	}
+
+	clergymen = {
+		culture = panamaisch
+		religion = reformed
+		size = 1800
+	}
+
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 2900
+	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 4000
+	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 505
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = panamaisch
+		religion = reformed
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
 	}
 }
 #David (28000/7000 POPS)
@@ -198,6 +330,42 @@
 		religion = catholic
 		size = 250
 	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 100
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 200
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 1100
+	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 20
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 30
+	}
 }
 #Penonome (24000/6000 POPS)
 2206 = {
@@ -260,6 +428,24 @@
 		religion = catholic
 		size = 250
 	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 100
+	}
 }
 #Yaviza (12000/3000 POPS)
 2208 = {
@@ -290,7 +476,7 @@
 	farmers = {
 		culture = central_american
 		religion = catholic
-		size = 895
+		size = 5895
 	}
 
 	aristocrats = {
@@ -350,7 +536,61 @@
 	farmers = {
 		culture = nahua #native_american_minor
 		religion = animist
-		size = 900
+		size = 4900
+	}
+	
+	soldiers = {
+		culture = panamaisch
+		religion = catholic
+		size = 2
+	}
+	
+	officers = {
+		culture = panamaisch
+		religion = reformed
+		size = 100
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = reformed
+		size = 5400
+	}
+
+	clergymen = {
+		culture = panamaisch
+		religion = reformed
+		size = 250
+	}
+
+	artisans = {
+		culture = panamaisch
+		religion = reformed
+		size = 300
+	}
+	
+	artisans = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
+	}
+
+	soldiers = {
+		culture = panamaisch
+		religion = reformed
+		size = 1200
+	}
+	
+	clergymen = {
+		culture = panamaisch
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = panamaisch
+		religion = catholic
+		size = 150
 	}
 
 }
