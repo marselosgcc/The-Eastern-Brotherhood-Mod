@@ -401,13 +401,23 @@
 	artisans = {
 		culture = picard
 		religion = reformed
-		size = 13500
+		size = 8500
 	}
 	
 	farmers = {
 		culture = picard
 		religion = catholic
-		size = 65500
+		size = 50500
+	}
+	craftsmen = {
+		culture = picard
+		religion = catholic
+		size = 10000
+	}
+	craftsmen = {
+		culture = picard
+		religion = reformed
+		size = 10000
 	}
 }
 #Charleville (308000/77000 POPS)
