@@ -575,7 +575,21 @@
 		religion = protestant
 		size = 1100
 	}
-
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
 	officers = {
 		culture = british
 		religion = protestant
@@ -757,6 +771,16 @@
 		religion = catholic
 		size = 2075
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
 }
 #Carlisle (216000/54000 POPS)
 279 = {
@@ -800,6 +824,11 @@
 		culture = irish
 		religion = catholic
 		size = 1250
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
 	}
 
 }
@@ -852,6 +881,11 @@
 		religion = catholic
 		size = 4000
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 40000
+	}
 }
 #Hull (512000/128000 POPS)
 281 = {
@@ -895,7 +929,12 @@
 	labourers = {
 		culture = british
 		religion = catholic
-		size = 5000
+		size = 15000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
 	}
 }
 #Leeds (468000/117000 POPS)
@@ -941,6 +980,16 @@
 		culture = british
 		religion = catholic
 		size = 3000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
 	}
 }
 #Sheffield (658000/164500 POPS)
@@ -1007,6 +1056,16 @@
 		culture = british
 		religion = catholic
 		size = 4000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
 	}
 
 }
@@ -1090,6 +1149,16 @@
 		religion = catholic
 		size = 3000
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 25000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
 }
 #Chester (368000/92000 POPS)
 285 = {
@@ -1134,6 +1203,11 @@
 		religion = catholic
 		size = 1100
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 28000
+	}
 }
 #Shrewsbury (316000/79000 POPS)
 286 = {
@@ -1165,6 +1239,11 @@
 		culture = british
 		religion = protestant
 		size = 68875
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 26000
 	}
 }
 #Coventry (432000/108000 POPS)
@@ -1209,6 +1288,11 @@
 		culture = british
 		religion = protestant
 		size = 95000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 26000
 	}
 
 }
@@ -1280,6 +1364,16 @@
 		religion = catholic
 		size = 5000
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 18000
+	}
 }
 #Leicester (404000/101000 POPS)
 289 = {
@@ -1312,6 +1406,11 @@
 		religion = protestant
 		size = 90375
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 24000
+	}
 }
 #Lincoln (336000/84000 POPS)
 290 = {
@@ -1343,6 +1442,16 @@
 		culture = british
 		religion = protestant
 		size = 75500
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 14000
 	}
 
 }
@@ -1390,6 +1499,11 @@
 		religion = protestant
 		size = 68500
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 27000
+	}
 }
 #Ipswich (676000/169000 POPS)
 292 = {
@@ -1421,6 +1535,16 @@
 		culture = british
 		religion = protestant
 		size = 156500
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 25000
 	}
 }
 #Chelmsford (276000/69000 POPS)
@@ -1459,6 +1583,11 @@
 		culture = british
 		religion = catholic
 		size = 2000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
 	}
 
 }
@@ -1506,6 +1635,16 @@
 		religion = protestant
 		size = 66625
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 12000
+	}
 }
 #St. Albans (312000/78000 POPS)
 295 = {
@@ -1537,6 +1676,11 @@
 		culture = british
 		religion = protestant
 		size = 71750
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 32000
 	}
 
 }
@@ -1608,6 +1752,11 @@
 		religion = catholic
 		size = 2000
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 28000
+	}
 }
 #Salisbury (408000/102000 POPS)
 297 = {
@@ -1646,6 +1795,16 @@
 		religion = protestant
 		size = 82375
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 12000
+	}
 }
 #Bath (408000/102000 POPS)
 298 = {
@@ -1682,6 +1841,16 @@
 		culture = british
 		religion = protestant
 		size = 70625
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 10000
 	}
 }
 #Plymouth (812000/203000 POPS)
@@ -1721,7 +1890,16 @@
 		religion = catholic
 		size = 1100
 	}
-
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 30000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
 
 }
 #Exeter (812000/203000 POPS)
@@ -1760,6 +1938,16 @@
 		culture = irish
 		religion = catholic
 		size = 1100
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
 	}
 }
 
@@ -1945,6 +2133,31 @@
 		religion = mahayana
 		size = 100
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
 
 }
 #Sussex-Kent Region : 1212000
@@ -1985,6 +2198,11 @@
 		religion = catholic
 		size = 1100
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
 }
 #Brighton (404000/101000 POPS)
 302 = {
@@ -2023,6 +2241,11 @@
 		religion = protestant
 		size = 77500
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 25000
+	}
 }
 #Portsmouth
 3269 = {
@@ -2049,9 +2272,14 @@
 		religion = protestant
 		size = 35000
 	}
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 14000
+	}
 }
 
-#Southampton (332000/83000 POPS)
+#Southampton (332000/103000 POPS)
 303 = {
 	aristocrats = {
 		culture = british
@@ -2094,7 +2322,11 @@
 		religion = protestant
 		size = 73000
 	}
-
+	farmers = {
+		culture = anglo_saxon
+		religion = catholic
+		size = 20000
+	}
 }
 #Isle Of Man Region - 46000
 #Douglas (46000/11500 POPS)
