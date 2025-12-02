@@ -8,18 +8,6 @@ start_date = 1836.1.1
 	
 end_date = 1939.1.1
 }
-vassal = {
-	first = TUR
-	second = CRE
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
-vassal = {
-	first = TUR
-	second = CYP
-	start_date = 1836.1.1
-	end_date = 1949.1.1
-}
 substate = {
 	first = GRE
 	second = CRE
