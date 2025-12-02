@@ -778,6 +778,18 @@
 		religion = protestant
 		size = 53375
 	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 14000
+	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 12000
+	}
 
 	clergymen = {
 		culture = north_german
@@ -1828,13 +1840,37 @@
 	clergymen = {
 		culture = north_german
 		religion = catholic
-		size = 20      
+		size = 2000      
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 50
+		size = 500
+	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 10000
+	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 6000
+	}
+	
+	craftsmen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1000
+	}
+	
+	clerks = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3000
 	}
 
 	soldiers = {
@@ -2136,6 +2172,30 @@
 		religion = jewish
 		size = 245
 	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 3000
+	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 12000
+	}
+	
+	craftsmen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2000
+	}
+	
+	clerks = {
+		culture = ashkenazi
+		religion = jewish
+		size = 15000
+	}
 }
 #under the rule of Saxe-Coburg 1836  
 #Gotha (292000/73000 POPS)
@@ -2427,6 +2487,12 @@
 		culture = north_german
 		religion = protestant
 		size = 1000
+	}
+	
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 20000
 	}
 
 	farmers = {
@@ -2909,6 +2975,18 @@
 		culture = rhinelander
 		religion = reformed
 		size = 23775
+	}
+	
+	craftsmen = {
+		culture = rhinelander
+		religion = reformed
+		size = 20000
+	}
+	
+	craftsmen = {
+		culture = rhinelander
+		religion = catholic
+		size = 10000
 	}
 
 	aristocrats = {

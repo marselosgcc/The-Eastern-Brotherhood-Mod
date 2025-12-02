@@ -1099,7 +1099,7 @@
 	soldiers = {
 		culture = kefficho
 		religion = coptic
-		size = 2000
+		size = 8000
 	}
 	
 	farmers = {

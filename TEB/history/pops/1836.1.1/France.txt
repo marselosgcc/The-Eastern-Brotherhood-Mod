@@ -289,6 +289,18 @@
 		religion = catholic
 		size = 29450
 	}
+	
+	craftsmen = {
+		culture = picard
+		religion = catholic
+		size = 23000
+	}
+	
+	craftsmen = {
+		culture = picard
+		religion = reformed
+		size = 2000
+	}
 
 }
 #Ardennes Region (1116000)
@@ -429,6 +441,18 @@
 		religion = catholic
 		size = 71250
 	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = catholic
+		size = 3000
+	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = reformed
+		size = 2000
+	}
 
 }
 #Champagne Region (856000)
@@ -474,6 +498,18 @@
 		culture = lotharian
 		religion = reformed
 		size = 55900
+	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = catholic
+		size = 4000
+	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = reformed
+		size = 2000
 	}
 }
 #Chaumont (256000/64000 POPS)
@@ -1888,6 +1924,19 @@
 		religion = catholic
 		size = 82900
 	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = catholic
+		size = 15000
+	}
+	
+	craftsmen = {
+		culture = lotharian
+		religion = reformed
+		size = 27500
+	}
+	
 	farmers = {
 		culture = lotharian
 		religion = reformed
@@ -1959,9 +2008,33 @@
 	}
 	
 	farmers = {
+		culture = lotharian
+		religion = catholic
+		size = 25000
+	}
+	
+	farmers = {
+		culture = lotharian
+		religion = reformed
+		size = 40000
+	}
+	
+	farmers = {
 		culture = arpitan
 		religion = reformed
 		size = 36000
+	}
+	
+	craftsmen = {
+		culture = arpitan
+		religion = reformed
+		size = 30000
+	}
+	
+	craftsmen = {
+		culture = arpitan
+		religion = catholic
+		size = 15000
 	}
 
 }
@@ -2058,6 +2131,18 @@
 		culture = arpitan
 		religion = reformed
 		size = 30000
+	}
+	
+	craftsmen = {
+		culture = arpitan
+		religion = catholic
+		size = 20000
+	}
+	
+	craftsmen = {
+		culture = arpitan
+		religion = reformed
+		size = 12000
 	}
 
 }
