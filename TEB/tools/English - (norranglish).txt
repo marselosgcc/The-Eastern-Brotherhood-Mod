@@ -1,0 +1,56 @@
+Norranglish (TEB) – Writing and Usage Guide
+
+Version 10 – for The Eastern Brotherhood (TEB)
+
+1 Overview
+
+Norranglish is a controlled hybrid language designed for the TEB mod. It represents the natural evolution of English (from Old English) under Norwegian conquest, where Old Norse replaces Norman French as the prestige language of the elites. The goal is a language that is historically plausible, readable for English speakers, easy to use in game mods, and compatible with AI tools.
+
+Core principles:
+
+* Avoid Norman French loanwords whenever a Germanic or Norse alternative exists.
+* Use Old Norse (with Icelandic as reference) for prestige domains such as war, law, administration, and titles.
+* Keep grammar close to modern English for clarity and gameplay readability.
+* Use very few diacritics; the trema is allowed but optional.
+
+2 Alphabet and orthography
+
+Base alphabet: standard Latin (ASCII). Allowed letters are A–Z and a–z. Optional diacritics include the trema (¨) on vowels ä, ö, ë, used only for stylistic or phonetic emphasis and never as a requirement. Acute, grave, tilde, and cedilla should be avoided.
+
+Scandinavian letters æ, ø, å may appear in aesthetic or lore texts only. In all technical contexts they must be transliterated as ae, oe, aa.
+
+3 ASCII transliteration rules
+
+Always assume two forms exist. A display form may include trema or Nordic letters if the font allows it. An ASCII form is mandatory for filenames, localization keys, scripts, and AI interaction. Transliteration rules are fixed: æ becomes ae, ø becomes oe, å becomes aa, ä becomes a, ö becomes o, and ë becomes e.
+
+4 Phonology (practical)
+
+Vowels are a e i o u, with length not marked. Consonants follow modern English values, but with a slightly harsher Germanic feel. Stress usually falls on the first syllable.
+
+5 Grammar and syntax
+
+Default word order is SVO (subject–verb–object). Negation uses ne, ekki, or eigi; for short phrases and slogans, ne is preferred. Plurals take -ar or -ir for Norse-derived words, while -s is acceptable for common vocabulary. Possession may be expressed by word order or of-constructions; apostrophe-s is allowed in informal contexts.
+
+6 Vocabulary priorities
+
+Prestige vocabulary should be Norse-derived, especially in war and military matters, law and courts, administration and government, and titles and nobility. Everyday vocabulary may remain English, lightly adapted if desired. French-origin terms should be avoided whenever a Germanic alternative exists.
+
+Small reference set: war becomes herr; army becomes haer or herr; king becomes konung; law becomes lag; court becomes domstol; office or bureau becomes skrifstofa; lord or noble becomes jarl or anglicized earl; people becomes folk; trade becomes kaup.
+
+7 Mod integration guidelines
+
+Use ASCII only in filenames, keys, triggers, and IDs. Unicode is acceptable only in displayed text. Maintain a small core glossary and apply it consistently. Prefer manual substitution over complex grammatical automation.
+
+8 Use with AI tools
+
+When prompting AIs, always use ASCII forms. Request diacritics or Nordic letters explicitly if needed for aesthetic output. For pronunciation or TTS, provide syllable breaks if necessary.
+
+9 Style notes and examples
+
+Capitalize titles and proper names. Prefer compounds over prepositional phrases.
+
+Example slogan: Ne tred mik. A more Norse-styled variant is Trampa eigi a mik.
+
+10 Design philosophy
+
+Norranglish is intentionally minimal. You do not need a full artificial language. A stable prestige lexicon combined with readable English grammar achieves historical plausibility, gameplay clarity, and technical reliability. Diacritics are decorative, not structural, and ASCII compatibility always comes first.
