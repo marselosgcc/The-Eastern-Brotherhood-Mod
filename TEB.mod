@@ -1,4 +1,4 @@
-name = "*The Eastern Brotherhood"
+name = "The Eastern Brotherhood *Indev 0.1"
 path = "mod/TEB"
 user_dir = "TEB"
 replace_path = "history/provinces"
