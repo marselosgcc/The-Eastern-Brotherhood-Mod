@@ -520,22 +520,32 @@
 	soldiers = {
 		culture = dutch
 		religion = reformed
-		size = 94
+		size = 6940
 	}
 	farmers = {
 		culture = dutch
 		religion = reformed
 		size = 38352
 	}
+	craftsmen = {
+		culture = dutch
+		religion = catholic
+		size = 15000
+	}
+	craftsmen = {
+		culture = dutch
+		religion = reformed
+		size = 6000
+	}
 	artisans = {
 		culture = north_german
 		religion = reformed
-		size = 94
+		size = 940
 	}
 	farmers = {
 		culture = north_german
 		religion = reformed
-		size = 846
+		size = 8460
 	}
 }
 #Leeuwarden (209200/52300 POPS)
