@@ -5,31 +5,61 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 500
+	}
+	
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+	
+	aristocrats = {
+		culture = assyrian
+		religion = syriac
+		size = 500
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 2000
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 150
+		size = 1150
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = syriac
+		size = 1000
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 2725
+		size = 6000
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = syriac
+		size = 4000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 100
 	}
 }
 #Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  

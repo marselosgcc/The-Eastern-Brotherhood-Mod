@@ -3,6 +3,7 @@ primary_culture = polish
 culture = pomeranian
 culture = galicja
 culture = pruski
+culture = silesian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.2

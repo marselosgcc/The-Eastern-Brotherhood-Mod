@@ -5,3 +5,18 @@ add_core = GER
 add_core = WGF
 trade_goods = iron
 life_rating = 35
+state_building = {
+    level = 2
+    building = machine_parts_factory
+    upgrade = no
+}
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = no
+}
+state_building = {
+    level = 3
+    building = glass_factory
+    upgrade = no
+}

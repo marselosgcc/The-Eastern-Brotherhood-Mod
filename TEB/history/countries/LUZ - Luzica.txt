@@ -1,8 +1,8 @@
 capital = 552
 primary_culture = western_slavic
 culture = polish
-culture = czech
-culture = north_german
+culture = pomeranian
+culture = pruski
 religion = catholic
 government = prussian_constitutionalism
 plurality = 0.0

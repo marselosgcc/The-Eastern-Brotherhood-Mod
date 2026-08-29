@@ -121,13 +121,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size = 2200
 	}
 
 	soldiers = {
@@ -140,6 +140,12 @@
 		culture = bedouin
 		religion = sunni
 		size = 3625
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 16000
 	}
 
 	slaves = {
@@ -183,31 +189,31 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 575
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 1050
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 3600
+		size = 4600
 	}
 
 	slaves = {
@@ -215,37 +221,61 @@
 		religion = animist
 		size = 2000
 	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 6000
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = shiite
+		size = 10000
+	}
 }
 #Tabuk (8000/2000 POPS)
 1154 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 425
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 2025
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 500
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 1900
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 1425
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 1825
+		size = 6825
+	}
+	
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 25825
 	}
 }
 #Abha (56000/14000 POPS)
@@ -346,6 +376,12 @@
 
 	farmers = {
 		culture = bedouin
+		religion = shiite
+		size = 100
+	}
+
+	farmers = {
+		culture = bedouin
 		religion = sunni
 		size = 4600
 	}
@@ -432,6 +468,12 @@
 		culture = bedouin
 		religion = sunni
 		size = 1200
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 100
 	}
 
 	farmers = {
@@ -573,33 +615,39 @@
 	officers = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 350
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 575
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 350
+		size = 1350
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 300
+		size = 2300
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 6525
+		size = 16525
 	}
 
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 20000
+	}
+	
 	aristocrats = {
 		culture = bedouin
 		religion = shiite

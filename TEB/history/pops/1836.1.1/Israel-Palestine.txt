@@ -47,7 +47,13 @@
 	farmers = {
 		culture = mashriqi
 		religion = orthodox
-		size = 1875
+		size = 3875
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 5000
 	}
 
 	clergymen = {
@@ -65,7 +71,13 @@
 	farmers = {
 		culture = mashriqi
 		religion = druze
-		size = 3750
+		size = 10750
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 30000
 	}
 
 	clergymen = {
@@ -111,61 +123,79 @@
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 200
+		size = 1200
 	}
 
 	bureaucrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 50
+		size = 2050
 	}
 
 	officers = {
 		culture = mashriqi
 		religion = sunni
-		size = 75
+		size = 1750
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
 		culture = mashriqi
 		religion = sunni
 		size = 2300
 	}
 
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 8300
+	}
+
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 175
+		size = 2075
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 8100
+		size = 15100
 	}
 
 	clergymen = {
 		culture = mashriqi
 		religion = orthodox
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = orthodox
-		size = 825
+		size = 1825
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = orthodox
-		size = 3100
+		size = 13100
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 20000
 	}
 
 	farmers = {
@@ -177,13 +207,13 @@
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 875
+		size = 4875
 	}
 
 	farmers = {
@@ -377,6 +407,30 @@
 		religion = orthodox
 		size = 1725
 	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 1000
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 14000
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = catholic
+		size = 2000
+	}
 }
 #Beersheba (36000/9000 POPS)
 921 = {
@@ -437,7 +491,7 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 1850
+		size = 8850
 	}
 
 }

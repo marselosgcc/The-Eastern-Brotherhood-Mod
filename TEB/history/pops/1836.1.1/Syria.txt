@@ -910,6 +910,12 @@
 
 	farmers = {
 		culture = mashriqi
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = mashriqi
 		religion = druze
 		size = 14000
 	}
@@ -929,6 +935,12 @@
 	farmers = {
 		culture = mashriqi
 		religion = shiite
+		size = 7000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = druze
 		size = 7000
 	}
 
@@ -979,7 +991,7 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 100
+		size = 20100
 	}
 }
 #Badiyat al-Sham Region (444000)  #see Jordan.txt, Iraq.txt & Saudi Arabia.txt for balance of region
@@ -1241,6 +1253,18 @@
 		culture = kurdish
 		religion = sunni
 		size = 2000
+	}
+	
+	farmers = {
+		culture = kurdish
+		religion = shiite
+		size = 100
+	}
+	
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 500
 	}
 	
 	artisans = {
