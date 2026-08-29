@@ -249,13 +249,25 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 18975
+		size = 30000
 	}
 	
 	soldiers = {
 		culture = greek
 		religion = orthodox
 		size = 300
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 15000
+	}
+	
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 3000
 	}
 	
 	clergymen = {
@@ -367,8 +379,33 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 103675
+		size = 163675
 	}
+	
+	artisans = {
+		culture = turkish
+		religion = manichaeism
+		size = 10000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 36000
+	}
+
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 163675
+	}
+
 
 	farmers = {
 		culture = turkish
@@ -597,11 +634,29 @@
 		religion = sunni
 		size = 1100
 	}
+	
+	soldiers = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 2470
+	}
 
 	farmers = {
 		culture = turkish
 		religion = sunni
 		size = 29250
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = shiite
+		size = 20000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 74000
 	}
 	
 	soldiers = {
@@ -772,6 +827,26 @@
 		size = 6000
 	}
 
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 25000
+	}
+	
+
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 1000
+	}
+	
+
+	artisans = {
+		culture = turkish
+		religion = manichaeism
+		size = 5000
+	}
+	
 	soldiers = {
 		culture = turkish
 		religion = sunni
@@ -897,7 +972,44 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 38325
+		size = 78325
+	}
+
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 13400
+	}
+	
+	
+	soldiers = {
+		culture = turkish
+		religion = manichaeism
+		size = 500
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = manichaeism
+		size = 2000
+	}
+
+	artisans = {
+		culture = turkish
+		religion = manichaeism
+		size = 3000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 48000
+	}
+
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 1000
 	}
 	
 	soldiers = {
@@ -962,6 +1074,26 @@
 		size = 120
 	}
 
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 13000
+	}
+	
+
+	clergymen = {
+		culture = turkish
+		religion = manichaeism
+		size = 1000
+	}
+	
+
+	soldiers = {
+		culture = turkish
+		religion = manichaeism
+		size = 1500
+	}
+
 	clergymen = {
 		culture = greek
 		religion = orthodox
@@ -993,7 +1125,7 @@
 	capitalists = {
 		culture = kumanlari
 		religion = jewish
-		size = 1300
+		size = 4300
 	}
 	
 	bureaucrats = {
@@ -1017,7 +1149,25 @@
 	soldiers = {
 		culture = kumanlari
 		religion = jewish
-		size = 200
+		size = 2000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 20000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = shiite
+		size = 10000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = sunni
+		size = 5000
 	}
 
 	farmers = {
@@ -1097,13 +1247,19 @@
 	aristocrats = {
 		culture = turkish
 		religion = sunni
-		size = 375
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = turkish
+		religion = manichaeism
+		size = 1175
 	}
 
 	clergymen = {
 		culture = turkish
 		religion = sunni
-		size = 275
+		size = 1275
 	}
 
 	artisans = {
@@ -1115,7 +1271,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 275
+		size = 2750
 	}
 
 	farmers = {
@@ -1146,6 +1302,54 @@
 		culture = greek
 		religion = orthodox
 		size = 730
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = manichaeism
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = manichaeism
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+		religion = manichaeism
+		size = 410
+	}
+
+	farmers = {
+		culture = greek
+		religion = manichaeism
+		size = 25000
+	}
+	
+	soldiers = {
+		culture = turkish
+		religion = manichaeism
+		size = 5000
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = manichaeism
+		size = 2000
+	}
+
+	artisans = {
+		culture = turkish
+		religion = manichaeism
+		size = 5000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 30000
 	}
 }
 #Eskisehir (140000/35000 POPS)
@@ -1189,7 +1393,25 @@
 	farmers = {
 		culture = turkish
 		religion = manichaeism
-		size = 29550
+		size = 55950
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = sunni
+		size = 18975
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = shiite
+		size = 30000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 62000
 	}
 
 	craftsmen = {
@@ -1530,6 +1752,36 @@
 		religion = orthodox
 		size = 3725
 	}
+	
+	soldiers = {
+		culture = turkish
+		religion = manichaeism
+		size = 1000
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = manichaeism
+		size = 750
+	}
+
+	artisans = {
+		culture = turkish
+		religion = manichaeism
+		size = 1900
+	}
+
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 45000
+	}
+
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 3000
+	}
 }
 #Mugla (96000/24000 POPS)
 872 = {
@@ -1636,7 +1888,37 @@
 	farmers = {
 		culture = kumanlari
 		religion = manichaeism
-		size = 89000
+		size = 219000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = orthodox
+		size = 20000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = sunni
+		size = 30000
+	}
+	
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 12000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 50000
+	}
+	
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 3000
 	}
 
 	craftsmen = {
@@ -1660,7 +1942,7 @@
 	farmers = {
 		culture = kumanlari
 		religion = sunni
-		size = 27000
+		size = 47000
 	}
 
 	craftsmen = {
@@ -1795,6 +2077,24 @@
 		culture = kumanlari
 		religion = sunni
 		size = 7000
+	}
+	
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 7000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 30000
+	}
+	
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 6800
 	}
 	
 	soldiers = {
@@ -1980,7 +2280,19 @@
 	farmers = {
 		culture = kumanlari
 		religion = manichaeism
-		size = 48125
+		size = 148125
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 100000
+	}
+	
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 10000
 	}
 
 	farmers = {
@@ -1992,7 +2304,7 @@
 	craftsmen = {
 		culture = kumanlari
 		religion = manichaeism
-		size = 11070
+		size = 30070
 	}
 
 	craftsmen = {
@@ -2139,6 +2451,18 @@
 		culture = morozbekler
 		religion = manichaeism
 		size = 40000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 72000
+	}
+	
+	craftsmen = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 7000
 	}
 	
 	craftsmen = {
@@ -2464,25 +2788,37 @@
 	officers = {
 		culture = morozbekler
 		religion = shiite
-		size = 100
+		size = 500
 	}
 
 	clergymen = {
 		culture = morozbekler
 		religion = shiite
-		size = 725
+		size = 1725
 	}
 
 	artisans = {
 		culture = morozbekler
 		religion = shiite
-		size = 3650
+		size = 5650
 	}
 
 	soldiers = {
 		culture = morozbekler
 		religion = shiite
-		size = 750
+		size = 2750
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 32000
+	}
+	
+	soldiers = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 4000
 	}
 
 	farmers = {
@@ -2546,17 +2882,47 @@
 		religion = shiite
 		size = 1150
 	}
+	
+	artisans = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 3000
+	}
 
 	soldiers = {
 		culture = morozbekler
 		religion = shiite
-		size = 250
+		size = 2500
 	}
 
 	farmers = {
 		culture = morozbekler
 		religion = shiite
-		size = 21125
+		size = 51125
+	}
+	
+	artisans = {
+		culture = morozbekler
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = morozbekler
+		religion = shiite
+		size = 500
+	}
+
+	farmers = {
+		culture = morozbekler
+		religion = sunni
+		size = 25000
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 6000
 	}
 	
 	soldiers = {
@@ -2792,13 +3158,55 @@
 	soldiers = {
 		culture = morozbekler
 		religion = shiite
-		size = 1100
+		size = 6100
 	}
 
 	farmers = {
 		culture = morozbekler
 		religion = shiite
-		size = 22000
+		size = 92000
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 20000
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = sunni
+		size = 30000
+	}
+	
+	craftsmen = {
+		culture = morozbekler
+		religion = shiite
+		size = 26000
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 10000
+	}
+	
+	farmers = {
+		culture = morozbekler
+		religion = sunni
+		size = 20000
+	}
+	
+	artisans = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 1100
+	}
+	
+	clergymen = {
+		culture = morozbekler
+		religion = manichaeism
+		size = 2900
 	}
 	
 	soldiers = {
@@ -4331,6 +4739,30 @@
 		religion = sunni
 		size = 2625
 	}
+	
+	farmers = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 13000
+	}
+	
+	craftsmen = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 3000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = manichaeism
+		size = 20000
+	}
+	
+	farmers = {
+		culture = turkokurdish
+		religion = shiite
+		size = 30000
+	}
 
 	farmers = {
 		culture = turkokurdish
@@ -4451,7 +4883,7 @@
 	farmers = {
 		culture = turkokurdish
 		religion = manichaeism
-		size = 7000
+		size = 37000
 	}
 	
 	artisans = {
@@ -4907,6 +5339,30 @@
 		religion = sunni
 		size = 10025
 	}
+	
+	farmers = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 25000
+	}
+	
+	artisans = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 2000
+	}
+	
+	soldiers = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 1000
+	}
+	
+	clergymen = {
+		culture = turkokurdish
+		religion = manichaeism
+		size = 3000
+	}
 
 	aristocrats = {
 		culture = turkokurdish
@@ -5022,6 +5478,30 @@
 		size = 10000
 	}
 
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 45000
+	}
+	
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1000
+	}
+
 }
 3275 = {
 	aristocrats = {
@@ -5089,6 +5569,18 @@
 		religion = sunni
 		size = 3000
 	}
+	
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 20000
+	}
+	
+	farmers = {
+		culture = kumanlari
+		religion = shiite
+		size = 7000
+	}
 }
 3276 = {
 	
@@ -5120,6 +5612,18 @@
 		culture = kumanlari
 		religion = manichaeism
 		size = 17000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = manichaeism
+		size = 55000
+	}
+	
+	craftsmen = {
+		culture = turkish
+		religion = manichaeism
+		size = 7000
 	}
 	
 	bureaucrats = {

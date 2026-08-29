@@ -61,6 +61,18 @@
 		size = 3000
 	}
 
+	craftsmen = {
+		culture = picard
+		religion = reformed
+		size = 25000
+	}
+
+	craftsmen = {
+		culture = picard
+		religion = catholic
+		size = 12000
+	}
+
 	soldiers = {
 		culture = picard
 		religion = catholic
@@ -184,6 +196,18 @@
 		religion = reformed
 		size = 30125
 	}
+
+	craftsmen = {
+		culture = picard
+		religion = reformed
+		size = 25000
+	}
+
+	craftsmen = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
 }
 #Amiens (552000/138000 POPS)
 402 = {
@@ -214,7 +238,7 @@
 	soldiers = {
 		culture = picard
 		religion = catholic
-		size = 1500
+		size = 4500
 	}
 
 	farmers = {
@@ -226,7 +250,7 @@
 	craftsmen = {
 		culture = picard
 		religion = reformed
-		size = 6000
+		size = 26000
 	}
 
 	craftsmen = {
@@ -513,7 +537,7 @@
 	craftsmen = {
 		culture = lotharian
 		religion = catholic
-		size = 4000
+		size = 24000
 	}
 	
 	craftsmen = {
@@ -551,13 +575,19 @@
 	craftsmen = {
 		culture = lotharian
 		religion = reformed
-		size = 6000
+		size = 16000
+	}
+
+	craftsmen = {
+		culture = lotharian
+		religion = protestant
+		size = 25000
 	}
 
 	craftsmen = {
 		culture = lotharian
 		religion = catholic
-		size = 10000
+		size = 30000
 	}
 
 	farmers = {

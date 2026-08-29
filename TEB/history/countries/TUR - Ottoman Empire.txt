@@ -1,6 +1,9 @@
 capital = 860
 primary_culture = turkish
-culture = kurdish
+culture = morozbekler
+culture = turkish
+culture = turkokurdish
+culture = kumanlari
 religion = manichaeism
 government = absolute_monarchy
 plurality = 5.0
