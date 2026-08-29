@@ -1,6 +1,6 @@
 owner = LOR
 controller = LOR
-add_core = LIE
+add_core = MAU
 add_core = TRZ
 trade_goods = fish
 life_rating = 30

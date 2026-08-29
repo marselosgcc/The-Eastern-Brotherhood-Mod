@@ -1,7 +1,7 @@
 owner = POR
 controller = POR
 add_core = MOR
-add_core = LIE
+add_core = MAU
 add_core = POR
 add_core = SPC
 trade_goods = grain

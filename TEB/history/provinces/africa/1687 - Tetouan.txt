@@ -2,6 +2,6 @@ owner = SPC
 controller = SPC
 add_core = SPC
 add_core = MOR
-add_core = LIE
+add_core = MAU
 trade_goods = grain
 life_rating = 30
