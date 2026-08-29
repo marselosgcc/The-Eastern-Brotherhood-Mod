@@ -273,7 +273,52 @@
 	}
 
 }
+#Melilla 
+#Ruled by Naples in 1836
+#Melilla (500 POPS)
+1689 = {
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 100
+	}
 
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1265
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 1265
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 1000
+	}
+	
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 200
+	}
+}
 1685 = {
 	aristocrats = {
 		culture = maghrebi
@@ -283,7 +328,7 @@
 
 	aristocrats = {
 		culture = maghrebi
-		religion = sunni
+		religion = catholic
 		size = 375
 	}
 
@@ -1666,3 +1711,59 @@
 
 }
 
+# Ceuta
+2590 = {
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 3000
+	}
+	
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 6000
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 12000
+	}
+	
+	farmers = {
+		culture = berber
+		religion = catholic
+		size = 200
+	}
+	
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 3000
+	}
+	
+	farmers = {
+		culture = maghrebi
+		religion = catholic
+		size = 200
+	}
+}
