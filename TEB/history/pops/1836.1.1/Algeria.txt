@@ -348,47 +348,47 @@
 
 }
 #Oranais Region (577600)
-#French in 1836 :
+#spanish in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
 	aristocrats = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 1875
 	}
 	
 	officers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 2200
 	}
@@ -408,31 +408,31 @@
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size = 200
+		size = 6200
 	}
 
 	farmers = {
 		culture = maghrebi
 		religion = sunni
-		size = 19600
+		size = 39600
 	}
 
 	clergymen = {
 		culture = berber
 		religion = sunni
-		size = 25
+		size = 250
 	}
 
 	soldiers = {
 		culture = berber
 		religion = sunni
-		size = 125
+		size = 1025
 	}
 
 	farmers = {
 		culture = berber
 		religion = sunni
-		size = 5600
+		size = 45600
 	}
 
 	clergymen = {
@@ -444,7 +444,7 @@
 	artisans = {
 		culture = sephardic
 		religion = jewish
-		size = 3230
+		size = 13230
 	}
 }
 #Aljazair-ruled in 1836 :
@@ -542,25 +542,25 @@
 	}
 	
 	bureaucrats = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 150
 	}
 	
 	farmers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 6225
 	}
 	
 	artisans = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 2250
 	}
 	
 	clergymen = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 150
 	}
@@ -646,31 +646,31 @@
 	}
 	
 	aristocrats = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 3200
 	}
 	
 	soldiers = {
-		culture = french
+		culture = spanish
 		religion = catholic
 		size = 875
 	}
