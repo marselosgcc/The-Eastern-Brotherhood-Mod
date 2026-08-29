@@ -2,5 +2,6 @@ owner = LUX
 controller = LUX
 add_core = LUX
 add_core = GER
+add_core = WGF
 trade_goods = iron
 life_rating = 35

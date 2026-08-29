@@ -3,5 +3,6 @@ controller = BRE
 add_core = BRE
 add_core = WES
 add_core = GER
+add_core = WGF
 trade_goods = fish
 life_rating = 35

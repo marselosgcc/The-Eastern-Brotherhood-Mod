@@ -2,5 +2,6 @@ owner = RHI
 controller = RHI
 add_core = RHI
 add_core = GER
+add_core = WGF
 trade_goods = cattle
 life_rating = 35

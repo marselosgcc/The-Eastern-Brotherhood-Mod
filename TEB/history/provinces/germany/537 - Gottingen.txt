@@ -3,5 +3,6 @@ controller = BRA
 add_core = BRA
 add_core = WES
 add_core = GER
+add_core = WGF
 trade_goods = iron
 life_rating = 35

@@ -3,6 +3,7 @@ controller = LOR
 add_core = LOR
 add_core = GER
 add_core = ALS
+add_core = WGF
 trade_goods = sulphur
 life_rating = 35
 state_building = {

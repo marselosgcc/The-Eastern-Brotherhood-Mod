@@ -3,5 +3,6 @@ controller = WES
 add_core = WES
 add_core = GER
 add_core = NET
+add_core = WGF
 trade_goods = cattle
 life_rating = 30

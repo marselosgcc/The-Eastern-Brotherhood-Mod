@@ -1,5 +1,6 @@
 owner = WES
 controller = WES
 add_core = WES
+add_core = WGF
 trade_goods = fish
 life_rating = 35
