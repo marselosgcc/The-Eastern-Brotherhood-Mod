@@ -1,5 +1,5 @@
-owner = NEJ
-controller = NEJ
+owner = EGY
+controller = EGY
 add_core = NEJ
 add_core = ARU
 trade_goods = wool

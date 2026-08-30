@@ -1,5 +1,8 @@
-owner = TUN
-controller = TUN
+owner = CYR
+add_core = ARU
+controller = CYR
 add_core = TUN
+add_core = EGY
+add_core = CYR
 trade_goods = grain
 life_rating = 30

@@ -1,5 +1,6 @@
-owner = PLS
-controller = PLS
+owner = EGY
+add_core = EGY
+controller = EGY
 add_core = PLS
 add_core = ARU
 add_core = LBN

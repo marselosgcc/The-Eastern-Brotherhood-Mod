@@ -1,5 +1,6 @@
-owner = NYE
-controller = NYE
+owner = EGY
+add_core = EGY
+controller = EGY
 add_core = NYE
 add_core = YEM
 add_core = ARU

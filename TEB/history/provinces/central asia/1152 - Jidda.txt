@@ -1,5 +1,6 @@
-owner = HDJ
-controller = HDJ
+owner = EGY
+add_core = EGY
+controller = EGY
 add_core = HDJ
 add_core = ARU
 trade_goods = grain

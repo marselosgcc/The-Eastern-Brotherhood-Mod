@@ -1,4 +1,5 @@
 owner = SIC
+add_core = ARU
 controller = SIC
 add_core = SIC
 add_core = SYC

@@ -1,5 +1,6 @@
-owner = TUN
-controller = TUN
+owner = EGY
+add_core = ARU
+controller = EGY
 add_core = TUN
 trade_goods = wool
 life_rating = 30

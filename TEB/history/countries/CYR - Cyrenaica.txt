@@ -1,4 +1,4 @@
-capital = 1735
+capital = 1738
 primary_culture = maghrebi
 culture = bedouin
 culture = teda
@@ -8,7 +8,7 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.05
 
 # Political reforms
 slavery = no_slavery

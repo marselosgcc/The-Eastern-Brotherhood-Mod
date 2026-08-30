@@ -1,0 +1,776 @@
+# 1836 - Tigray (Abyssinian Crisis)
+country_event = {
+	id = 145600
+	title = "EVTNAME_mam_revolt_1"
+	desc = "EVTDESC_mam_revolt_1"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1836
+		not = { has_country_flag = eritrean_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 4
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_1"
+		ai_chance = { factor = 90 }
+		set_country_flag = eritrean_revolt_fired
+		
+		1851 = { secede_province = AWS }
+		
+		release = TIG
+		
+		1848 = { secede_province = TIG }
+		1849 = { secede_province = TIG }
+		1850 = { secede_province = TIG }
+		
+		war = {
+			target = TIG
+			attacker_goal = {
+				casus_belli = acquire_state
+				country = EGY
+				state_province_id = 1849
+			}
+		}
+		
+		TIG = {
+			leadership = 100
+			1849 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_1"
+		ai_chance = { factor = 10 }
+		set_country_flag = eritrean_revolt_fired
+		prestige = -10
+		
+		1851 = { secede_province = AWS }
+		release = TIG
+		1848 = { secede_province = TIG }
+		1849 = { secede_province = TIG }
+		1850 = { secede_province = TIG }
+	}
+}
+
+# Mamluk Regency Crisis - Opening Event
+country_event = {
+	id = 145699
+	title = "EVTNAME_mam_regency_crisis"
+	desc = "EVTDESC_mam_regency_crisis"
+	picture = "regency_crisis"
+
+	trigger = {
+		tag = EGY
+		not = { has_global_flag = mameluk_regency_crisis_fired }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA_mam_regency_crisis"
+		set_global_flag = mameluk_regency_crisis_fired
+		set_country_flag = mameluk_regency_crisis
+		prestige = -3
+		any_pop = {
+			militancy = 5
+		}
+	}
+}
+
+# Mamluk Revolts (REGENCY CRISIS)
+
+# 1837 - Iraq
+country_event = {
+	id = 145601
+	title = "EVTNAME_mam_revolt_2"
+	desc = "EVTDESC_mam_revolt_2"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1837
+		not = { has_country_flag = iraq_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 4
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_2"
+		ai_chance = { factor = 90 }
+		set_country_flag = iraq_revolt_fired
+		release = IRQ
+		any_owned_province = {
+			limit = {
+				has_core = IRQ
+				owner = EGY
+			}
+			secede_province = IRQ
+		}
+		war = {
+			target = IRQ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		IRQ = {
+			leadership = 100
+			define_general = { name = "Faisal Al-Mesopotami" personality = relentless background = expert_raider }
+			926 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_2"
+		ai_chance = { factor = 10 }
+		set_country_flag = iraq_revolt_fired
+		prestige = -10
+		release = IRQ
+		any_owned_province = {
+			limit = {
+				has_core = IRQ
+				owner = EGY
+			}
+			secede_province = IRQ
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = iraq_revolt_fired
+		release = IRQ
+		any_owned_province = {
+			limit = {
+				has_core = IRQ
+				owner = EGY
+			}
+			secede_province = IRQ
+		}
+		war = {
+			target = IRQ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		IRQ = {
+			leadership = 100
+			define_general = { name = "Faisal Al-Mesopotami" personality = relentless background = expert_raider }
+			926 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = IRQ
+	}
+}
+
+# 1837 - Nejd
+country_event = {
+	id = 145602
+	title = "EVTNAME_mam_revolt_3"
+	desc = "EVTDESC_mam_revolt_3"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1837
+		not = { has_country_flag = nejd_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_3"
+		ai_chance = { factor = 90 }
+		set_country_flag = nejd_revolt_fired
+		release = NEJ
+		any_owned_province = {
+			limit = {
+				has_core = NEJ
+				owner = EGY
+			}
+			secede_province = NEJ
+		}
+		war = {
+			target = NEJ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		NEJ = {
+			leadership = 100
+			define_general = { name = "Saud Al-Wahhabi" personality = fanatic background = school_of_offense }
+			1157 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_3"
+		ai_chance = { factor = 10 }
+		set_country_flag = nejd_revolt_fired
+		prestige = -10
+		release = NEJ
+		any_owned_province = {
+			limit = {
+				has_core = NEJ
+				owner = EGY
+			}
+			secede_province = NEJ
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = nejd_revolt_fired
+		release = NEJ
+		any_owned_province = {
+			limit = {
+				has_core = NEJ
+				owner = EGY
+			}
+			secede_province = NEJ
+		}
+		war = {
+			target = NEJ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		NEJ = {
+			leadership = 100
+			define_general = { name = "Saud Al-Wahhabi" personality = fanatic background = school_of_offense }
+			1157 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = NEJ
+	}
+}
+
+# 1837 - Zaydi
+country_event = {
+	id = 145603
+	title = "EVTNAME_mam_revolt_4"
+	desc = "EVTDESC_mam_revolt_4"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1837
+		not = { has_country_flag = zaydi_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_4"
+		ai_chance = { factor = 90 }
+		set_country_flag = zaydi_revolt_fired
+		release = NYE
+		any_owned_province = {
+			limit = {
+				has_core = NYE
+				owner = EGY
+			}
+			secede_province = NYE
+		}
+		war = {
+			target = NYE
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		NYE = {
+			leadership = 100
+			define_general = { name = "Yahya Al-Imam" personality = coolminded background = school_of_defense }
+			1178 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_4"
+		ai_chance = { factor = 10 }
+		set_country_flag = zaydi_revolt_fired
+		prestige = -10
+		release = NYE
+		any_owned_province = {
+			limit = {
+				has_core = NYE
+				owner = EGY
+			}
+			secede_province = NYE
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = zaydi_revolt_fired
+		release = NYE
+		any_owned_province = {
+			limit = {
+				has_core = NYE
+				owner = EGY
+			}
+			secede_province = NYE
+		}
+		war = {
+			target = NYE
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		NYE = {
+			leadership = 100
+			define_general = { name = "Yahya Al-Imam" personality = coolminded background = school_of_defense }
+			1178 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = NYE
+	}
+}
+# 1838 - Abbasids (HDJ)
+country_event = {
+	id = 145604
+	title = "EVTNAME_mam_revolt_5"
+	desc = "EVTDESC_mam_revolt_5"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1838
+		not = { has_country_flag = abbasid_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 5
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_5"
+		ai_chance = { factor = 90 }
+		set_country_flag = abbasid_revolt_fired
+		release = HDJ
+		any_owned_province = {
+			limit = {
+				has_core = HDJ
+				owner = EGY
+			}
+			secede_province = HDJ
+		}
+		war = {
+			target = HDJ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		HDJ = {
+			leadership = 100
+			define_general = { name = "Abdullah Al-Abbasi" personality = implacable background = eccentric_genius }
+			1153 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_5"
+		ai_chance = { factor = 10 }
+		set_country_flag = abbasid_revolt_fired
+		prestige = -10
+		release = HDJ
+		any_owned_province = {
+			limit = {
+				has_core = HDJ
+				owner = EGY
+			}
+			secede_province = HDJ
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = abbasid_revolt_fired
+		release = HDJ
+		any_owned_province = {
+			limit = {
+				has_core = HDJ
+				owner = EGY
+			}
+			secede_province = HDJ
+		}
+		war = {
+			target = HDJ
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		HDJ = {
+			leadership = 100
+			define_general = { name = "Abdullah Al-Abbasi" personality = implacable background = eccentric_genius }
+			1153 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = HDJ
+	}
+}
+
+# 1839 - Syria (SYR)
+country_event = {
+	id = 145605
+	title = "EVTNAME_mam_revolt_6"
+	desc = "EVTDESC_mam_revolt_6"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1839
+		not = { has_country_flag = syria_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 4
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_6"
+		ai_chance = { factor = 90 }
+		set_country_flag = syria_revolt_fired
+		release = SYR
+		any_owned_province = {
+			limit = {
+				has_core = SYR
+				owner = EGY
+			}
+			secede_province = SYR
+		}
+		war = {
+			target = SYR
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		SYR = {
+			leadership = 100
+			define_general = { name = "Faisal Al-Hashimi" personality = charismatic background = school_of_offense }
+			902 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_6"
+		ai_chance = { factor = 10 }
+		set_country_flag = syria_revolt_fired
+		prestige = -10
+		release = SYR
+		any_owned_province = {
+			limit = {
+				has_core = SYR
+				owner = EGY
+			}
+			secede_province = SYR
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = syria_revolt_fired
+		release = SYR
+		any_owned_province = {
+			limit = {
+				has_core = SYR
+				owner = EGY
+			}
+			secede_province = SYR
+		}
+		war = {
+			target = SYR
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		SYR = {
+			leadership = 100
+			define_general = { name = "Faisal Al-Hashimi" personality = charismatic background = school_of_offense }
+			902 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = SYR
+	}
+}
+
+# 1839 - Tunisia (TUN)
+country_event = {
+	id = 145606
+	title = "EVTNAME_mam_revolt_7"
+	desc = "EVTDESC_mam_revolt_7"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1839
+		not = { has_country_flag = tunisia_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_7"
+		ai_chance = { factor = 90 }
+		set_country_flag = tunisia_revolt_fired
+		release = TUN
+		any_owned_province = {
+			limit = {
+				has_core = TUN
+				owner = EGY
+			}
+			secede_province = TUN
+		}
+		war = {
+			target = TUN
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		TUN = {
+			leadership = 100
+			define_general = { name = "Youssef Al-Tunisi" personality = disciplined background = natural_born_leader }
+			1731 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_7"
+		ai_chance = { factor = 10 }
+		set_country_flag = tunisia_revolt_fired
+		prestige = -10
+		release = TUN
+		any_owned_province = {
+			limit = {
+				has_core = TUN
+				owner = EGY
+			}
+			secede_province = TUN
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = tunisia_revolt_fired
+		release = TUN
+		any_owned_province = {
+			limit = {
+				has_core = TUN
+				owner = EGY
+			}
+			secede_province = TUN
+		}
+		war = {
+			target = TUN
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		TUN = {
+			leadership = 100
+			define_general = { name = "Youssef Al-Tunisi" personality = disciplined background = natural_born_leader }
+			1731 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = TUN
+	}
+}
+
+# 1840 - Palestine (PLS)
+country_event = {
+	id = 145607
+	title = "EVTNAME_mam_revolt_8"
+	desc = "EVTDESC_mam_revolt_8"
+	picture = "rebellion"
+
+	trigger = {
+		tag = EGY
+		year = 1840
+		not = { has_country_flag = palestine_revolt_fired }
+	}
+
+	mean_time_to_happen = {
+		months = 4
+	}
+
+	option = {
+		name = "EVTOPTA_mam_revolt_8"
+		ai_chance = { factor = 90 }
+		set_country_flag = palestine_revolt_fired
+		release = PLS
+		any_owned_province = {
+			limit = {
+				has_core = PLS
+				owner = EGY
+			}
+			secede_province = PLS
+		}
+		war = {
+			target = PLS
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		PLS = {
+			leadership = 100
+			define_general = { name = "Ali Al-Hashimi" personality = intuitive background = school_of_defense }
+			917 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB_mam_revolt_8"
+		ai_chance = { factor = 10 }
+		set_country_flag = palestine_revolt_fired
+		prestige = -10
+		release = PLS
+		any_owned_province = {
+			limit = {
+				has_core = PLS
+				owner = EGY
+			}
+			secede_province = PLS
+		}
+	}
+
+	option = {
+		name = "EVTOPTC_mam_revolt_play_as"
+		ai_chance = { factor = 0 }
+		set_country_flag = palestine_revolt_fired
+		release = PLS
+		any_owned_province = {
+			limit = {
+				has_core = PLS
+				owner = EGY
+			}
+			secede_province = PLS
+		}
+		war = {
+			target = PLS
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = EGY
+			}
+		}
+		PLS = {
+			leadership = 100
+			define_general = { name = "Ali Al-Hashimi" personality = intuitive background = school_of_defense }
+			917 = {
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+				sub_unit = { type = irregular value = current }
+			}
+		}
+		change_tag_no_core_switch = PLS
+	}
+}

@@ -1,6 +1,7 @@
-owner = IRQ
-controller = IRQ
+owner = EGY
+controller = EGY
 add_core = IRQ
+add_core = NEJ
 add_core = ARU
 trade_goods = wool
 life_rating = 35

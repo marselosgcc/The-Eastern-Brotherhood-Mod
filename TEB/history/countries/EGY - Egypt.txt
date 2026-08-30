@@ -3,15 +3,16 @@ primary_culture = circassian_arab
 culture = misri
 culture = mashriqi
 culture = sudanese
+culture = maghrebi
 culture = bedouin
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.25
+literacy = 0.18
 non_state_culture_literacy = 0.09
 is_releasable_vassal = no
-prestige = 40
+prestige = 20
 
 # Political reforms
 slavery = yes_slavery

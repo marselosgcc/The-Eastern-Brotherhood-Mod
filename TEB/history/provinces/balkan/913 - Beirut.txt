@@ -1,5 +1,6 @@
-owner = SYR
-controller = SYR
+owner = EGY
+add_core = EGY
+controller = EGY
 add_core = SYR
 add_core = LBN
 add_core = ARU
