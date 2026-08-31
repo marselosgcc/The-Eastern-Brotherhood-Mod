@@ -1,82 +1,253 @@
+# Southern Peru Independence Chain
 country_event = {
-    id = 37500
-    title = "EVTNAME_spu_1"
-    desc = "EVTDESC_spu_1"
-    picture = "independence_southp"
+	id = 37500
+	title = "EVTNAME_spu_1"
+	desc = "EVTDESC_spu_1"
+	picture = "independence_southp"
 
-    is_triggered_only = yes
+	is_triggered_only = yes
 
-    trigger = {
-        has_country_flag = spu_declared_independence
-        tag = SPU
-    }
-	mean_time_to_happen =  {
-		months = 1
+	option = {
+		name = "EVTOPTA_spu_1"
+		set_country_flag = spu_declared_independence
+		prestige = 5
+		SPC = { release_vassal = VOP }
+		2304 = {
+			sub_unit = { type = infantry value = current }
+			sub_unit = { type = infantry value = current }
+			sub_unit = { type = infantry value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+			sub_unit = { type = irregular value = current }
+		}
 	}
-    option = {
-        name = "EVTOPTA_spu_1"
-		prestige = 3
-		government = democracy
-        relation = {
-		    who = PEU
+}
+
+# Spain Response & Ultimatum
+country_event = {
+	id = 37501
+	title = "EVTNAME_spu_2"
+	desc = "EVTDESC_spu_2"
+	picture = "independence_southp"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_2"
+		ai_chance = { factor = 20 }
+		set_global_flag = spc_has_responded
+		prestige = -5
+		relation = {
+			who = VOP
+			value = 50
+		}
+		VOP = { country_event = 37507 }
+	}
+
+	option = {
+		name = "EVTOPTB_spu_2"
+		ai_chance = { factor = 30 }
+		set_global_flag = spc_has_responded
+		set_global_flag = south_peru_war_happened
+		VOP = { set_country_flag = spu_war_with_spain }
+		war = {
+			target = VOP
+			attacker_goal = {
+				casus_belli = colonial_reconquest_cb
+				country = SPC
+			}
+		}
+		relation = {
+			who = VOP
+			value = -200
+		}
+		VOP = { 2578 = { secede_province = SPC } }
+		SPC = {
+			2578 = {
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+			}
+			2578 = { secede_province = VOP }
+		}
+		2578 = { change_province_control = SPC }
+	}
+
+	option = {
+		name = "EVTOPTC_spu_2"
+		ai_chance = { factor = 50 }
+		VOP = { country_event = { id = 37503 days = 1 } }
+	}
+}
+
+# Ultimatum for VOP
+country_event = {
+	id = 37503
+	title = "EVTNAME_spu_3"
+	desc = "EVTDESC_spu_3"
+	picture = "independence_southp"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_3"
+		ai_chance = { factor = 80 }
+		set_global_flag = spc_has_responded
+		treasury = -100000
+		prestige = -5
+		SPC = {
+			relation = {
+				who = VOP
+				value = 50
+			}
+			country_event = 37508
+		}
+		VOP = { country_event = 37507 }
+	}
+
+	option = {
+		name = "EVTOPTB_spu_3"
+		ai_chance = { factor = 20 }
+		set_global_flag = south_peru_war_happened
+		set_country_flag = spu_war_with_spain
+		SPC = {
+			war = {
+				target = VOP
+				attacker_goal = {
+					casus_belli = colonial_reconquest_cb
+					country = SPC
+				}
+			}
+			relation = {
+				who = VOP
+				value = -200
+			}
+		}
+		VOP = { 2578 = { secede_province = SPC } }
+		SPC = {
+			2578 = {
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+				sub_unit = { type = infantry value = current }
+			}
+			2578 = { secede_province = VOP }
+		}
+		2578 = { change_province_control = SPC }
+	}
+}
+}
+
+# Northern Peru Intervention 
+country_event = {
+	id = 37504
+	title = "EVTNAME_spu_4"
+	desc = "EVTDESC_spu_4"
+	picture = "independence_southp"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_4"
+		ai_chance = { factor = 70 }
+		set_country_flag = peru_accepted_spu
+		alliance = VOP
+		war = {
+			target = SPC
+			attacker_goal = {
+				casus_belli = status_quo
+				country = PEU
+			}
+		}
+		VOP = {
+			military_access = PEU
+			country_event = 37505
+		}
+		relation = {
+			who = VOP
 			value = 100
 		}
-    }
-}
-
-country_event = {
-    id = 37501
-    title = "EVTNAME_spu_2"
-    desc = "EVTDESC_spu_2"
-    picture = "independence_southp"
-
-    is_triggered_only = yes
-
-    trigger = {
-        has_country_flag = spu_declared_independence
-        tag = SPC
-    }
-
-    option = {
-        name = "EVTOPTA_spu_2"
-		release_vassal = SPU		
-        prestige = -5
-        relation = {
-            who = SPU
-            value = 50
-        }
-    }
-    option = {
-        name = "EVTOPTB_spu_2"
-		release_vassal = SPU
-        war = {
-            target = SPU
-            attacker_goal = { casus_belli = colonial_reconquest_cb }  
-        }
-        relation = {
-            who = SPU
-            value = -200
-        }
-    }
-}
-country_event = {
-    id = 37502
-    title = "EVTNAME_spu_4"
-    desc = "EVTDESC_spu_4"
-    picture = "independence_southp"
-	trigger = {
-		tag = PEU
-        	nationalism_n_imperialism = 1
-    		relation = {
-			who = SPU
-			value = 150
-		}
 	}
 
-    option = {
-        name = "EVTOPTA_spu_4"
-	SPU = {
-		annex_to = THIS
-	}	
-    }
+	option = {
+		name = "EVTOPTB_spu_4"
+		ai_chance = { factor = 30 }
+		prestige = -15
+		relation = {
+			who = VOP
+			value = -50
+		}
+		VOP = { country_event = 37506 }
+	}
 }
+# If Peru Accepted Help
+country_event = {
+	id = 37505
+	title = "EVTNAME_spu_5_feedback"
+	desc = "EVTDESC_spu_5_feedback"
+	picture = "peruan_union"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_5_feedback"
+		prestige = 5
+	}
+}
+
+# If Peru Refused Help
+country_event = {
+	id = 37506
+	title = "EVTNAME_spu_6_feedback"
+	desc = "EVTDESC_spu_6_feedback"
+	picture = "burning_spc"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_6_feedback"
+		prestige = -5
+	}
+}
+# If Spain accepted Peace
+country_event = {
+	id = 37507
+	title = "EVTNAME_spu_7_feedback"
+	desc = "EVTDESC_spu_7_feedback"
+	picture = "peruan_union"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_7_feedback"
+		prestige = 5
+	}
+}
+
+# If South Peru accepted Gold
+country_event = {
+	id = 37508
+	title = "EVTNAME_spu_8_feedback"
+	desc = "EVTDESC_spu_8_feedback"
+	picture = "Garrison"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_8_feedback"
+		treasury = 100000
+		prestige = 10
+	}

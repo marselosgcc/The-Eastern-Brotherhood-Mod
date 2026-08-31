@@ -1,29 +1,103 @@
 political_decisions = {
-vop_declare_independence = {
-    picture = "burning_spc"
-    potential = {
-        tag = VOP
-        NOT = { exists = SPU } 
-    }
-    allow = {
-        war = no 
-    }
-    effect = {
-        change_tag = SPU 
-        set_country_flag = spu_declared_independence
-        country_event = {
-            id = 37500
-            days = 1
-        }
-        SPC = {
-            country_event = {
-                id = 37501
-                days = 1
-            }
-        }
-    }
-    ai_will_do = {
-        factor = 1
-    }
-}
+	vop_declare_independence = {
+		picture = "burning_spc"
+		potential = {
+			tag = VOP
+			not = { has_country_flag = vop_independence_started }
+			not = { exists = SPU }
+			not = { has_global_flag = vice_reign_of_peru_reestablished }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = vop_independence_started
+			set_global_flag = spu_independence_movement_fired
+			government = prov_gov_revolution
+			country_event = { id = 37500 days = 1 }
+			SPC = {
+				country_event = { id = 37501 days = 90 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	form_southern_peru = {
+		picture = "independence_southp"
+		potential = {
+			tag = VOP
+			government = prov_gov_revolution
+			has_country_flag = spu_declared_independence
+			has_global_flag = spc_has_responded
+			not = { exists = SPU }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			change_tag = SPU
+			prestige = 3
+			government = democracy
+			relation = {
+				who = PEU
+				value = 100
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	vop_ask_for_peru_help = {
+		picture = "peruan_union"
+		potential = {
+			tag = VOP
+			has_country_flag = spu_war_with_spain
+			not = { has_country_flag = vop_asked_peru_help }
+		}
+		allow = {
+			war = yes
+		}
+		effect = {
+			set_country_flag = vop_asked_peru_help
+			PEU = { country_event = { id = 37504 days = 1 } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	peruan_union_decision = {
+		picture = "peruan_union"
+		potential = {
+			tag = PEU
+			exists = SPU
+			SPU = { ai = yes }
+			not = { has_global_flag = vice_reign_of_peru_reestablished }
+		}
+		allow = {
+			war = no
+			OR = {
+				AND = {
+					has_global_flag = south_peru_war_happened
+					has_country_flag = peru_accepted_spu
+					relation = { who = SPU value = 50 }
+				}
+				AND = {
+					not = { has_global_flag = south_peru_war_happened }
+					relation = { who = SPU value = 100 }
+				}
+			}
+		}
+		effect = {
+			SPU = {
+				annex_to = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

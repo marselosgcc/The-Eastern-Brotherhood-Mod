@@ -84,6 +84,7 @@ country_event = {
 
 	trigger = {
 		tag = URU
+		NOT = { has_country_flag = uru_dismantled }
 		NOT = {
 			owns = 2463
 			owns = 2464
@@ -93,12 +94,14 @@ country_event = {
 		}
 	}
 
-	title = "EVTNAME_spu_3"
-	desc = "EVTDESC_spu_3"
+	title = "EVTNAME_charrua_dismantlement"
+	desc = "EVTDESC_charrua_dismantlement"
 	picture = "charruan_dismantlement"
 
 	option = {
-		name = "EVTOPTA_spu_3"
+		name = "EVTOPTA_charrua_dismantlement"
+		set_country_flag = uru_dismantled
+		government = democracy
 		remove_core = 2463
 		remove_core = 2464
 		remove_core = 2465

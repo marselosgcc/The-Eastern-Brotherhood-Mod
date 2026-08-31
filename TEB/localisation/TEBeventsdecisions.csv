@@ -1,23 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 move_capital_to_rio;Move Capital to Rio de Janeiro;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 move_capital_to_rio_desc;With the end of malês war, we can move our government from São Paulo to Rio de Janeiro again and start rebuilding the city;;;;;;;;;;;;;X,,,,,,,,,,,,,,
-vop_declare_independence;Declare Independence of Southern Peru;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
-vop_declare_independence_desc;Declare independence from Spain and form the nation of Southern Peru;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
-EVTNAME_spu_1;The Independence of Southern Peru;;;;;;;;;;;;;;;
-EVTDESC_spu_1;The Viceroyalty of Peru has declared its independence and changed the name of the country to Southern Peru.;;;;;;;;;;;;;;;
-EVTNAME_spu_2;Southern Peru Declares Independence;;;;;;;;;;;;;;;
-EVTDESC_spu_2;The Vicerey of Peru has declared its independence and formed the new nation of Southern Peru. How we will respond?;;;;;;;;;;;;;;;
-EVTOPTA_spu_1;Long live Southern Peru!;;;;;;;;;;;;;;;
-EVTOPTA_spu_2;There is nothing we can do;;;;;;;;;;;;;;;
-EVTOPTB_spu_2;We will not let another liberal republic arise!;;;;;;;;;;;;;;;
-union_with_URU_title;Union with Charruan;;;;;;;;;;;;;;;
-union_with_URU_desc;As our nation finally gets its long-desired independence, we must unite with our brothers Charruans..;;;;;;;;;;;;;;;
-EVTNAME_spu_3;Dismantlement of the Charruan Confederacy;;;;;;;;;;;;;;;
-EVTDESC_spu_3;The Charruan Confederacy has been dismantled by the imperialists brazilians whom, with their superior military power, have conquered the lands of Rio Grande do Sul. The bonds within our two lands is broken, and the people have been separated.;;;;;;;;;;;;;;;
-EVTOPTA_spu_3;We lost.;;;;;;;;;;;;;;;
-EVTNAME_spu_4;Peruan Union;;;;;;;;;;;;;;;
-EVTDESC_spu_4;For how late it was, our unification with South Peru shall break the balances of the Americas, and bring power upon our nation, which is one!.;;;;;;;;;;;;;;;
-EVTOPTA_spu_4;Union!;;;;;;;;;;;;;;;
 establish_aden_protectorate_title;Establish Aden Protectorate;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 establish_aden_protectorate_desc;Since we bought the island of Socotra in 1793 and conquered the port of Aden after taking it from the Mamluks in 1823, we have always had the ambition to take Yemen, unfortunately this has not been possible until now, however, we have now managed to put a government in Mahra that serves our interests after overthrowing the Sultan, and being able to establish a protectorate and take the region in fact.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 integrate_north_yemen_title;Integrate Zaidi Imamate into Aden Protectorate;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
@@ -117,3 +100,44 @@ EVTOPTB_mam_revolt_5;Let them drift away, we have bigger issues.;;;;;;;;;;;;;;;X
 EVTOPTB_mam_revolt_6;Let them drift away, we have bigger issues.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 EVTOPTB_mam_revolt_7;Let them drift away, we have bigger issues.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
 EVTOPTB_mam_revolt_8;Let them drift away, we have bigger issues.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_declare_independence_title;Declare Revolutionary Regency;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_declare_independence_desc;Establish a provisional revolutionary government and sever colonial ties with the Carlist absolute monarchy in Madrid.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+form_southern_peru_title;Proclaim the Democratic Republic of Southern Peru;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+form_southern_peru_desc;Dissolve the provisional wartime regime and permanently establish a sovereign democratic nation in the south.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_ask_for_peru_help_title;Appeal to Northern Peru for Aid;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+vop_ask_for_peru_help_desc;Send an urgent diplomatic envoy to our brothers in the north, begging them to intervene against the Carlist invasion.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+peruan_union_decision_title;The Peruvian Unification;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+peruan_union_decision_desc;Incorporate Southern Peru into a single, unified Peruvian nation, ending the fragmentations of the old vice-reign.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_1;The Spark of Revolution;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_1;The fragment of the old Vice-Reino of Peru has finally shattered. Regional garrisons and liberal committees have declared a provisional revolutionary government in Arequipa, openly defying the absolute authority of the Carlist court in Madrid. Liberal volunteers are rushing to the barracks, preparing for the inevitable reaction from the metropole.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_1;To the barricades! Protect the provisional government!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_2;Defiance in the Americas;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_2;Disastrous news from our remaining domains in South America. The local administrators and liberal factions in Peru have seized power under a provisional revolutionary junta, rejecting the sovereign authority of our Holy Carlist Regent. This insult to the Crown cannot stand unpunished. We must decide whether to crush this uprising with our loyalist garrisons in Tacna or demand financial submission.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_2;The Americas are lost to the liberals, let them go.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTB_spu_2;We will not let another liberal republic arise! Mobilize the garrisons!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTC_spu_2;Demand an absolute financial indemnity to bleed them dry.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_3;The Ultimatum from Madrid;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_3;The Carlist court in Madrid has offered a humiliating alternative to war. They will refrain from an immediate military invasion if our provisional government signs an absolute financial indemnity, binding our national treasury to pay a crushing tribute to the Spanish Crown. Accepting this will ruin our economy for years, but refusing it means immediate Carlist troops marching from Tacna.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_3;Sign the treaty. We must buy our survival with gold.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTB_spu_3;We refuse to pay blood money to an absolute tyrant! To war!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_4;The Cry of Brotherhood;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_4;An urgent envoy from the provisional government of our brothers in the south has reached our capital. They are facing an imminent annihilation by the absolute forces of Carlist Spain marching from Tacna. They beg us to intervene in the conflict and defend the cause of American freedom. If we join them, our fates will be tied forever.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_4;We will defend our brothers! March south!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTB_spu_4;It is a dangerous conflict, we must remain neutral.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_5_feedback;Northern Peru Answers the Call!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_5_feedback;Excellent news from Lima! Our brothers in Northern Peru have recognized our plight. Rejecting the tyrannical claims of Carlist Spain, their armies have begun mobilization to cross the border and defend our revolutionary provisional government. We are no longer alone in this struggle!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_5_feedback;Brothers in arms!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_6_feedback;Lima Rejects Our Envoy;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_6_feedback;Grim news from the north. The government in Lima has officially declined our request for military intervention. Fearing a direct conflict with the Spanish Crown and prioritizing their own fragile stability, they have chosen a path of strict neutrality. We must face the Carlist legions from Tacna with our own blood.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_6_feedback;We stand alone...;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_7_feedback;Madrid Relinquishes Authority!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_7_feedback;Our diplomatic agents have confirmed that the Carlist court in Madrid has accepted our financial settlement. The gold has been drained from our national treasury and sent across the Atlantic. In exchange, the absolute monarchy has backed down, recognizing our autonomy and withholding their legions. The provisional regime has secured our survival, and the path is now open to formally proclaim our democratic state!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_7_feedback;A new era dawns for our people!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_spu_8_feedback;Colonial Gold Arrives!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_spu_8_feedback;Victory for the Crown! Our firm stance and heavy ultimatus have broken the resolve of the rebel junta in Peru. Fearing the wrath of our royalist legions in Tacna, the colonial administration has completely submitted to our financial terms, delivering a massive gold indemnity straight into our imperial treasury. Their treasury is bled dry, and our righteous rule over their economy is secured without shedding a single drop of Spanish blood.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_spu_8_feedback;Fill the imperial vaults! Long live the Regent!;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTNAME_charrua_dismantlement;Dismantlement of the Charruan Confederacy;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTDESC_charrua_dismantlement;The Charruan Confederacy has been dismantled by the imperialist Brazilians who, with their superior military power, have conquered the lands of Rio Grande do Sul. The bonds within our two lands are broken, and the people have been separated.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+EVTOPTA_charrua_dismantlement;We lost.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+union_with_URU_title;Union with Charruan;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,
+union_with_URU_desc;As our nation finally gets its long-desired independence, we must unite with our brothers Charruans.;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,

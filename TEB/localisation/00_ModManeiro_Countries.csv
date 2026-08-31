@@ -231,8 +231,9 @@ LUZ_hms_governmentPolabia;;;;;;;;;;;;x
 LUZ_fascist_dictatorship;Nová Hyperborea;;;;;;;;;;;;x
 LUZ_proletarian_dictatorship;Srbská SSR;;;;;;;;;;;;x
 URU;Charruan Confederacy;;;;;;;;;;;;x
+URU_federal_democracy;Charruan Confederacy;;;;;;;;;;;;x
 URU_ADJ;Gaucho;;;;;;;;;;;;x
-URU_democracy;Charruan Confederacy;;;;;;;;;;;;x
+URU_democracy;Cisplatina;;;;;;;;;;;;x
 URU_presidential_dictatorship;Uruguay;;;;;;;;;;;;x
 URU_bourgeois_dictatorship;Uruguay;;;;;;;;;;;;x
 URU_absolute_monarchy;Principado Oriental;;;;;;;;;;;;x
@@ -427,3 +428,4 @@ MAU_proletarian_dictatorship;Muritaniya Al-Ishtirakiyah;;;;;;;;;;;;x
 MAU_dominion;Dominion of Mauritania;;;;;;;;;;;;;x
 MAU_federal_democracy;United Provinces of Mauritania;;;;;;;;;;;;x
 MAU_theocracy;Muritaniya Al-Kuthulikiyah;;;;;;;;;;;;x
+VOP_prov_gov_revolution;Provisional Government of Peru;;;;;;;;;;;;x
