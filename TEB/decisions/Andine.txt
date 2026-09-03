@@ -4,6 +4,7 @@ political_decisions = {
 		potential = {
 			tag = VOP
 			not = { has_country_flag = vop_independence_started }
+			not = { has_country_flag = vice_reign_partially_restored }
 			not = { exists = SPU }
 			not = { has_global_flag = vice_reign_of_peru_reestablished }
 		}
@@ -14,8 +15,9 @@ political_decisions = {
 			set_country_flag = vop_independence_started
 			set_global_flag = spu_independence_movement_fired
 			government = prov_gov_revolution
-			country_event = { id = 37500 days = 1 }
+			country_event = 37500
 			SPC = {
+				release_vassal = VOP
 				country_event = { id = 37501 days = 90 }
 			}
 		}
@@ -30,8 +32,11 @@ political_decisions = {
 			tag = VOP
 			government = prov_gov_revolution
 			has_country_flag = spu_declared_independence
-			has_global_flag = spc_has_responded
 			not = { exists = SPU }
+			OR = {
+				has_global_flag = spc_has_responded
+				has_global_flag = south_peru_war_happened
+			}
 		}
 		allow = {
 			war = no
@@ -62,7 +67,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = vop_asked_peru_help
-			PEU = { country_event = { id = 37504 days = 1 } }
+			PEU = { country_event = 37504 }
 		}
 		ai_will_do = {
 			factor = 1
@@ -94,6 +99,216 @@ political_decisions = {
 		effect = {
 			SPU = {
 				annex_to = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	peu_capital_question = {
+		picture = "lima"
+		potential = {
+			OR = {
+				tag = PEU
+				tag = VOP
+			}
+			owns = 2295
+			owns = 2286
+			owns = 2290
+			not = { has_global_flag = peu_capital_question_fired }
+		}
+		allow = {
+			war = no
+			money = 10000
+		}
+		effect = {
+			money = -10000
+			set_global_flag = peu_capital_question_fired
+			country_event = 37550
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+	spu_unify_peru_decision = {
+		picture = "peruan_union"
+		potential = {
+			tag = SPU
+			exists = PEU
+			ai = no
+			PEU = { ai = yes }
+		}
+		allow = {
+			war = no
+			PEU = { war = no }
+			OR = {
+				AND = {
+					has_global_flag = south_peru_war_happened
+					has_global_flag = peru_accepted_spu
+					relation = { who = PEU value = 50 }
+				}
+				AND = {
+					not = { has_global_flag = south_peru_war_happened }
+					relation = { who = SPU value = 100 }
+				}
+			}
+		}
+		effect = {
+			country_event = 37515
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	spc_white_peace_peru = {
+		picture = "treaty"
+		potential = {
+			tag = SPC
+			exists = PEU
+			not = { has_global_flag = spain_lost_in_peru }
+			OR = {
+				war_with = PEU
+				war_with = VOP
+				war_with = SPU
+			}
+		}
+		allow = {
+			year = 1840
+			war_with = PEU
+			OR = {
+				war_with = VOP
+				war_with = SPU
+			}
+		}
+		effect = {
+			set_global_flag = spain_lost_in_peru
+			set_global_flag = spain_north_peru_peace
+			end_war = PEU
+			end_war = VOP
+			end_war = SPU
+			PEU = { country_event = 37520 }
+			VOP = { country_event = 37521 }
+			country_event = 37511
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	spc_reestablish_vice_reign = {
+		picture = "vop_restore"
+		potential = {
+			tag = SPC
+			has_global_flag = spu_independence_movement_fired
+			not = { has_global_flag = vice_reign_of_peru_reestablished }
+			OR = {
+				not = { exists = PEU }
+				not = { exists = VOP }
+				not = { exists = SPU }
+			}
+		}
+		allow = {
+			year = 1845
+			war = no
+			owns = 2578
+			owns = 2407
+			owns = 2292
+			owns = 2287
+			owns = 2308
+			owns = 2286
+			owns = 2290
+			owns = 2295
+			owns = 2294
+			owns = 2298
+			owns = 2288
+			owns = 2549
+			owns = 2300
+			owns = 2307
+			owns = 2297
+			owns = 2299
+			owns = 2296
+			owns = 2291
+			owns = 2304
+			owns = 2293
+		}
+		effect = {
+			set_global_flag = vice_reign_of_peru_reestablished
+			treasury = 200000
+			prestige = 30
+			PEU = {
+				any_core = {
+					add_core = VOP
+				}
+			}	
+			any_province = {
+				limit = {
+					OR = {
+						is_core = PEU
+						is_core = VOP
+					}
+				}
+				secede_province = VOP
+			}
+			create_vassal = VOP
+			VOP = {
+				government = dominion
+				add_country_modifier = { name = gold_rush_country duration = 1825 }
+			}
+
+			PEU = {
+				annex_to = VOP
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	spc_partial_vice_reign_restoration = {
+		picture = "vop_restore"
+		potential = {
+			tag = SPC
+			exists = PEU			
+			has_global_flag = spu_independence_movement_fired
+			not = { has_global_flag = vice_reign_of_peru_reestablished }
+			not = { has_global_flag = vice_reign_partially_restored }
+			OR = {
+				not = { exists = VOP }
+				not = { exists = SPU }
+			}
+		}
+		allow = {
+			year = 1845
+			war = no
+			owns = 2307
+			owns = 2308
+			owns = 2304
+			owns = 2578
+			owns = 2299
+			owns = 2297
+			owns = 2296
+			owns = 2295
+		}
+		effect = {
+			set_global_flag = vice_reign_partially_restored
+			treasury = 100000
+			prestige = 15
+			2307 = { add_core = VOP secede_province = VOP }
+			2308 = { add_core = VOP secede_province = VOP }
+			2304 = { add_core = VOP secede_province = VOP }
+			2578 = { add_core = VOP secede_province = VOP }
+			2299 = { add_core = VOP secede_province = VOP }
+			2297 = { add_core = VOP secede_province = VOP }
+			2296 = { add_core = VOP secede_province = VOP }
+			2295 = { add_core = VOP secede_province = VOP }
+			create_vassal = VOP			create_vassal = VOP
+			VOP = {
+				government = dominion
+				add_country_modifier = { name = gold_rush_country duration = 1825 }
 			}
 		}
 		ai_will_do = {

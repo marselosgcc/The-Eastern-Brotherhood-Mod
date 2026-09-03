@@ -1,4 +1,5 @@
 owner = EGY
+add_core = ALD
 add_core = ARU
 controller = EGY
 add_core = TUN

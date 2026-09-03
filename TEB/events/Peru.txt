@@ -1,4 +1,4 @@
-# Southern Peru Independence Chain
+# South Peru Independence Chain
 country_event = {
 	id = 37500
 	title = "EVTNAME_spu_1"
@@ -11,7 +11,6 @@ country_event = {
 		name = "EVTOPTA_spu_1"
 		set_country_flag = spu_declared_independence
 		prestige = 5
-		SPC = { release_vassal = VOP }
 		2304 = {
 			sub_unit = { type = infantry value = current }
 			sub_unit = { type = infantry value = current }
@@ -85,9 +84,10 @@ country_event = {
 	option = {
 		name = "EVTOPTC_spu_2"
 		ai_chance = { factor = 50 }
-		VOP = { country_event = { id = 37503 days = 1 } }
+		VOP = { country_event = 37503 }
 	}
 }
+
 
 # Ultimatum for VOP
 country_event = {
@@ -149,7 +149,6 @@ country_event = {
 		2578 = { change_province_control = SPC }
 	}
 }
-}
 
 # Northern Peru Intervention 
 country_event = {
@@ -165,11 +164,22 @@ country_event = {
 		ai_chance = { factor = 70 }
 		set_country_flag = peru_accepted_spu
 		alliance = VOP
-		war = {
-			target = SPC
-			attacker_goal = {
-				casus_belli = status_quo
-				country = PEU
+		SPC = {
+			war = {
+				target = PEU
+				attacker_goal = {
+					casus_belli = colonial_reconquest_cb
+					country = SPC
+				}
+			}
+		}
+		PEU = {
+			war = {
+				target = SPC
+				attacker_goal = {
+					casus_belli = status_quo
+					country = PEU
+				}
 			}
 		}
 		VOP = {
@@ -185,7 +195,6 @@ country_event = {
 	option = {
 		name = "EVTOPTB_spu_4"
 		ai_chance = { factor = 30 }
-		prestige = -15
 		relation = {
 			who = VOP
 			value = -50
@@ -193,6 +202,7 @@ country_event = {
 		VOP = { country_event = 37506 }
 	}
 }
+
 # If Peru Accepted Help
 country_event = {
 	id = 37505
@@ -222,7 +232,7 @@ country_event = {
 		prestige = -5
 	}
 }
-# If Spain accepted Peace
+
 country_event = {
 	id = 37507
 	title = "EVTNAME_spu_7_feedback"
@@ -237,7 +247,7 @@ country_event = {
 	}
 }
 
-# If South Peru accepted Gold
+# Event 8: Feedback to SPC - Received Gold
 country_event = {
 	id = 37508
 	title = "EVTNAME_spu_8_feedback"
@@ -251,3 +261,226 @@ country_event = {
 		treasury = 100000
 		prestige = 10
 	}
+}
+
+# Peru Capital Question 
+country_event = {
+	id = 37550
+	title = "EVTNAME_peu_capital_main"
+	desc = "EVTDESC_peu_capital_main"
+	picture = "lima"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_peu_capital_main"
+		ai_chance = { factor = 0.1 }
+		capital = 2290
+		2290 = { add_province_modifier = { name = baby_boom duration = 720 } }
+		any_pop = { conservative = 0.05 }
+	}
+
+	option = {
+		name = "EVTOPTB_peu_capital_main"
+		ai_chance = { factor = 0.3 }
+		capital = 2295
+		2295 = { add_province_modifier = { name = baby_boom duration = 720 } }
+		any_pop = { reactionary = 0.05 }
+	}
+
+	option = {
+		name = "EVTOPTC_peu_capital_main"
+		ai_chance = { factor = 0.3 }
+		capital = 2286
+		2286 = {
+			change_province_name = "Aurora"
+			add_province_modifier = { name = baby_boom duration = 720 }
+		}
+		any_pop = { liberal = 0.05 }
+		country_event = 37551
+	}
+}
+# Aurora
+country_event = {
+	id = 37551
+	title = "EVTNAME_aurora_investment"
+	desc = "EVTDESC_aurora_investment"
+	picture = "aurora"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_aurora_investment"
+		ai_chance = { factor = 0.2 }
+		prestige = 1
+	}
+
+	option = {
+		name = "EVTOPTB_aurora_investment"
+		ai_chance = { factor = 0.2 }
+		money = -10000
+		2286 = { add_province_modifier = { name = recently_built_city duration = 288 } }
+	}
+
+	option = {
+		name = "EVTOPTC_aurora_investment"
+		ai_chance = { factor = 0.2 }
+		money = -20000
+		2286 = { add_province_modifier = { name = recently_built_city duration = 576 } }
+	}
+
+	option = {
+		name = "EVTOPTD_aurora_investment"
+		ai_chance = { factor = 0.2 }
+		money = -30000
+		2286 = { add_province_modifier = { name = recently_built_city duration = 864 } }
+	}
+
+	option = {
+		name = "EVTOPTE_aurora_investment"
+		ai_chance = { factor = 0.1 }
+		money = -40000
+		2286 = { add_province_modifier = { name = recently_built_city duration = 1152 } }
+	}
+
+	option = {
+		name = "EVTOPTF_aurora_investment"
+		ai_chance = { factor = 0.1 }
+		money = -50000
+		2286 = { add_province_modifier = { name = recently_built_city duration = 1440 } }
+	}
+}
+
+# Spain - North-Peru Peace
+country_event = {
+	id = 37509
+	title = "EVTNAME_spu_9_peace"
+	desc = "EVTDESC_spu_9_peace"
+	picture = "Peruesclave"
+
+	trigger = {
+		tag = PEU
+		war_with = SPC
+		exists = SPU
+		SPU = { war = no }
+		has_country_flag = peru_accepted_spu
+		not = { has_country_flag = spain_north_peru_peace }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA_spu_9_peace"
+		set_country_flag = spain_north_peru_peace
+		prestige = 5
+		peace = SPC
+		SPC = { country_event = 37510 }
+	}
+}
+# If Spain didn't win
+country_event = {
+	id = 37510
+	title = "EVTNAME_spu_9_peace"
+	desc = "EVTDESC_spu_9_peace"
+	picture = "peruan_union"
+
+	trigger = {
+		tag = PEU
+		war_with = SPC
+		exists = SPU
+		SPU = { war = no }
+		has_country_flag = peru_accepted_spu
+		not = { has_country_flag = spain_north_peru_peace }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA_spu_9_peace"
+		set_country_flag = spain_north_peru_peace
+		prestige = 5
+		end_war = SPC
+		SPC = { country_event = 37511 }
+	}
+}
+
+
+country_event = {
+	id = 37511
+	title = "EVTNAME_spc_peru_lost"
+	desc = "EVTDESC_spc_peru_lost"
+	picture = "burning_spc"
+
+	trigger = {
+		tag = SPC
+		has_global_flag = spain_north_peru_peace
+		not = { has_country_flag = spain_lost_in_peru }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA_spc_peru_lost"
+		set_country_flag = spain_lost_in_peru
+		prestige = -15
+		war_exhaustion = 5
+		any_pop = { militancy = 2 }
+	}
+}
+# South Peru Unification
+country_event = {
+	id = 37515
+	title = "EVTNAME_spu_15_invert_union"
+	desc = "EVTDESC_spu_15_invert_union"
+	picture = "peruan_union"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_15_invert_union"
+		PEU = { annex_to = THIS }
+		change_tag = PEU
+		prestige = 15
+		any_country = {
+			limit = {
+				tag = LPL
+			}
+			any_owned = {
+				remove_core = PEU
+			}
+		}
+	}
+}
+country_event = {
+	id = 37520
+	title = "EVTNAME_spu_20_peu_feedback"
+	desc = "EVTDESC_spu_20_peu_feedback"
+	picture = "peruan_union"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_20_peu_feedback"
+		prestige = 5
+	}
+}
+
+country_event = {
+	id = 37521
+	title = "EVTNAME_spu_21_vop_feedback"
+	desc = "EVTDESC_spu_21_vop_feedback"
+	picture = "independence_southp"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA_spu_21_vop_feedback"
+		prestige = 5
+	}
+}
